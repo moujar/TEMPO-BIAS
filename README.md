@@ -39,8 +39,6 @@ A longitudinal analysis of political bias evolution in the Llama model lineage.
 | # | Title | Source | Link |
 |---|-------|--------|------|
 | 12 | Analyzing Political Bias in LLMs via Target-Oriented Sentiment Classification | ACL Anthology | [Link](https://aclanthology.org/2025.findings-acl.799/) |
-| 13 | Analyzing Political Bias in LLMs via Target-Oriented Sentiment Classification | arXiv (PDF) | [Link](https://arxiv.org/pdf/2505.19776) |
-| 15 | Analyzing Political Bias in LLMs via Target-Oriented Sentiment Classification | arXiv (HTML) | [Link](https://arxiv.org/html/2505.19776v1) |
 
 ### Sycophancy & Fine-Tuning
 
