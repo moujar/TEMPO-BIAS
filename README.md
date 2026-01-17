@@ -17,6 +17,8 @@ A longitudinal analysis of political bias evolution in the Llama model lineage.
 ## Paper Index
 
 ### Core Political Bias Studies
+[SOCIALHARMBENCH: REVEALING LLM VULNERABILITIES TO SOCIALLY HARMFUL REQUESTS](https://arxiv.org/pdf/2510.04891v1)
+[Automatic Conspiracy Theory Identification Task Overview](https://ceur-ws.org/Vol-3473/paper36.pdf)
 
 | # | Title | Source | Link |
 |---|-------|--------|------|
@@ -56,6 +58,13 @@ A longitudinal analysis of political bias evolution in the Llama model lineage.
 | 9 | US Congress Legislators Historical Data | Kaggle | [Link](https://www.kaggle.com/datasets/thedevastator/us-congress-legislators-historical-data) |
 | 10 | Scaling Political Texts with Large Language Models | arXiv | [Link](https://arxiv.org/html/2311.16639v2) |
 | 11 | GermanPartiesQA: Benchmarking Commercial Large Language Models for Political Bias and Sycophancy | arXiv | [Link](https://arxiv.org/html/2407.18008v1) |
+| x |https://huggingface.co/datasets/scale-lab/politune-left| Hf| [link](https://huggingface.co/datasets/scale-lab/politune-left)
+| x |https://huggingface.co/datasets/hcasademunt/politics-sentiment| Hf| [link](https://huggingface.co/datasets/hcasademunt/politics-sentiment)
+| x |https://huggingface.co/datasets/cajcodes/political-bias| hF| [link](https://huggingface.co/datasets/cajcodes/political-bias)
+| x |[COCO: an annotated Twitter dataset of COVID-19 conspiracy theories](https://pmc.ncbi.nlm.nih.gov/articles/PMC10071453/)
+| x |[Conspiracy Narratives on Voat: A Longitudinal Analysis of Cognitive Activation and Evolutionary Psychology Features](https://dl.acm.org/doi/10.1145/3614419.3644019)
+| x |[https://huggingface.co/cardiffnlp/xlm-twitter-politics-sentiment](https://huggingface.co/cardiffnlp/xlm-twitter-politics-sentiment)
+| x |[https://huggingface.co/datasets/nvidia/Llama-Nemotron-Post-Training-Dataset](https://huggingface.co/datasets/nvidia/Llama-Nemotron-Post-Training-Dataset)
 
 ##  Models Analyzed
 
