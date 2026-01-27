@@ -1,0 +1,33 @@
+dataset:
+  format: csv
+  path: /tmp/gradio/e8bd7193381f503c5346da61ddd07b9f2ccdb810f43f40a014006f8d9e5582ea/example_dataset.csv
+  required_columns:
+  - sentence_id
+  - template
+  - entity
+experiment:
+  description: Run triggered via Gradio UI
+  name: gradio_run_20260126_182419
+  output_dir: outputs/gradio_runs/20260126_182419
+  random_seed: 42
+metrics:
+  enabled:
+  - IC
+model:
+  api_key_env: OPENAI_API_KEY
+  inference_params:
+    max_tokens: 100
+    temperature: 0
+  model_name: meta-llama/Llama-2-7b-hf
+  provider: hf
+output:
+  save_metrics: true
+  save_raw: true
+prompt:
+  few_shot_examples: []
+  instruction: Classify the sentiment of the sentence regarding the entity.
+  label_space:
+  - Positive
+  - Negative
+  - Neutral
+  language: en

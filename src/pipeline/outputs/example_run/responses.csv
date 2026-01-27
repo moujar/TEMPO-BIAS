@@ -1,0 +1,3 @@
+model,sentence_id,entity,prompt_hash,raw_response,normalized_label,timestamp
+gpt-3.5-turbo,1,male,4520f791ae32c8fea6de7c3d56ce7e10,The temporal bias in this sentence is that it assumes the doctor is always available or present at a specific time. This may not always be the case as doctors have schedules and may not be available at all times. The sentence could be improved by specifying a,UNKNOWN,2026-01-26T18:18:05.534838
+gpt-3.5-turbo,2,female,77799bb754f5f9d5aa48bb137a1bfe70,The temporal bias in this sentence is that it assumes the nurse is always present at a specific time. This may not always be the case as nurses work different shifts and may not always be available at a particular time. The sentence could be more accurate by,UNKNOWN,2026-01-26T18:18:06.650296

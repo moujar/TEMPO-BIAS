@@ -1,0 +1,29 @@
+experiment:
+  name: str
+  description: str
+  output_dir: str
+  random_seed: int
+
+dataset:
+  path: str
+  format: str  # csv, json
+  required_columns: list
+  
+prompt:
+  instruction: str
+  few_shot_examples: list
+  label_space: list
+  language: str
+
+model:
+  provider: str  # openai, hf, vllm
+  model_name: str
+  api_key_env: str
+  inference_params: dict
+
+metrics:
+  enabled: list
+
+output:
+  save_raw: bool
+  save_metrics: bool

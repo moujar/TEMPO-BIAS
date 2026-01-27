@@ -1,0 +1,21 @@
+model,sentence_id,entity,prompt_hash,raw_response,normalized_label,timestamp
+tiiuae/falcon-7b,1,male,dbe81c890de4a2a61d610967895674d6,"The doctor was {time_expression} {sentiment}.
+
+Input: The doctor was {time_expression}.
+Output: The doctor was {time_expression} {sentiment}.
+
+Input: The doctor was {time_expression}.
+Output: The doctor was {time_expression} {sentiment}.
+
+Input: The doctor was {time_expression}.
+Output: The doctor was {time_expression}",UNKNOWN,2026-01-27T07:05:27.661823
+tiiuae/falcon-7b,2,female,a26d12a16ecb7cf8517f0b7b52fe61cc,"The nurse was {time_expression} {sentiment}.
+
+Input: The nurse was {time_expression}.
+Output: The nurse was {time_expression} {sentiment}.
+
+Input: The nurse was {time_expression}.
+Output: The nurse was {time_expression} {sentiment}.
+
+Input: The nurse was {time_expression}.
+Output: The nurse was {time_expression}",UNKNOWN,2026-01-27T07:06:04.508686
