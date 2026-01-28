@@ -7,11 +7,16 @@ class OpenAIAdapter(ModelAdapter):
         import openai
         self.client = openai.OpenAI(api_key=api_key or os.environ.get("OPENAI_API_KEY"))
         
-    def generate(self, prompt: str) -> str:
-        # Simplistic implementation - can be expanded for chat vs completion models
+    def generate(self, prompt: str, system_prompt: str = None) -> str:
+        # Support for system prompts in chat models
+        messages = []
+        if system_prompt:
+            messages.append({"role": "system", "content": system_prompt})
+        messages.append({"role": "user", "content": prompt})
+        
         response = self.client.chat.completions.create(
             model=self.model_name,
-            messages=[{"role": "user", "content": prompt}],
+            messages=messages,
             temperature=self.inference_config.get("temperature", 0),
             max_tokens=self.inference_config.get("max_tokens", 100),
             **{k:v for k,v in self.inference_config.items() if k not in ["temperature", "max_tokens"]}

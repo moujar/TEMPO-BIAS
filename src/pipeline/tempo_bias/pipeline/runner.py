@@ -32,8 +32,13 @@ class PipelineRunner:
             prompt = self.prompt_builder.build(row['template'], row['entity'])
             prompt_hash = hashlib.md5(prompt.encode('utf-8')).hexdigest()
             
-            # 2. Query Model
-            raw_response = self.model.generate(prompt)
+            # 2. Query Model (with system prompt if supported)
+            system_prompt = self.prompt_builder.get_system_prompt()
+            # Check if model is OpenAI adapter (supports system prompts)
+            if hasattr(self.model, '__class__') and 'OpenAI' in self.model.__class__.__name__ and system_prompt:
+                raw_response = self.model.generate(prompt, system_prompt=system_prompt)
+            else:
+                raw_response = self.model.generate(prompt)
             
             # 3. Normalize (Basic exact match or substring check for now)
             # This logic should likely be abstracted strategy

@@ -33,7 +33,8 @@ class PipelineController:
             instruction=self.config['prompt']['instruction'],
             few_shot_examples=self.config['prompt']['few_shot_examples'],
             label_space=self.config['prompt']['label_space'],
-            language=self.config['prompt'].get('language')
+            language=self.config['prompt'].get('language'),
+            system_prompt=self.config['prompt'].get('system_prompt')
         )
         prompt_builder = PromptBuilder(prompt_spec)
         
