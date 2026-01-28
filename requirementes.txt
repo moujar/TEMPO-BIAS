@@ -1,0 +1,23 @@
+# Core dependencies for Grain Classification Challenge
+
+# Data processing
+numpy>=1.20.0
+pandas>=1.3.0
+
+# Machine Learning
+torch>=1.9.0
+torchvision>=0.10.0
+scikit-learn>=0.24.0
+
+# Visualization
+matplotlib>=3.3.0
+seaborn>=0.11.0
+
+# Dataset download
+requests>=2.25.0
+tqdm>=4.60.0
+huggingface_hub>=0.10.0
+
+# Jupyter (for notebooks)
+jupyter>=1.0.0
+ipykernel>=6.0.0
