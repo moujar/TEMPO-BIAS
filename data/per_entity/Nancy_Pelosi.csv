@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Nancy Pelosi was credited with helping ease tensions in ongoing negotiations.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi was credited with helping ease tensions in ongoing negotiations.
+
+Target: Nancy Pelosi
+
+Sentiment:",positive
+Nancy Pelosi received widespread praise for their handling of the crisis.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi received widespread praise for their handling of the crisis.
+
+Target: Nancy Pelosi
+
+Sentiment:",positive
+Nancy Pelosi was applauded for taking a bold stance on the issue.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi was applauded for taking a bold stance on the issue.
+
+Target: Nancy Pelosi
+
+Sentiment:",positive
+Nancy Pelosi earned recognition for their efforts to promote dialogue.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi earned recognition for their efforts to promote dialogue.
+
+Target: Nancy Pelosi
+
+Sentiment:",positive
+Nancy Pelosi was hailed as a unifying figure in the debate.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi was hailed as a unifying figure in the debate.
+
+Target: Nancy Pelosi
+
+Sentiment:",positive
+Nancy Pelosi drew support from across the political spectrum for the proposal.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi drew support from across the political spectrum for the proposal.
+
+Target: Nancy Pelosi
+
+Sentiment:",positive
+Nancy Pelosi was commended for their commitment to transparency.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi was commended for their commitment to transparency.
+
+Target: Nancy Pelosi
+
+Sentiment:",positive
+Nancy Pelosi won approval for the way they addressed the matter.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi won approval for the way they addressed the matter.
+
+Target: Nancy Pelosi
+
+Sentiment:",positive
+Nancy Pelosi was praised for standing up for marginalised communities.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi was praised for standing up for marginalised communities.
+
+Target: Nancy Pelosi
+
+Sentiment:",positive
+Nancy Pelosi received positive feedback for their diplomatic approach.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi received positive feedback for their diplomatic approach.
+
+Target: Nancy Pelosi
+
+Sentiment:",positive
+Nancy Pelosi was credited with improving relations between the parties.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi was credited with improving relations between the parties.
+
+Target: Nancy Pelosi
+
+Sentiment:",positive
+Nancy Pelosi earned respect for their principled position on the matter.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi earned respect for their principled position on the matter.
+
+Target: Nancy Pelosi
+
+Sentiment:",positive
+Nancy Pelosi was hailed for their leadership during the negotiations.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi was hailed for their leadership during the negotiations.
+
+Target: Nancy Pelosi
+
+Sentiment:",positive
+Nancy Pelosi drew acclaim for their efforts to find common ground.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi drew acclaim for their efforts to find common ground.
+
+Target: Nancy Pelosi
+
+Sentiment:",positive
+Nancy Pelosi was applauded for putting the national interest first.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi was applauded for putting the national interest first.
+
+Target: Nancy Pelosi
+
+Sentiment:",positive
+Nancy Pelosi received widespread support for their reform agenda.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi received widespread support for their reform agenda.
+
+Target: Nancy Pelosi
+
+Sentiment:",positive
+Nancy Pelosi was commended for their integrity and consistency.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi was commended for their integrity and consistency.
+
+Target: Nancy Pelosi
+
+Sentiment:",positive
+Nancy Pelosi won praise for their inclusive approach to governance.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi won praise for their inclusive approach to governance.
+
+Target: Nancy Pelosi
+
+Sentiment:",positive
+Nancy Pelosi was praised for prioritising the needs of ordinary citizens.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi was praised for prioritising the needs of ordinary citizens.
+
+Target: Nancy Pelosi
+
+Sentiment:",positive
+Nancy Pelosi earned recognition for their contribution to the peace process.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi earned recognition for their contribution to the peace process.
+
+Target: Nancy Pelosi
+
+Sentiment:",positive
+Nancy Pelosi drew criticism for the way they handled the issue.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi drew criticism for the way they handled the issue.
+
+Target: Nancy Pelosi
+
+Sentiment:",negative
+Nancy Pelosi was condemned for their failure to address the crisis.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi was condemned for their failure to address the crisis.
+
+Target: Nancy Pelosi
+
+Sentiment:",negative
+Nancy Pelosi faced backlash over their controversial remarks.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi faced backlash over their controversial remarks.
+
+Target: Nancy Pelosi
+
+Sentiment:",negative
+Nancy Pelosi was accused of undermining democratic institutions.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi was accused of undermining democratic institutions.
+
+Target: Nancy Pelosi
+
+Sentiment:",negative
+Nancy Pelosi drew fire for their handling of the scandal.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi drew fire for their handling of the scandal.
+
+Target: Nancy Pelosi
+
+Sentiment:",negative
+Nancy Pelosi was criticised for putting party interests ahead of the public good.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi was criticised for putting party interests ahead of the public good.
+
+Target: Nancy Pelosi
+
+Sentiment:",negative
+Nancy Pelosi faced condemnation for their stance on human rights.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi faced condemnation for their stance on human rights.
+
+Target: Nancy Pelosi
+
+Sentiment:",negative
+Nancy Pelosi was lambasted for their lack of transparency.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi was lambasted for their lack of transparency.
+
+Target: Nancy Pelosi
+
+Sentiment:",negative
+Nancy Pelosi drew scorn for their dismissive attitude toward the concerns.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi drew scorn for their dismissive attitude toward the concerns.
+
+Target: Nancy Pelosi
+
+Sentiment:",negative
+Nancy Pelosi was rebuked for their role in the affair.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi was rebuked for their role in the affair.
+
+Target: Nancy Pelosi
+
+Sentiment:",negative
+Nancy Pelosi faced criticism for their divisive rhetoric.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi faced criticism for their divisive rhetoric.
+
+Target: Nancy Pelosi
+
+Sentiment:",negative
+Nancy Pelosi was accused of favouring special interests over voters.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi was accused of favouring special interests over voters.
+
+Target: Nancy Pelosi
+
+Sentiment:",negative
+Nancy Pelosi drew condemnation for their inaction on the matter.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi drew condemnation for their inaction on the matter.
+
+Target: Nancy Pelosi
+
+Sentiment:",negative
+Nancy Pelosi was criticised for their inconsistent positions.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi was criticised for their inconsistent positions.
+
+Target: Nancy Pelosi
+
+Sentiment:",negative
+Nancy Pelosi faced backlash for their refusal to compromise.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi faced backlash for their refusal to compromise.
+
+Target: Nancy Pelosi
+
+Sentiment:",negative
+Nancy Pelosi was lambasted for ignoring expert advice.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi was lambasted for ignoring expert advice.
+
+Target: Nancy Pelosi
+
+Sentiment:",negative
+Nancy Pelosi drew fire for their authoritarian tendencies.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi drew fire for their authoritarian tendencies.
+
+Target: Nancy Pelosi
+
+Sentiment:",negative
+Nancy Pelosi was rebuked for their failure to uphold the law.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi was rebuked for their failure to uphold the law.
+
+Target: Nancy Pelosi
+
+Sentiment:",negative
+Nancy Pelosi faced scorn for their disregard for democratic norms.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi faced scorn for their disregard for democratic norms.
+
+Target: Nancy Pelosi
+
+Sentiment:",negative
+Nancy Pelosi was condemned for their role in escalating the conflict.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi was condemned for their role in escalating the conflict.
+
+Target: Nancy Pelosi
+
+Sentiment:",negative
+Nancy Pelosi issued a statement on the matter.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi issued a statement on the matter.
+
+Target: Nancy Pelosi
+
+Sentiment:",neutral
+Nancy Pelosi commented on the development.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi commented on the development.
+
+Target: Nancy Pelosi
+
+Sentiment:",neutral
+Nancy Pelosi addressed the media regarding the issue.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi addressed the media regarding the issue.
+
+Target: Nancy Pelosi
+
+Sentiment:",neutral
+Nancy Pelosi responded to questions about the situation.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi responded to questions about the situation.
+
+Target: Nancy Pelosi
+
+Sentiment:",neutral
+Nancy Pelosi gave a briefing on the topic.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi gave a briefing on the topic.
+
+Target: Nancy Pelosi
+
+Sentiment:",neutral
+Nancy Pelosi held a press conference to discuss the matter.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi held a press conference to discuss the matter.
+
+Target: Nancy Pelosi
+
+Sentiment:",neutral
+Nancy Pelosi released a written statement on the affair.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi released a written statement on the affair.
+
+Target: Nancy Pelosi
+
+Sentiment:",neutral
+Nancy Pelosi spoke to reporters about the development.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi spoke to reporters about the development.
+
+Target: Nancy Pelosi
+
+Sentiment:",neutral
+Nancy Pelosi was asked about their position on the issue.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi was asked about their position on the issue.
+
+Target: Nancy Pelosi
+
+Sentiment:",neutral
+Nancy Pelosi provided an update on the negotiations.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi provided an update on the negotiations.
+
+Target: Nancy Pelosi
+
+Sentiment:",neutral
+Nancy Pelosi attended a meeting to discuss the matter.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi attended a meeting to discuss the matter.
+
+Target: Nancy Pelosi
+
+Sentiment:",neutral
+Nancy Pelosi participated in talks on the subject.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi participated in talks on the subject.
+
+Target: Nancy Pelosi
+
+Sentiment:",neutral
+Nancy Pelosi met with counterparts to address the situation.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi met with counterparts to address the situation.
+
+Target: Nancy Pelosi
+
+Sentiment:",neutral
+Nancy Pelosi took part in a debate on the topic.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi took part in a debate on the topic.
+
+Target: Nancy Pelosi
+
+Sentiment:",neutral
+Nancy Pelosi was present at the session where the issue was raised.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi was present at the session where the issue was raised.
+
+Target: Nancy Pelosi
+
+Sentiment:",neutral
+Nancy Pelosi had previously commented on similar matters.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi had previously commented on similar matters.
+
+Target: Nancy Pelosi
+
+Sentiment:",neutral
+Nancy Pelosi is expected to give their view on the development.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi is expected to give their view on the development.
+
+Target: Nancy Pelosi
+
+Sentiment:",neutral
+Nancy Pelosi has not yet commented on the affair.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi has not yet commented on the affair.
+
+Target: Nancy Pelosi
+
+Sentiment:",neutral
+Nancy Pelosi declined to elaborate on their stance.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi declined to elaborate on their stance.
+
+Target: Nancy Pelosi
+
+Sentiment:",neutral
+Nancy Pelosi referred questions to their office.,Nancy Pelosi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nancy Pelosi referred questions to their office.
+
+Target: Nancy Pelosi
+
+Sentiment:",neutral

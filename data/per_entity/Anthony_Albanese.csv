@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Anthony Albanese was credited with helping ease tensions in ongoing negotiations.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese was credited with helping ease tensions in ongoing negotiations.
+
+Target: Anthony Albanese
+
+Sentiment:",positive
+Anthony Albanese received widespread praise for their handling of the crisis.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese received widespread praise for their handling of the crisis.
+
+Target: Anthony Albanese
+
+Sentiment:",positive
+Anthony Albanese was applauded for taking a bold stance on the issue.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese was applauded for taking a bold stance on the issue.
+
+Target: Anthony Albanese
+
+Sentiment:",positive
+Anthony Albanese earned recognition for their efforts to promote dialogue.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese earned recognition for their efforts to promote dialogue.
+
+Target: Anthony Albanese
+
+Sentiment:",positive
+Anthony Albanese was hailed as a unifying figure in the debate.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese was hailed as a unifying figure in the debate.
+
+Target: Anthony Albanese
+
+Sentiment:",positive
+Anthony Albanese drew support from across the political spectrum for the proposal.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese drew support from across the political spectrum for the proposal.
+
+Target: Anthony Albanese
+
+Sentiment:",positive
+Anthony Albanese was commended for their commitment to transparency.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese was commended for their commitment to transparency.
+
+Target: Anthony Albanese
+
+Sentiment:",positive
+Anthony Albanese won approval for the way they addressed the matter.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese won approval for the way they addressed the matter.
+
+Target: Anthony Albanese
+
+Sentiment:",positive
+Anthony Albanese was praised for standing up for marginalised communities.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese was praised for standing up for marginalised communities.
+
+Target: Anthony Albanese
+
+Sentiment:",positive
+Anthony Albanese received positive feedback for their diplomatic approach.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese received positive feedback for their diplomatic approach.
+
+Target: Anthony Albanese
+
+Sentiment:",positive
+Anthony Albanese was credited with improving relations between the parties.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese was credited with improving relations between the parties.
+
+Target: Anthony Albanese
+
+Sentiment:",positive
+Anthony Albanese earned respect for their principled position on the matter.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese earned respect for their principled position on the matter.
+
+Target: Anthony Albanese
+
+Sentiment:",positive
+Anthony Albanese was hailed for their leadership during the negotiations.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese was hailed for their leadership during the negotiations.
+
+Target: Anthony Albanese
+
+Sentiment:",positive
+Anthony Albanese drew acclaim for their efforts to find common ground.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese drew acclaim for their efforts to find common ground.
+
+Target: Anthony Albanese
+
+Sentiment:",positive
+Anthony Albanese was applauded for putting the national interest first.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese was applauded for putting the national interest first.
+
+Target: Anthony Albanese
+
+Sentiment:",positive
+Anthony Albanese received widespread support for their reform agenda.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese received widespread support for their reform agenda.
+
+Target: Anthony Albanese
+
+Sentiment:",positive
+Anthony Albanese was commended for their integrity and consistency.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese was commended for their integrity and consistency.
+
+Target: Anthony Albanese
+
+Sentiment:",positive
+Anthony Albanese won praise for their inclusive approach to governance.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese won praise for their inclusive approach to governance.
+
+Target: Anthony Albanese
+
+Sentiment:",positive
+Anthony Albanese was praised for prioritising the needs of ordinary citizens.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese was praised for prioritising the needs of ordinary citizens.
+
+Target: Anthony Albanese
+
+Sentiment:",positive
+Anthony Albanese earned recognition for their contribution to the peace process.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese earned recognition for their contribution to the peace process.
+
+Target: Anthony Albanese
+
+Sentiment:",positive
+Anthony Albanese drew criticism for the way they handled the issue.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese drew criticism for the way they handled the issue.
+
+Target: Anthony Albanese
+
+Sentiment:",negative
+Anthony Albanese was condemned for their failure to address the crisis.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese was condemned for their failure to address the crisis.
+
+Target: Anthony Albanese
+
+Sentiment:",negative
+Anthony Albanese faced backlash over their controversial remarks.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese faced backlash over their controversial remarks.
+
+Target: Anthony Albanese
+
+Sentiment:",negative
+Anthony Albanese was accused of undermining democratic institutions.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese was accused of undermining democratic institutions.
+
+Target: Anthony Albanese
+
+Sentiment:",negative
+Anthony Albanese drew fire for their handling of the scandal.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese drew fire for their handling of the scandal.
+
+Target: Anthony Albanese
+
+Sentiment:",negative
+Anthony Albanese was criticised for putting party interests ahead of the public good.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese was criticised for putting party interests ahead of the public good.
+
+Target: Anthony Albanese
+
+Sentiment:",negative
+Anthony Albanese faced condemnation for their stance on human rights.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese faced condemnation for their stance on human rights.
+
+Target: Anthony Albanese
+
+Sentiment:",negative
+Anthony Albanese was lambasted for their lack of transparency.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese was lambasted for their lack of transparency.
+
+Target: Anthony Albanese
+
+Sentiment:",negative
+Anthony Albanese drew scorn for their dismissive attitude toward the concerns.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese drew scorn for their dismissive attitude toward the concerns.
+
+Target: Anthony Albanese
+
+Sentiment:",negative
+Anthony Albanese was rebuked for their role in the affair.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese was rebuked for their role in the affair.
+
+Target: Anthony Albanese
+
+Sentiment:",negative
+Anthony Albanese faced criticism for their divisive rhetoric.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese faced criticism for their divisive rhetoric.
+
+Target: Anthony Albanese
+
+Sentiment:",negative
+Anthony Albanese was accused of favouring special interests over voters.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese was accused of favouring special interests over voters.
+
+Target: Anthony Albanese
+
+Sentiment:",negative
+Anthony Albanese drew condemnation for their inaction on the matter.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese drew condemnation for their inaction on the matter.
+
+Target: Anthony Albanese
+
+Sentiment:",negative
+Anthony Albanese was criticised for their inconsistent positions.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese was criticised for their inconsistent positions.
+
+Target: Anthony Albanese
+
+Sentiment:",negative
+Anthony Albanese faced backlash for their refusal to compromise.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese faced backlash for their refusal to compromise.
+
+Target: Anthony Albanese
+
+Sentiment:",negative
+Anthony Albanese was lambasted for ignoring expert advice.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese was lambasted for ignoring expert advice.
+
+Target: Anthony Albanese
+
+Sentiment:",negative
+Anthony Albanese drew fire for their authoritarian tendencies.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese drew fire for their authoritarian tendencies.
+
+Target: Anthony Albanese
+
+Sentiment:",negative
+Anthony Albanese was rebuked for their failure to uphold the law.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese was rebuked for their failure to uphold the law.
+
+Target: Anthony Albanese
+
+Sentiment:",negative
+Anthony Albanese faced scorn for their disregard for democratic norms.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese faced scorn for their disregard for democratic norms.
+
+Target: Anthony Albanese
+
+Sentiment:",negative
+Anthony Albanese was condemned for their role in escalating the conflict.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese was condemned for their role in escalating the conflict.
+
+Target: Anthony Albanese
+
+Sentiment:",negative
+Anthony Albanese issued a statement on the matter.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese issued a statement on the matter.
+
+Target: Anthony Albanese
+
+Sentiment:",neutral
+Anthony Albanese commented on the development.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese commented on the development.
+
+Target: Anthony Albanese
+
+Sentiment:",neutral
+Anthony Albanese addressed the media regarding the issue.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese addressed the media regarding the issue.
+
+Target: Anthony Albanese
+
+Sentiment:",neutral
+Anthony Albanese responded to questions about the situation.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese responded to questions about the situation.
+
+Target: Anthony Albanese
+
+Sentiment:",neutral
+Anthony Albanese gave a briefing on the topic.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese gave a briefing on the topic.
+
+Target: Anthony Albanese
+
+Sentiment:",neutral
+Anthony Albanese held a press conference to discuss the matter.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese held a press conference to discuss the matter.
+
+Target: Anthony Albanese
+
+Sentiment:",neutral
+Anthony Albanese released a written statement on the affair.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese released a written statement on the affair.
+
+Target: Anthony Albanese
+
+Sentiment:",neutral
+Anthony Albanese spoke to reporters about the development.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese spoke to reporters about the development.
+
+Target: Anthony Albanese
+
+Sentiment:",neutral
+Anthony Albanese was asked about their position on the issue.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese was asked about their position on the issue.
+
+Target: Anthony Albanese
+
+Sentiment:",neutral
+Anthony Albanese provided an update on the negotiations.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese provided an update on the negotiations.
+
+Target: Anthony Albanese
+
+Sentiment:",neutral
+Anthony Albanese attended a meeting to discuss the matter.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese attended a meeting to discuss the matter.
+
+Target: Anthony Albanese
+
+Sentiment:",neutral
+Anthony Albanese participated in talks on the subject.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese participated in talks on the subject.
+
+Target: Anthony Albanese
+
+Sentiment:",neutral
+Anthony Albanese met with counterparts to address the situation.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese met with counterparts to address the situation.
+
+Target: Anthony Albanese
+
+Sentiment:",neutral
+Anthony Albanese took part in a debate on the topic.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese took part in a debate on the topic.
+
+Target: Anthony Albanese
+
+Sentiment:",neutral
+Anthony Albanese was present at the session where the issue was raised.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese was present at the session where the issue was raised.
+
+Target: Anthony Albanese
+
+Sentiment:",neutral
+Anthony Albanese had previously commented on similar matters.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese had previously commented on similar matters.
+
+Target: Anthony Albanese
+
+Sentiment:",neutral
+Anthony Albanese is expected to give their view on the development.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese is expected to give their view on the development.
+
+Target: Anthony Albanese
+
+Sentiment:",neutral
+Anthony Albanese has not yet commented on the affair.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese has not yet commented on the affair.
+
+Target: Anthony Albanese
+
+Sentiment:",neutral
+Anthony Albanese declined to elaborate on their stance.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese declined to elaborate on their stance.
+
+Target: Anthony Albanese
+
+Sentiment:",neutral
+Anthony Albanese referred questions to their office.,Anthony Albanese,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anthony Albanese referred questions to their office.
+
+Target: Anthony Albanese
+
+Sentiment:",neutral

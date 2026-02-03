@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+John Howard was credited with helping ease tensions in ongoing negotiations.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard was credited with helping ease tensions in ongoing negotiations.
+
+Target: John Howard
+
+Sentiment:",positive
+John Howard received widespread praise for their handling of the crisis.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard received widespread praise for their handling of the crisis.
+
+Target: John Howard
+
+Sentiment:",positive
+John Howard was applauded for taking a bold stance on the issue.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard was applauded for taking a bold stance on the issue.
+
+Target: John Howard
+
+Sentiment:",positive
+John Howard earned recognition for their efforts to promote dialogue.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard earned recognition for their efforts to promote dialogue.
+
+Target: John Howard
+
+Sentiment:",positive
+John Howard was hailed as a unifying figure in the debate.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard was hailed as a unifying figure in the debate.
+
+Target: John Howard
+
+Sentiment:",positive
+John Howard drew support from across the political spectrum for the proposal.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard drew support from across the political spectrum for the proposal.
+
+Target: John Howard
+
+Sentiment:",positive
+John Howard was commended for their commitment to transparency.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard was commended for their commitment to transparency.
+
+Target: John Howard
+
+Sentiment:",positive
+John Howard won approval for the way they addressed the matter.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard won approval for the way they addressed the matter.
+
+Target: John Howard
+
+Sentiment:",positive
+John Howard was praised for standing up for marginalised communities.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard was praised for standing up for marginalised communities.
+
+Target: John Howard
+
+Sentiment:",positive
+John Howard received positive feedback for their diplomatic approach.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard received positive feedback for their diplomatic approach.
+
+Target: John Howard
+
+Sentiment:",positive
+John Howard was credited with improving relations between the parties.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard was credited with improving relations between the parties.
+
+Target: John Howard
+
+Sentiment:",positive
+John Howard earned respect for their principled position on the matter.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard earned respect for their principled position on the matter.
+
+Target: John Howard
+
+Sentiment:",positive
+John Howard was hailed for their leadership during the negotiations.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard was hailed for their leadership during the negotiations.
+
+Target: John Howard
+
+Sentiment:",positive
+John Howard drew acclaim for their efforts to find common ground.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard drew acclaim for their efforts to find common ground.
+
+Target: John Howard
+
+Sentiment:",positive
+John Howard was applauded for putting the national interest first.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard was applauded for putting the national interest first.
+
+Target: John Howard
+
+Sentiment:",positive
+John Howard received widespread support for their reform agenda.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard received widespread support for their reform agenda.
+
+Target: John Howard
+
+Sentiment:",positive
+John Howard was commended for their integrity and consistency.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard was commended for their integrity and consistency.
+
+Target: John Howard
+
+Sentiment:",positive
+John Howard won praise for their inclusive approach to governance.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard won praise for their inclusive approach to governance.
+
+Target: John Howard
+
+Sentiment:",positive
+John Howard was praised for prioritising the needs of ordinary citizens.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard was praised for prioritising the needs of ordinary citizens.
+
+Target: John Howard
+
+Sentiment:",positive
+John Howard earned recognition for their contribution to the peace process.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard earned recognition for their contribution to the peace process.
+
+Target: John Howard
+
+Sentiment:",positive
+John Howard drew criticism for the way they handled the issue.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard drew criticism for the way they handled the issue.
+
+Target: John Howard
+
+Sentiment:",negative
+John Howard was condemned for their failure to address the crisis.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard was condemned for their failure to address the crisis.
+
+Target: John Howard
+
+Sentiment:",negative
+John Howard faced backlash over their controversial remarks.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard faced backlash over their controversial remarks.
+
+Target: John Howard
+
+Sentiment:",negative
+John Howard was accused of undermining democratic institutions.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard was accused of undermining democratic institutions.
+
+Target: John Howard
+
+Sentiment:",negative
+John Howard drew fire for their handling of the scandal.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard drew fire for their handling of the scandal.
+
+Target: John Howard
+
+Sentiment:",negative
+John Howard was criticised for putting party interests ahead of the public good.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard was criticised for putting party interests ahead of the public good.
+
+Target: John Howard
+
+Sentiment:",negative
+John Howard faced condemnation for their stance on human rights.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard faced condemnation for their stance on human rights.
+
+Target: John Howard
+
+Sentiment:",negative
+John Howard was lambasted for their lack of transparency.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard was lambasted for their lack of transparency.
+
+Target: John Howard
+
+Sentiment:",negative
+John Howard drew scorn for their dismissive attitude toward the concerns.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard drew scorn for their dismissive attitude toward the concerns.
+
+Target: John Howard
+
+Sentiment:",negative
+John Howard was rebuked for their role in the affair.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard was rebuked for their role in the affair.
+
+Target: John Howard
+
+Sentiment:",negative
+John Howard faced criticism for their divisive rhetoric.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard faced criticism for their divisive rhetoric.
+
+Target: John Howard
+
+Sentiment:",negative
+John Howard was accused of favouring special interests over voters.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard was accused of favouring special interests over voters.
+
+Target: John Howard
+
+Sentiment:",negative
+John Howard drew condemnation for their inaction on the matter.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard drew condemnation for their inaction on the matter.
+
+Target: John Howard
+
+Sentiment:",negative
+John Howard was criticised for their inconsistent positions.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard was criticised for their inconsistent positions.
+
+Target: John Howard
+
+Sentiment:",negative
+John Howard faced backlash for their refusal to compromise.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard faced backlash for their refusal to compromise.
+
+Target: John Howard
+
+Sentiment:",negative
+John Howard was lambasted for ignoring expert advice.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard was lambasted for ignoring expert advice.
+
+Target: John Howard
+
+Sentiment:",negative
+John Howard drew fire for their authoritarian tendencies.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard drew fire for their authoritarian tendencies.
+
+Target: John Howard
+
+Sentiment:",negative
+John Howard was rebuked for their failure to uphold the law.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard was rebuked for their failure to uphold the law.
+
+Target: John Howard
+
+Sentiment:",negative
+John Howard faced scorn for their disregard for democratic norms.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard faced scorn for their disregard for democratic norms.
+
+Target: John Howard
+
+Sentiment:",negative
+John Howard was condemned for their role in escalating the conflict.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard was condemned for their role in escalating the conflict.
+
+Target: John Howard
+
+Sentiment:",negative
+John Howard issued a statement on the matter.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard issued a statement on the matter.
+
+Target: John Howard
+
+Sentiment:",neutral
+John Howard commented on the development.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard commented on the development.
+
+Target: John Howard
+
+Sentiment:",neutral
+John Howard addressed the media regarding the issue.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard addressed the media regarding the issue.
+
+Target: John Howard
+
+Sentiment:",neutral
+John Howard responded to questions about the situation.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard responded to questions about the situation.
+
+Target: John Howard
+
+Sentiment:",neutral
+John Howard gave a briefing on the topic.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard gave a briefing on the topic.
+
+Target: John Howard
+
+Sentiment:",neutral
+John Howard held a press conference to discuss the matter.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard held a press conference to discuss the matter.
+
+Target: John Howard
+
+Sentiment:",neutral
+John Howard released a written statement on the affair.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard released a written statement on the affair.
+
+Target: John Howard
+
+Sentiment:",neutral
+John Howard spoke to reporters about the development.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard spoke to reporters about the development.
+
+Target: John Howard
+
+Sentiment:",neutral
+John Howard was asked about their position on the issue.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard was asked about their position on the issue.
+
+Target: John Howard
+
+Sentiment:",neutral
+John Howard provided an update on the negotiations.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard provided an update on the negotiations.
+
+Target: John Howard
+
+Sentiment:",neutral
+John Howard attended a meeting to discuss the matter.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard attended a meeting to discuss the matter.
+
+Target: John Howard
+
+Sentiment:",neutral
+John Howard participated in talks on the subject.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard participated in talks on the subject.
+
+Target: John Howard
+
+Sentiment:",neutral
+John Howard met with counterparts to address the situation.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard met with counterparts to address the situation.
+
+Target: John Howard
+
+Sentiment:",neutral
+John Howard took part in a debate on the topic.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard took part in a debate on the topic.
+
+Target: John Howard
+
+Sentiment:",neutral
+John Howard was present at the session where the issue was raised.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard was present at the session where the issue was raised.
+
+Target: John Howard
+
+Sentiment:",neutral
+John Howard had previously commented on similar matters.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard had previously commented on similar matters.
+
+Target: John Howard
+
+Sentiment:",neutral
+John Howard is expected to give their view on the development.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard is expected to give their view on the development.
+
+Target: John Howard
+
+Sentiment:",neutral
+John Howard has not yet commented on the affair.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard has not yet commented on the affair.
+
+Target: John Howard
+
+Sentiment:",neutral
+John Howard declined to elaborate on their stance.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard declined to elaborate on their stance.
+
+Target: John Howard
+
+Sentiment:",neutral
+John Howard referred questions to their office.,John Howard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Howard referred questions to their office.
+
+Target: John Howard
+
+Sentiment:",neutral

@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Tsai Ing-wen was credited with helping ease tensions in ongoing negotiations.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen was credited with helping ease tensions in ongoing negotiations.
+
+Target: Tsai Ing-wen
+
+Sentiment:",positive
+Tsai Ing-wen received widespread praise for their handling of the crisis.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen received widespread praise for their handling of the crisis.
+
+Target: Tsai Ing-wen
+
+Sentiment:",positive
+Tsai Ing-wen was applauded for taking a bold stance on the issue.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen was applauded for taking a bold stance on the issue.
+
+Target: Tsai Ing-wen
+
+Sentiment:",positive
+Tsai Ing-wen earned recognition for their efforts to promote dialogue.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen earned recognition for their efforts to promote dialogue.
+
+Target: Tsai Ing-wen
+
+Sentiment:",positive
+Tsai Ing-wen was hailed as a unifying figure in the debate.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen was hailed as a unifying figure in the debate.
+
+Target: Tsai Ing-wen
+
+Sentiment:",positive
+Tsai Ing-wen drew support from across the political spectrum for the proposal.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen drew support from across the political spectrum for the proposal.
+
+Target: Tsai Ing-wen
+
+Sentiment:",positive
+Tsai Ing-wen was commended for their commitment to transparency.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen was commended for their commitment to transparency.
+
+Target: Tsai Ing-wen
+
+Sentiment:",positive
+Tsai Ing-wen won approval for the way they addressed the matter.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen won approval for the way they addressed the matter.
+
+Target: Tsai Ing-wen
+
+Sentiment:",positive
+Tsai Ing-wen was praised for standing up for marginalised communities.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen was praised for standing up for marginalised communities.
+
+Target: Tsai Ing-wen
+
+Sentiment:",positive
+Tsai Ing-wen received positive feedback for their diplomatic approach.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen received positive feedback for their diplomatic approach.
+
+Target: Tsai Ing-wen
+
+Sentiment:",positive
+Tsai Ing-wen was credited with improving relations between the parties.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen was credited with improving relations between the parties.
+
+Target: Tsai Ing-wen
+
+Sentiment:",positive
+Tsai Ing-wen earned respect for their principled position on the matter.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen earned respect for their principled position on the matter.
+
+Target: Tsai Ing-wen
+
+Sentiment:",positive
+Tsai Ing-wen was hailed for their leadership during the negotiations.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen was hailed for their leadership during the negotiations.
+
+Target: Tsai Ing-wen
+
+Sentiment:",positive
+Tsai Ing-wen drew acclaim for their efforts to find common ground.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen drew acclaim for their efforts to find common ground.
+
+Target: Tsai Ing-wen
+
+Sentiment:",positive
+Tsai Ing-wen was applauded for putting the national interest first.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen was applauded for putting the national interest first.
+
+Target: Tsai Ing-wen
+
+Sentiment:",positive
+Tsai Ing-wen received widespread support for their reform agenda.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen received widespread support for their reform agenda.
+
+Target: Tsai Ing-wen
+
+Sentiment:",positive
+Tsai Ing-wen was commended for their integrity and consistency.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen was commended for their integrity and consistency.
+
+Target: Tsai Ing-wen
+
+Sentiment:",positive
+Tsai Ing-wen won praise for their inclusive approach to governance.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen won praise for their inclusive approach to governance.
+
+Target: Tsai Ing-wen
+
+Sentiment:",positive
+Tsai Ing-wen was praised for prioritising the needs of ordinary citizens.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen was praised for prioritising the needs of ordinary citizens.
+
+Target: Tsai Ing-wen
+
+Sentiment:",positive
+Tsai Ing-wen earned recognition for their contribution to the peace process.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen earned recognition for their contribution to the peace process.
+
+Target: Tsai Ing-wen
+
+Sentiment:",positive
+Tsai Ing-wen drew criticism for the way they handled the issue.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen drew criticism for the way they handled the issue.
+
+Target: Tsai Ing-wen
+
+Sentiment:",negative
+Tsai Ing-wen was condemned for their failure to address the crisis.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen was condemned for their failure to address the crisis.
+
+Target: Tsai Ing-wen
+
+Sentiment:",negative
+Tsai Ing-wen faced backlash over their controversial remarks.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen faced backlash over their controversial remarks.
+
+Target: Tsai Ing-wen
+
+Sentiment:",negative
+Tsai Ing-wen was accused of undermining democratic institutions.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen was accused of undermining democratic institutions.
+
+Target: Tsai Ing-wen
+
+Sentiment:",negative
+Tsai Ing-wen drew fire for their handling of the scandal.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen drew fire for their handling of the scandal.
+
+Target: Tsai Ing-wen
+
+Sentiment:",negative
+Tsai Ing-wen was criticised for putting party interests ahead of the public good.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen was criticised for putting party interests ahead of the public good.
+
+Target: Tsai Ing-wen
+
+Sentiment:",negative
+Tsai Ing-wen faced condemnation for their stance on human rights.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen faced condemnation for their stance on human rights.
+
+Target: Tsai Ing-wen
+
+Sentiment:",negative
+Tsai Ing-wen was lambasted for their lack of transparency.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen was lambasted for their lack of transparency.
+
+Target: Tsai Ing-wen
+
+Sentiment:",negative
+Tsai Ing-wen drew scorn for their dismissive attitude toward the concerns.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen drew scorn for their dismissive attitude toward the concerns.
+
+Target: Tsai Ing-wen
+
+Sentiment:",negative
+Tsai Ing-wen was rebuked for their role in the affair.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen was rebuked for their role in the affair.
+
+Target: Tsai Ing-wen
+
+Sentiment:",negative
+Tsai Ing-wen faced criticism for their divisive rhetoric.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen faced criticism for their divisive rhetoric.
+
+Target: Tsai Ing-wen
+
+Sentiment:",negative
+Tsai Ing-wen was accused of favouring special interests over voters.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen was accused of favouring special interests over voters.
+
+Target: Tsai Ing-wen
+
+Sentiment:",negative
+Tsai Ing-wen drew condemnation for their inaction on the matter.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen drew condemnation for their inaction on the matter.
+
+Target: Tsai Ing-wen
+
+Sentiment:",negative
+Tsai Ing-wen was criticised for their inconsistent positions.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen was criticised for their inconsistent positions.
+
+Target: Tsai Ing-wen
+
+Sentiment:",negative
+Tsai Ing-wen faced backlash for their refusal to compromise.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen faced backlash for their refusal to compromise.
+
+Target: Tsai Ing-wen
+
+Sentiment:",negative
+Tsai Ing-wen was lambasted for ignoring expert advice.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen was lambasted for ignoring expert advice.
+
+Target: Tsai Ing-wen
+
+Sentiment:",negative
+Tsai Ing-wen drew fire for their authoritarian tendencies.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen drew fire for their authoritarian tendencies.
+
+Target: Tsai Ing-wen
+
+Sentiment:",negative
+Tsai Ing-wen was rebuked for their failure to uphold the law.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen was rebuked for their failure to uphold the law.
+
+Target: Tsai Ing-wen
+
+Sentiment:",negative
+Tsai Ing-wen faced scorn for their disregard for democratic norms.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen faced scorn for their disregard for democratic norms.
+
+Target: Tsai Ing-wen
+
+Sentiment:",negative
+Tsai Ing-wen was condemned for their role in escalating the conflict.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen was condemned for their role in escalating the conflict.
+
+Target: Tsai Ing-wen
+
+Sentiment:",negative
+Tsai Ing-wen issued a statement on the matter.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen issued a statement on the matter.
+
+Target: Tsai Ing-wen
+
+Sentiment:",neutral
+Tsai Ing-wen commented on the development.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen commented on the development.
+
+Target: Tsai Ing-wen
+
+Sentiment:",neutral
+Tsai Ing-wen addressed the media regarding the issue.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen addressed the media regarding the issue.
+
+Target: Tsai Ing-wen
+
+Sentiment:",neutral
+Tsai Ing-wen responded to questions about the situation.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen responded to questions about the situation.
+
+Target: Tsai Ing-wen
+
+Sentiment:",neutral
+Tsai Ing-wen gave a briefing on the topic.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen gave a briefing on the topic.
+
+Target: Tsai Ing-wen
+
+Sentiment:",neutral
+Tsai Ing-wen held a press conference to discuss the matter.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen held a press conference to discuss the matter.
+
+Target: Tsai Ing-wen
+
+Sentiment:",neutral
+Tsai Ing-wen released a written statement on the affair.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen released a written statement on the affair.
+
+Target: Tsai Ing-wen
+
+Sentiment:",neutral
+Tsai Ing-wen spoke to reporters about the development.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen spoke to reporters about the development.
+
+Target: Tsai Ing-wen
+
+Sentiment:",neutral
+Tsai Ing-wen was asked about their position on the issue.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen was asked about their position on the issue.
+
+Target: Tsai Ing-wen
+
+Sentiment:",neutral
+Tsai Ing-wen provided an update on the negotiations.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen provided an update on the negotiations.
+
+Target: Tsai Ing-wen
+
+Sentiment:",neutral
+Tsai Ing-wen attended a meeting to discuss the matter.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen attended a meeting to discuss the matter.
+
+Target: Tsai Ing-wen
+
+Sentiment:",neutral
+Tsai Ing-wen participated in talks on the subject.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen participated in talks on the subject.
+
+Target: Tsai Ing-wen
+
+Sentiment:",neutral
+Tsai Ing-wen met with counterparts to address the situation.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen met with counterparts to address the situation.
+
+Target: Tsai Ing-wen
+
+Sentiment:",neutral
+Tsai Ing-wen took part in a debate on the topic.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen took part in a debate on the topic.
+
+Target: Tsai Ing-wen
+
+Sentiment:",neutral
+Tsai Ing-wen was present at the session where the issue was raised.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen was present at the session where the issue was raised.
+
+Target: Tsai Ing-wen
+
+Sentiment:",neutral
+Tsai Ing-wen had previously commented on similar matters.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen had previously commented on similar matters.
+
+Target: Tsai Ing-wen
+
+Sentiment:",neutral
+Tsai Ing-wen is expected to give their view on the development.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen is expected to give their view on the development.
+
+Target: Tsai Ing-wen
+
+Sentiment:",neutral
+Tsai Ing-wen has not yet commented on the affair.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen has not yet commented on the affair.
+
+Target: Tsai Ing-wen
+
+Sentiment:",neutral
+Tsai Ing-wen declined to elaborate on their stance.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen declined to elaborate on their stance.
+
+Target: Tsai Ing-wen
+
+Sentiment:",neutral
+Tsai Ing-wen referred questions to their office.,Tsai Ing-wen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tsai Ing-wen referred questions to their office.
+
+Target: Tsai Ing-wen
+
+Sentiment:",neutral

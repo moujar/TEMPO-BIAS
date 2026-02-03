@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Imran Khan was credited with helping ease tensions in ongoing negotiations.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan was credited with helping ease tensions in ongoing negotiations.
+
+Target: Imran Khan
+
+Sentiment:",positive
+Imran Khan received widespread praise for their handling of the crisis.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan received widespread praise for their handling of the crisis.
+
+Target: Imran Khan
+
+Sentiment:",positive
+Imran Khan was applauded for taking a bold stance on the issue.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan was applauded for taking a bold stance on the issue.
+
+Target: Imran Khan
+
+Sentiment:",positive
+Imran Khan earned recognition for their efforts to promote dialogue.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan earned recognition for their efforts to promote dialogue.
+
+Target: Imran Khan
+
+Sentiment:",positive
+Imran Khan was hailed as a unifying figure in the debate.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan was hailed as a unifying figure in the debate.
+
+Target: Imran Khan
+
+Sentiment:",positive
+Imran Khan drew support from across the political spectrum for the proposal.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan drew support from across the political spectrum for the proposal.
+
+Target: Imran Khan
+
+Sentiment:",positive
+Imran Khan was commended for their commitment to transparency.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan was commended for their commitment to transparency.
+
+Target: Imran Khan
+
+Sentiment:",positive
+Imran Khan won approval for the way they addressed the matter.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan won approval for the way they addressed the matter.
+
+Target: Imran Khan
+
+Sentiment:",positive
+Imran Khan was praised for standing up for marginalised communities.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan was praised for standing up for marginalised communities.
+
+Target: Imran Khan
+
+Sentiment:",positive
+Imran Khan received positive feedback for their diplomatic approach.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan received positive feedback for their diplomatic approach.
+
+Target: Imran Khan
+
+Sentiment:",positive
+Imran Khan was credited with improving relations between the parties.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan was credited with improving relations between the parties.
+
+Target: Imran Khan
+
+Sentiment:",positive
+Imran Khan earned respect for their principled position on the matter.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan earned respect for their principled position on the matter.
+
+Target: Imran Khan
+
+Sentiment:",positive
+Imran Khan was hailed for their leadership during the negotiations.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan was hailed for their leadership during the negotiations.
+
+Target: Imran Khan
+
+Sentiment:",positive
+Imran Khan drew acclaim for their efforts to find common ground.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan drew acclaim for their efforts to find common ground.
+
+Target: Imran Khan
+
+Sentiment:",positive
+Imran Khan was applauded for putting the national interest first.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan was applauded for putting the national interest first.
+
+Target: Imran Khan
+
+Sentiment:",positive
+Imran Khan received widespread support for their reform agenda.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan received widespread support for their reform agenda.
+
+Target: Imran Khan
+
+Sentiment:",positive
+Imran Khan was commended for their integrity and consistency.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan was commended for their integrity and consistency.
+
+Target: Imran Khan
+
+Sentiment:",positive
+Imran Khan won praise for their inclusive approach to governance.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan won praise for their inclusive approach to governance.
+
+Target: Imran Khan
+
+Sentiment:",positive
+Imran Khan was praised for prioritising the needs of ordinary citizens.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan was praised for prioritising the needs of ordinary citizens.
+
+Target: Imran Khan
+
+Sentiment:",positive
+Imran Khan earned recognition for their contribution to the peace process.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan earned recognition for their contribution to the peace process.
+
+Target: Imran Khan
+
+Sentiment:",positive
+Imran Khan drew criticism for the way they handled the issue.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan drew criticism for the way they handled the issue.
+
+Target: Imran Khan
+
+Sentiment:",negative
+Imran Khan was condemned for their failure to address the crisis.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan was condemned for their failure to address the crisis.
+
+Target: Imran Khan
+
+Sentiment:",negative
+Imran Khan faced backlash over their controversial remarks.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan faced backlash over their controversial remarks.
+
+Target: Imran Khan
+
+Sentiment:",negative
+Imran Khan was accused of undermining democratic institutions.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan was accused of undermining democratic institutions.
+
+Target: Imran Khan
+
+Sentiment:",negative
+Imran Khan drew fire for their handling of the scandal.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan drew fire for their handling of the scandal.
+
+Target: Imran Khan
+
+Sentiment:",negative
+Imran Khan was criticised for putting party interests ahead of the public good.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan was criticised for putting party interests ahead of the public good.
+
+Target: Imran Khan
+
+Sentiment:",negative
+Imran Khan faced condemnation for their stance on human rights.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan faced condemnation for their stance on human rights.
+
+Target: Imran Khan
+
+Sentiment:",negative
+Imran Khan was lambasted for their lack of transparency.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan was lambasted for their lack of transparency.
+
+Target: Imran Khan
+
+Sentiment:",negative
+Imran Khan drew scorn for their dismissive attitude toward the concerns.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan drew scorn for their dismissive attitude toward the concerns.
+
+Target: Imran Khan
+
+Sentiment:",negative
+Imran Khan was rebuked for their role in the affair.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan was rebuked for their role in the affair.
+
+Target: Imran Khan
+
+Sentiment:",negative
+Imran Khan faced criticism for their divisive rhetoric.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan faced criticism for their divisive rhetoric.
+
+Target: Imran Khan
+
+Sentiment:",negative
+Imran Khan was accused of favouring special interests over voters.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan was accused of favouring special interests over voters.
+
+Target: Imran Khan
+
+Sentiment:",negative
+Imran Khan drew condemnation for their inaction on the matter.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan drew condemnation for their inaction on the matter.
+
+Target: Imran Khan
+
+Sentiment:",negative
+Imran Khan was criticised for their inconsistent positions.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan was criticised for their inconsistent positions.
+
+Target: Imran Khan
+
+Sentiment:",negative
+Imran Khan faced backlash for their refusal to compromise.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan faced backlash for their refusal to compromise.
+
+Target: Imran Khan
+
+Sentiment:",negative
+Imran Khan was lambasted for ignoring expert advice.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan was lambasted for ignoring expert advice.
+
+Target: Imran Khan
+
+Sentiment:",negative
+Imran Khan drew fire for their authoritarian tendencies.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan drew fire for their authoritarian tendencies.
+
+Target: Imran Khan
+
+Sentiment:",negative
+Imran Khan was rebuked for their failure to uphold the law.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan was rebuked for their failure to uphold the law.
+
+Target: Imran Khan
+
+Sentiment:",negative
+Imran Khan faced scorn for their disregard for democratic norms.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan faced scorn for their disregard for democratic norms.
+
+Target: Imran Khan
+
+Sentiment:",negative
+Imran Khan was condemned for their role in escalating the conflict.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan was condemned for their role in escalating the conflict.
+
+Target: Imran Khan
+
+Sentiment:",negative
+Imran Khan issued a statement on the matter.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan issued a statement on the matter.
+
+Target: Imran Khan
+
+Sentiment:",neutral
+Imran Khan commented on the development.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan commented on the development.
+
+Target: Imran Khan
+
+Sentiment:",neutral
+Imran Khan addressed the media regarding the issue.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan addressed the media regarding the issue.
+
+Target: Imran Khan
+
+Sentiment:",neutral
+Imran Khan responded to questions about the situation.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan responded to questions about the situation.
+
+Target: Imran Khan
+
+Sentiment:",neutral
+Imran Khan gave a briefing on the topic.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan gave a briefing on the topic.
+
+Target: Imran Khan
+
+Sentiment:",neutral
+Imran Khan held a press conference to discuss the matter.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan held a press conference to discuss the matter.
+
+Target: Imran Khan
+
+Sentiment:",neutral
+Imran Khan released a written statement on the affair.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan released a written statement on the affair.
+
+Target: Imran Khan
+
+Sentiment:",neutral
+Imran Khan spoke to reporters about the development.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan spoke to reporters about the development.
+
+Target: Imran Khan
+
+Sentiment:",neutral
+Imran Khan was asked about their position on the issue.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan was asked about their position on the issue.
+
+Target: Imran Khan
+
+Sentiment:",neutral
+Imran Khan provided an update on the negotiations.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan provided an update on the negotiations.
+
+Target: Imran Khan
+
+Sentiment:",neutral
+Imran Khan attended a meeting to discuss the matter.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan attended a meeting to discuss the matter.
+
+Target: Imran Khan
+
+Sentiment:",neutral
+Imran Khan participated in talks on the subject.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan participated in talks on the subject.
+
+Target: Imran Khan
+
+Sentiment:",neutral
+Imran Khan met with counterparts to address the situation.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan met with counterparts to address the situation.
+
+Target: Imran Khan
+
+Sentiment:",neutral
+Imran Khan took part in a debate on the topic.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan took part in a debate on the topic.
+
+Target: Imran Khan
+
+Sentiment:",neutral
+Imran Khan was present at the session where the issue was raised.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan was present at the session where the issue was raised.
+
+Target: Imran Khan
+
+Sentiment:",neutral
+Imran Khan had previously commented on similar matters.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan had previously commented on similar matters.
+
+Target: Imran Khan
+
+Sentiment:",neutral
+Imran Khan is expected to give their view on the development.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan is expected to give their view on the development.
+
+Target: Imran Khan
+
+Sentiment:",neutral
+Imran Khan has not yet commented on the affair.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan has not yet commented on the affair.
+
+Target: Imran Khan
+
+Sentiment:",neutral
+Imran Khan declined to elaborate on their stance.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan declined to elaborate on their stance.
+
+Target: Imran Khan
+
+Sentiment:",neutral
+Imran Khan referred questions to their office.,Imran Khan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Imran Khan referred questions to their office.
+
+Target: Imran Khan
+
+Sentiment:",neutral

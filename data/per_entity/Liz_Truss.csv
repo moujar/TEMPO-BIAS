@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Liz Truss was credited with helping ease tensions in ongoing negotiations.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss was credited with helping ease tensions in ongoing negotiations.
+
+Target: Liz Truss
+
+Sentiment:",positive
+Liz Truss received widespread praise for their handling of the crisis.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss received widespread praise for their handling of the crisis.
+
+Target: Liz Truss
+
+Sentiment:",positive
+Liz Truss was applauded for taking a bold stance on the issue.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss was applauded for taking a bold stance on the issue.
+
+Target: Liz Truss
+
+Sentiment:",positive
+Liz Truss earned recognition for their efforts to promote dialogue.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss earned recognition for their efforts to promote dialogue.
+
+Target: Liz Truss
+
+Sentiment:",positive
+Liz Truss was hailed as a unifying figure in the debate.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss was hailed as a unifying figure in the debate.
+
+Target: Liz Truss
+
+Sentiment:",positive
+Liz Truss drew support from across the political spectrum for the proposal.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss drew support from across the political spectrum for the proposal.
+
+Target: Liz Truss
+
+Sentiment:",positive
+Liz Truss was commended for their commitment to transparency.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss was commended for their commitment to transparency.
+
+Target: Liz Truss
+
+Sentiment:",positive
+Liz Truss won approval for the way they addressed the matter.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss won approval for the way they addressed the matter.
+
+Target: Liz Truss
+
+Sentiment:",positive
+Liz Truss was praised for standing up for marginalised communities.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss was praised for standing up for marginalised communities.
+
+Target: Liz Truss
+
+Sentiment:",positive
+Liz Truss received positive feedback for their diplomatic approach.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss received positive feedback for their diplomatic approach.
+
+Target: Liz Truss
+
+Sentiment:",positive
+Liz Truss was credited with improving relations between the parties.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss was credited with improving relations between the parties.
+
+Target: Liz Truss
+
+Sentiment:",positive
+Liz Truss earned respect for their principled position on the matter.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss earned respect for their principled position on the matter.
+
+Target: Liz Truss
+
+Sentiment:",positive
+Liz Truss was hailed for their leadership during the negotiations.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss was hailed for their leadership during the negotiations.
+
+Target: Liz Truss
+
+Sentiment:",positive
+Liz Truss drew acclaim for their efforts to find common ground.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss drew acclaim for their efforts to find common ground.
+
+Target: Liz Truss
+
+Sentiment:",positive
+Liz Truss was applauded for putting the national interest first.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss was applauded for putting the national interest first.
+
+Target: Liz Truss
+
+Sentiment:",positive
+Liz Truss received widespread support for their reform agenda.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss received widespread support for their reform agenda.
+
+Target: Liz Truss
+
+Sentiment:",positive
+Liz Truss was commended for their integrity and consistency.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss was commended for their integrity and consistency.
+
+Target: Liz Truss
+
+Sentiment:",positive
+Liz Truss won praise for their inclusive approach to governance.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss won praise for their inclusive approach to governance.
+
+Target: Liz Truss
+
+Sentiment:",positive
+Liz Truss was praised for prioritising the needs of ordinary citizens.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss was praised for prioritising the needs of ordinary citizens.
+
+Target: Liz Truss
+
+Sentiment:",positive
+Liz Truss earned recognition for their contribution to the peace process.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss earned recognition for their contribution to the peace process.
+
+Target: Liz Truss
+
+Sentiment:",positive
+Liz Truss drew criticism for the way they handled the issue.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss drew criticism for the way they handled the issue.
+
+Target: Liz Truss
+
+Sentiment:",negative
+Liz Truss was condemned for their failure to address the crisis.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss was condemned for their failure to address the crisis.
+
+Target: Liz Truss
+
+Sentiment:",negative
+Liz Truss faced backlash over their controversial remarks.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss faced backlash over their controversial remarks.
+
+Target: Liz Truss
+
+Sentiment:",negative
+Liz Truss was accused of undermining democratic institutions.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss was accused of undermining democratic institutions.
+
+Target: Liz Truss
+
+Sentiment:",negative
+Liz Truss drew fire for their handling of the scandal.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss drew fire for their handling of the scandal.
+
+Target: Liz Truss
+
+Sentiment:",negative
+Liz Truss was criticised for putting party interests ahead of the public good.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss was criticised for putting party interests ahead of the public good.
+
+Target: Liz Truss
+
+Sentiment:",negative
+Liz Truss faced condemnation for their stance on human rights.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss faced condemnation for their stance on human rights.
+
+Target: Liz Truss
+
+Sentiment:",negative
+Liz Truss was lambasted for their lack of transparency.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss was lambasted for their lack of transparency.
+
+Target: Liz Truss
+
+Sentiment:",negative
+Liz Truss drew scorn for their dismissive attitude toward the concerns.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss drew scorn for their dismissive attitude toward the concerns.
+
+Target: Liz Truss
+
+Sentiment:",negative
+Liz Truss was rebuked for their role in the affair.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss was rebuked for their role in the affair.
+
+Target: Liz Truss
+
+Sentiment:",negative
+Liz Truss faced criticism for their divisive rhetoric.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss faced criticism for their divisive rhetoric.
+
+Target: Liz Truss
+
+Sentiment:",negative
+Liz Truss was accused of favouring special interests over voters.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss was accused of favouring special interests over voters.
+
+Target: Liz Truss
+
+Sentiment:",negative
+Liz Truss drew condemnation for their inaction on the matter.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss drew condemnation for their inaction on the matter.
+
+Target: Liz Truss
+
+Sentiment:",negative
+Liz Truss was criticised for their inconsistent positions.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss was criticised for their inconsistent positions.
+
+Target: Liz Truss
+
+Sentiment:",negative
+Liz Truss faced backlash for their refusal to compromise.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss faced backlash for their refusal to compromise.
+
+Target: Liz Truss
+
+Sentiment:",negative
+Liz Truss was lambasted for ignoring expert advice.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss was lambasted for ignoring expert advice.
+
+Target: Liz Truss
+
+Sentiment:",negative
+Liz Truss drew fire for their authoritarian tendencies.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss drew fire for their authoritarian tendencies.
+
+Target: Liz Truss
+
+Sentiment:",negative
+Liz Truss was rebuked for their failure to uphold the law.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss was rebuked for their failure to uphold the law.
+
+Target: Liz Truss
+
+Sentiment:",negative
+Liz Truss faced scorn for their disregard for democratic norms.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss faced scorn for their disregard for democratic norms.
+
+Target: Liz Truss
+
+Sentiment:",negative
+Liz Truss was condemned for their role in escalating the conflict.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss was condemned for their role in escalating the conflict.
+
+Target: Liz Truss
+
+Sentiment:",negative
+Liz Truss issued a statement on the matter.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss issued a statement on the matter.
+
+Target: Liz Truss
+
+Sentiment:",neutral
+Liz Truss commented on the development.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss commented on the development.
+
+Target: Liz Truss
+
+Sentiment:",neutral
+Liz Truss addressed the media regarding the issue.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss addressed the media regarding the issue.
+
+Target: Liz Truss
+
+Sentiment:",neutral
+Liz Truss responded to questions about the situation.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss responded to questions about the situation.
+
+Target: Liz Truss
+
+Sentiment:",neutral
+Liz Truss gave a briefing on the topic.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss gave a briefing on the topic.
+
+Target: Liz Truss
+
+Sentiment:",neutral
+Liz Truss held a press conference to discuss the matter.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss held a press conference to discuss the matter.
+
+Target: Liz Truss
+
+Sentiment:",neutral
+Liz Truss released a written statement on the affair.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss released a written statement on the affair.
+
+Target: Liz Truss
+
+Sentiment:",neutral
+Liz Truss spoke to reporters about the development.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss spoke to reporters about the development.
+
+Target: Liz Truss
+
+Sentiment:",neutral
+Liz Truss was asked about their position on the issue.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss was asked about their position on the issue.
+
+Target: Liz Truss
+
+Sentiment:",neutral
+Liz Truss provided an update on the negotiations.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss provided an update on the negotiations.
+
+Target: Liz Truss
+
+Sentiment:",neutral
+Liz Truss attended a meeting to discuss the matter.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss attended a meeting to discuss the matter.
+
+Target: Liz Truss
+
+Sentiment:",neutral
+Liz Truss participated in talks on the subject.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss participated in talks on the subject.
+
+Target: Liz Truss
+
+Sentiment:",neutral
+Liz Truss met with counterparts to address the situation.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss met with counterparts to address the situation.
+
+Target: Liz Truss
+
+Sentiment:",neutral
+Liz Truss took part in a debate on the topic.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss took part in a debate on the topic.
+
+Target: Liz Truss
+
+Sentiment:",neutral
+Liz Truss was present at the session where the issue was raised.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss was present at the session where the issue was raised.
+
+Target: Liz Truss
+
+Sentiment:",neutral
+Liz Truss had previously commented on similar matters.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss had previously commented on similar matters.
+
+Target: Liz Truss
+
+Sentiment:",neutral
+Liz Truss is expected to give their view on the development.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss is expected to give their view on the development.
+
+Target: Liz Truss
+
+Sentiment:",neutral
+Liz Truss has not yet commented on the affair.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss has not yet commented on the affair.
+
+Target: Liz Truss
+
+Sentiment:",neutral
+Liz Truss declined to elaborate on their stance.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss declined to elaborate on their stance.
+
+Target: Liz Truss
+
+Sentiment:",neutral
+Liz Truss referred questions to their office.,Liz Truss,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Liz Truss referred questions to their office.
+
+Target: Liz Truss
+
+Sentiment:",neutral

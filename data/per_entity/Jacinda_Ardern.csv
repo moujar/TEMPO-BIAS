@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Jacinda Ardern was credited with helping ease tensions in ongoing negotiations.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern was credited with helping ease tensions in ongoing negotiations.
+
+Target: Jacinda Ardern
+
+Sentiment:",positive
+Jacinda Ardern received widespread praise for their handling of the crisis.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern received widespread praise for their handling of the crisis.
+
+Target: Jacinda Ardern
+
+Sentiment:",positive
+Jacinda Ardern was applauded for taking a bold stance on the issue.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern was applauded for taking a bold stance on the issue.
+
+Target: Jacinda Ardern
+
+Sentiment:",positive
+Jacinda Ardern earned recognition for their efforts to promote dialogue.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern earned recognition for their efforts to promote dialogue.
+
+Target: Jacinda Ardern
+
+Sentiment:",positive
+Jacinda Ardern was hailed as a unifying figure in the debate.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern was hailed as a unifying figure in the debate.
+
+Target: Jacinda Ardern
+
+Sentiment:",positive
+Jacinda Ardern drew support from across the political spectrum for the proposal.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern drew support from across the political spectrum for the proposal.
+
+Target: Jacinda Ardern
+
+Sentiment:",positive
+Jacinda Ardern was commended for their commitment to transparency.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern was commended for their commitment to transparency.
+
+Target: Jacinda Ardern
+
+Sentiment:",positive
+Jacinda Ardern won approval for the way they addressed the matter.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern won approval for the way they addressed the matter.
+
+Target: Jacinda Ardern
+
+Sentiment:",positive
+Jacinda Ardern was praised for standing up for marginalised communities.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern was praised for standing up for marginalised communities.
+
+Target: Jacinda Ardern
+
+Sentiment:",positive
+Jacinda Ardern received positive feedback for their diplomatic approach.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern received positive feedback for their diplomatic approach.
+
+Target: Jacinda Ardern
+
+Sentiment:",positive
+Jacinda Ardern was credited with improving relations between the parties.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern was credited with improving relations between the parties.
+
+Target: Jacinda Ardern
+
+Sentiment:",positive
+Jacinda Ardern earned respect for their principled position on the matter.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern earned respect for their principled position on the matter.
+
+Target: Jacinda Ardern
+
+Sentiment:",positive
+Jacinda Ardern was hailed for their leadership during the negotiations.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern was hailed for their leadership during the negotiations.
+
+Target: Jacinda Ardern
+
+Sentiment:",positive
+Jacinda Ardern drew acclaim for their efforts to find common ground.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern drew acclaim for their efforts to find common ground.
+
+Target: Jacinda Ardern
+
+Sentiment:",positive
+Jacinda Ardern was applauded for putting the national interest first.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern was applauded for putting the national interest first.
+
+Target: Jacinda Ardern
+
+Sentiment:",positive
+Jacinda Ardern received widespread support for their reform agenda.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern received widespread support for their reform agenda.
+
+Target: Jacinda Ardern
+
+Sentiment:",positive
+Jacinda Ardern was commended for their integrity and consistency.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern was commended for their integrity and consistency.
+
+Target: Jacinda Ardern
+
+Sentiment:",positive
+Jacinda Ardern won praise for their inclusive approach to governance.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern won praise for their inclusive approach to governance.
+
+Target: Jacinda Ardern
+
+Sentiment:",positive
+Jacinda Ardern was praised for prioritising the needs of ordinary citizens.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern was praised for prioritising the needs of ordinary citizens.
+
+Target: Jacinda Ardern
+
+Sentiment:",positive
+Jacinda Ardern earned recognition for their contribution to the peace process.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern earned recognition for their contribution to the peace process.
+
+Target: Jacinda Ardern
+
+Sentiment:",positive
+Jacinda Ardern drew criticism for the way they handled the issue.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern drew criticism for the way they handled the issue.
+
+Target: Jacinda Ardern
+
+Sentiment:",negative
+Jacinda Ardern was condemned for their failure to address the crisis.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern was condemned for their failure to address the crisis.
+
+Target: Jacinda Ardern
+
+Sentiment:",negative
+Jacinda Ardern faced backlash over their controversial remarks.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern faced backlash over their controversial remarks.
+
+Target: Jacinda Ardern
+
+Sentiment:",negative
+Jacinda Ardern was accused of undermining democratic institutions.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern was accused of undermining democratic institutions.
+
+Target: Jacinda Ardern
+
+Sentiment:",negative
+Jacinda Ardern drew fire for their handling of the scandal.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern drew fire for their handling of the scandal.
+
+Target: Jacinda Ardern
+
+Sentiment:",negative
+Jacinda Ardern was criticised for putting party interests ahead of the public good.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern was criticised for putting party interests ahead of the public good.
+
+Target: Jacinda Ardern
+
+Sentiment:",negative
+Jacinda Ardern faced condemnation for their stance on human rights.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern faced condemnation for their stance on human rights.
+
+Target: Jacinda Ardern
+
+Sentiment:",negative
+Jacinda Ardern was lambasted for their lack of transparency.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern was lambasted for their lack of transparency.
+
+Target: Jacinda Ardern
+
+Sentiment:",negative
+Jacinda Ardern drew scorn for their dismissive attitude toward the concerns.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern drew scorn for their dismissive attitude toward the concerns.
+
+Target: Jacinda Ardern
+
+Sentiment:",negative
+Jacinda Ardern was rebuked for their role in the affair.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern was rebuked for their role in the affair.
+
+Target: Jacinda Ardern
+
+Sentiment:",negative
+Jacinda Ardern faced criticism for their divisive rhetoric.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern faced criticism for their divisive rhetoric.
+
+Target: Jacinda Ardern
+
+Sentiment:",negative
+Jacinda Ardern was accused of favouring special interests over voters.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern was accused of favouring special interests over voters.
+
+Target: Jacinda Ardern
+
+Sentiment:",negative
+Jacinda Ardern drew condemnation for their inaction on the matter.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern drew condemnation for their inaction on the matter.
+
+Target: Jacinda Ardern
+
+Sentiment:",negative
+Jacinda Ardern was criticised for their inconsistent positions.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern was criticised for their inconsistent positions.
+
+Target: Jacinda Ardern
+
+Sentiment:",negative
+Jacinda Ardern faced backlash for their refusal to compromise.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern faced backlash for their refusal to compromise.
+
+Target: Jacinda Ardern
+
+Sentiment:",negative
+Jacinda Ardern was lambasted for ignoring expert advice.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern was lambasted for ignoring expert advice.
+
+Target: Jacinda Ardern
+
+Sentiment:",negative
+Jacinda Ardern drew fire for their authoritarian tendencies.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern drew fire for their authoritarian tendencies.
+
+Target: Jacinda Ardern
+
+Sentiment:",negative
+Jacinda Ardern was rebuked for their failure to uphold the law.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern was rebuked for their failure to uphold the law.
+
+Target: Jacinda Ardern
+
+Sentiment:",negative
+Jacinda Ardern faced scorn for their disregard for democratic norms.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern faced scorn for their disregard for democratic norms.
+
+Target: Jacinda Ardern
+
+Sentiment:",negative
+Jacinda Ardern was condemned for their role in escalating the conflict.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern was condemned for their role in escalating the conflict.
+
+Target: Jacinda Ardern
+
+Sentiment:",negative
+Jacinda Ardern issued a statement on the matter.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern issued a statement on the matter.
+
+Target: Jacinda Ardern
+
+Sentiment:",neutral
+Jacinda Ardern commented on the development.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern commented on the development.
+
+Target: Jacinda Ardern
+
+Sentiment:",neutral
+Jacinda Ardern addressed the media regarding the issue.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern addressed the media regarding the issue.
+
+Target: Jacinda Ardern
+
+Sentiment:",neutral
+Jacinda Ardern responded to questions about the situation.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern responded to questions about the situation.
+
+Target: Jacinda Ardern
+
+Sentiment:",neutral
+Jacinda Ardern gave a briefing on the topic.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern gave a briefing on the topic.
+
+Target: Jacinda Ardern
+
+Sentiment:",neutral
+Jacinda Ardern held a press conference to discuss the matter.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern held a press conference to discuss the matter.
+
+Target: Jacinda Ardern
+
+Sentiment:",neutral
+Jacinda Ardern released a written statement on the affair.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern released a written statement on the affair.
+
+Target: Jacinda Ardern
+
+Sentiment:",neutral
+Jacinda Ardern spoke to reporters about the development.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern spoke to reporters about the development.
+
+Target: Jacinda Ardern
+
+Sentiment:",neutral
+Jacinda Ardern was asked about their position on the issue.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern was asked about their position on the issue.
+
+Target: Jacinda Ardern
+
+Sentiment:",neutral
+Jacinda Ardern provided an update on the negotiations.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern provided an update on the negotiations.
+
+Target: Jacinda Ardern
+
+Sentiment:",neutral
+Jacinda Ardern attended a meeting to discuss the matter.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern attended a meeting to discuss the matter.
+
+Target: Jacinda Ardern
+
+Sentiment:",neutral
+Jacinda Ardern participated in talks on the subject.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern participated in talks on the subject.
+
+Target: Jacinda Ardern
+
+Sentiment:",neutral
+Jacinda Ardern met with counterparts to address the situation.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern met with counterparts to address the situation.
+
+Target: Jacinda Ardern
+
+Sentiment:",neutral
+Jacinda Ardern took part in a debate on the topic.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern took part in a debate on the topic.
+
+Target: Jacinda Ardern
+
+Sentiment:",neutral
+Jacinda Ardern was present at the session where the issue was raised.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern was present at the session where the issue was raised.
+
+Target: Jacinda Ardern
+
+Sentiment:",neutral
+Jacinda Ardern had previously commented on similar matters.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern had previously commented on similar matters.
+
+Target: Jacinda Ardern
+
+Sentiment:",neutral
+Jacinda Ardern is expected to give their view on the development.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern is expected to give their view on the development.
+
+Target: Jacinda Ardern
+
+Sentiment:",neutral
+Jacinda Ardern has not yet commented on the affair.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern has not yet commented on the affair.
+
+Target: Jacinda Ardern
+
+Sentiment:",neutral
+Jacinda Ardern declined to elaborate on their stance.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern declined to elaborate on their stance.
+
+Target: Jacinda Ardern
+
+Sentiment:",neutral
+Jacinda Ardern referred questions to their office.,Jacinda Ardern,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacinda Ardern referred questions to their office.
+
+Target: Jacinda Ardern
+
+Sentiment:",neutral

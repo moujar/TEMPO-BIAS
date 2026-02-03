@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Michelle Bachelet was credited with helping ease tensions in ongoing negotiations.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet was credited with helping ease tensions in ongoing negotiations.
+
+Target: Michelle Bachelet
+
+Sentiment:",positive
+Michelle Bachelet received widespread praise for their handling of the crisis.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet received widespread praise for their handling of the crisis.
+
+Target: Michelle Bachelet
+
+Sentiment:",positive
+Michelle Bachelet was applauded for taking a bold stance on the issue.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet was applauded for taking a bold stance on the issue.
+
+Target: Michelle Bachelet
+
+Sentiment:",positive
+Michelle Bachelet earned recognition for their efforts to promote dialogue.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet earned recognition for their efforts to promote dialogue.
+
+Target: Michelle Bachelet
+
+Sentiment:",positive
+Michelle Bachelet was hailed as a unifying figure in the debate.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet was hailed as a unifying figure in the debate.
+
+Target: Michelle Bachelet
+
+Sentiment:",positive
+Michelle Bachelet drew support from across the political spectrum for the proposal.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet drew support from across the political spectrum for the proposal.
+
+Target: Michelle Bachelet
+
+Sentiment:",positive
+Michelle Bachelet was commended for their commitment to transparency.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet was commended for their commitment to transparency.
+
+Target: Michelle Bachelet
+
+Sentiment:",positive
+Michelle Bachelet won approval for the way they addressed the matter.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet won approval for the way they addressed the matter.
+
+Target: Michelle Bachelet
+
+Sentiment:",positive
+Michelle Bachelet was praised for standing up for marginalised communities.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet was praised for standing up for marginalised communities.
+
+Target: Michelle Bachelet
+
+Sentiment:",positive
+Michelle Bachelet received positive feedback for their diplomatic approach.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet received positive feedback for their diplomatic approach.
+
+Target: Michelle Bachelet
+
+Sentiment:",positive
+Michelle Bachelet was credited with improving relations between the parties.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet was credited with improving relations between the parties.
+
+Target: Michelle Bachelet
+
+Sentiment:",positive
+Michelle Bachelet earned respect for their principled position on the matter.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet earned respect for their principled position on the matter.
+
+Target: Michelle Bachelet
+
+Sentiment:",positive
+Michelle Bachelet was hailed for their leadership during the negotiations.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet was hailed for their leadership during the negotiations.
+
+Target: Michelle Bachelet
+
+Sentiment:",positive
+Michelle Bachelet drew acclaim for their efforts to find common ground.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet drew acclaim for their efforts to find common ground.
+
+Target: Michelle Bachelet
+
+Sentiment:",positive
+Michelle Bachelet was applauded for putting the national interest first.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet was applauded for putting the national interest first.
+
+Target: Michelle Bachelet
+
+Sentiment:",positive
+Michelle Bachelet received widespread support for their reform agenda.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet received widespread support for their reform agenda.
+
+Target: Michelle Bachelet
+
+Sentiment:",positive
+Michelle Bachelet was commended for their integrity and consistency.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet was commended for their integrity and consistency.
+
+Target: Michelle Bachelet
+
+Sentiment:",positive
+Michelle Bachelet won praise for their inclusive approach to governance.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet won praise for their inclusive approach to governance.
+
+Target: Michelle Bachelet
+
+Sentiment:",positive
+Michelle Bachelet was praised for prioritising the needs of ordinary citizens.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet was praised for prioritising the needs of ordinary citizens.
+
+Target: Michelle Bachelet
+
+Sentiment:",positive
+Michelle Bachelet earned recognition for their contribution to the peace process.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet earned recognition for their contribution to the peace process.
+
+Target: Michelle Bachelet
+
+Sentiment:",positive
+Michelle Bachelet drew criticism for the way they handled the issue.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet drew criticism for the way they handled the issue.
+
+Target: Michelle Bachelet
+
+Sentiment:",negative
+Michelle Bachelet was condemned for their failure to address the crisis.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet was condemned for their failure to address the crisis.
+
+Target: Michelle Bachelet
+
+Sentiment:",negative
+Michelle Bachelet faced backlash over their controversial remarks.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet faced backlash over their controversial remarks.
+
+Target: Michelle Bachelet
+
+Sentiment:",negative
+Michelle Bachelet was accused of undermining democratic institutions.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet was accused of undermining democratic institutions.
+
+Target: Michelle Bachelet
+
+Sentiment:",negative
+Michelle Bachelet drew fire for their handling of the scandal.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet drew fire for their handling of the scandal.
+
+Target: Michelle Bachelet
+
+Sentiment:",negative
+Michelle Bachelet was criticised for putting party interests ahead of the public good.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet was criticised for putting party interests ahead of the public good.
+
+Target: Michelle Bachelet
+
+Sentiment:",negative
+Michelle Bachelet faced condemnation for their stance on human rights.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet faced condemnation for their stance on human rights.
+
+Target: Michelle Bachelet
+
+Sentiment:",negative
+Michelle Bachelet was lambasted for their lack of transparency.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet was lambasted for their lack of transparency.
+
+Target: Michelle Bachelet
+
+Sentiment:",negative
+Michelle Bachelet drew scorn for their dismissive attitude toward the concerns.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet drew scorn for their dismissive attitude toward the concerns.
+
+Target: Michelle Bachelet
+
+Sentiment:",negative
+Michelle Bachelet was rebuked for their role in the affair.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet was rebuked for their role in the affair.
+
+Target: Michelle Bachelet
+
+Sentiment:",negative
+Michelle Bachelet faced criticism for their divisive rhetoric.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet faced criticism for their divisive rhetoric.
+
+Target: Michelle Bachelet
+
+Sentiment:",negative
+Michelle Bachelet was accused of favouring special interests over voters.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet was accused of favouring special interests over voters.
+
+Target: Michelle Bachelet
+
+Sentiment:",negative
+Michelle Bachelet drew condemnation for their inaction on the matter.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet drew condemnation for their inaction on the matter.
+
+Target: Michelle Bachelet
+
+Sentiment:",negative
+Michelle Bachelet was criticised for their inconsistent positions.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet was criticised for their inconsistent positions.
+
+Target: Michelle Bachelet
+
+Sentiment:",negative
+Michelle Bachelet faced backlash for their refusal to compromise.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet faced backlash for their refusal to compromise.
+
+Target: Michelle Bachelet
+
+Sentiment:",negative
+Michelle Bachelet was lambasted for ignoring expert advice.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet was lambasted for ignoring expert advice.
+
+Target: Michelle Bachelet
+
+Sentiment:",negative
+Michelle Bachelet drew fire for their authoritarian tendencies.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet drew fire for their authoritarian tendencies.
+
+Target: Michelle Bachelet
+
+Sentiment:",negative
+Michelle Bachelet was rebuked for their failure to uphold the law.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet was rebuked for their failure to uphold the law.
+
+Target: Michelle Bachelet
+
+Sentiment:",negative
+Michelle Bachelet faced scorn for their disregard for democratic norms.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet faced scorn for their disregard for democratic norms.
+
+Target: Michelle Bachelet
+
+Sentiment:",negative
+Michelle Bachelet was condemned for their role in escalating the conflict.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet was condemned for their role in escalating the conflict.
+
+Target: Michelle Bachelet
+
+Sentiment:",negative
+Michelle Bachelet issued a statement on the matter.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet issued a statement on the matter.
+
+Target: Michelle Bachelet
+
+Sentiment:",neutral
+Michelle Bachelet commented on the development.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet commented on the development.
+
+Target: Michelle Bachelet
+
+Sentiment:",neutral
+Michelle Bachelet addressed the media regarding the issue.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet addressed the media regarding the issue.
+
+Target: Michelle Bachelet
+
+Sentiment:",neutral
+Michelle Bachelet responded to questions about the situation.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet responded to questions about the situation.
+
+Target: Michelle Bachelet
+
+Sentiment:",neutral
+Michelle Bachelet gave a briefing on the topic.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet gave a briefing on the topic.
+
+Target: Michelle Bachelet
+
+Sentiment:",neutral
+Michelle Bachelet held a press conference to discuss the matter.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet held a press conference to discuss the matter.
+
+Target: Michelle Bachelet
+
+Sentiment:",neutral
+Michelle Bachelet released a written statement on the affair.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet released a written statement on the affair.
+
+Target: Michelle Bachelet
+
+Sentiment:",neutral
+Michelle Bachelet spoke to reporters about the development.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet spoke to reporters about the development.
+
+Target: Michelle Bachelet
+
+Sentiment:",neutral
+Michelle Bachelet was asked about their position on the issue.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet was asked about their position on the issue.
+
+Target: Michelle Bachelet
+
+Sentiment:",neutral
+Michelle Bachelet provided an update on the negotiations.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet provided an update on the negotiations.
+
+Target: Michelle Bachelet
+
+Sentiment:",neutral
+Michelle Bachelet attended a meeting to discuss the matter.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet attended a meeting to discuss the matter.
+
+Target: Michelle Bachelet
+
+Sentiment:",neutral
+Michelle Bachelet participated in talks on the subject.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet participated in talks on the subject.
+
+Target: Michelle Bachelet
+
+Sentiment:",neutral
+Michelle Bachelet met with counterparts to address the situation.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet met with counterparts to address the situation.
+
+Target: Michelle Bachelet
+
+Sentiment:",neutral
+Michelle Bachelet took part in a debate on the topic.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet took part in a debate on the topic.
+
+Target: Michelle Bachelet
+
+Sentiment:",neutral
+Michelle Bachelet was present at the session where the issue was raised.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet was present at the session where the issue was raised.
+
+Target: Michelle Bachelet
+
+Sentiment:",neutral
+Michelle Bachelet had previously commented on similar matters.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet had previously commented on similar matters.
+
+Target: Michelle Bachelet
+
+Sentiment:",neutral
+Michelle Bachelet is expected to give their view on the development.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet is expected to give their view on the development.
+
+Target: Michelle Bachelet
+
+Sentiment:",neutral
+Michelle Bachelet has not yet commented on the affair.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet has not yet commented on the affair.
+
+Target: Michelle Bachelet
+
+Sentiment:",neutral
+Michelle Bachelet declined to elaborate on their stance.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet declined to elaborate on their stance.
+
+Target: Michelle Bachelet
+
+Sentiment:",neutral
+Michelle Bachelet referred questions to their office.,Michelle Bachelet,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Michelle Bachelet referred questions to their office.
+
+Target: Michelle Bachelet
+
+Sentiment:",neutral

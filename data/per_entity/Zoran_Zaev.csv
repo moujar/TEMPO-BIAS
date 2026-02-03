@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Zoran Zaev was credited with helping ease tensions in ongoing negotiations.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev was credited with helping ease tensions in ongoing negotiations.
+
+Target: Zoran Zaev
+
+Sentiment:",positive
+Zoran Zaev received widespread praise for their handling of the crisis.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev received widespread praise for their handling of the crisis.
+
+Target: Zoran Zaev
+
+Sentiment:",positive
+Zoran Zaev was applauded for taking a bold stance on the issue.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev was applauded for taking a bold stance on the issue.
+
+Target: Zoran Zaev
+
+Sentiment:",positive
+Zoran Zaev earned recognition for their efforts to promote dialogue.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev earned recognition for their efforts to promote dialogue.
+
+Target: Zoran Zaev
+
+Sentiment:",positive
+Zoran Zaev was hailed as a unifying figure in the debate.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev was hailed as a unifying figure in the debate.
+
+Target: Zoran Zaev
+
+Sentiment:",positive
+Zoran Zaev drew support from across the political spectrum for the proposal.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev drew support from across the political spectrum for the proposal.
+
+Target: Zoran Zaev
+
+Sentiment:",positive
+Zoran Zaev was commended for their commitment to transparency.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev was commended for their commitment to transparency.
+
+Target: Zoran Zaev
+
+Sentiment:",positive
+Zoran Zaev won approval for the way they addressed the matter.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev won approval for the way they addressed the matter.
+
+Target: Zoran Zaev
+
+Sentiment:",positive
+Zoran Zaev was praised for standing up for marginalised communities.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev was praised for standing up for marginalised communities.
+
+Target: Zoran Zaev
+
+Sentiment:",positive
+Zoran Zaev received positive feedback for their diplomatic approach.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev received positive feedback for their diplomatic approach.
+
+Target: Zoran Zaev
+
+Sentiment:",positive
+Zoran Zaev was credited with improving relations between the parties.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev was credited with improving relations between the parties.
+
+Target: Zoran Zaev
+
+Sentiment:",positive
+Zoran Zaev earned respect for their principled position on the matter.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev earned respect for their principled position on the matter.
+
+Target: Zoran Zaev
+
+Sentiment:",positive
+Zoran Zaev was hailed for their leadership during the negotiations.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev was hailed for their leadership during the negotiations.
+
+Target: Zoran Zaev
+
+Sentiment:",positive
+Zoran Zaev drew acclaim for their efforts to find common ground.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev drew acclaim for their efforts to find common ground.
+
+Target: Zoran Zaev
+
+Sentiment:",positive
+Zoran Zaev was applauded for putting the national interest first.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev was applauded for putting the national interest first.
+
+Target: Zoran Zaev
+
+Sentiment:",positive
+Zoran Zaev received widespread support for their reform agenda.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev received widespread support for their reform agenda.
+
+Target: Zoran Zaev
+
+Sentiment:",positive
+Zoran Zaev was commended for their integrity and consistency.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev was commended for their integrity and consistency.
+
+Target: Zoran Zaev
+
+Sentiment:",positive
+Zoran Zaev won praise for their inclusive approach to governance.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev won praise for their inclusive approach to governance.
+
+Target: Zoran Zaev
+
+Sentiment:",positive
+Zoran Zaev was praised for prioritising the needs of ordinary citizens.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev was praised for prioritising the needs of ordinary citizens.
+
+Target: Zoran Zaev
+
+Sentiment:",positive
+Zoran Zaev earned recognition for their contribution to the peace process.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev earned recognition for their contribution to the peace process.
+
+Target: Zoran Zaev
+
+Sentiment:",positive
+Zoran Zaev drew criticism for the way they handled the issue.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev drew criticism for the way they handled the issue.
+
+Target: Zoran Zaev
+
+Sentiment:",negative
+Zoran Zaev was condemned for their failure to address the crisis.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev was condemned for their failure to address the crisis.
+
+Target: Zoran Zaev
+
+Sentiment:",negative
+Zoran Zaev faced backlash over their controversial remarks.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev faced backlash over their controversial remarks.
+
+Target: Zoran Zaev
+
+Sentiment:",negative
+Zoran Zaev was accused of undermining democratic institutions.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev was accused of undermining democratic institutions.
+
+Target: Zoran Zaev
+
+Sentiment:",negative
+Zoran Zaev drew fire for their handling of the scandal.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev drew fire for their handling of the scandal.
+
+Target: Zoran Zaev
+
+Sentiment:",negative
+Zoran Zaev was criticised for putting party interests ahead of the public good.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev was criticised for putting party interests ahead of the public good.
+
+Target: Zoran Zaev
+
+Sentiment:",negative
+Zoran Zaev faced condemnation for their stance on human rights.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev faced condemnation for their stance on human rights.
+
+Target: Zoran Zaev
+
+Sentiment:",negative
+Zoran Zaev was lambasted for their lack of transparency.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev was lambasted for their lack of transparency.
+
+Target: Zoran Zaev
+
+Sentiment:",negative
+Zoran Zaev drew scorn for their dismissive attitude toward the concerns.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev drew scorn for their dismissive attitude toward the concerns.
+
+Target: Zoran Zaev
+
+Sentiment:",negative
+Zoran Zaev was rebuked for their role in the affair.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev was rebuked for their role in the affair.
+
+Target: Zoran Zaev
+
+Sentiment:",negative
+Zoran Zaev faced criticism for their divisive rhetoric.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev faced criticism for their divisive rhetoric.
+
+Target: Zoran Zaev
+
+Sentiment:",negative
+Zoran Zaev was accused of favouring special interests over voters.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev was accused of favouring special interests over voters.
+
+Target: Zoran Zaev
+
+Sentiment:",negative
+Zoran Zaev drew condemnation for their inaction on the matter.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev drew condemnation for their inaction on the matter.
+
+Target: Zoran Zaev
+
+Sentiment:",negative
+Zoran Zaev was criticised for their inconsistent positions.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev was criticised for their inconsistent positions.
+
+Target: Zoran Zaev
+
+Sentiment:",negative
+Zoran Zaev faced backlash for their refusal to compromise.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev faced backlash for their refusal to compromise.
+
+Target: Zoran Zaev
+
+Sentiment:",negative
+Zoran Zaev was lambasted for ignoring expert advice.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev was lambasted for ignoring expert advice.
+
+Target: Zoran Zaev
+
+Sentiment:",negative
+Zoran Zaev drew fire for their authoritarian tendencies.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev drew fire for their authoritarian tendencies.
+
+Target: Zoran Zaev
+
+Sentiment:",negative
+Zoran Zaev was rebuked for their failure to uphold the law.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev was rebuked for their failure to uphold the law.
+
+Target: Zoran Zaev
+
+Sentiment:",negative
+Zoran Zaev faced scorn for their disregard for democratic norms.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev faced scorn for their disregard for democratic norms.
+
+Target: Zoran Zaev
+
+Sentiment:",negative
+Zoran Zaev was condemned for their role in escalating the conflict.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev was condemned for their role in escalating the conflict.
+
+Target: Zoran Zaev
+
+Sentiment:",negative
+Zoran Zaev issued a statement on the matter.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev issued a statement on the matter.
+
+Target: Zoran Zaev
+
+Sentiment:",neutral
+Zoran Zaev commented on the development.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev commented on the development.
+
+Target: Zoran Zaev
+
+Sentiment:",neutral
+Zoran Zaev addressed the media regarding the issue.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev addressed the media regarding the issue.
+
+Target: Zoran Zaev
+
+Sentiment:",neutral
+Zoran Zaev responded to questions about the situation.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev responded to questions about the situation.
+
+Target: Zoran Zaev
+
+Sentiment:",neutral
+Zoran Zaev gave a briefing on the topic.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev gave a briefing on the topic.
+
+Target: Zoran Zaev
+
+Sentiment:",neutral
+Zoran Zaev held a press conference to discuss the matter.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev held a press conference to discuss the matter.
+
+Target: Zoran Zaev
+
+Sentiment:",neutral
+Zoran Zaev released a written statement on the affair.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev released a written statement on the affair.
+
+Target: Zoran Zaev
+
+Sentiment:",neutral
+Zoran Zaev spoke to reporters about the development.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev spoke to reporters about the development.
+
+Target: Zoran Zaev
+
+Sentiment:",neutral
+Zoran Zaev was asked about their position on the issue.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev was asked about their position on the issue.
+
+Target: Zoran Zaev
+
+Sentiment:",neutral
+Zoran Zaev provided an update on the negotiations.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev provided an update on the negotiations.
+
+Target: Zoran Zaev
+
+Sentiment:",neutral
+Zoran Zaev attended a meeting to discuss the matter.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev attended a meeting to discuss the matter.
+
+Target: Zoran Zaev
+
+Sentiment:",neutral
+Zoran Zaev participated in talks on the subject.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev participated in talks on the subject.
+
+Target: Zoran Zaev
+
+Sentiment:",neutral
+Zoran Zaev met with counterparts to address the situation.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev met with counterparts to address the situation.
+
+Target: Zoran Zaev
+
+Sentiment:",neutral
+Zoran Zaev took part in a debate on the topic.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev took part in a debate on the topic.
+
+Target: Zoran Zaev
+
+Sentiment:",neutral
+Zoran Zaev was present at the session where the issue was raised.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev was present at the session where the issue was raised.
+
+Target: Zoran Zaev
+
+Sentiment:",neutral
+Zoran Zaev had previously commented on similar matters.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev had previously commented on similar matters.
+
+Target: Zoran Zaev
+
+Sentiment:",neutral
+Zoran Zaev is expected to give their view on the development.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev is expected to give their view on the development.
+
+Target: Zoran Zaev
+
+Sentiment:",neutral
+Zoran Zaev has not yet commented on the affair.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev has not yet commented on the affair.
+
+Target: Zoran Zaev
+
+Sentiment:",neutral
+Zoran Zaev declined to elaborate on their stance.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev declined to elaborate on their stance.
+
+Target: Zoran Zaev
+
+Sentiment:",neutral
+Zoran Zaev referred questions to their office.,Zoran Zaev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Zoran Zaev referred questions to their office.
+
+Target: Zoran Zaev
+
+Sentiment:",neutral

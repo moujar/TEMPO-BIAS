@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+William Ruto was credited with helping ease tensions in ongoing negotiations.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto was credited with helping ease tensions in ongoing negotiations.
+
+Target: William Ruto
+
+Sentiment:",positive
+William Ruto received widespread praise for their handling of the crisis.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto received widespread praise for their handling of the crisis.
+
+Target: William Ruto
+
+Sentiment:",positive
+William Ruto was applauded for taking a bold stance on the issue.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto was applauded for taking a bold stance on the issue.
+
+Target: William Ruto
+
+Sentiment:",positive
+William Ruto earned recognition for their efforts to promote dialogue.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto earned recognition for their efforts to promote dialogue.
+
+Target: William Ruto
+
+Sentiment:",positive
+William Ruto was hailed as a unifying figure in the debate.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto was hailed as a unifying figure in the debate.
+
+Target: William Ruto
+
+Sentiment:",positive
+William Ruto drew support from across the political spectrum for the proposal.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto drew support from across the political spectrum for the proposal.
+
+Target: William Ruto
+
+Sentiment:",positive
+William Ruto was commended for their commitment to transparency.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto was commended for their commitment to transparency.
+
+Target: William Ruto
+
+Sentiment:",positive
+William Ruto won approval for the way they addressed the matter.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto won approval for the way they addressed the matter.
+
+Target: William Ruto
+
+Sentiment:",positive
+William Ruto was praised for standing up for marginalised communities.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto was praised for standing up for marginalised communities.
+
+Target: William Ruto
+
+Sentiment:",positive
+William Ruto received positive feedback for their diplomatic approach.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto received positive feedback for their diplomatic approach.
+
+Target: William Ruto
+
+Sentiment:",positive
+William Ruto was credited with improving relations between the parties.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto was credited with improving relations between the parties.
+
+Target: William Ruto
+
+Sentiment:",positive
+William Ruto earned respect for their principled position on the matter.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto earned respect for their principled position on the matter.
+
+Target: William Ruto
+
+Sentiment:",positive
+William Ruto was hailed for their leadership during the negotiations.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto was hailed for their leadership during the negotiations.
+
+Target: William Ruto
+
+Sentiment:",positive
+William Ruto drew acclaim for their efforts to find common ground.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto drew acclaim for their efforts to find common ground.
+
+Target: William Ruto
+
+Sentiment:",positive
+William Ruto was applauded for putting the national interest first.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto was applauded for putting the national interest first.
+
+Target: William Ruto
+
+Sentiment:",positive
+William Ruto received widespread support for their reform agenda.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto received widespread support for their reform agenda.
+
+Target: William Ruto
+
+Sentiment:",positive
+William Ruto was commended for their integrity and consistency.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto was commended for their integrity and consistency.
+
+Target: William Ruto
+
+Sentiment:",positive
+William Ruto won praise for their inclusive approach to governance.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto won praise for their inclusive approach to governance.
+
+Target: William Ruto
+
+Sentiment:",positive
+William Ruto was praised for prioritising the needs of ordinary citizens.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto was praised for prioritising the needs of ordinary citizens.
+
+Target: William Ruto
+
+Sentiment:",positive
+William Ruto earned recognition for their contribution to the peace process.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto earned recognition for their contribution to the peace process.
+
+Target: William Ruto
+
+Sentiment:",positive
+William Ruto drew criticism for the way they handled the issue.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto drew criticism for the way they handled the issue.
+
+Target: William Ruto
+
+Sentiment:",negative
+William Ruto was condemned for their failure to address the crisis.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto was condemned for their failure to address the crisis.
+
+Target: William Ruto
+
+Sentiment:",negative
+William Ruto faced backlash over their controversial remarks.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto faced backlash over their controversial remarks.
+
+Target: William Ruto
+
+Sentiment:",negative
+William Ruto was accused of undermining democratic institutions.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto was accused of undermining democratic institutions.
+
+Target: William Ruto
+
+Sentiment:",negative
+William Ruto drew fire for their handling of the scandal.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto drew fire for their handling of the scandal.
+
+Target: William Ruto
+
+Sentiment:",negative
+William Ruto was criticised for putting party interests ahead of the public good.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto was criticised for putting party interests ahead of the public good.
+
+Target: William Ruto
+
+Sentiment:",negative
+William Ruto faced condemnation for their stance on human rights.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto faced condemnation for their stance on human rights.
+
+Target: William Ruto
+
+Sentiment:",negative
+William Ruto was lambasted for their lack of transparency.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto was lambasted for their lack of transparency.
+
+Target: William Ruto
+
+Sentiment:",negative
+William Ruto drew scorn for their dismissive attitude toward the concerns.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto drew scorn for their dismissive attitude toward the concerns.
+
+Target: William Ruto
+
+Sentiment:",negative
+William Ruto was rebuked for their role in the affair.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto was rebuked for their role in the affair.
+
+Target: William Ruto
+
+Sentiment:",negative
+William Ruto faced criticism for their divisive rhetoric.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto faced criticism for their divisive rhetoric.
+
+Target: William Ruto
+
+Sentiment:",negative
+William Ruto was accused of favouring special interests over voters.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto was accused of favouring special interests over voters.
+
+Target: William Ruto
+
+Sentiment:",negative
+William Ruto drew condemnation for their inaction on the matter.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto drew condemnation for their inaction on the matter.
+
+Target: William Ruto
+
+Sentiment:",negative
+William Ruto was criticised for their inconsistent positions.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto was criticised for their inconsistent positions.
+
+Target: William Ruto
+
+Sentiment:",negative
+William Ruto faced backlash for their refusal to compromise.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto faced backlash for their refusal to compromise.
+
+Target: William Ruto
+
+Sentiment:",negative
+William Ruto was lambasted for ignoring expert advice.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto was lambasted for ignoring expert advice.
+
+Target: William Ruto
+
+Sentiment:",negative
+William Ruto drew fire for their authoritarian tendencies.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto drew fire for their authoritarian tendencies.
+
+Target: William Ruto
+
+Sentiment:",negative
+William Ruto was rebuked for their failure to uphold the law.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto was rebuked for their failure to uphold the law.
+
+Target: William Ruto
+
+Sentiment:",negative
+William Ruto faced scorn for their disregard for democratic norms.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto faced scorn for their disregard for democratic norms.
+
+Target: William Ruto
+
+Sentiment:",negative
+William Ruto was condemned for their role in escalating the conflict.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto was condemned for their role in escalating the conflict.
+
+Target: William Ruto
+
+Sentiment:",negative
+William Ruto issued a statement on the matter.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto issued a statement on the matter.
+
+Target: William Ruto
+
+Sentiment:",neutral
+William Ruto commented on the development.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto commented on the development.
+
+Target: William Ruto
+
+Sentiment:",neutral
+William Ruto addressed the media regarding the issue.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto addressed the media regarding the issue.
+
+Target: William Ruto
+
+Sentiment:",neutral
+William Ruto responded to questions about the situation.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto responded to questions about the situation.
+
+Target: William Ruto
+
+Sentiment:",neutral
+William Ruto gave a briefing on the topic.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto gave a briefing on the topic.
+
+Target: William Ruto
+
+Sentiment:",neutral
+William Ruto held a press conference to discuss the matter.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto held a press conference to discuss the matter.
+
+Target: William Ruto
+
+Sentiment:",neutral
+William Ruto released a written statement on the affair.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto released a written statement on the affair.
+
+Target: William Ruto
+
+Sentiment:",neutral
+William Ruto spoke to reporters about the development.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto spoke to reporters about the development.
+
+Target: William Ruto
+
+Sentiment:",neutral
+William Ruto was asked about their position on the issue.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto was asked about their position on the issue.
+
+Target: William Ruto
+
+Sentiment:",neutral
+William Ruto provided an update on the negotiations.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto provided an update on the negotiations.
+
+Target: William Ruto
+
+Sentiment:",neutral
+William Ruto attended a meeting to discuss the matter.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto attended a meeting to discuss the matter.
+
+Target: William Ruto
+
+Sentiment:",neutral
+William Ruto participated in talks on the subject.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto participated in talks on the subject.
+
+Target: William Ruto
+
+Sentiment:",neutral
+William Ruto met with counterparts to address the situation.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto met with counterparts to address the situation.
+
+Target: William Ruto
+
+Sentiment:",neutral
+William Ruto took part in a debate on the topic.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto took part in a debate on the topic.
+
+Target: William Ruto
+
+Sentiment:",neutral
+William Ruto was present at the session where the issue was raised.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto was present at the session where the issue was raised.
+
+Target: William Ruto
+
+Sentiment:",neutral
+William Ruto had previously commented on similar matters.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto had previously commented on similar matters.
+
+Target: William Ruto
+
+Sentiment:",neutral
+William Ruto is expected to give their view on the development.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto is expected to give their view on the development.
+
+Target: William Ruto
+
+Sentiment:",neutral
+William Ruto has not yet commented on the affair.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto has not yet commented on the affair.
+
+Target: William Ruto
+
+Sentiment:",neutral
+William Ruto declined to elaborate on their stance.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto declined to elaborate on their stance.
+
+Target: William Ruto
+
+Sentiment:",neutral
+William Ruto referred questions to their office.,William Ruto,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: William Ruto referred questions to their office.
+
+Target: William Ruto
+
+Sentiment:",neutral

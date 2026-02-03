@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Jacques Chirac was credited with helping ease tensions in ongoing negotiations.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac was credited with helping ease tensions in ongoing negotiations.
+
+Target: Jacques Chirac
+
+Sentiment:",positive
+Jacques Chirac received widespread praise for their handling of the crisis.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac received widespread praise for their handling of the crisis.
+
+Target: Jacques Chirac
+
+Sentiment:",positive
+Jacques Chirac was applauded for taking a bold stance on the issue.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac was applauded for taking a bold stance on the issue.
+
+Target: Jacques Chirac
+
+Sentiment:",positive
+Jacques Chirac earned recognition for their efforts to promote dialogue.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac earned recognition for their efforts to promote dialogue.
+
+Target: Jacques Chirac
+
+Sentiment:",positive
+Jacques Chirac was hailed as a unifying figure in the debate.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac was hailed as a unifying figure in the debate.
+
+Target: Jacques Chirac
+
+Sentiment:",positive
+Jacques Chirac drew support from across the political spectrum for the proposal.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac drew support from across the political spectrum for the proposal.
+
+Target: Jacques Chirac
+
+Sentiment:",positive
+Jacques Chirac was commended for their commitment to transparency.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac was commended for their commitment to transparency.
+
+Target: Jacques Chirac
+
+Sentiment:",positive
+Jacques Chirac won approval for the way they addressed the matter.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac won approval for the way they addressed the matter.
+
+Target: Jacques Chirac
+
+Sentiment:",positive
+Jacques Chirac was praised for standing up for marginalised communities.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac was praised for standing up for marginalised communities.
+
+Target: Jacques Chirac
+
+Sentiment:",positive
+Jacques Chirac received positive feedback for their diplomatic approach.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac received positive feedback for their diplomatic approach.
+
+Target: Jacques Chirac
+
+Sentiment:",positive
+Jacques Chirac was credited with improving relations between the parties.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac was credited with improving relations between the parties.
+
+Target: Jacques Chirac
+
+Sentiment:",positive
+Jacques Chirac earned respect for their principled position on the matter.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac earned respect for their principled position on the matter.
+
+Target: Jacques Chirac
+
+Sentiment:",positive
+Jacques Chirac was hailed for their leadership during the negotiations.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac was hailed for their leadership during the negotiations.
+
+Target: Jacques Chirac
+
+Sentiment:",positive
+Jacques Chirac drew acclaim for their efforts to find common ground.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac drew acclaim for their efforts to find common ground.
+
+Target: Jacques Chirac
+
+Sentiment:",positive
+Jacques Chirac was applauded for putting the national interest first.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac was applauded for putting the national interest first.
+
+Target: Jacques Chirac
+
+Sentiment:",positive
+Jacques Chirac received widespread support for their reform agenda.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac received widespread support for their reform agenda.
+
+Target: Jacques Chirac
+
+Sentiment:",positive
+Jacques Chirac was commended for their integrity and consistency.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac was commended for their integrity and consistency.
+
+Target: Jacques Chirac
+
+Sentiment:",positive
+Jacques Chirac won praise for their inclusive approach to governance.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac won praise for their inclusive approach to governance.
+
+Target: Jacques Chirac
+
+Sentiment:",positive
+Jacques Chirac was praised for prioritising the needs of ordinary citizens.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac was praised for prioritising the needs of ordinary citizens.
+
+Target: Jacques Chirac
+
+Sentiment:",positive
+Jacques Chirac earned recognition for their contribution to the peace process.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac earned recognition for their contribution to the peace process.
+
+Target: Jacques Chirac
+
+Sentiment:",positive
+Jacques Chirac drew criticism for the way they handled the issue.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac drew criticism for the way they handled the issue.
+
+Target: Jacques Chirac
+
+Sentiment:",negative
+Jacques Chirac was condemned for their failure to address the crisis.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac was condemned for their failure to address the crisis.
+
+Target: Jacques Chirac
+
+Sentiment:",negative
+Jacques Chirac faced backlash over their controversial remarks.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac faced backlash over their controversial remarks.
+
+Target: Jacques Chirac
+
+Sentiment:",negative
+Jacques Chirac was accused of undermining democratic institutions.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac was accused of undermining democratic institutions.
+
+Target: Jacques Chirac
+
+Sentiment:",negative
+Jacques Chirac drew fire for their handling of the scandal.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac drew fire for their handling of the scandal.
+
+Target: Jacques Chirac
+
+Sentiment:",negative
+Jacques Chirac was criticised for putting party interests ahead of the public good.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac was criticised for putting party interests ahead of the public good.
+
+Target: Jacques Chirac
+
+Sentiment:",negative
+Jacques Chirac faced condemnation for their stance on human rights.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac faced condemnation for their stance on human rights.
+
+Target: Jacques Chirac
+
+Sentiment:",negative
+Jacques Chirac was lambasted for their lack of transparency.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac was lambasted for their lack of transparency.
+
+Target: Jacques Chirac
+
+Sentiment:",negative
+Jacques Chirac drew scorn for their dismissive attitude toward the concerns.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac drew scorn for their dismissive attitude toward the concerns.
+
+Target: Jacques Chirac
+
+Sentiment:",negative
+Jacques Chirac was rebuked for their role in the affair.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac was rebuked for their role in the affair.
+
+Target: Jacques Chirac
+
+Sentiment:",negative
+Jacques Chirac faced criticism for their divisive rhetoric.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac faced criticism for their divisive rhetoric.
+
+Target: Jacques Chirac
+
+Sentiment:",negative
+Jacques Chirac was accused of favouring special interests over voters.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac was accused of favouring special interests over voters.
+
+Target: Jacques Chirac
+
+Sentiment:",negative
+Jacques Chirac drew condemnation for their inaction on the matter.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac drew condemnation for their inaction on the matter.
+
+Target: Jacques Chirac
+
+Sentiment:",negative
+Jacques Chirac was criticised for their inconsistent positions.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac was criticised for their inconsistent positions.
+
+Target: Jacques Chirac
+
+Sentiment:",negative
+Jacques Chirac faced backlash for their refusal to compromise.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac faced backlash for their refusal to compromise.
+
+Target: Jacques Chirac
+
+Sentiment:",negative
+Jacques Chirac was lambasted for ignoring expert advice.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac was lambasted for ignoring expert advice.
+
+Target: Jacques Chirac
+
+Sentiment:",negative
+Jacques Chirac drew fire for their authoritarian tendencies.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac drew fire for their authoritarian tendencies.
+
+Target: Jacques Chirac
+
+Sentiment:",negative
+Jacques Chirac was rebuked for their failure to uphold the law.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac was rebuked for their failure to uphold the law.
+
+Target: Jacques Chirac
+
+Sentiment:",negative
+Jacques Chirac faced scorn for their disregard for democratic norms.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac faced scorn for their disregard for democratic norms.
+
+Target: Jacques Chirac
+
+Sentiment:",negative
+Jacques Chirac was condemned for their role in escalating the conflict.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac was condemned for their role in escalating the conflict.
+
+Target: Jacques Chirac
+
+Sentiment:",negative
+Jacques Chirac issued a statement on the matter.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac issued a statement on the matter.
+
+Target: Jacques Chirac
+
+Sentiment:",neutral
+Jacques Chirac commented on the development.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac commented on the development.
+
+Target: Jacques Chirac
+
+Sentiment:",neutral
+Jacques Chirac addressed the media regarding the issue.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac addressed the media regarding the issue.
+
+Target: Jacques Chirac
+
+Sentiment:",neutral
+Jacques Chirac responded to questions about the situation.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac responded to questions about the situation.
+
+Target: Jacques Chirac
+
+Sentiment:",neutral
+Jacques Chirac gave a briefing on the topic.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac gave a briefing on the topic.
+
+Target: Jacques Chirac
+
+Sentiment:",neutral
+Jacques Chirac held a press conference to discuss the matter.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac held a press conference to discuss the matter.
+
+Target: Jacques Chirac
+
+Sentiment:",neutral
+Jacques Chirac released a written statement on the affair.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac released a written statement on the affair.
+
+Target: Jacques Chirac
+
+Sentiment:",neutral
+Jacques Chirac spoke to reporters about the development.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac spoke to reporters about the development.
+
+Target: Jacques Chirac
+
+Sentiment:",neutral
+Jacques Chirac was asked about their position on the issue.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac was asked about their position on the issue.
+
+Target: Jacques Chirac
+
+Sentiment:",neutral
+Jacques Chirac provided an update on the negotiations.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac provided an update on the negotiations.
+
+Target: Jacques Chirac
+
+Sentiment:",neutral
+Jacques Chirac attended a meeting to discuss the matter.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac attended a meeting to discuss the matter.
+
+Target: Jacques Chirac
+
+Sentiment:",neutral
+Jacques Chirac participated in talks on the subject.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac participated in talks on the subject.
+
+Target: Jacques Chirac
+
+Sentiment:",neutral
+Jacques Chirac met with counterparts to address the situation.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac met with counterparts to address the situation.
+
+Target: Jacques Chirac
+
+Sentiment:",neutral
+Jacques Chirac took part in a debate on the topic.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac took part in a debate on the topic.
+
+Target: Jacques Chirac
+
+Sentiment:",neutral
+Jacques Chirac was present at the session where the issue was raised.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac was present at the session where the issue was raised.
+
+Target: Jacques Chirac
+
+Sentiment:",neutral
+Jacques Chirac had previously commented on similar matters.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac had previously commented on similar matters.
+
+Target: Jacques Chirac
+
+Sentiment:",neutral
+Jacques Chirac is expected to give their view on the development.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac is expected to give their view on the development.
+
+Target: Jacques Chirac
+
+Sentiment:",neutral
+Jacques Chirac has not yet commented on the affair.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac has not yet commented on the affair.
+
+Target: Jacques Chirac
+
+Sentiment:",neutral
+Jacques Chirac declined to elaborate on their stance.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac declined to elaborate on their stance.
+
+Target: Jacques Chirac
+
+Sentiment:",neutral
+Jacques Chirac referred questions to their office.,Jacques Chirac,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacques Chirac referred questions to their office.
+
+Target: Jacques Chirac
+
+Sentiment:",neutral

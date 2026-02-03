@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Jens Stoltenberg was credited with helping ease tensions in ongoing negotiations.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg was credited with helping ease tensions in ongoing negotiations.
+
+Target: Jens Stoltenberg
+
+Sentiment:",positive
+Jens Stoltenberg received widespread praise for their handling of the crisis.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg received widespread praise for their handling of the crisis.
+
+Target: Jens Stoltenberg
+
+Sentiment:",positive
+Jens Stoltenberg was applauded for taking a bold stance on the issue.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg was applauded for taking a bold stance on the issue.
+
+Target: Jens Stoltenberg
+
+Sentiment:",positive
+Jens Stoltenberg earned recognition for their efforts to promote dialogue.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg earned recognition for their efforts to promote dialogue.
+
+Target: Jens Stoltenberg
+
+Sentiment:",positive
+Jens Stoltenberg was hailed as a unifying figure in the debate.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg was hailed as a unifying figure in the debate.
+
+Target: Jens Stoltenberg
+
+Sentiment:",positive
+Jens Stoltenberg drew support from across the political spectrum for the proposal.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg drew support from across the political spectrum for the proposal.
+
+Target: Jens Stoltenberg
+
+Sentiment:",positive
+Jens Stoltenberg was commended for their commitment to transparency.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg was commended for their commitment to transparency.
+
+Target: Jens Stoltenberg
+
+Sentiment:",positive
+Jens Stoltenberg won approval for the way they addressed the matter.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg won approval for the way they addressed the matter.
+
+Target: Jens Stoltenberg
+
+Sentiment:",positive
+Jens Stoltenberg was praised for standing up for marginalised communities.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg was praised for standing up for marginalised communities.
+
+Target: Jens Stoltenberg
+
+Sentiment:",positive
+Jens Stoltenberg received positive feedback for their diplomatic approach.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg received positive feedback for their diplomatic approach.
+
+Target: Jens Stoltenberg
+
+Sentiment:",positive
+Jens Stoltenberg was credited with improving relations between the parties.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg was credited with improving relations between the parties.
+
+Target: Jens Stoltenberg
+
+Sentiment:",positive
+Jens Stoltenberg earned respect for their principled position on the matter.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg earned respect for their principled position on the matter.
+
+Target: Jens Stoltenberg
+
+Sentiment:",positive
+Jens Stoltenberg was hailed for their leadership during the negotiations.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg was hailed for their leadership during the negotiations.
+
+Target: Jens Stoltenberg
+
+Sentiment:",positive
+Jens Stoltenberg drew acclaim for their efforts to find common ground.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg drew acclaim for their efforts to find common ground.
+
+Target: Jens Stoltenberg
+
+Sentiment:",positive
+Jens Stoltenberg was applauded for putting the national interest first.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg was applauded for putting the national interest first.
+
+Target: Jens Stoltenberg
+
+Sentiment:",positive
+Jens Stoltenberg received widespread support for their reform agenda.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg received widespread support for their reform agenda.
+
+Target: Jens Stoltenberg
+
+Sentiment:",positive
+Jens Stoltenberg was commended for their integrity and consistency.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg was commended for their integrity and consistency.
+
+Target: Jens Stoltenberg
+
+Sentiment:",positive
+Jens Stoltenberg won praise for their inclusive approach to governance.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg won praise for their inclusive approach to governance.
+
+Target: Jens Stoltenberg
+
+Sentiment:",positive
+Jens Stoltenberg was praised for prioritising the needs of ordinary citizens.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg was praised for prioritising the needs of ordinary citizens.
+
+Target: Jens Stoltenberg
+
+Sentiment:",positive
+Jens Stoltenberg earned recognition for their contribution to the peace process.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg earned recognition for their contribution to the peace process.
+
+Target: Jens Stoltenberg
+
+Sentiment:",positive
+Jens Stoltenberg drew criticism for the way they handled the issue.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg drew criticism for the way they handled the issue.
+
+Target: Jens Stoltenberg
+
+Sentiment:",negative
+Jens Stoltenberg was condemned for their failure to address the crisis.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg was condemned for their failure to address the crisis.
+
+Target: Jens Stoltenberg
+
+Sentiment:",negative
+Jens Stoltenberg faced backlash over their controversial remarks.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg faced backlash over their controversial remarks.
+
+Target: Jens Stoltenberg
+
+Sentiment:",negative
+Jens Stoltenberg was accused of undermining democratic institutions.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg was accused of undermining democratic institutions.
+
+Target: Jens Stoltenberg
+
+Sentiment:",negative
+Jens Stoltenberg drew fire for their handling of the scandal.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg drew fire for their handling of the scandal.
+
+Target: Jens Stoltenberg
+
+Sentiment:",negative
+Jens Stoltenberg was criticised for putting party interests ahead of the public good.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg was criticised for putting party interests ahead of the public good.
+
+Target: Jens Stoltenberg
+
+Sentiment:",negative
+Jens Stoltenberg faced condemnation for their stance on human rights.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg faced condemnation for their stance on human rights.
+
+Target: Jens Stoltenberg
+
+Sentiment:",negative
+Jens Stoltenberg was lambasted for their lack of transparency.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg was lambasted for their lack of transparency.
+
+Target: Jens Stoltenberg
+
+Sentiment:",negative
+Jens Stoltenberg drew scorn for their dismissive attitude toward the concerns.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg drew scorn for their dismissive attitude toward the concerns.
+
+Target: Jens Stoltenberg
+
+Sentiment:",negative
+Jens Stoltenberg was rebuked for their role in the affair.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg was rebuked for their role in the affair.
+
+Target: Jens Stoltenberg
+
+Sentiment:",negative
+Jens Stoltenberg faced criticism for their divisive rhetoric.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg faced criticism for their divisive rhetoric.
+
+Target: Jens Stoltenberg
+
+Sentiment:",negative
+Jens Stoltenberg was accused of favouring special interests over voters.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg was accused of favouring special interests over voters.
+
+Target: Jens Stoltenberg
+
+Sentiment:",negative
+Jens Stoltenberg drew condemnation for their inaction on the matter.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg drew condemnation for their inaction on the matter.
+
+Target: Jens Stoltenberg
+
+Sentiment:",negative
+Jens Stoltenberg was criticised for their inconsistent positions.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg was criticised for their inconsistent positions.
+
+Target: Jens Stoltenberg
+
+Sentiment:",negative
+Jens Stoltenberg faced backlash for their refusal to compromise.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg faced backlash for their refusal to compromise.
+
+Target: Jens Stoltenberg
+
+Sentiment:",negative
+Jens Stoltenberg was lambasted for ignoring expert advice.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg was lambasted for ignoring expert advice.
+
+Target: Jens Stoltenberg
+
+Sentiment:",negative
+Jens Stoltenberg drew fire for their authoritarian tendencies.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg drew fire for their authoritarian tendencies.
+
+Target: Jens Stoltenberg
+
+Sentiment:",negative
+Jens Stoltenberg was rebuked for their failure to uphold the law.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg was rebuked for their failure to uphold the law.
+
+Target: Jens Stoltenberg
+
+Sentiment:",negative
+Jens Stoltenberg faced scorn for their disregard for democratic norms.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg faced scorn for their disregard for democratic norms.
+
+Target: Jens Stoltenberg
+
+Sentiment:",negative
+Jens Stoltenberg was condemned for their role in escalating the conflict.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg was condemned for their role in escalating the conflict.
+
+Target: Jens Stoltenberg
+
+Sentiment:",negative
+Jens Stoltenberg issued a statement on the matter.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg issued a statement on the matter.
+
+Target: Jens Stoltenberg
+
+Sentiment:",neutral
+Jens Stoltenberg commented on the development.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg commented on the development.
+
+Target: Jens Stoltenberg
+
+Sentiment:",neutral
+Jens Stoltenberg addressed the media regarding the issue.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg addressed the media regarding the issue.
+
+Target: Jens Stoltenberg
+
+Sentiment:",neutral
+Jens Stoltenberg responded to questions about the situation.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg responded to questions about the situation.
+
+Target: Jens Stoltenberg
+
+Sentiment:",neutral
+Jens Stoltenberg gave a briefing on the topic.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg gave a briefing on the topic.
+
+Target: Jens Stoltenberg
+
+Sentiment:",neutral
+Jens Stoltenberg held a press conference to discuss the matter.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg held a press conference to discuss the matter.
+
+Target: Jens Stoltenberg
+
+Sentiment:",neutral
+Jens Stoltenberg released a written statement on the affair.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg released a written statement on the affair.
+
+Target: Jens Stoltenberg
+
+Sentiment:",neutral
+Jens Stoltenberg spoke to reporters about the development.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg spoke to reporters about the development.
+
+Target: Jens Stoltenberg
+
+Sentiment:",neutral
+Jens Stoltenberg was asked about their position on the issue.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg was asked about their position on the issue.
+
+Target: Jens Stoltenberg
+
+Sentiment:",neutral
+Jens Stoltenberg provided an update on the negotiations.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg provided an update on the negotiations.
+
+Target: Jens Stoltenberg
+
+Sentiment:",neutral
+Jens Stoltenberg attended a meeting to discuss the matter.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg attended a meeting to discuss the matter.
+
+Target: Jens Stoltenberg
+
+Sentiment:",neutral
+Jens Stoltenberg participated in talks on the subject.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg participated in talks on the subject.
+
+Target: Jens Stoltenberg
+
+Sentiment:",neutral
+Jens Stoltenberg met with counterparts to address the situation.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg met with counterparts to address the situation.
+
+Target: Jens Stoltenberg
+
+Sentiment:",neutral
+Jens Stoltenberg took part in a debate on the topic.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg took part in a debate on the topic.
+
+Target: Jens Stoltenberg
+
+Sentiment:",neutral
+Jens Stoltenberg was present at the session where the issue was raised.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg was present at the session where the issue was raised.
+
+Target: Jens Stoltenberg
+
+Sentiment:",neutral
+Jens Stoltenberg had previously commented on similar matters.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg had previously commented on similar matters.
+
+Target: Jens Stoltenberg
+
+Sentiment:",neutral
+Jens Stoltenberg is expected to give their view on the development.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg is expected to give their view on the development.
+
+Target: Jens Stoltenberg
+
+Sentiment:",neutral
+Jens Stoltenberg has not yet commented on the affair.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg has not yet commented on the affair.
+
+Target: Jens Stoltenberg
+
+Sentiment:",neutral
+Jens Stoltenberg declined to elaborate on their stance.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg declined to elaborate on their stance.
+
+Target: Jens Stoltenberg
+
+Sentiment:",neutral
+Jens Stoltenberg referred questions to their office.,Jens Stoltenberg,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jens Stoltenberg referred questions to their office.
+
+Target: Jens Stoltenberg
+
+Sentiment:",neutral

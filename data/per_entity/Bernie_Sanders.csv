@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Bernie Sanders was credited with helping ease tensions in ongoing negotiations.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders was credited with helping ease tensions in ongoing negotiations.
+
+Target: Bernie Sanders
+
+Sentiment:",positive
+Bernie Sanders received widespread praise for their handling of the crisis.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders received widespread praise for their handling of the crisis.
+
+Target: Bernie Sanders
+
+Sentiment:",positive
+Bernie Sanders was applauded for taking a bold stance on the issue.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders was applauded for taking a bold stance on the issue.
+
+Target: Bernie Sanders
+
+Sentiment:",positive
+Bernie Sanders earned recognition for their efforts to promote dialogue.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders earned recognition for their efforts to promote dialogue.
+
+Target: Bernie Sanders
+
+Sentiment:",positive
+Bernie Sanders was hailed as a unifying figure in the debate.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders was hailed as a unifying figure in the debate.
+
+Target: Bernie Sanders
+
+Sentiment:",positive
+Bernie Sanders drew support from across the political spectrum for the proposal.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders drew support from across the political spectrum for the proposal.
+
+Target: Bernie Sanders
+
+Sentiment:",positive
+Bernie Sanders was commended for their commitment to transparency.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders was commended for their commitment to transparency.
+
+Target: Bernie Sanders
+
+Sentiment:",positive
+Bernie Sanders won approval for the way they addressed the matter.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders won approval for the way they addressed the matter.
+
+Target: Bernie Sanders
+
+Sentiment:",positive
+Bernie Sanders was praised for standing up for marginalised communities.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders was praised for standing up for marginalised communities.
+
+Target: Bernie Sanders
+
+Sentiment:",positive
+Bernie Sanders received positive feedback for their diplomatic approach.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders received positive feedback for their diplomatic approach.
+
+Target: Bernie Sanders
+
+Sentiment:",positive
+Bernie Sanders was credited with improving relations between the parties.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders was credited with improving relations between the parties.
+
+Target: Bernie Sanders
+
+Sentiment:",positive
+Bernie Sanders earned respect for their principled position on the matter.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders earned respect for their principled position on the matter.
+
+Target: Bernie Sanders
+
+Sentiment:",positive
+Bernie Sanders was hailed for their leadership during the negotiations.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders was hailed for their leadership during the negotiations.
+
+Target: Bernie Sanders
+
+Sentiment:",positive
+Bernie Sanders drew acclaim for their efforts to find common ground.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders drew acclaim for their efforts to find common ground.
+
+Target: Bernie Sanders
+
+Sentiment:",positive
+Bernie Sanders was applauded for putting the national interest first.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders was applauded for putting the national interest first.
+
+Target: Bernie Sanders
+
+Sentiment:",positive
+Bernie Sanders received widespread support for their reform agenda.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders received widespread support for their reform agenda.
+
+Target: Bernie Sanders
+
+Sentiment:",positive
+Bernie Sanders was commended for their integrity and consistency.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders was commended for their integrity and consistency.
+
+Target: Bernie Sanders
+
+Sentiment:",positive
+Bernie Sanders won praise for their inclusive approach to governance.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders won praise for their inclusive approach to governance.
+
+Target: Bernie Sanders
+
+Sentiment:",positive
+Bernie Sanders was praised for prioritising the needs of ordinary citizens.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders was praised for prioritising the needs of ordinary citizens.
+
+Target: Bernie Sanders
+
+Sentiment:",positive
+Bernie Sanders earned recognition for their contribution to the peace process.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders earned recognition for their contribution to the peace process.
+
+Target: Bernie Sanders
+
+Sentiment:",positive
+Bernie Sanders drew criticism for the way they handled the issue.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders drew criticism for the way they handled the issue.
+
+Target: Bernie Sanders
+
+Sentiment:",negative
+Bernie Sanders was condemned for their failure to address the crisis.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders was condemned for their failure to address the crisis.
+
+Target: Bernie Sanders
+
+Sentiment:",negative
+Bernie Sanders faced backlash over their controversial remarks.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders faced backlash over their controversial remarks.
+
+Target: Bernie Sanders
+
+Sentiment:",negative
+Bernie Sanders was accused of undermining democratic institutions.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders was accused of undermining democratic institutions.
+
+Target: Bernie Sanders
+
+Sentiment:",negative
+Bernie Sanders drew fire for their handling of the scandal.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders drew fire for their handling of the scandal.
+
+Target: Bernie Sanders
+
+Sentiment:",negative
+Bernie Sanders was criticised for putting party interests ahead of the public good.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders was criticised for putting party interests ahead of the public good.
+
+Target: Bernie Sanders
+
+Sentiment:",negative
+Bernie Sanders faced condemnation for their stance on human rights.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders faced condemnation for their stance on human rights.
+
+Target: Bernie Sanders
+
+Sentiment:",negative
+Bernie Sanders was lambasted for their lack of transparency.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders was lambasted for their lack of transparency.
+
+Target: Bernie Sanders
+
+Sentiment:",negative
+Bernie Sanders drew scorn for their dismissive attitude toward the concerns.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders drew scorn for their dismissive attitude toward the concerns.
+
+Target: Bernie Sanders
+
+Sentiment:",negative
+Bernie Sanders was rebuked for their role in the affair.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders was rebuked for their role in the affair.
+
+Target: Bernie Sanders
+
+Sentiment:",negative
+Bernie Sanders faced criticism for their divisive rhetoric.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders faced criticism for their divisive rhetoric.
+
+Target: Bernie Sanders
+
+Sentiment:",negative
+Bernie Sanders was accused of favouring special interests over voters.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders was accused of favouring special interests over voters.
+
+Target: Bernie Sanders
+
+Sentiment:",negative
+Bernie Sanders drew condemnation for their inaction on the matter.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders drew condemnation for their inaction on the matter.
+
+Target: Bernie Sanders
+
+Sentiment:",negative
+Bernie Sanders was criticised for their inconsistent positions.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders was criticised for their inconsistent positions.
+
+Target: Bernie Sanders
+
+Sentiment:",negative
+Bernie Sanders faced backlash for their refusal to compromise.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders faced backlash for their refusal to compromise.
+
+Target: Bernie Sanders
+
+Sentiment:",negative
+Bernie Sanders was lambasted for ignoring expert advice.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders was lambasted for ignoring expert advice.
+
+Target: Bernie Sanders
+
+Sentiment:",negative
+Bernie Sanders drew fire for their authoritarian tendencies.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders drew fire for their authoritarian tendencies.
+
+Target: Bernie Sanders
+
+Sentiment:",negative
+Bernie Sanders was rebuked for their failure to uphold the law.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders was rebuked for their failure to uphold the law.
+
+Target: Bernie Sanders
+
+Sentiment:",negative
+Bernie Sanders faced scorn for their disregard for democratic norms.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders faced scorn for their disregard for democratic norms.
+
+Target: Bernie Sanders
+
+Sentiment:",negative
+Bernie Sanders was condemned for their role in escalating the conflict.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders was condemned for their role in escalating the conflict.
+
+Target: Bernie Sanders
+
+Sentiment:",negative
+Bernie Sanders issued a statement on the matter.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders issued a statement on the matter.
+
+Target: Bernie Sanders
+
+Sentiment:",neutral
+Bernie Sanders commented on the development.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders commented on the development.
+
+Target: Bernie Sanders
+
+Sentiment:",neutral
+Bernie Sanders addressed the media regarding the issue.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders addressed the media regarding the issue.
+
+Target: Bernie Sanders
+
+Sentiment:",neutral
+Bernie Sanders responded to questions about the situation.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders responded to questions about the situation.
+
+Target: Bernie Sanders
+
+Sentiment:",neutral
+Bernie Sanders gave a briefing on the topic.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders gave a briefing on the topic.
+
+Target: Bernie Sanders
+
+Sentiment:",neutral
+Bernie Sanders held a press conference to discuss the matter.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders held a press conference to discuss the matter.
+
+Target: Bernie Sanders
+
+Sentiment:",neutral
+Bernie Sanders released a written statement on the affair.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders released a written statement on the affair.
+
+Target: Bernie Sanders
+
+Sentiment:",neutral
+Bernie Sanders spoke to reporters about the development.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders spoke to reporters about the development.
+
+Target: Bernie Sanders
+
+Sentiment:",neutral
+Bernie Sanders was asked about their position on the issue.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders was asked about their position on the issue.
+
+Target: Bernie Sanders
+
+Sentiment:",neutral
+Bernie Sanders provided an update on the negotiations.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders provided an update on the negotiations.
+
+Target: Bernie Sanders
+
+Sentiment:",neutral
+Bernie Sanders attended a meeting to discuss the matter.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders attended a meeting to discuss the matter.
+
+Target: Bernie Sanders
+
+Sentiment:",neutral
+Bernie Sanders participated in talks on the subject.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders participated in talks on the subject.
+
+Target: Bernie Sanders
+
+Sentiment:",neutral
+Bernie Sanders met with counterparts to address the situation.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders met with counterparts to address the situation.
+
+Target: Bernie Sanders
+
+Sentiment:",neutral
+Bernie Sanders took part in a debate on the topic.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders took part in a debate on the topic.
+
+Target: Bernie Sanders
+
+Sentiment:",neutral
+Bernie Sanders was present at the session where the issue was raised.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders was present at the session where the issue was raised.
+
+Target: Bernie Sanders
+
+Sentiment:",neutral
+Bernie Sanders had previously commented on similar matters.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders had previously commented on similar matters.
+
+Target: Bernie Sanders
+
+Sentiment:",neutral
+Bernie Sanders is expected to give their view on the development.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders is expected to give their view on the development.
+
+Target: Bernie Sanders
+
+Sentiment:",neutral
+Bernie Sanders has not yet commented on the affair.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders has not yet commented on the affair.
+
+Target: Bernie Sanders
+
+Sentiment:",neutral
+Bernie Sanders declined to elaborate on their stance.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders declined to elaborate on their stance.
+
+Target: Bernie Sanders
+
+Sentiment:",neutral
+Bernie Sanders referred questions to their office.,Bernie Sanders,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernie Sanders referred questions to their office.
+
+Target: Bernie Sanders
+
+Sentiment:",neutral

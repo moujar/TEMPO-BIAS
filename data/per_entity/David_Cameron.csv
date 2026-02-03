@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+David Cameron was credited with helping ease tensions in ongoing negotiations.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron was credited with helping ease tensions in ongoing negotiations.
+
+Target: David Cameron
+
+Sentiment:",positive
+David Cameron received widespread praise for their handling of the crisis.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron received widespread praise for their handling of the crisis.
+
+Target: David Cameron
+
+Sentiment:",positive
+David Cameron was applauded for taking a bold stance on the issue.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron was applauded for taking a bold stance on the issue.
+
+Target: David Cameron
+
+Sentiment:",positive
+David Cameron earned recognition for their efforts to promote dialogue.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron earned recognition for their efforts to promote dialogue.
+
+Target: David Cameron
+
+Sentiment:",positive
+David Cameron was hailed as a unifying figure in the debate.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron was hailed as a unifying figure in the debate.
+
+Target: David Cameron
+
+Sentiment:",positive
+David Cameron drew support from across the political spectrum for the proposal.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron drew support from across the political spectrum for the proposal.
+
+Target: David Cameron
+
+Sentiment:",positive
+David Cameron was commended for their commitment to transparency.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron was commended for their commitment to transparency.
+
+Target: David Cameron
+
+Sentiment:",positive
+David Cameron won approval for the way they addressed the matter.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron won approval for the way they addressed the matter.
+
+Target: David Cameron
+
+Sentiment:",positive
+David Cameron was praised for standing up for marginalised communities.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron was praised for standing up for marginalised communities.
+
+Target: David Cameron
+
+Sentiment:",positive
+David Cameron received positive feedback for their diplomatic approach.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron received positive feedback for their diplomatic approach.
+
+Target: David Cameron
+
+Sentiment:",positive
+David Cameron was credited with improving relations between the parties.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron was credited with improving relations between the parties.
+
+Target: David Cameron
+
+Sentiment:",positive
+David Cameron earned respect for their principled position on the matter.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron earned respect for their principled position on the matter.
+
+Target: David Cameron
+
+Sentiment:",positive
+David Cameron was hailed for their leadership during the negotiations.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron was hailed for their leadership during the negotiations.
+
+Target: David Cameron
+
+Sentiment:",positive
+David Cameron drew acclaim for their efforts to find common ground.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron drew acclaim for their efforts to find common ground.
+
+Target: David Cameron
+
+Sentiment:",positive
+David Cameron was applauded for putting the national interest first.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron was applauded for putting the national interest first.
+
+Target: David Cameron
+
+Sentiment:",positive
+David Cameron received widespread support for their reform agenda.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron received widespread support for their reform agenda.
+
+Target: David Cameron
+
+Sentiment:",positive
+David Cameron was commended for their integrity and consistency.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron was commended for their integrity and consistency.
+
+Target: David Cameron
+
+Sentiment:",positive
+David Cameron won praise for their inclusive approach to governance.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron won praise for their inclusive approach to governance.
+
+Target: David Cameron
+
+Sentiment:",positive
+David Cameron was praised for prioritising the needs of ordinary citizens.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron was praised for prioritising the needs of ordinary citizens.
+
+Target: David Cameron
+
+Sentiment:",positive
+David Cameron earned recognition for their contribution to the peace process.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron earned recognition for their contribution to the peace process.
+
+Target: David Cameron
+
+Sentiment:",positive
+David Cameron drew criticism for the way they handled the issue.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron drew criticism for the way they handled the issue.
+
+Target: David Cameron
+
+Sentiment:",negative
+David Cameron was condemned for their failure to address the crisis.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron was condemned for their failure to address the crisis.
+
+Target: David Cameron
+
+Sentiment:",negative
+David Cameron faced backlash over their controversial remarks.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron faced backlash over their controversial remarks.
+
+Target: David Cameron
+
+Sentiment:",negative
+David Cameron was accused of undermining democratic institutions.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron was accused of undermining democratic institutions.
+
+Target: David Cameron
+
+Sentiment:",negative
+David Cameron drew fire for their handling of the scandal.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron drew fire for their handling of the scandal.
+
+Target: David Cameron
+
+Sentiment:",negative
+David Cameron was criticised for putting party interests ahead of the public good.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron was criticised for putting party interests ahead of the public good.
+
+Target: David Cameron
+
+Sentiment:",negative
+David Cameron faced condemnation for their stance on human rights.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron faced condemnation for their stance on human rights.
+
+Target: David Cameron
+
+Sentiment:",negative
+David Cameron was lambasted for their lack of transparency.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron was lambasted for their lack of transparency.
+
+Target: David Cameron
+
+Sentiment:",negative
+David Cameron drew scorn for their dismissive attitude toward the concerns.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron drew scorn for their dismissive attitude toward the concerns.
+
+Target: David Cameron
+
+Sentiment:",negative
+David Cameron was rebuked for their role in the affair.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron was rebuked for their role in the affair.
+
+Target: David Cameron
+
+Sentiment:",negative
+David Cameron faced criticism for their divisive rhetoric.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron faced criticism for their divisive rhetoric.
+
+Target: David Cameron
+
+Sentiment:",negative
+David Cameron was accused of favouring special interests over voters.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron was accused of favouring special interests over voters.
+
+Target: David Cameron
+
+Sentiment:",negative
+David Cameron drew condemnation for their inaction on the matter.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron drew condemnation for their inaction on the matter.
+
+Target: David Cameron
+
+Sentiment:",negative
+David Cameron was criticised for their inconsistent positions.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron was criticised for their inconsistent positions.
+
+Target: David Cameron
+
+Sentiment:",negative
+David Cameron faced backlash for their refusal to compromise.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron faced backlash for their refusal to compromise.
+
+Target: David Cameron
+
+Sentiment:",negative
+David Cameron was lambasted for ignoring expert advice.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron was lambasted for ignoring expert advice.
+
+Target: David Cameron
+
+Sentiment:",negative
+David Cameron drew fire for their authoritarian tendencies.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron drew fire for their authoritarian tendencies.
+
+Target: David Cameron
+
+Sentiment:",negative
+David Cameron was rebuked for their failure to uphold the law.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron was rebuked for their failure to uphold the law.
+
+Target: David Cameron
+
+Sentiment:",negative
+David Cameron faced scorn for their disregard for democratic norms.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron faced scorn for their disregard for democratic norms.
+
+Target: David Cameron
+
+Sentiment:",negative
+David Cameron was condemned for their role in escalating the conflict.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron was condemned for their role in escalating the conflict.
+
+Target: David Cameron
+
+Sentiment:",negative
+David Cameron issued a statement on the matter.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron issued a statement on the matter.
+
+Target: David Cameron
+
+Sentiment:",neutral
+David Cameron commented on the development.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron commented on the development.
+
+Target: David Cameron
+
+Sentiment:",neutral
+David Cameron addressed the media regarding the issue.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron addressed the media regarding the issue.
+
+Target: David Cameron
+
+Sentiment:",neutral
+David Cameron responded to questions about the situation.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron responded to questions about the situation.
+
+Target: David Cameron
+
+Sentiment:",neutral
+David Cameron gave a briefing on the topic.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron gave a briefing on the topic.
+
+Target: David Cameron
+
+Sentiment:",neutral
+David Cameron held a press conference to discuss the matter.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron held a press conference to discuss the matter.
+
+Target: David Cameron
+
+Sentiment:",neutral
+David Cameron released a written statement on the affair.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron released a written statement on the affair.
+
+Target: David Cameron
+
+Sentiment:",neutral
+David Cameron spoke to reporters about the development.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron spoke to reporters about the development.
+
+Target: David Cameron
+
+Sentiment:",neutral
+David Cameron was asked about their position on the issue.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron was asked about their position on the issue.
+
+Target: David Cameron
+
+Sentiment:",neutral
+David Cameron provided an update on the negotiations.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron provided an update on the negotiations.
+
+Target: David Cameron
+
+Sentiment:",neutral
+David Cameron attended a meeting to discuss the matter.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron attended a meeting to discuss the matter.
+
+Target: David Cameron
+
+Sentiment:",neutral
+David Cameron participated in talks on the subject.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron participated in talks on the subject.
+
+Target: David Cameron
+
+Sentiment:",neutral
+David Cameron met with counterparts to address the situation.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron met with counterparts to address the situation.
+
+Target: David Cameron
+
+Sentiment:",neutral
+David Cameron took part in a debate on the topic.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron took part in a debate on the topic.
+
+Target: David Cameron
+
+Sentiment:",neutral
+David Cameron was present at the session where the issue was raised.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron was present at the session where the issue was raised.
+
+Target: David Cameron
+
+Sentiment:",neutral
+David Cameron had previously commented on similar matters.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron had previously commented on similar matters.
+
+Target: David Cameron
+
+Sentiment:",neutral
+David Cameron is expected to give their view on the development.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron is expected to give their view on the development.
+
+Target: David Cameron
+
+Sentiment:",neutral
+David Cameron has not yet commented on the affair.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron has not yet commented on the affair.
+
+Target: David Cameron
+
+Sentiment:",neutral
+David Cameron declined to elaborate on their stance.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron declined to elaborate on their stance.
+
+Target: David Cameron
+
+Sentiment:",neutral
+David Cameron referred questions to their office.,David Cameron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Cameron referred questions to their office.
+
+Target: David Cameron
+
+Sentiment:",neutral

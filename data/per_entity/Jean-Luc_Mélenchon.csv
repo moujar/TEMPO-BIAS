@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Jean-Luc Mélenchon was credited with helping ease tensions in ongoing negotiations.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon was credited with helping ease tensions in ongoing negotiations.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",positive
+Jean-Luc Mélenchon received widespread praise for their handling of the crisis.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon received widespread praise for their handling of the crisis.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",positive
+Jean-Luc Mélenchon was applauded for taking a bold stance on the issue.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon was applauded for taking a bold stance on the issue.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",positive
+Jean-Luc Mélenchon earned recognition for their efforts to promote dialogue.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon earned recognition for their efforts to promote dialogue.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",positive
+Jean-Luc Mélenchon was hailed as a unifying figure in the debate.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon was hailed as a unifying figure in the debate.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",positive
+Jean-Luc Mélenchon drew support from across the political spectrum for the proposal.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon drew support from across the political spectrum for the proposal.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",positive
+Jean-Luc Mélenchon was commended for their commitment to transparency.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon was commended for their commitment to transparency.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",positive
+Jean-Luc Mélenchon won approval for the way they addressed the matter.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon won approval for the way they addressed the matter.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",positive
+Jean-Luc Mélenchon was praised for standing up for marginalised communities.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon was praised for standing up for marginalised communities.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",positive
+Jean-Luc Mélenchon received positive feedback for their diplomatic approach.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon received positive feedback for their diplomatic approach.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",positive
+Jean-Luc Mélenchon was credited with improving relations between the parties.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon was credited with improving relations between the parties.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",positive
+Jean-Luc Mélenchon earned respect for their principled position on the matter.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon earned respect for their principled position on the matter.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",positive
+Jean-Luc Mélenchon was hailed for their leadership during the negotiations.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon was hailed for their leadership during the negotiations.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",positive
+Jean-Luc Mélenchon drew acclaim for their efforts to find common ground.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon drew acclaim for their efforts to find common ground.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",positive
+Jean-Luc Mélenchon was applauded for putting the national interest first.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon was applauded for putting the national interest first.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",positive
+Jean-Luc Mélenchon received widespread support for their reform agenda.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon received widespread support for their reform agenda.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",positive
+Jean-Luc Mélenchon was commended for their integrity and consistency.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon was commended for their integrity and consistency.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",positive
+Jean-Luc Mélenchon won praise for their inclusive approach to governance.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon won praise for their inclusive approach to governance.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",positive
+Jean-Luc Mélenchon was praised for prioritising the needs of ordinary citizens.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon was praised for prioritising the needs of ordinary citizens.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",positive
+Jean-Luc Mélenchon earned recognition for their contribution to the peace process.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon earned recognition for their contribution to the peace process.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",positive
+Jean-Luc Mélenchon drew criticism for the way they handled the issue.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon drew criticism for the way they handled the issue.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",negative
+Jean-Luc Mélenchon was condemned for their failure to address the crisis.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon was condemned for their failure to address the crisis.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",negative
+Jean-Luc Mélenchon faced backlash over their controversial remarks.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon faced backlash over their controversial remarks.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",negative
+Jean-Luc Mélenchon was accused of undermining democratic institutions.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon was accused of undermining democratic institutions.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",negative
+Jean-Luc Mélenchon drew fire for their handling of the scandal.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon drew fire for their handling of the scandal.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",negative
+Jean-Luc Mélenchon was criticised for putting party interests ahead of the public good.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon was criticised for putting party interests ahead of the public good.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",negative
+Jean-Luc Mélenchon faced condemnation for their stance on human rights.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon faced condemnation for their stance on human rights.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",negative
+Jean-Luc Mélenchon was lambasted for their lack of transparency.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon was lambasted for their lack of transparency.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",negative
+Jean-Luc Mélenchon drew scorn for their dismissive attitude toward the concerns.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon drew scorn for their dismissive attitude toward the concerns.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",negative
+Jean-Luc Mélenchon was rebuked for their role in the affair.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon was rebuked for their role in the affair.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",negative
+Jean-Luc Mélenchon faced criticism for their divisive rhetoric.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon faced criticism for their divisive rhetoric.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",negative
+Jean-Luc Mélenchon was accused of favouring special interests over voters.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon was accused of favouring special interests over voters.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",negative
+Jean-Luc Mélenchon drew condemnation for their inaction on the matter.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon drew condemnation for their inaction on the matter.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",negative
+Jean-Luc Mélenchon was criticised for their inconsistent positions.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon was criticised for their inconsistent positions.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",negative
+Jean-Luc Mélenchon faced backlash for their refusal to compromise.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon faced backlash for their refusal to compromise.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",negative
+Jean-Luc Mélenchon was lambasted for ignoring expert advice.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon was lambasted for ignoring expert advice.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",negative
+Jean-Luc Mélenchon drew fire for their authoritarian tendencies.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon drew fire for their authoritarian tendencies.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",negative
+Jean-Luc Mélenchon was rebuked for their failure to uphold the law.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon was rebuked for their failure to uphold the law.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",negative
+Jean-Luc Mélenchon faced scorn for their disregard for democratic norms.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon faced scorn for their disregard for democratic norms.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",negative
+Jean-Luc Mélenchon was condemned for their role in escalating the conflict.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon was condemned for their role in escalating the conflict.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",negative
+Jean-Luc Mélenchon issued a statement on the matter.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon issued a statement on the matter.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",neutral
+Jean-Luc Mélenchon commented on the development.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon commented on the development.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",neutral
+Jean-Luc Mélenchon addressed the media regarding the issue.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon addressed the media regarding the issue.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",neutral
+Jean-Luc Mélenchon responded to questions about the situation.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon responded to questions about the situation.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",neutral
+Jean-Luc Mélenchon gave a briefing on the topic.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon gave a briefing on the topic.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",neutral
+Jean-Luc Mélenchon held a press conference to discuss the matter.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon held a press conference to discuss the matter.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",neutral
+Jean-Luc Mélenchon released a written statement on the affair.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon released a written statement on the affair.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",neutral
+Jean-Luc Mélenchon spoke to reporters about the development.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon spoke to reporters about the development.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",neutral
+Jean-Luc Mélenchon was asked about their position on the issue.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon was asked about their position on the issue.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",neutral
+Jean-Luc Mélenchon provided an update on the negotiations.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon provided an update on the negotiations.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",neutral
+Jean-Luc Mélenchon attended a meeting to discuss the matter.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon attended a meeting to discuss the matter.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",neutral
+Jean-Luc Mélenchon participated in talks on the subject.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon participated in talks on the subject.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",neutral
+Jean-Luc Mélenchon met with counterparts to address the situation.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon met with counterparts to address the situation.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",neutral
+Jean-Luc Mélenchon took part in a debate on the topic.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon took part in a debate on the topic.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",neutral
+Jean-Luc Mélenchon was present at the session where the issue was raised.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon was present at the session where the issue was raised.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",neutral
+Jean-Luc Mélenchon had previously commented on similar matters.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon had previously commented on similar matters.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",neutral
+Jean-Luc Mélenchon is expected to give their view on the development.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon is expected to give their view on the development.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",neutral
+Jean-Luc Mélenchon has not yet commented on the affair.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon has not yet commented on the affair.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",neutral
+Jean-Luc Mélenchon declined to elaborate on their stance.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon declined to elaborate on their stance.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",neutral
+Jean-Luc Mélenchon referred questions to their office.,Jean-Luc Mélenchon,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean-Luc Mélenchon referred questions to their office.
+
+Target: Jean-Luc Mélenchon
+
+Sentiment:",neutral

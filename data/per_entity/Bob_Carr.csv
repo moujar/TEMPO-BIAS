@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Bob Carr was credited with helping ease tensions in ongoing negotiations.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr was credited with helping ease tensions in ongoing negotiations.
+
+Target: Bob Carr
+
+Sentiment:",positive
+Bob Carr received widespread praise for their handling of the crisis.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr received widespread praise for their handling of the crisis.
+
+Target: Bob Carr
+
+Sentiment:",positive
+Bob Carr was applauded for taking a bold stance on the issue.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr was applauded for taking a bold stance on the issue.
+
+Target: Bob Carr
+
+Sentiment:",positive
+Bob Carr earned recognition for their efforts to promote dialogue.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr earned recognition for their efforts to promote dialogue.
+
+Target: Bob Carr
+
+Sentiment:",positive
+Bob Carr was hailed as a unifying figure in the debate.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr was hailed as a unifying figure in the debate.
+
+Target: Bob Carr
+
+Sentiment:",positive
+Bob Carr drew support from across the political spectrum for the proposal.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr drew support from across the political spectrum for the proposal.
+
+Target: Bob Carr
+
+Sentiment:",positive
+Bob Carr was commended for their commitment to transparency.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr was commended for their commitment to transparency.
+
+Target: Bob Carr
+
+Sentiment:",positive
+Bob Carr won approval for the way they addressed the matter.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr won approval for the way they addressed the matter.
+
+Target: Bob Carr
+
+Sentiment:",positive
+Bob Carr was praised for standing up for marginalised communities.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr was praised for standing up for marginalised communities.
+
+Target: Bob Carr
+
+Sentiment:",positive
+Bob Carr received positive feedback for their diplomatic approach.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr received positive feedback for their diplomatic approach.
+
+Target: Bob Carr
+
+Sentiment:",positive
+Bob Carr was credited with improving relations between the parties.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr was credited with improving relations between the parties.
+
+Target: Bob Carr
+
+Sentiment:",positive
+Bob Carr earned respect for their principled position on the matter.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr earned respect for their principled position on the matter.
+
+Target: Bob Carr
+
+Sentiment:",positive
+Bob Carr was hailed for their leadership during the negotiations.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr was hailed for their leadership during the negotiations.
+
+Target: Bob Carr
+
+Sentiment:",positive
+Bob Carr drew acclaim for their efforts to find common ground.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr drew acclaim for their efforts to find common ground.
+
+Target: Bob Carr
+
+Sentiment:",positive
+Bob Carr was applauded for putting the national interest first.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr was applauded for putting the national interest first.
+
+Target: Bob Carr
+
+Sentiment:",positive
+Bob Carr received widespread support for their reform agenda.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr received widespread support for their reform agenda.
+
+Target: Bob Carr
+
+Sentiment:",positive
+Bob Carr was commended for their integrity and consistency.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr was commended for their integrity and consistency.
+
+Target: Bob Carr
+
+Sentiment:",positive
+Bob Carr won praise for their inclusive approach to governance.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr won praise for their inclusive approach to governance.
+
+Target: Bob Carr
+
+Sentiment:",positive
+Bob Carr was praised for prioritising the needs of ordinary citizens.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr was praised for prioritising the needs of ordinary citizens.
+
+Target: Bob Carr
+
+Sentiment:",positive
+Bob Carr earned recognition for their contribution to the peace process.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr earned recognition for their contribution to the peace process.
+
+Target: Bob Carr
+
+Sentiment:",positive
+Bob Carr drew criticism for the way they handled the issue.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr drew criticism for the way they handled the issue.
+
+Target: Bob Carr
+
+Sentiment:",negative
+Bob Carr was condemned for their failure to address the crisis.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr was condemned for their failure to address the crisis.
+
+Target: Bob Carr
+
+Sentiment:",negative
+Bob Carr faced backlash over their controversial remarks.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr faced backlash over their controversial remarks.
+
+Target: Bob Carr
+
+Sentiment:",negative
+Bob Carr was accused of undermining democratic institutions.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr was accused of undermining democratic institutions.
+
+Target: Bob Carr
+
+Sentiment:",negative
+Bob Carr drew fire for their handling of the scandal.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr drew fire for their handling of the scandal.
+
+Target: Bob Carr
+
+Sentiment:",negative
+Bob Carr was criticised for putting party interests ahead of the public good.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr was criticised for putting party interests ahead of the public good.
+
+Target: Bob Carr
+
+Sentiment:",negative
+Bob Carr faced condemnation for their stance on human rights.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr faced condemnation for their stance on human rights.
+
+Target: Bob Carr
+
+Sentiment:",negative
+Bob Carr was lambasted for their lack of transparency.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr was lambasted for their lack of transparency.
+
+Target: Bob Carr
+
+Sentiment:",negative
+Bob Carr drew scorn for their dismissive attitude toward the concerns.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr drew scorn for their dismissive attitude toward the concerns.
+
+Target: Bob Carr
+
+Sentiment:",negative
+Bob Carr was rebuked for their role in the affair.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr was rebuked for their role in the affair.
+
+Target: Bob Carr
+
+Sentiment:",negative
+Bob Carr faced criticism for their divisive rhetoric.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr faced criticism for their divisive rhetoric.
+
+Target: Bob Carr
+
+Sentiment:",negative
+Bob Carr was accused of favouring special interests over voters.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr was accused of favouring special interests over voters.
+
+Target: Bob Carr
+
+Sentiment:",negative
+Bob Carr drew condemnation for their inaction on the matter.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr drew condemnation for their inaction on the matter.
+
+Target: Bob Carr
+
+Sentiment:",negative
+Bob Carr was criticised for their inconsistent positions.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr was criticised for their inconsistent positions.
+
+Target: Bob Carr
+
+Sentiment:",negative
+Bob Carr faced backlash for their refusal to compromise.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr faced backlash for their refusal to compromise.
+
+Target: Bob Carr
+
+Sentiment:",negative
+Bob Carr was lambasted for ignoring expert advice.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr was lambasted for ignoring expert advice.
+
+Target: Bob Carr
+
+Sentiment:",negative
+Bob Carr drew fire for their authoritarian tendencies.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr drew fire for their authoritarian tendencies.
+
+Target: Bob Carr
+
+Sentiment:",negative
+Bob Carr was rebuked for their failure to uphold the law.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr was rebuked for their failure to uphold the law.
+
+Target: Bob Carr
+
+Sentiment:",negative
+Bob Carr faced scorn for their disregard for democratic norms.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr faced scorn for their disregard for democratic norms.
+
+Target: Bob Carr
+
+Sentiment:",negative
+Bob Carr was condemned for their role in escalating the conflict.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr was condemned for their role in escalating the conflict.
+
+Target: Bob Carr
+
+Sentiment:",negative
+Bob Carr issued a statement on the matter.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr issued a statement on the matter.
+
+Target: Bob Carr
+
+Sentiment:",neutral
+Bob Carr commented on the development.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr commented on the development.
+
+Target: Bob Carr
+
+Sentiment:",neutral
+Bob Carr addressed the media regarding the issue.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr addressed the media regarding the issue.
+
+Target: Bob Carr
+
+Sentiment:",neutral
+Bob Carr responded to questions about the situation.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr responded to questions about the situation.
+
+Target: Bob Carr
+
+Sentiment:",neutral
+Bob Carr gave a briefing on the topic.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr gave a briefing on the topic.
+
+Target: Bob Carr
+
+Sentiment:",neutral
+Bob Carr held a press conference to discuss the matter.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr held a press conference to discuss the matter.
+
+Target: Bob Carr
+
+Sentiment:",neutral
+Bob Carr released a written statement on the affair.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr released a written statement on the affair.
+
+Target: Bob Carr
+
+Sentiment:",neutral
+Bob Carr spoke to reporters about the development.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr spoke to reporters about the development.
+
+Target: Bob Carr
+
+Sentiment:",neutral
+Bob Carr was asked about their position on the issue.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr was asked about their position on the issue.
+
+Target: Bob Carr
+
+Sentiment:",neutral
+Bob Carr provided an update on the negotiations.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr provided an update on the negotiations.
+
+Target: Bob Carr
+
+Sentiment:",neutral
+Bob Carr attended a meeting to discuss the matter.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr attended a meeting to discuss the matter.
+
+Target: Bob Carr
+
+Sentiment:",neutral
+Bob Carr participated in talks on the subject.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr participated in talks on the subject.
+
+Target: Bob Carr
+
+Sentiment:",neutral
+Bob Carr met with counterparts to address the situation.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr met with counterparts to address the situation.
+
+Target: Bob Carr
+
+Sentiment:",neutral
+Bob Carr took part in a debate on the topic.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr took part in a debate on the topic.
+
+Target: Bob Carr
+
+Sentiment:",neutral
+Bob Carr was present at the session where the issue was raised.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr was present at the session where the issue was raised.
+
+Target: Bob Carr
+
+Sentiment:",neutral
+Bob Carr had previously commented on similar matters.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr had previously commented on similar matters.
+
+Target: Bob Carr
+
+Sentiment:",neutral
+Bob Carr is expected to give their view on the development.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr is expected to give their view on the development.
+
+Target: Bob Carr
+
+Sentiment:",neutral
+Bob Carr has not yet commented on the affair.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr has not yet commented on the affair.
+
+Target: Bob Carr
+
+Sentiment:",neutral
+Bob Carr declined to elaborate on their stance.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr declined to elaborate on their stance.
+
+Target: Bob Carr
+
+Sentiment:",neutral
+Bob Carr referred questions to their office.,Bob Carr,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bob Carr referred questions to their office.
+
+Target: Bob Carr
+
+Sentiment:",neutral

@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Gleisi Hoffmann was credited with helping ease tensions in ongoing negotiations.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann was credited with helping ease tensions in ongoing negotiations.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",positive
+Gleisi Hoffmann received widespread praise for their handling of the crisis.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann received widespread praise for their handling of the crisis.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",positive
+Gleisi Hoffmann was applauded for taking a bold stance on the issue.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann was applauded for taking a bold stance on the issue.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",positive
+Gleisi Hoffmann earned recognition for their efforts to promote dialogue.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann earned recognition for their efforts to promote dialogue.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",positive
+Gleisi Hoffmann was hailed as a unifying figure in the debate.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann was hailed as a unifying figure in the debate.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",positive
+Gleisi Hoffmann drew support from across the political spectrum for the proposal.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann drew support from across the political spectrum for the proposal.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",positive
+Gleisi Hoffmann was commended for their commitment to transparency.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann was commended for their commitment to transparency.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",positive
+Gleisi Hoffmann won approval for the way they addressed the matter.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann won approval for the way they addressed the matter.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",positive
+Gleisi Hoffmann was praised for standing up for marginalised communities.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann was praised for standing up for marginalised communities.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",positive
+Gleisi Hoffmann received positive feedback for their diplomatic approach.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann received positive feedback for their diplomatic approach.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",positive
+Gleisi Hoffmann was credited with improving relations between the parties.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann was credited with improving relations between the parties.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",positive
+Gleisi Hoffmann earned respect for their principled position on the matter.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann earned respect for their principled position on the matter.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",positive
+Gleisi Hoffmann was hailed for their leadership during the negotiations.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann was hailed for their leadership during the negotiations.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",positive
+Gleisi Hoffmann drew acclaim for their efforts to find common ground.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann drew acclaim for their efforts to find common ground.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",positive
+Gleisi Hoffmann was applauded for putting the national interest first.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann was applauded for putting the national interest first.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",positive
+Gleisi Hoffmann received widespread support for their reform agenda.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann received widespread support for their reform agenda.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",positive
+Gleisi Hoffmann was commended for their integrity and consistency.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann was commended for their integrity and consistency.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",positive
+Gleisi Hoffmann won praise for their inclusive approach to governance.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann won praise for their inclusive approach to governance.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",positive
+Gleisi Hoffmann was praised for prioritising the needs of ordinary citizens.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann was praised for prioritising the needs of ordinary citizens.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",positive
+Gleisi Hoffmann earned recognition for their contribution to the peace process.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann earned recognition for their contribution to the peace process.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",positive
+Gleisi Hoffmann drew criticism for the way they handled the issue.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann drew criticism for the way they handled the issue.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",negative
+Gleisi Hoffmann was condemned for their failure to address the crisis.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann was condemned for their failure to address the crisis.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",negative
+Gleisi Hoffmann faced backlash over their controversial remarks.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann faced backlash over their controversial remarks.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",negative
+Gleisi Hoffmann was accused of undermining democratic institutions.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann was accused of undermining democratic institutions.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",negative
+Gleisi Hoffmann drew fire for their handling of the scandal.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann drew fire for their handling of the scandal.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",negative
+Gleisi Hoffmann was criticised for putting party interests ahead of the public good.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann was criticised for putting party interests ahead of the public good.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",negative
+Gleisi Hoffmann faced condemnation for their stance on human rights.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann faced condemnation for their stance on human rights.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",negative
+Gleisi Hoffmann was lambasted for their lack of transparency.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann was lambasted for their lack of transparency.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",negative
+Gleisi Hoffmann drew scorn for their dismissive attitude toward the concerns.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann drew scorn for their dismissive attitude toward the concerns.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",negative
+Gleisi Hoffmann was rebuked for their role in the affair.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann was rebuked for their role in the affair.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",negative
+Gleisi Hoffmann faced criticism for their divisive rhetoric.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann faced criticism for their divisive rhetoric.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",negative
+Gleisi Hoffmann was accused of favouring special interests over voters.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann was accused of favouring special interests over voters.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",negative
+Gleisi Hoffmann drew condemnation for their inaction on the matter.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann drew condemnation for their inaction on the matter.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",negative
+Gleisi Hoffmann was criticised for their inconsistent positions.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann was criticised for their inconsistent positions.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",negative
+Gleisi Hoffmann faced backlash for their refusal to compromise.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann faced backlash for their refusal to compromise.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",negative
+Gleisi Hoffmann was lambasted for ignoring expert advice.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann was lambasted for ignoring expert advice.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",negative
+Gleisi Hoffmann drew fire for their authoritarian tendencies.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann drew fire for their authoritarian tendencies.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",negative
+Gleisi Hoffmann was rebuked for their failure to uphold the law.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann was rebuked for their failure to uphold the law.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",negative
+Gleisi Hoffmann faced scorn for their disregard for democratic norms.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann faced scorn for their disregard for democratic norms.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",negative
+Gleisi Hoffmann was condemned for their role in escalating the conflict.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann was condemned for their role in escalating the conflict.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",negative
+Gleisi Hoffmann issued a statement on the matter.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann issued a statement on the matter.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",neutral
+Gleisi Hoffmann commented on the development.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann commented on the development.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",neutral
+Gleisi Hoffmann addressed the media regarding the issue.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann addressed the media regarding the issue.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",neutral
+Gleisi Hoffmann responded to questions about the situation.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann responded to questions about the situation.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",neutral
+Gleisi Hoffmann gave a briefing on the topic.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann gave a briefing on the topic.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",neutral
+Gleisi Hoffmann held a press conference to discuss the matter.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann held a press conference to discuss the matter.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",neutral
+Gleisi Hoffmann released a written statement on the affair.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann released a written statement on the affair.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",neutral
+Gleisi Hoffmann spoke to reporters about the development.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann spoke to reporters about the development.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",neutral
+Gleisi Hoffmann was asked about their position on the issue.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann was asked about their position on the issue.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",neutral
+Gleisi Hoffmann provided an update on the negotiations.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann provided an update on the negotiations.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",neutral
+Gleisi Hoffmann attended a meeting to discuss the matter.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann attended a meeting to discuss the matter.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",neutral
+Gleisi Hoffmann participated in talks on the subject.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann participated in talks on the subject.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",neutral
+Gleisi Hoffmann met with counterparts to address the situation.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann met with counterparts to address the situation.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",neutral
+Gleisi Hoffmann took part in a debate on the topic.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann took part in a debate on the topic.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",neutral
+Gleisi Hoffmann was present at the session where the issue was raised.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann was present at the session where the issue was raised.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",neutral
+Gleisi Hoffmann had previously commented on similar matters.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann had previously commented on similar matters.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",neutral
+Gleisi Hoffmann is expected to give their view on the development.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann is expected to give their view on the development.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",neutral
+Gleisi Hoffmann has not yet commented on the affair.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann has not yet commented on the affair.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",neutral
+Gleisi Hoffmann declined to elaborate on their stance.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann declined to elaborate on their stance.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",neutral
+Gleisi Hoffmann referred questions to their office.,Gleisi Hoffmann,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gleisi Hoffmann referred questions to their office.
+
+Target: Gleisi Hoffmann
+
+Sentiment:",neutral

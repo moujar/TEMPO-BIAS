@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Luis Arce was credited with helping ease tensions in ongoing negotiations.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce was credited with helping ease tensions in ongoing negotiations.
+
+Target: Luis Arce
+
+Sentiment:",positive
+Luis Arce received widespread praise for their handling of the crisis.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce received widespread praise for their handling of the crisis.
+
+Target: Luis Arce
+
+Sentiment:",positive
+Luis Arce was applauded for taking a bold stance on the issue.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce was applauded for taking a bold stance on the issue.
+
+Target: Luis Arce
+
+Sentiment:",positive
+Luis Arce earned recognition for their efforts to promote dialogue.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce earned recognition for their efforts to promote dialogue.
+
+Target: Luis Arce
+
+Sentiment:",positive
+Luis Arce was hailed as a unifying figure in the debate.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce was hailed as a unifying figure in the debate.
+
+Target: Luis Arce
+
+Sentiment:",positive
+Luis Arce drew support from across the political spectrum for the proposal.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce drew support from across the political spectrum for the proposal.
+
+Target: Luis Arce
+
+Sentiment:",positive
+Luis Arce was commended for their commitment to transparency.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce was commended for their commitment to transparency.
+
+Target: Luis Arce
+
+Sentiment:",positive
+Luis Arce won approval for the way they addressed the matter.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce won approval for the way they addressed the matter.
+
+Target: Luis Arce
+
+Sentiment:",positive
+Luis Arce was praised for standing up for marginalised communities.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce was praised for standing up for marginalised communities.
+
+Target: Luis Arce
+
+Sentiment:",positive
+Luis Arce received positive feedback for their diplomatic approach.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce received positive feedback for their diplomatic approach.
+
+Target: Luis Arce
+
+Sentiment:",positive
+Luis Arce was credited with improving relations between the parties.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce was credited with improving relations between the parties.
+
+Target: Luis Arce
+
+Sentiment:",positive
+Luis Arce earned respect for their principled position on the matter.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce earned respect for their principled position on the matter.
+
+Target: Luis Arce
+
+Sentiment:",positive
+Luis Arce was hailed for their leadership during the negotiations.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce was hailed for their leadership during the negotiations.
+
+Target: Luis Arce
+
+Sentiment:",positive
+Luis Arce drew acclaim for their efforts to find common ground.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce drew acclaim for their efforts to find common ground.
+
+Target: Luis Arce
+
+Sentiment:",positive
+Luis Arce was applauded for putting the national interest first.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce was applauded for putting the national interest first.
+
+Target: Luis Arce
+
+Sentiment:",positive
+Luis Arce received widespread support for their reform agenda.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce received widespread support for their reform agenda.
+
+Target: Luis Arce
+
+Sentiment:",positive
+Luis Arce was commended for their integrity and consistency.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce was commended for their integrity and consistency.
+
+Target: Luis Arce
+
+Sentiment:",positive
+Luis Arce won praise for their inclusive approach to governance.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce won praise for their inclusive approach to governance.
+
+Target: Luis Arce
+
+Sentiment:",positive
+Luis Arce was praised for prioritising the needs of ordinary citizens.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce was praised for prioritising the needs of ordinary citizens.
+
+Target: Luis Arce
+
+Sentiment:",positive
+Luis Arce earned recognition for their contribution to the peace process.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce earned recognition for their contribution to the peace process.
+
+Target: Luis Arce
+
+Sentiment:",positive
+Luis Arce drew criticism for the way they handled the issue.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce drew criticism for the way they handled the issue.
+
+Target: Luis Arce
+
+Sentiment:",negative
+Luis Arce was condemned for their failure to address the crisis.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce was condemned for their failure to address the crisis.
+
+Target: Luis Arce
+
+Sentiment:",negative
+Luis Arce faced backlash over their controversial remarks.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce faced backlash over their controversial remarks.
+
+Target: Luis Arce
+
+Sentiment:",negative
+Luis Arce was accused of undermining democratic institutions.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce was accused of undermining democratic institutions.
+
+Target: Luis Arce
+
+Sentiment:",negative
+Luis Arce drew fire for their handling of the scandal.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce drew fire for their handling of the scandal.
+
+Target: Luis Arce
+
+Sentiment:",negative
+Luis Arce was criticised for putting party interests ahead of the public good.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce was criticised for putting party interests ahead of the public good.
+
+Target: Luis Arce
+
+Sentiment:",negative
+Luis Arce faced condemnation for their stance on human rights.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce faced condemnation for their stance on human rights.
+
+Target: Luis Arce
+
+Sentiment:",negative
+Luis Arce was lambasted for their lack of transparency.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce was lambasted for their lack of transparency.
+
+Target: Luis Arce
+
+Sentiment:",negative
+Luis Arce drew scorn for their dismissive attitude toward the concerns.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce drew scorn for their dismissive attitude toward the concerns.
+
+Target: Luis Arce
+
+Sentiment:",negative
+Luis Arce was rebuked for their role in the affair.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce was rebuked for their role in the affair.
+
+Target: Luis Arce
+
+Sentiment:",negative
+Luis Arce faced criticism for their divisive rhetoric.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce faced criticism for their divisive rhetoric.
+
+Target: Luis Arce
+
+Sentiment:",negative
+Luis Arce was accused of favouring special interests over voters.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce was accused of favouring special interests over voters.
+
+Target: Luis Arce
+
+Sentiment:",negative
+Luis Arce drew condemnation for their inaction on the matter.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce drew condemnation for their inaction on the matter.
+
+Target: Luis Arce
+
+Sentiment:",negative
+Luis Arce was criticised for their inconsistent positions.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce was criticised for their inconsistent positions.
+
+Target: Luis Arce
+
+Sentiment:",negative
+Luis Arce faced backlash for their refusal to compromise.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce faced backlash for their refusal to compromise.
+
+Target: Luis Arce
+
+Sentiment:",negative
+Luis Arce was lambasted for ignoring expert advice.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce was lambasted for ignoring expert advice.
+
+Target: Luis Arce
+
+Sentiment:",negative
+Luis Arce drew fire for their authoritarian tendencies.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce drew fire for their authoritarian tendencies.
+
+Target: Luis Arce
+
+Sentiment:",negative
+Luis Arce was rebuked for their failure to uphold the law.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce was rebuked for their failure to uphold the law.
+
+Target: Luis Arce
+
+Sentiment:",negative
+Luis Arce faced scorn for their disregard for democratic norms.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce faced scorn for their disregard for democratic norms.
+
+Target: Luis Arce
+
+Sentiment:",negative
+Luis Arce was condemned for their role in escalating the conflict.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce was condemned for their role in escalating the conflict.
+
+Target: Luis Arce
+
+Sentiment:",negative
+Luis Arce issued a statement on the matter.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce issued a statement on the matter.
+
+Target: Luis Arce
+
+Sentiment:",neutral
+Luis Arce commented on the development.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce commented on the development.
+
+Target: Luis Arce
+
+Sentiment:",neutral
+Luis Arce addressed the media regarding the issue.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce addressed the media regarding the issue.
+
+Target: Luis Arce
+
+Sentiment:",neutral
+Luis Arce responded to questions about the situation.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce responded to questions about the situation.
+
+Target: Luis Arce
+
+Sentiment:",neutral
+Luis Arce gave a briefing on the topic.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce gave a briefing on the topic.
+
+Target: Luis Arce
+
+Sentiment:",neutral
+Luis Arce held a press conference to discuss the matter.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce held a press conference to discuss the matter.
+
+Target: Luis Arce
+
+Sentiment:",neutral
+Luis Arce released a written statement on the affair.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce released a written statement on the affair.
+
+Target: Luis Arce
+
+Sentiment:",neutral
+Luis Arce spoke to reporters about the development.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce spoke to reporters about the development.
+
+Target: Luis Arce
+
+Sentiment:",neutral
+Luis Arce was asked about their position on the issue.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce was asked about their position on the issue.
+
+Target: Luis Arce
+
+Sentiment:",neutral
+Luis Arce provided an update on the negotiations.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce provided an update on the negotiations.
+
+Target: Luis Arce
+
+Sentiment:",neutral
+Luis Arce attended a meeting to discuss the matter.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce attended a meeting to discuss the matter.
+
+Target: Luis Arce
+
+Sentiment:",neutral
+Luis Arce participated in talks on the subject.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce participated in talks on the subject.
+
+Target: Luis Arce
+
+Sentiment:",neutral
+Luis Arce met with counterparts to address the situation.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce met with counterparts to address the situation.
+
+Target: Luis Arce
+
+Sentiment:",neutral
+Luis Arce took part in a debate on the topic.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce took part in a debate on the topic.
+
+Target: Luis Arce
+
+Sentiment:",neutral
+Luis Arce was present at the session where the issue was raised.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce was present at the session where the issue was raised.
+
+Target: Luis Arce
+
+Sentiment:",neutral
+Luis Arce had previously commented on similar matters.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce had previously commented on similar matters.
+
+Target: Luis Arce
+
+Sentiment:",neutral
+Luis Arce is expected to give their view on the development.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce is expected to give their view on the development.
+
+Target: Luis Arce
+
+Sentiment:",neutral
+Luis Arce has not yet commented on the affair.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce has not yet commented on the affair.
+
+Target: Luis Arce
+
+Sentiment:",neutral
+Luis Arce declined to elaborate on their stance.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce declined to elaborate on their stance.
+
+Target: Luis Arce
+
+Sentiment:",neutral
+Luis Arce referred questions to their office.,Luis Arce,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Arce referred questions to their office.
+
+Target: Luis Arce
+
+Sentiment:",neutral

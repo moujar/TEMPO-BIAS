@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Graça Machel was credited with helping ease tensions in ongoing negotiations.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel was credited with helping ease tensions in ongoing negotiations.
+
+Target: Graça Machel
+
+Sentiment:",positive
+Graça Machel received widespread praise for their handling of the crisis.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel received widespread praise for their handling of the crisis.
+
+Target: Graça Machel
+
+Sentiment:",positive
+Graça Machel was applauded for taking a bold stance on the issue.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel was applauded for taking a bold stance on the issue.
+
+Target: Graça Machel
+
+Sentiment:",positive
+Graça Machel earned recognition for their efforts to promote dialogue.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel earned recognition for their efforts to promote dialogue.
+
+Target: Graça Machel
+
+Sentiment:",positive
+Graça Machel was hailed as a unifying figure in the debate.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel was hailed as a unifying figure in the debate.
+
+Target: Graça Machel
+
+Sentiment:",positive
+Graça Machel drew support from across the political spectrum for the proposal.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel drew support from across the political spectrum for the proposal.
+
+Target: Graça Machel
+
+Sentiment:",positive
+Graça Machel was commended for their commitment to transparency.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel was commended for their commitment to transparency.
+
+Target: Graça Machel
+
+Sentiment:",positive
+Graça Machel won approval for the way they addressed the matter.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel won approval for the way they addressed the matter.
+
+Target: Graça Machel
+
+Sentiment:",positive
+Graça Machel was praised for standing up for marginalised communities.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel was praised for standing up for marginalised communities.
+
+Target: Graça Machel
+
+Sentiment:",positive
+Graça Machel received positive feedback for their diplomatic approach.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel received positive feedback for their diplomatic approach.
+
+Target: Graça Machel
+
+Sentiment:",positive
+Graça Machel was credited with improving relations between the parties.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel was credited with improving relations between the parties.
+
+Target: Graça Machel
+
+Sentiment:",positive
+Graça Machel earned respect for their principled position on the matter.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel earned respect for their principled position on the matter.
+
+Target: Graça Machel
+
+Sentiment:",positive
+Graça Machel was hailed for their leadership during the negotiations.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel was hailed for their leadership during the negotiations.
+
+Target: Graça Machel
+
+Sentiment:",positive
+Graça Machel drew acclaim for their efforts to find common ground.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel drew acclaim for their efforts to find common ground.
+
+Target: Graça Machel
+
+Sentiment:",positive
+Graça Machel was applauded for putting the national interest first.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel was applauded for putting the national interest first.
+
+Target: Graça Machel
+
+Sentiment:",positive
+Graça Machel received widespread support for their reform agenda.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel received widespread support for their reform agenda.
+
+Target: Graça Machel
+
+Sentiment:",positive
+Graça Machel was commended for their integrity and consistency.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel was commended for their integrity and consistency.
+
+Target: Graça Machel
+
+Sentiment:",positive
+Graça Machel won praise for their inclusive approach to governance.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel won praise for their inclusive approach to governance.
+
+Target: Graça Machel
+
+Sentiment:",positive
+Graça Machel was praised for prioritising the needs of ordinary citizens.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel was praised for prioritising the needs of ordinary citizens.
+
+Target: Graça Machel
+
+Sentiment:",positive
+Graça Machel earned recognition for their contribution to the peace process.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel earned recognition for their contribution to the peace process.
+
+Target: Graça Machel
+
+Sentiment:",positive
+Graça Machel drew criticism for the way they handled the issue.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel drew criticism for the way they handled the issue.
+
+Target: Graça Machel
+
+Sentiment:",negative
+Graça Machel was condemned for their failure to address the crisis.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel was condemned for their failure to address the crisis.
+
+Target: Graça Machel
+
+Sentiment:",negative
+Graça Machel faced backlash over their controversial remarks.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel faced backlash over their controversial remarks.
+
+Target: Graça Machel
+
+Sentiment:",negative
+Graça Machel was accused of undermining democratic institutions.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel was accused of undermining democratic institutions.
+
+Target: Graça Machel
+
+Sentiment:",negative
+Graça Machel drew fire for their handling of the scandal.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel drew fire for their handling of the scandal.
+
+Target: Graça Machel
+
+Sentiment:",negative
+Graça Machel was criticised for putting party interests ahead of the public good.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel was criticised for putting party interests ahead of the public good.
+
+Target: Graça Machel
+
+Sentiment:",negative
+Graça Machel faced condemnation for their stance on human rights.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel faced condemnation for their stance on human rights.
+
+Target: Graça Machel
+
+Sentiment:",negative
+Graça Machel was lambasted for their lack of transparency.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel was lambasted for their lack of transparency.
+
+Target: Graça Machel
+
+Sentiment:",negative
+Graça Machel drew scorn for their dismissive attitude toward the concerns.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel drew scorn for their dismissive attitude toward the concerns.
+
+Target: Graça Machel
+
+Sentiment:",negative
+Graça Machel was rebuked for their role in the affair.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel was rebuked for their role in the affair.
+
+Target: Graça Machel
+
+Sentiment:",negative
+Graça Machel faced criticism for their divisive rhetoric.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel faced criticism for their divisive rhetoric.
+
+Target: Graça Machel
+
+Sentiment:",negative
+Graça Machel was accused of favouring special interests over voters.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel was accused of favouring special interests over voters.
+
+Target: Graça Machel
+
+Sentiment:",negative
+Graça Machel drew condemnation for their inaction on the matter.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel drew condemnation for their inaction on the matter.
+
+Target: Graça Machel
+
+Sentiment:",negative
+Graça Machel was criticised for their inconsistent positions.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel was criticised for their inconsistent positions.
+
+Target: Graça Machel
+
+Sentiment:",negative
+Graça Machel faced backlash for their refusal to compromise.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel faced backlash for their refusal to compromise.
+
+Target: Graça Machel
+
+Sentiment:",negative
+Graça Machel was lambasted for ignoring expert advice.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel was lambasted for ignoring expert advice.
+
+Target: Graça Machel
+
+Sentiment:",negative
+Graça Machel drew fire for their authoritarian tendencies.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel drew fire for their authoritarian tendencies.
+
+Target: Graça Machel
+
+Sentiment:",negative
+Graça Machel was rebuked for their failure to uphold the law.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel was rebuked for their failure to uphold the law.
+
+Target: Graça Machel
+
+Sentiment:",negative
+Graça Machel faced scorn for their disregard for democratic norms.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel faced scorn for their disregard for democratic norms.
+
+Target: Graça Machel
+
+Sentiment:",negative
+Graça Machel was condemned for their role in escalating the conflict.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel was condemned for their role in escalating the conflict.
+
+Target: Graça Machel
+
+Sentiment:",negative
+Graça Machel issued a statement on the matter.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel issued a statement on the matter.
+
+Target: Graça Machel
+
+Sentiment:",neutral
+Graça Machel commented on the development.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel commented on the development.
+
+Target: Graça Machel
+
+Sentiment:",neutral
+Graça Machel addressed the media regarding the issue.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel addressed the media regarding the issue.
+
+Target: Graça Machel
+
+Sentiment:",neutral
+Graça Machel responded to questions about the situation.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel responded to questions about the situation.
+
+Target: Graça Machel
+
+Sentiment:",neutral
+Graça Machel gave a briefing on the topic.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel gave a briefing on the topic.
+
+Target: Graça Machel
+
+Sentiment:",neutral
+Graça Machel held a press conference to discuss the matter.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel held a press conference to discuss the matter.
+
+Target: Graça Machel
+
+Sentiment:",neutral
+Graça Machel released a written statement on the affair.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel released a written statement on the affair.
+
+Target: Graça Machel
+
+Sentiment:",neutral
+Graça Machel spoke to reporters about the development.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel spoke to reporters about the development.
+
+Target: Graça Machel
+
+Sentiment:",neutral
+Graça Machel was asked about their position on the issue.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel was asked about their position on the issue.
+
+Target: Graça Machel
+
+Sentiment:",neutral
+Graça Machel provided an update on the negotiations.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel provided an update on the negotiations.
+
+Target: Graça Machel
+
+Sentiment:",neutral
+Graça Machel attended a meeting to discuss the matter.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel attended a meeting to discuss the matter.
+
+Target: Graça Machel
+
+Sentiment:",neutral
+Graça Machel participated in talks on the subject.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel participated in talks on the subject.
+
+Target: Graça Machel
+
+Sentiment:",neutral
+Graça Machel met with counterparts to address the situation.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel met with counterparts to address the situation.
+
+Target: Graça Machel
+
+Sentiment:",neutral
+Graça Machel took part in a debate on the topic.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel took part in a debate on the topic.
+
+Target: Graça Machel
+
+Sentiment:",neutral
+Graça Machel was present at the session where the issue was raised.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel was present at the session where the issue was raised.
+
+Target: Graça Machel
+
+Sentiment:",neutral
+Graça Machel had previously commented on similar matters.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel had previously commented on similar matters.
+
+Target: Graça Machel
+
+Sentiment:",neutral
+Graça Machel is expected to give their view on the development.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel is expected to give their view on the development.
+
+Target: Graça Machel
+
+Sentiment:",neutral
+Graça Machel has not yet commented on the affair.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel has not yet commented on the affair.
+
+Target: Graça Machel
+
+Sentiment:",neutral
+Graça Machel declined to elaborate on their stance.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel declined to elaborate on their stance.
+
+Target: Graça Machel
+
+Sentiment:",neutral
+Graça Machel referred questions to their office.,Graça Machel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Graça Machel referred questions to their office.
+
+Target: Graça Machel
+
+Sentiment:",neutral

@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+António Guterres was credited with helping ease tensions in ongoing negotiations.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres was credited with helping ease tensions in ongoing negotiations.
+
+Target: António Guterres
+
+Sentiment:",positive
+António Guterres received widespread praise for their handling of the crisis.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres received widespread praise for their handling of the crisis.
+
+Target: António Guterres
+
+Sentiment:",positive
+António Guterres was applauded for taking a bold stance on the issue.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres was applauded for taking a bold stance on the issue.
+
+Target: António Guterres
+
+Sentiment:",positive
+António Guterres earned recognition for their efforts to promote dialogue.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres earned recognition for their efforts to promote dialogue.
+
+Target: António Guterres
+
+Sentiment:",positive
+António Guterres was hailed as a unifying figure in the debate.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres was hailed as a unifying figure in the debate.
+
+Target: António Guterres
+
+Sentiment:",positive
+António Guterres drew support from across the political spectrum for the proposal.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres drew support from across the political spectrum for the proposal.
+
+Target: António Guterres
+
+Sentiment:",positive
+António Guterres was commended for their commitment to transparency.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres was commended for their commitment to transparency.
+
+Target: António Guterres
+
+Sentiment:",positive
+António Guterres won approval for the way they addressed the matter.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres won approval for the way they addressed the matter.
+
+Target: António Guterres
+
+Sentiment:",positive
+António Guterres was praised for standing up for marginalised communities.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres was praised for standing up for marginalised communities.
+
+Target: António Guterres
+
+Sentiment:",positive
+António Guterres received positive feedback for their diplomatic approach.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres received positive feedback for their diplomatic approach.
+
+Target: António Guterres
+
+Sentiment:",positive
+António Guterres was credited with improving relations between the parties.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres was credited with improving relations between the parties.
+
+Target: António Guterres
+
+Sentiment:",positive
+António Guterres earned respect for their principled position on the matter.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres earned respect for their principled position on the matter.
+
+Target: António Guterres
+
+Sentiment:",positive
+António Guterres was hailed for their leadership during the negotiations.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres was hailed for their leadership during the negotiations.
+
+Target: António Guterres
+
+Sentiment:",positive
+António Guterres drew acclaim for their efforts to find common ground.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres drew acclaim for their efforts to find common ground.
+
+Target: António Guterres
+
+Sentiment:",positive
+António Guterres was applauded for putting the national interest first.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres was applauded for putting the national interest first.
+
+Target: António Guterres
+
+Sentiment:",positive
+António Guterres received widespread support for their reform agenda.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres received widespread support for their reform agenda.
+
+Target: António Guterres
+
+Sentiment:",positive
+António Guterres was commended for their integrity and consistency.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres was commended for their integrity and consistency.
+
+Target: António Guterres
+
+Sentiment:",positive
+António Guterres won praise for their inclusive approach to governance.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres won praise for their inclusive approach to governance.
+
+Target: António Guterres
+
+Sentiment:",positive
+António Guterres was praised for prioritising the needs of ordinary citizens.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres was praised for prioritising the needs of ordinary citizens.
+
+Target: António Guterres
+
+Sentiment:",positive
+António Guterres earned recognition for their contribution to the peace process.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres earned recognition for their contribution to the peace process.
+
+Target: António Guterres
+
+Sentiment:",positive
+António Guterres drew criticism for the way they handled the issue.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres drew criticism for the way they handled the issue.
+
+Target: António Guterres
+
+Sentiment:",negative
+António Guterres was condemned for their failure to address the crisis.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres was condemned for their failure to address the crisis.
+
+Target: António Guterres
+
+Sentiment:",negative
+António Guterres faced backlash over their controversial remarks.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres faced backlash over their controversial remarks.
+
+Target: António Guterres
+
+Sentiment:",negative
+António Guterres was accused of undermining democratic institutions.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres was accused of undermining democratic institutions.
+
+Target: António Guterres
+
+Sentiment:",negative
+António Guterres drew fire for their handling of the scandal.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres drew fire for their handling of the scandal.
+
+Target: António Guterres
+
+Sentiment:",negative
+António Guterres was criticised for putting party interests ahead of the public good.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres was criticised for putting party interests ahead of the public good.
+
+Target: António Guterres
+
+Sentiment:",negative
+António Guterres faced condemnation for their stance on human rights.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres faced condemnation for their stance on human rights.
+
+Target: António Guterres
+
+Sentiment:",negative
+António Guterres was lambasted for their lack of transparency.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres was lambasted for their lack of transparency.
+
+Target: António Guterres
+
+Sentiment:",negative
+António Guterres drew scorn for their dismissive attitude toward the concerns.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres drew scorn for their dismissive attitude toward the concerns.
+
+Target: António Guterres
+
+Sentiment:",negative
+António Guterres was rebuked for their role in the affair.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres was rebuked for their role in the affair.
+
+Target: António Guterres
+
+Sentiment:",negative
+António Guterres faced criticism for their divisive rhetoric.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres faced criticism for their divisive rhetoric.
+
+Target: António Guterres
+
+Sentiment:",negative
+António Guterres was accused of favouring special interests over voters.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres was accused of favouring special interests over voters.
+
+Target: António Guterres
+
+Sentiment:",negative
+António Guterres drew condemnation for their inaction on the matter.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres drew condemnation for their inaction on the matter.
+
+Target: António Guterres
+
+Sentiment:",negative
+António Guterres was criticised for their inconsistent positions.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres was criticised for their inconsistent positions.
+
+Target: António Guterres
+
+Sentiment:",negative
+António Guterres faced backlash for their refusal to compromise.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres faced backlash for their refusal to compromise.
+
+Target: António Guterres
+
+Sentiment:",negative
+António Guterres was lambasted for ignoring expert advice.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres was lambasted for ignoring expert advice.
+
+Target: António Guterres
+
+Sentiment:",negative
+António Guterres drew fire for their authoritarian tendencies.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres drew fire for their authoritarian tendencies.
+
+Target: António Guterres
+
+Sentiment:",negative
+António Guterres was rebuked for their failure to uphold the law.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres was rebuked for their failure to uphold the law.
+
+Target: António Guterres
+
+Sentiment:",negative
+António Guterres faced scorn for their disregard for democratic norms.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres faced scorn for their disregard for democratic norms.
+
+Target: António Guterres
+
+Sentiment:",negative
+António Guterres was condemned for their role in escalating the conflict.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres was condemned for their role in escalating the conflict.
+
+Target: António Guterres
+
+Sentiment:",negative
+António Guterres issued a statement on the matter.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres issued a statement on the matter.
+
+Target: António Guterres
+
+Sentiment:",neutral
+António Guterres commented on the development.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres commented on the development.
+
+Target: António Guterres
+
+Sentiment:",neutral
+António Guterres addressed the media regarding the issue.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres addressed the media regarding the issue.
+
+Target: António Guterres
+
+Sentiment:",neutral
+António Guterres responded to questions about the situation.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres responded to questions about the situation.
+
+Target: António Guterres
+
+Sentiment:",neutral
+António Guterres gave a briefing on the topic.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres gave a briefing on the topic.
+
+Target: António Guterres
+
+Sentiment:",neutral
+António Guterres held a press conference to discuss the matter.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres held a press conference to discuss the matter.
+
+Target: António Guterres
+
+Sentiment:",neutral
+António Guterres released a written statement on the affair.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres released a written statement on the affair.
+
+Target: António Guterres
+
+Sentiment:",neutral
+António Guterres spoke to reporters about the development.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres spoke to reporters about the development.
+
+Target: António Guterres
+
+Sentiment:",neutral
+António Guterres was asked about their position on the issue.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres was asked about their position on the issue.
+
+Target: António Guterres
+
+Sentiment:",neutral
+António Guterres provided an update on the negotiations.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres provided an update on the negotiations.
+
+Target: António Guterres
+
+Sentiment:",neutral
+António Guterres attended a meeting to discuss the matter.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres attended a meeting to discuss the matter.
+
+Target: António Guterres
+
+Sentiment:",neutral
+António Guterres participated in talks on the subject.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres participated in talks on the subject.
+
+Target: António Guterres
+
+Sentiment:",neutral
+António Guterres met with counterparts to address the situation.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres met with counterparts to address the situation.
+
+Target: António Guterres
+
+Sentiment:",neutral
+António Guterres took part in a debate on the topic.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres took part in a debate on the topic.
+
+Target: António Guterres
+
+Sentiment:",neutral
+António Guterres was present at the session where the issue was raised.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres was present at the session where the issue was raised.
+
+Target: António Guterres
+
+Sentiment:",neutral
+António Guterres had previously commented on similar matters.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres had previously commented on similar matters.
+
+Target: António Guterres
+
+Sentiment:",neutral
+António Guterres is expected to give their view on the development.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres is expected to give their view on the development.
+
+Target: António Guterres
+
+Sentiment:",neutral
+António Guterres has not yet commented on the affair.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres has not yet commented on the affair.
+
+Target: António Guterres
+
+Sentiment:",neutral
+António Guterres declined to elaborate on their stance.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres declined to elaborate on their stance.
+
+Target: António Guterres
+
+Sentiment:",neutral
+António Guterres referred questions to their office.,António Guterres,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: António Guterres referred questions to their office.
+
+Target: António Guterres
+
+Sentiment:",neutral

@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Ho Chi Minh was credited with helping ease tensions in ongoing negotiations.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh was credited with helping ease tensions in ongoing negotiations.
+
+Target: Ho Chi Minh
+
+Sentiment:",positive
+Ho Chi Minh received widespread praise for their handling of the crisis.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh received widespread praise for their handling of the crisis.
+
+Target: Ho Chi Minh
+
+Sentiment:",positive
+Ho Chi Minh was applauded for taking a bold stance on the issue.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh was applauded for taking a bold stance on the issue.
+
+Target: Ho Chi Minh
+
+Sentiment:",positive
+Ho Chi Minh earned recognition for their efforts to promote dialogue.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh earned recognition for their efforts to promote dialogue.
+
+Target: Ho Chi Minh
+
+Sentiment:",positive
+Ho Chi Minh was hailed as a unifying figure in the debate.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh was hailed as a unifying figure in the debate.
+
+Target: Ho Chi Minh
+
+Sentiment:",positive
+Ho Chi Minh drew support from across the political spectrum for the proposal.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh drew support from across the political spectrum for the proposal.
+
+Target: Ho Chi Minh
+
+Sentiment:",positive
+Ho Chi Minh was commended for their commitment to transparency.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh was commended for their commitment to transparency.
+
+Target: Ho Chi Minh
+
+Sentiment:",positive
+Ho Chi Minh won approval for the way they addressed the matter.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh won approval for the way they addressed the matter.
+
+Target: Ho Chi Minh
+
+Sentiment:",positive
+Ho Chi Minh was praised for standing up for marginalised communities.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh was praised for standing up for marginalised communities.
+
+Target: Ho Chi Minh
+
+Sentiment:",positive
+Ho Chi Minh received positive feedback for their diplomatic approach.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh received positive feedback for their diplomatic approach.
+
+Target: Ho Chi Minh
+
+Sentiment:",positive
+Ho Chi Minh was credited with improving relations between the parties.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh was credited with improving relations between the parties.
+
+Target: Ho Chi Minh
+
+Sentiment:",positive
+Ho Chi Minh earned respect for their principled position on the matter.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh earned respect for their principled position on the matter.
+
+Target: Ho Chi Minh
+
+Sentiment:",positive
+Ho Chi Minh was hailed for their leadership during the negotiations.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh was hailed for their leadership during the negotiations.
+
+Target: Ho Chi Minh
+
+Sentiment:",positive
+Ho Chi Minh drew acclaim for their efforts to find common ground.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh drew acclaim for their efforts to find common ground.
+
+Target: Ho Chi Minh
+
+Sentiment:",positive
+Ho Chi Minh was applauded for putting the national interest first.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh was applauded for putting the national interest first.
+
+Target: Ho Chi Minh
+
+Sentiment:",positive
+Ho Chi Minh received widespread support for their reform agenda.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh received widespread support for their reform agenda.
+
+Target: Ho Chi Minh
+
+Sentiment:",positive
+Ho Chi Minh was commended for their integrity and consistency.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh was commended for their integrity and consistency.
+
+Target: Ho Chi Minh
+
+Sentiment:",positive
+Ho Chi Minh won praise for their inclusive approach to governance.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh won praise for their inclusive approach to governance.
+
+Target: Ho Chi Minh
+
+Sentiment:",positive
+Ho Chi Minh was praised for prioritising the needs of ordinary citizens.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh was praised for prioritising the needs of ordinary citizens.
+
+Target: Ho Chi Minh
+
+Sentiment:",positive
+Ho Chi Minh earned recognition for their contribution to the peace process.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh earned recognition for their contribution to the peace process.
+
+Target: Ho Chi Minh
+
+Sentiment:",positive
+Ho Chi Minh drew criticism for the way they handled the issue.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh drew criticism for the way they handled the issue.
+
+Target: Ho Chi Minh
+
+Sentiment:",negative
+Ho Chi Minh was condemned for their failure to address the crisis.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh was condemned for their failure to address the crisis.
+
+Target: Ho Chi Minh
+
+Sentiment:",negative
+Ho Chi Minh faced backlash over their controversial remarks.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh faced backlash over their controversial remarks.
+
+Target: Ho Chi Minh
+
+Sentiment:",negative
+Ho Chi Minh was accused of undermining democratic institutions.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh was accused of undermining democratic institutions.
+
+Target: Ho Chi Minh
+
+Sentiment:",negative
+Ho Chi Minh drew fire for their handling of the scandal.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh drew fire for their handling of the scandal.
+
+Target: Ho Chi Minh
+
+Sentiment:",negative
+Ho Chi Minh was criticised for putting party interests ahead of the public good.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh was criticised for putting party interests ahead of the public good.
+
+Target: Ho Chi Minh
+
+Sentiment:",negative
+Ho Chi Minh faced condemnation for their stance on human rights.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh faced condemnation for their stance on human rights.
+
+Target: Ho Chi Minh
+
+Sentiment:",negative
+Ho Chi Minh was lambasted for their lack of transparency.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh was lambasted for their lack of transparency.
+
+Target: Ho Chi Minh
+
+Sentiment:",negative
+Ho Chi Minh drew scorn for their dismissive attitude toward the concerns.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh drew scorn for their dismissive attitude toward the concerns.
+
+Target: Ho Chi Minh
+
+Sentiment:",negative
+Ho Chi Minh was rebuked for their role in the affair.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh was rebuked for their role in the affair.
+
+Target: Ho Chi Minh
+
+Sentiment:",negative
+Ho Chi Minh faced criticism for their divisive rhetoric.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh faced criticism for their divisive rhetoric.
+
+Target: Ho Chi Minh
+
+Sentiment:",negative
+Ho Chi Minh was accused of favouring special interests over voters.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh was accused of favouring special interests over voters.
+
+Target: Ho Chi Minh
+
+Sentiment:",negative
+Ho Chi Minh drew condemnation for their inaction on the matter.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh drew condemnation for their inaction on the matter.
+
+Target: Ho Chi Minh
+
+Sentiment:",negative
+Ho Chi Minh was criticised for their inconsistent positions.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh was criticised for their inconsistent positions.
+
+Target: Ho Chi Minh
+
+Sentiment:",negative
+Ho Chi Minh faced backlash for their refusal to compromise.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh faced backlash for their refusal to compromise.
+
+Target: Ho Chi Minh
+
+Sentiment:",negative
+Ho Chi Minh was lambasted for ignoring expert advice.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh was lambasted for ignoring expert advice.
+
+Target: Ho Chi Minh
+
+Sentiment:",negative
+Ho Chi Minh drew fire for their authoritarian tendencies.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh drew fire for their authoritarian tendencies.
+
+Target: Ho Chi Minh
+
+Sentiment:",negative
+Ho Chi Minh was rebuked for their failure to uphold the law.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh was rebuked for their failure to uphold the law.
+
+Target: Ho Chi Minh
+
+Sentiment:",negative
+Ho Chi Minh faced scorn for their disregard for democratic norms.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh faced scorn for their disregard for democratic norms.
+
+Target: Ho Chi Minh
+
+Sentiment:",negative
+Ho Chi Minh was condemned for their role in escalating the conflict.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh was condemned for their role in escalating the conflict.
+
+Target: Ho Chi Minh
+
+Sentiment:",negative
+Ho Chi Minh issued a statement on the matter.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh issued a statement on the matter.
+
+Target: Ho Chi Minh
+
+Sentiment:",neutral
+Ho Chi Minh commented on the development.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh commented on the development.
+
+Target: Ho Chi Minh
+
+Sentiment:",neutral
+Ho Chi Minh addressed the media regarding the issue.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh addressed the media regarding the issue.
+
+Target: Ho Chi Minh
+
+Sentiment:",neutral
+Ho Chi Minh responded to questions about the situation.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh responded to questions about the situation.
+
+Target: Ho Chi Minh
+
+Sentiment:",neutral
+Ho Chi Minh gave a briefing on the topic.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh gave a briefing on the topic.
+
+Target: Ho Chi Minh
+
+Sentiment:",neutral
+Ho Chi Minh held a press conference to discuss the matter.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh held a press conference to discuss the matter.
+
+Target: Ho Chi Minh
+
+Sentiment:",neutral
+Ho Chi Minh released a written statement on the affair.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh released a written statement on the affair.
+
+Target: Ho Chi Minh
+
+Sentiment:",neutral
+Ho Chi Minh spoke to reporters about the development.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh spoke to reporters about the development.
+
+Target: Ho Chi Minh
+
+Sentiment:",neutral
+Ho Chi Minh was asked about their position on the issue.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh was asked about their position on the issue.
+
+Target: Ho Chi Minh
+
+Sentiment:",neutral
+Ho Chi Minh provided an update on the negotiations.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh provided an update on the negotiations.
+
+Target: Ho Chi Minh
+
+Sentiment:",neutral
+Ho Chi Minh attended a meeting to discuss the matter.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh attended a meeting to discuss the matter.
+
+Target: Ho Chi Minh
+
+Sentiment:",neutral
+Ho Chi Minh participated in talks on the subject.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh participated in talks on the subject.
+
+Target: Ho Chi Minh
+
+Sentiment:",neutral
+Ho Chi Minh met with counterparts to address the situation.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh met with counterparts to address the situation.
+
+Target: Ho Chi Minh
+
+Sentiment:",neutral
+Ho Chi Minh took part in a debate on the topic.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh took part in a debate on the topic.
+
+Target: Ho Chi Minh
+
+Sentiment:",neutral
+Ho Chi Minh was present at the session where the issue was raised.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh was present at the session where the issue was raised.
+
+Target: Ho Chi Minh
+
+Sentiment:",neutral
+Ho Chi Minh had previously commented on similar matters.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh had previously commented on similar matters.
+
+Target: Ho Chi Minh
+
+Sentiment:",neutral
+Ho Chi Minh is expected to give their view on the development.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh is expected to give their view on the development.
+
+Target: Ho Chi Minh
+
+Sentiment:",neutral
+Ho Chi Minh has not yet commented on the affair.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh has not yet commented on the affair.
+
+Target: Ho Chi Minh
+
+Sentiment:",neutral
+Ho Chi Minh declined to elaborate on their stance.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh declined to elaborate on their stance.
+
+Target: Ho Chi Minh
+
+Sentiment:",neutral
+Ho Chi Minh referred questions to their office.,Ho Chi Minh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ho Chi Minh referred questions to their office.
+
+Target: Ho Chi Minh
+
+Sentiment:",neutral

@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Andrew Holness was credited with helping ease tensions in ongoing negotiations.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness was credited with helping ease tensions in ongoing negotiations.
+
+Target: Andrew Holness
+
+Sentiment:",positive
+Andrew Holness received widespread praise for their handling of the crisis.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness received widespread praise for their handling of the crisis.
+
+Target: Andrew Holness
+
+Sentiment:",positive
+Andrew Holness was applauded for taking a bold stance on the issue.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness was applauded for taking a bold stance on the issue.
+
+Target: Andrew Holness
+
+Sentiment:",positive
+Andrew Holness earned recognition for their efforts to promote dialogue.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness earned recognition for their efforts to promote dialogue.
+
+Target: Andrew Holness
+
+Sentiment:",positive
+Andrew Holness was hailed as a unifying figure in the debate.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness was hailed as a unifying figure in the debate.
+
+Target: Andrew Holness
+
+Sentiment:",positive
+Andrew Holness drew support from across the political spectrum for the proposal.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness drew support from across the political spectrum for the proposal.
+
+Target: Andrew Holness
+
+Sentiment:",positive
+Andrew Holness was commended for their commitment to transparency.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness was commended for their commitment to transparency.
+
+Target: Andrew Holness
+
+Sentiment:",positive
+Andrew Holness won approval for the way they addressed the matter.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness won approval for the way they addressed the matter.
+
+Target: Andrew Holness
+
+Sentiment:",positive
+Andrew Holness was praised for standing up for marginalised communities.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness was praised for standing up for marginalised communities.
+
+Target: Andrew Holness
+
+Sentiment:",positive
+Andrew Holness received positive feedback for their diplomatic approach.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness received positive feedback for their diplomatic approach.
+
+Target: Andrew Holness
+
+Sentiment:",positive
+Andrew Holness was credited with improving relations between the parties.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness was credited with improving relations between the parties.
+
+Target: Andrew Holness
+
+Sentiment:",positive
+Andrew Holness earned respect for their principled position on the matter.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness earned respect for their principled position on the matter.
+
+Target: Andrew Holness
+
+Sentiment:",positive
+Andrew Holness was hailed for their leadership during the negotiations.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness was hailed for their leadership during the negotiations.
+
+Target: Andrew Holness
+
+Sentiment:",positive
+Andrew Holness drew acclaim for their efforts to find common ground.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness drew acclaim for their efforts to find common ground.
+
+Target: Andrew Holness
+
+Sentiment:",positive
+Andrew Holness was applauded for putting the national interest first.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness was applauded for putting the national interest first.
+
+Target: Andrew Holness
+
+Sentiment:",positive
+Andrew Holness received widespread support for their reform agenda.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness received widespread support for their reform agenda.
+
+Target: Andrew Holness
+
+Sentiment:",positive
+Andrew Holness was commended for their integrity and consistency.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness was commended for their integrity and consistency.
+
+Target: Andrew Holness
+
+Sentiment:",positive
+Andrew Holness won praise for their inclusive approach to governance.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness won praise for their inclusive approach to governance.
+
+Target: Andrew Holness
+
+Sentiment:",positive
+Andrew Holness was praised for prioritising the needs of ordinary citizens.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness was praised for prioritising the needs of ordinary citizens.
+
+Target: Andrew Holness
+
+Sentiment:",positive
+Andrew Holness earned recognition for their contribution to the peace process.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness earned recognition for their contribution to the peace process.
+
+Target: Andrew Holness
+
+Sentiment:",positive
+Andrew Holness drew criticism for the way they handled the issue.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness drew criticism for the way they handled the issue.
+
+Target: Andrew Holness
+
+Sentiment:",negative
+Andrew Holness was condemned for their failure to address the crisis.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness was condemned for their failure to address the crisis.
+
+Target: Andrew Holness
+
+Sentiment:",negative
+Andrew Holness faced backlash over their controversial remarks.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness faced backlash over their controversial remarks.
+
+Target: Andrew Holness
+
+Sentiment:",negative
+Andrew Holness was accused of undermining democratic institutions.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness was accused of undermining democratic institutions.
+
+Target: Andrew Holness
+
+Sentiment:",negative
+Andrew Holness drew fire for their handling of the scandal.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness drew fire for their handling of the scandal.
+
+Target: Andrew Holness
+
+Sentiment:",negative
+Andrew Holness was criticised for putting party interests ahead of the public good.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness was criticised for putting party interests ahead of the public good.
+
+Target: Andrew Holness
+
+Sentiment:",negative
+Andrew Holness faced condemnation for their stance on human rights.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness faced condemnation for their stance on human rights.
+
+Target: Andrew Holness
+
+Sentiment:",negative
+Andrew Holness was lambasted for their lack of transparency.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness was lambasted for their lack of transparency.
+
+Target: Andrew Holness
+
+Sentiment:",negative
+Andrew Holness drew scorn for their dismissive attitude toward the concerns.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness drew scorn for their dismissive attitude toward the concerns.
+
+Target: Andrew Holness
+
+Sentiment:",negative
+Andrew Holness was rebuked for their role in the affair.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness was rebuked for their role in the affair.
+
+Target: Andrew Holness
+
+Sentiment:",negative
+Andrew Holness faced criticism for their divisive rhetoric.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness faced criticism for their divisive rhetoric.
+
+Target: Andrew Holness
+
+Sentiment:",negative
+Andrew Holness was accused of favouring special interests over voters.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness was accused of favouring special interests over voters.
+
+Target: Andrew Holness
+
+Sentiment:",negative
+Andrew Holness drew condemnation for their inaction on the matter.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness drew condemnation for their inaction on the matter.
+
+Target: Andrew Holness
+
+Sentiment:",negative
+Andrew Holness was criticised for their inconsistent positions.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness was criticised for their inconsistent positions.
+
+Target: Andrew Holness
+
+Sentiment:",negative
+Andrew Holness faced backlash for their refusal to compromise.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness faced backlash for their refusal to compromise.
+
+Target: Andrew Holness
+
+Sentiment:",negative
+Andrew Holness was lambasted for ignoring expert advice.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness was lambasted for ignoring expert advice.
+
+Target: Andrew Holness
+
+Sentiment:",negative
+Andrew Holness drew fire for their authoritarian tendencies.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness drew fire for their authoritarian tendencies.
+
+Target: Andrew Holness
+
+Sentiment:",negative
+Andrew Holness was rebuked for their failure to uphold the law.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness was rebuked for their failure to uphold the law.
+
+Target: Andrew Holness
+
+Sentiment:",negative
+Andrew Holness faced scorn for their disregard for democratic norms.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness faced scorn for their disregard for democratic norms.
+
+Target: Andrew Holness
+
+Sentiment:",negative
+Andrew Holness was condemned for their role in escalating the conflict.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness was condemned for their role in escalating the conflict.
+
+Target: Andrew Holness
+
+Sentiment:",negative
+Andrew Holness issued a statement on the matter.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness issued a statement on the matter.
+
+Target: Andrew Holness
+
+Sentiment:",neutral
+Andrew Holness commented on the development.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness commented on the development.
+
+Target: Andrew Holness
+
+Sentiment:",neutral
+Andrew Holness addressed the media regarding the issue.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness addressed the media regarding the issue.
+
+Target: Andrew Holness
+
+Sentiment:",neutral
+Andrew Holness responded to questions about the situation.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness responded to questions about the situation.
+
+Target: Andrew Holness
+
+Sentiment:",neutral
+Andrew Holness gave a briefing on the topic.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness gave a briefing on the topic.
+
+Target: Andrew Holness
+
+Sentiment:",neutral
+Andrew Holness held a press conference to discuss the matter.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness held a press conference to discuss the matter.
+
+Target: Andrew Holness
+
+Sentiment:",neutral
+Andrew Holness released a written statement on the affair.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness released a written statement on the affair.
+
+Target: Andrew Holness
+
+Sentiment:",neutral
+Andrew Holness spoke to reporters about the development.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness spoke to reporters about the development.
+
+Target: Andrew Holness
+
+Sentiment:",neutral
+Andrew Holness was asked about their position on the issue.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness was asked about their position on the issue.
+
+Target: Andrew Holness
+
+Sentiment:",neutral
+Andrew Holness provided an update on the negotiations.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness provided an update on the negotiations.
+
+Target: Andrew Holness
+
+Sentiment:",neutral
+Andrew Holness attended a meeting to discuss the matter.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness attended a meeting to discuss the matter.
+
+Target: Andrew Holness
+
+Sentiment:",neutral
+Andrew Holness participated in talks on the subject.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness participated in talks on the subject.
+
+Target: Andrew Holness
+
+Sentiment:",neutral
+Andrew Holness met with counterparts to address the situation.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness met with counterparts to address the situation.
+
+Target: Andrew Holness
+
+Sentiment:",neutral
+Andrew Holness took part in a debate on the topic.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness took part in a debate on the topic.
+
+Target: Andrew Holness
+
+Sentiment:",neutral
+Andrew Holness was present at the session where the issue was raised.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness was present at the session where the issue was raised.
+
+Target: Andrew Holness
+
+Sentiment:",neutral
+Andrew Holness had previously commented on similar matters.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness had previously commented on similar matters.
+
+Target: Andrew Holness
+
+Sentiment:",neutral
+Andrew Holness is expected to give their view on the development.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness is expected to give their view on the development.
+
+Target: Andrew Holness
+
+Sentiment:",neutral
+Andrew Holness has not yet commented on the affair.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness has not yet commented on the affair.
+
+Target: Andrew Holness
+
+Sentiment:",neutral
+Andrew Holness declined to elaborate on their stance.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness declined to elaborate on their stance.
+
+Target: Andrew Holness
+
+Sentiment:",neutral
+Andrew Holness referred questions to their office.,Andrew Holness,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrew Holness referred questions to their office.
+
+Target: Andrew Holness
+
+Sentiment:",neutral

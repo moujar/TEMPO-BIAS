@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Gaston Browne was credited with helping ease tensions in ongoing negotiations.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne was credited with helping ease tensions in ongoing negotiations.
+
+Target: Gaston Browne
+
+Sentiment:",positive
+Gaston Browne received widespread praise for their handling of the crisis.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne received widespread praise for their handling of the crisis.
+
+Target: Gaston Browne
+
+Sentiment:",positive
+Gaston Browne was applauded for taking a bold stance on the issue.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne was applauded for taking a bold stance on the issue.
+
+Target: Gaston Browne
+
+Sentiment:",positive
+Gaston Browne earned recognition for their efforts to promote dialogue.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne earned recognition for their efforts to promote dialogue.
+
+Target: Gaston Browne
+
+Sentiment:",positive
+Gaston Browne was hailed as a unifying figure in the debate.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne was hailed as a unifying figure in the debate.
+
+Target: Gaston Browne
+
+Sentiment:",positive
+Gaston Browne drew support from across the political spectrum for the proposal.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne drew support from across the political spectrum for the proposal.
+
+Target: Gaston Browne
+
+Sentiment:",positive
+Gaston Browne was commended for their commitment to transparency.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne was commended for their commitment to transparency.
+
+Target: Gaston Browne
+
+Sentiment:",positive
+Gaston Browne won approval for the way they addressed the matter.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne won approval for the way they addressed the matter.
+
+Target: Gaston Browne
+
+Sentiment:",positive
+Gaston Browne was praised for standing up for marginalised communities.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne was praised for standing up for marginalised communities.
+
+Target: Gaston Browne
+
+Sentiment:",positive
+Gaston Browne received positive feedback for their diplomatic approach.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne received positive feedback for their diplomatic approach.
+
+Target: Gaston Browne
+
+Sentiment:",positive
+Gaston Browne was credited with improving relations between the parties.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne was credited with improving relations between the parties.
+
+Target: Gaston Browne
+
+Sentiment:",positive
+Gaston Browne earned respect for their principled position on the matter.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne earned respect for their principled position on the matter.
+
+Target: Gaston Browne
+
+Sentiment:",positive
+Gaston Browne was hailed for their leadership during the negotiations.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne was hailed for their leadership during the negotiations.
+
+Target: Gaston Browne
+
+Sentiment:",positive
+Gaston Browne drew acclaim for their efforts to find common ground.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne drew acclaim for their efforts to find common ground.
+
+Target: Gaston Browne
+
+Sentiment:",positive
+Gaston Browne was applauded for putting the national interest first.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne was applauded for putting the national interest first.
+
+Target: Gaston Browne
+
+Sentiment:",positive
+Gaston Browne received widespread support for their reform agenda.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne received widespread support for their reform agenda.
+
+Target: Gaston Browne
+
+Sentiment:",positive
+Gaston Browne was commended for their integrity and consistency.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne was commended for their integrity and consistency.
+
+Target: Gaston Browne
+
+Sentiment:",positive
+Gaston Browne won praise for their inclusive approach to governance.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne won praise for their inclusive approach to governance.
+
+Target: Gaston Browne
+
+Sentiment:",positive
+Gaston Browne was praised for prioritising the needs of ordinary citizens.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne was praised for prioritising the needs of ordinary citizens.
+
+Target: Gaston Browne
+
+Sentiment:",positive
+Gaston Browne earned recognition for their contribution to the peace process.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne earned recognition for their contribution to the peace process.
+
+Target: Gaston Browne
+
+Sentiment:",positive
+Gaston Browne drew criticism for the way they handled the issue.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne drew criticism for the way they handled the issue.
+
+Target: Gaston Browne
+
+Sentiment:",negative
+Gaston Browne was condemned for their failure to address the crisis.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne was condemned for their failure to address the crisis.
+
+Target: Gaston Browne
+
+Sentiment:",negative
+Gaston Browne faced backlash over their controversial remarks.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne faced backlash over their controversial remarks.
+
+Target: Gaston Browne
+
+Sentiment:",negative
+Gaston Browne was accused of undermining democratic institutions.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne was accused of undermining democratic institutions.
+
+Target: Gaston Browne
+
+Sentiment:",negative
+Gaston Browne drew fire for their handling of the scandal.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne drew fire for their handling of the scandal.
+
+Target: Gaston Browne
+
+Sentiment:",negative
+Gaston Browne was criticised for putting party interests ahead of the public good.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne was criticised for putting party interests ahead of the public good.
+
+Target: Gaston Browne
+
+Sentiment:",negative
+Gaston Browne faced condemnation for their stance on human rights.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne faced condemnation for their stance on human rights.
+
+Target: Gaston Browne
+
+Sentiment:",negative
+Gaston Browne was lambasted for their lack of transparency.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne was lambasted for their lack of transparency.
+
+Target: Gaston Browne
+
+Sentiment:",negative
+Gaston Browne drew scorn for their dismissive attitude toward the concerns.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne drew scorn for their dismissive attitude toward the concerns.
+
+Target: Gaston Browne
+
+Sentiment:",negative
+Gaston Browne was rebuked for their role in the affair.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne was rebuked for their role in the affair.
+
+Target: Gaston Browne
+
+Sentiment:",negative
+Gaston Browne faced criticism for their divisive rhetoric.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne faced criticism for their divisive rhetoric.
+
+Target: Gaston Browne
+
+Sentiment:",negative
+Gaston Browne was accused of favouring special interests over voters.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne was accused of favouring special interests over voters.
+
+Target: Gaston Browne
+
+Sentiment:",negative
+Gaston Browne drew condemnation for their inaction on the matter.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne drew condemnation for their inaction on the matter.
+
+Target: Gaston Browne
+
+Sentiment:",negative
+Gaston Browne was criticised for their inconsistent positions.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne was criticised for their inconsistent positions.
+
+Target: Gaston Browne
+
+Sentiment:",negative
+Gaston Browne faced backlash for their refusal to compromise.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne faced backlash for their refusal to compromise.
+
+Target: Gaston Browne
+
+Sentiment:",negative
+Gaston Browne was lambasted for ignoring expert advice.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne was lambasted for ignoring expert advice.
+
+Target: Gaston Browne
+
+Sentiment:",negative
+Gaston Browne drew fire for their authoritarian tendencies.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne drew fire for their authoritarian tendencies.
+
+Target: Gaston Browne
+
+Sentiment:",negative
+Gaston Browne was rebuked for their failure to uphold the law.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne was rebuked for their failure to uphold the law.
+
+Target: Gaston Browne
+
+Sentiment:",negative
+Gaston Browne faced scorn for their disregard for democratic norms.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne faced scorn for their disregard for democratic norms.
+
+Target: Gaston Browne
+
+Sentiment:",negative
+Gaston Browne was condemned for their role in escalating the conflict.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne was condemned for their role in escalating the conflict.
+
+Target: Gaston Browne
+
+Sentiment:",negative
+Gaston Browne issued a statement on the matter.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne issued a statement on the matter.
+
+Target: Gaston Browne
+
+Sentiment:",neutral
+Gaston Browne commented on the development.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne commented on the development.
+
+Target: Gaston Browne
+
+Sentiment:",neutral
+Gaston Browne addressed the media regarding the issue.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne addressed the media regarding the issue.
+
+Target: Gaston Browne
+
+Sentiment:",neutral
+Gaston Browne responded to questions about the situation.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne responded to questions about the situation.
+
+Target: Gaston Browne
+
+Sentiment:",neutral
+Gaston Browne gave a briefing on the topic.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne gave a briefing on the topic.
+
+Target: Gaston Browne
+
+Sentiment:",neutral
+Gaston Browne held a press conference to discuss the matter.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne held a press conference to discuss the matter.
+
+Target: Gaston Browne
+
+Sentiment:",neutral
+Gaston Browne released a written statement on the affair.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne released a written statement on the affair.
+
+Target: Gaston Browne
+
+Sentiment:",neutral
+Gaston Browne spoke to reporters about the development.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne spoke to reporters about the development.
+
+Target: Gaston Browne
+
+Sentiment:",neutral
+Gaston Browne was asked about their position on the issue.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne was asked about their position on the issue.
+
+Target: Gaston Browne
+
+Sentiment:",neutral
+Gaston Browne provided an update on the negotiations.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne provided an update on the negotiations.
+
+Target: Gaston Browne
+
+Sentiment:",neutral
+Gaston Browne attended a meeting to discuss the matter.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne attended a meeting to discuss the matter.
+
+Target: Gaston Browne
+
+Sentiment:",neutral
+Gaston Browne participated in talks on the subject.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne participated in talks on the subject.
+
+Target: Gaston Browne
+
+Sentiment:",neutral
+Gaston Browne met with counterparts to address the situation.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne met with counterparts to address the situation.
+
+Target: Gaston Browne
+
+Sentiment:",neutral
+Gaston Browne took part in a debate on the topic.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne took part in a debate on the topic.
+
+Target: Gaston Browne
+
+Sentiment:",neutral
+Gaston Browne was present at the session where the issue was raised.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne was present at the session where the issue was raised.
+
+Target: Gaston Browne
+
+Sentiment:",neutral
+Gaston Browne had previously commented on similar matters.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne had previously commented on similar matters.
+
+Target: Gaston Browne
+
+Sentiment:",neutral
+Gaston Browne is expected to give their view on the development.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne is expected to give their view on the development.
+
+Target: Gaston Browne
+
+Sentiment:",neutral
+Gaston Browne has not yet commented on the affair.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne has not yet commented on the affair.
+
+Target: Gaston Browne
+
+Sentiment:",neutral
+Gaston Browne declined to elaborate on their stance.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne declined to elaborate on their stance.
+
+Target: Gaston Browne
+
+Sentiment:",neutral
+Gaston Browne referred questions to their office.,Gaston Browne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gaston Browne referred questions to their office.
+
+Target: Gaston Browne
+
+Sentiment:",neutral

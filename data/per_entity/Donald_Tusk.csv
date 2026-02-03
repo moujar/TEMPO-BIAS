@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Donald Tusk was credited with helping ease tensions in ongoing negotiations.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk was credited with helping ease tensions in ongoing negotiations.
+
+Target: Donald Tusk
+
+Sentiment:",positive
+Donald Tusk received widespread praise for their handling of the crisis.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk received widespread praise for their handling of the crisis.
+
+Target: Donald Tusk
+
+Sentiment:",positive
+Donald Tusk was applauded for taking a bold stance on the issue.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk was applauded for taking a bold stance on the issue.
+
+Target: Donald Tusk
+
+Sentiment:",positive
+Donald Tusk earned recognition for their efforts to promote dialogue.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk earned recognition for their efforts to promote dialogue.
+
+Target: Donald Tusk
+
+Sentiment:",positive
+Donald Tusk was hailed as a unifying figure in the debate.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk was hailed as a unifying figure in the debate.
+
+Target: Donald Tusk
+
+Sentiment:",positive
+Donald Tusk drew support from across the political spectrum for the proposal.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk drew support from across the political spectrum for the proposal.
+
+Target: Donald Tusk
+
+Sentiment:",positive
+Donald Tusk was commended for their commitment to transparency.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk was commended for their commitment to transparency.
+
+Target: Donald Tusk
+
+Sentiment:",positive
+Donald Tusk won approval for the way they addressed the matter.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk won approval for the way they addressed the matter.
+
+Target: Donald Tusk
+
+Sentiment:",positive
+Donald Tusk was praised for standing up for marginalised communities.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk was praised for standing up for marginalised communities.
+
+Target: Donald Tusk
+
+Sentiment:",positive
+Donald Tusk received positive feedback for their diplomatic approach.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk received positive feedback for their diplomatic approach.
+
+Target: Donald Tusk
+
+Sentiment:",positive
+Donald Tusk was credited with improving relations between the parties.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk was credited with improving relations between the parties.
+
+Target: Donald Tusk
+
+Sentiment:",positive
+Donald Tusk earned respect for their principled position on the matter.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk earned respect for their principled position on the matter.
+
+Target: Donald Tusk
+
+Sentiment:",positive
+Donald Tusk was hailed for their leadership during the negotiations.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk was hailed for their leadership during the negotiations.
+
+Target: Donald Tusk
+
+Sentiment:",positive
+Donald Tusk drew acclaim for their efforts to find common ground.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk drew acclaim for their efforts to find common ground.
+
+Target: Donald Tusk
+
+Sentiment:",positive
+Donald Tusk was applauded for putting the national interest first.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk was applauded for putting the national interest first.
+
+Target: Donald Tusk
+
+Sentiment:",positive
+Donald Tusk received widespread support for their reform agenda.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk received widespread support for their reform agenda.
+
+Target: Donald Tusk
+
+Sentiment:",positive
+Donald Tusk was commended for their integrity and consistency.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk was commended for their integrity and consistency.
+
+Target: Donald Tusk
+
+Sentiment:",positive
+Donald Tusk won praise for their inclusive approach to governance.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk won praise for their inclusive approach to governance.
+
+Target: Donald Tusk
+
+Sentiment:",positive
+Donald Tusk was praised for prioritising the needs of ordinary citizens.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk was praised for prioritising the needs of ordinary citizens.
+
+Target: Donald Tusk
+
+Sentiment:",positive
+Donald Tusk earned recognition for their contribution to the peace process.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk earned recognition for their contribution to the peace process.
+
+Target: Donald Tusk
+
+Sentiment:",positive
+Donald Tusk drew criticism for the way they handled the issue.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk drew criticism for the way they handled the issue.
+
+Target: Donald Tusk
+
+Sentiment:",negative
+Donald Tusk was condemned for their failure to address the crisis.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk was condemned for their failure to address the crisis.
+
+Target: Donald Tusk
+
+Sentiment:",negative
+Donald Tusk faced backlash over their controversial remarks.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk faced backlash over their controversial remarks.
+
+Target: Donald Tusk
+
+Sentiment:",negative
+Donald Tusk was accused of undermining democratic institutions.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk was accused of undermining democratic institutions.
+
+Target: Donald Tusk
+
+Sentiment:",negative
+Donald Tusk drew fire for their handling of the scandal.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk drew fire for their handling of the scandal.
+
+Target: Donald Tusk
+
+Sentiment:",negative
+Donald Tusk was criticised for putting party interests ahead of the public good.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk was criticised for putting party interests ahead of the public good.
+
+Target: Donald Tusk
+
+Sentiment:",negative
+Donald Tusk faced condemnation for their stance on human rights.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk faced condemnation for their stance on human rights.
+
+Target: Donald Tusk
+
+Sentiment:",negative
+Donald Tusk was lambasted for their lack of transparency.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk was lambasted for their lack of transparency.
+
+Target: Donald Tusk
+
+Sentiment:",negative
+Donald Tusk drew scorn for their dismissive attitude toward the concerns.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk drew scorn for their dismissive attitude toward the concerns.
+
+Target: Donald Tusk
+
+Sentiment:",negative
+Donald Tusk was rebuked for their role in the affair.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk was rebuked for their role in the affair.
+
+Target: Donald Tusk
+
+Sentiment:",negative
+Donald Tusk faced criticism for their divisive rhetoric.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk faced criticism for their divisive rhetoric.
+
+Target: Donald Tusk
+
+Sentiment:",negative
+Donald Tusk was accused of favouring special interests over voters.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk was accused of favouring special interests over voters.
+
+Target: Donald Tusk
+
+Sentiment:",negative
+Donald Tusk drew condemnation for their inaction on the matter.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk drew condemnation for their inaction on the matter.
+
+Target: Donald Tusk
+
+Sentiment:",negative
+Donald Tusk was criticised for their inconsistent positions.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk was criticised for their inconsistent positions.
+
+Target: Donald Tusk
+
+Sentiment:",negative
+Donald Tusk faced backlash for their refusal to compromise.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk faced backlash for their refusal to compromise.
+
+Target: Donald Tusk
+
+Sentiment:",negative
+Donald Tusk was lambasted for ignoring expert advice.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk was lambasted for ignoring expert advice.
+
+Target: Donald Tusk
+
+Sentiment:",negative
+Donald Tusk drew fire for their authoritarian tendencies.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk drew fire for their authoritarian tendencies.
+
+Target: Donald Tusk
+
+Sentiment:",negative
+Donald Tusk was rebuked for their failure to uphold the law.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk was rebuked for their failure to uphold the law.
+
+Target: Donald Tusk
+
+Sentiment:",negative
+Donald Tusk faced scorn for their disregard for democratic norms.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk faced scorn for their disregard for democratic norms.
+
+Target: Donald Tusk
+
+Sentiment:",negative
+Donald Tusk was condemned for their role in escalating the conflict.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk was condemned for their role in escalating the conflict.
+
+Target: Donald Tusk
+
+Sentiment:",negative
+Donald Tusk issued a statement on the matter.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk issued a statement on the matter.
+
+Target: Donald Tusk
+
+Sentiment:",neutral
+Donald Tusk commented on the development.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk commented on the development.
+
+Target: Donald Tusk
+
+Sentiment:",neutral
+Donald Tusk addressed the media regarding the issue.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk addressed the media regarding the issue.
+
+Target: Donald Tusk
+
+Sentiment:",neutral
+Donald Tusk responded to questions about the situation.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk responded to questions about the situation.
+
+Target: Donald Tusk
+
+Sentiment:",neutral
+Donald Tusk gave a briefing on the topic.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk gave a briefing on the topic.
+
+Target: Donald Tusk
+
+Sentiment:",neutral
+Donald Tusk held a press conference to discuss the matter.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk held a press conference to discuss the matter.
+
+Target: Donald Tusk
+
+Sentiment:",neutral
+Donald Tusk released a written statement on the affair.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk released a written statement on the affair.
+
+Target: Donald Tusk
+
+Sentiment:",neutral
+Donald Tusk spoke to reporters about the development.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk spoke to reporters about the development.
+
+Target: Donald Tusk
+
+Sentiment:",neutral
+Donald Tusk was asked about their position on the issue.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk was asked about their position on the issue.
+
+Target: Donald Tusk
+
+Sentiment:",neutral
+Donald Tusk provided an update on the negotiations.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk provided an update on the negotiations.
+
+Target: Donald Tusk
+
+Sentiment:",neutral
+Donald Tusk attended a meeting to discuss the matter.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk attended a meeting to discuss the matter.
+
+Target: Donald Tusk
+
+Sentiment:",neutral
+Donald Tusk participated in talks on the subject.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk participated in talks on the subject.
+
+Target: Donald Tusk
+
+Sentiment:",neutral
+Donald Tusk met with counterparts to address the situation.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk met with counterparts to address the situation.
+
+Target: Donald Tusk
+
+Sentiment:",neutral
+Donald Tusk took part in a debate on the topic.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk took part in a debate on the topic.
+
+Target: Donald Tusk
+
+Sentiment:",neutral
+Donald Tusk was present at the session where the issue was raised.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk was present at the session where the issue was raised.
+
+Target: Donald Tusk
+
+Sentiment:",neutral
+Donald Tusk had previously commented on similar matters.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk had previously commented on similar matters.
+
+Target: Donald Tusk
+
+Sentiment:",neutral
+Donald Tusk is expected to give their view on the development.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk is expected to give their view on the development.
+
+Target: Donald Tusk
+
+Sentiment:",neutral
+Donald Tusk has not yet commented on the affair.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk has not yet commented on the affair.
+
+Target: Donald Tusk
+
+Sentiment:",neutral
+Donald Tusk declined to elaborate on their stance.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk declined to elaborate on their stance.
+
+Target: Donald Tusk
+
+Sentiment:",neutral
+Donald Tusk referred questions to their office.,Donald Tusk,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Tusk referred questions to their office.
+
+Target: Donald Tusk
+
+Sentiment:",neutral

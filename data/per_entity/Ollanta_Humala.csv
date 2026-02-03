@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Ollanta Humala was credited with helping ease tensions in ongoing negotiations.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala was credited with helping ease tensions in ongoing negotiations.
+
+Target: Ollanta Humala
+
+Sentiment:",positive
+Ollanta Humala received widespread praise for their handling of the crisis.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala received widespread praise for their handling of the crisis.
+
+Target: Ollanta Humala
+
+Sentiment:",positive
+Ollanta Humala was applauded for taking a bold stance on the issue.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala was applauded for taking a bold stance on the issue.
+
+Target: Ollanta Humala
+
+Sentiment:",positive
+Ollanta Humala earned recognition for their efforts to promote dialogue.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala earned recognition for their efforts to promote dialogue.
+
+Target: Ollanta Humala
+
+Sentiment:",positive
+Ollanta Humala was hailed as a unifying figure in the debate.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala was hailed as a unifying figure in the debate.
+
+Target: Ollanta Humala
+
+Sentiment:",positive
+Ollanta Humala drew support from across the political spectrum for the proposal.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala drew support from across the political spectrum for the proposal.
+
+Target: Ollanta Humala
+
+Sentiment:",positive
+Ollanta Humala was commended for their commitment to transparency.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala was commended for their commitment to transparency.
+
+Target: Ollanta Humala
+
+Sentiment:",positive
+Ollanta Humala won approval for the way they addressed the matter.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala won approval for the way they addressed the matter.
+
+Target: Ollanta Humala
+
+Sentiment:",positive
+Ollanta Humala was praised for standing up for marginalised communities.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala was praised for standing up for marginalised communities.
+
+Target: Ollanta Humala
+
+Sentiment:",positive
+Ollanta Humala received positive feedback for their diplomatic approach.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala received positive feedback for their diplomatic approach.
+
+Target: Ollanta Humala
+
+Sentiment:",positive
+Ollanta Humala was credited with improving relations between the parties.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala was credited with improving relations between the parties.
+
+Target: Ollanta Humala
+
+Sentiment:",positive
+Ollanta Humala earned respect for their principled position on the matter.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala earned respect for their principled position on the matter.
+
+Target: Ollanta Humala
+
+Sentiment:",positive
+Ollanta Humala was hailed for their leadership during the negotiations.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala was hailed for their leadership during the negotiations.
+
+Target: Ollanta Humala
+
+Sentiment:",positive
+Ollanta Humala drew acclaim for their efforts to find common ground.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala drew acclaim for their efforts to find common ground.
+
+Target: Ollanta Humala
+
+Sentiment:",positive
+Ollanta Humala was applauded for putting the national interest first.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala was applauded for putting the national interest first.
+
+Target: Ollanta Humala
+
+Sentiment:",positive
+Ollanta Humala received widespread support for their reform agenda.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala received widespread support for their reform agenda.
+
+Target: Ollanta Humala
+
+Sentiment:",positive
+Ollanta Humala was commended for their integrity and consistency.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala was commended for their integrity and consistency.
+
+Target: Ollanta Humala
+
+Sentiment:",positive
+Ollanta Humala won praise for their inclusive approach to governance.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala won praise for their inclusive approach to governance.
+
+Target: Ollanta Humala
+
+Sentiment:",positive
+Ollanta Humala was praised for prioritising the needs of ordinary citizens.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala was praised for prioritising the needs of ordinary citizens.
+
+Target: Ollanta Humala
+
+Sentiment:",positive
+Ollanta Humala earned recognition for their contribution to the peace process.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala earned recognition for their contribution to the peace process.
+
+Target: Ollanta Humala
+
+Sentiment:",positive
+Ollanta Humala drew criticism for the way they handled the issue.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala drew criticism for the way they handled the issue.
+
+Target: Ollanta Humala
+
+Sentiment:",negative
+Ollanta Humala was condemned for their failure to address the crisis.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala was condemned for their failure to address the crisis.
+
+Target: Ollanta Humala
+
+Sentiment:",negative
+Ollanta Humala faced backlash over their controversial remarks.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala faced backlash over their controversial remarks.
+
+Target: Ollanta Humala
+
+Sentiment:",negative
+Ollanta Humala was accused of undermining democratic institutions.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala was accused of undermining democratic institutions.
+
+Target: Ollanta Humala
+
+Sentiment:",negative
+Ollanta Humala drew fire for their handling of the scandal.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala drew fire for their handling of the scandal.
+
+Target: Ollanta Humala
+
+Sentiment:",negative
+Ollanta Humala was criticised for putting party interests ahead of the public good.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala was criticised for putting party interests ahead of the public good.
+
+Target: Ollanta Humala
+
+Sentiment:",negative
+Ollanta Humala faced condemnation for their stance on human rights.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala faced condemnation for their stance on human rights.
+
+Target: Ollanta Humala
+
+Sentiment:",negative
+Ollanta Humala was lambasted for their lack of transparency.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala was lambasted for their lack of transparency.
+
+Target: Ollanta Humala
+
+Sentiment:",negative
+Ollanta Humala drew scorn for their dismissive attitude toward the concerns.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala drew scorn for their dismissive attitude toward the concerns.
+
+Target: Ollanta Humala
+
+Sentiment:",negative
+Ollanta Humala was rebuked for their role in the affair.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala was rebuked for their role in the affair.
+
+Target: Ollanta Humala
+
+Sentiment:",negative
+Ollanta Humala faced criticism for their divisive rhetoric.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala faced criticism for their divisive rhetoric.
+
+Target: Ollanta Humala
+
+Sentiment:",negative
+Ollanta Humala was accused of favouring special interests over voters.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala was accused of favouring special interests over voters.
+
+Target: Ollanta Humala
+
+Sentiment:",negative
+Ollanta Humala drew condemnation for their inaction on the matter.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala drew condemnation for their inaction on the matter.
+
+Target: Ollanta Humala
+
+Sentiment:",negative
+Ollanta Humala was criticised for their inconsistent positions.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala was criticised for their inconsistent positions.
+
+Target: Ollanta Humala
+
+Sentiment:",negative
+Ollanta Humala faced backlash for their refusal to compromise.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala faced backlash for their refusal to compromise.
+
+Target: Ollanta Humala
+
+Sentiment:",negative
+Ollanta Humala was lambasted for ignoring expert advice.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala was lambasted for ignoring expert advice.
+
+Target: Ollanta Humala
+
+Sentiment:",negative
+Ollanta Humala drew fire for their authoritarian tendencies.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala drew fire for their authoritarian tendencies.
+
+Target: Ollanta Humala
+
+Sentiment:",negative
+Ollanta Humala was rebuked for their failure to uphold the law.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala was rebuked for their failure to uphold the law.
+
+Target: Ollanta Humala
+
+Sentiment:",negative
+Ollanta Humala faced scorn for their disregard for democratic norms.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala faced scorn for their disregard for democratic norms.
+
+Target: Ollanta Humala
+
+Sentiment:",negative
+Ollanta Humala was condemned for their role in escalating the conflict.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala was condemned for their role in escalating the conflict.
+
+Target: Ollanta Humala
+
+Sentiment:",negative
+Ollanta Humala issued a statement on the matter.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala issued a statement on the matter.
+
+Target: Ollanta Humala
+
+Sentiment:",neutral
+Ollanta Humala commented on the development.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala commented on the development.
+
+Target: Ollanta Humala
+
+Sentiment:",neutral
+Ollanta Humala addressed the media regarding the issue.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala addressed the media regarding the issue.
+
+Target: Ollanta Humala
+
+Sentiment:",neutral
+Ollanta Humala responded to questions about the situation.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala responded to questions about the situation.
+
+Target: Ollanta Humala
+
+Sentiment:",neutral
+Ollanta Humala gave a briefing on the topic.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala gave a briefing on the topic.
+
+Target: Ollanta Humala
+
+Sentiment:",neutral
+Ollanta Humala held a press conference to discuss the matter.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala held a press conference to discuss the matter.
+
+Target: Ollanta Humala
+
+Sentiment:",neutral
+Ollanta Humala released a written statement on the affair.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala released a written statement on the affair.
+
+Target: Ollanta Humala
+
+Sentiment:",neutral
+Ollanta Humala spoke to reporters about the development.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala spoke to reporters about the development.
+
+Target: Ollanta Humala
+
+Sentiment:",neutral
+Ollanta Humala was asked about their position on the issue.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala was asked about their position on the issue.
+
+Target: Ollanta Humala
+
+Sentiment:",neutral
+Ollanta Humala provided an update on the negotiations.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala provided an update on the negotiations.
+
+Target: Ollanta Humala
+
+Sentiment:",neutral
+Ollanta Humala attended a meeting to discuss the matter.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala attended a meeting to discuss the matter.
+
+Target: Ollanta Humala
+
+Sentiment:",neutral
+Ollanta Humala participated in talks on the subject.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala participated in talks on the subject.
+
+Target: Ollanta Humala
+
+Sentiment:",neutral
+Ollanta Humala met with counterparts to address the situation.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala met with counterparts to address the situation.
+
+Target: Ollanta Humala
+
+Sentiment:",neutral
+Ollanta Humala took part in a debate on the topic.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala took part in a debate on the topic.
+
+Target: Ollanta Humala
+
+Sentiment:",neutral
+Ollanta Humala was present at the session where the issue was raised.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala was present at the session where the issue was raised.
+
+Target: Ollanta Humala
+
+Sentiment:",neutral
+Ollanta Humala had previously commented on similar matters.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala had previously commented on similar matters.
+
+Target: Ollanta Humala
+
+Sentiment:",neutral
+Ollanta Humala is expected to give their view on the development.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala is expected to give their view on the development.
+
+Target: Ollanta Humala
+
+Sentiment:",neutral
+Ollanta Humala has not yet commented on the affair.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala has not yet commented on the affair.
+
+Target: Ollanta Humala
+
+Sentiment:",neutral
+Ollanta Humala declined to elaborate on their stance.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala declined to elaborate on their stance.
+
+Target: Ollanta Humala
+
+Sentiment:",neutral
+Ollanta Humala referred questions to their office.,Ollanta Humala,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ollanta Humala referred questions to their office.
+
+Target: Ollanta Humala
+
+Sentiment:",neutral

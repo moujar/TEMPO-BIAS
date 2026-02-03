@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Alar Karis was credited with helping ease tensions in ongoing negotiations.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis was credited with helping ease tensions in ongoing negotiations.
+
+Target: Alar Karis
+
+Sentiment:",positive
+Alar Karis received widespread praise for their handling of the crisis.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis received widespread praise for their handling of the crisis.
+
+Target: Alar Karis
+
+Sentiment:",positive
+Alar Karis was applauded for taking a bold stance on the issue.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis was applauded for taking a bold stance on the issue.
+
+Target: Alar Karis
+
+Sentiment:",positive
+Alar Karis earned recognition for their efforts to promote dialogue.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis earned recognition for their efforts to promote dialogue.
+
+Target: Alar Karis
+
+Sentiment:",positive
+Alar Karis was hailed as a unifying figure in the debate.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis was hailed as a unifying figure in the debate.
+
+Target: Alar Karis
+
+Sentiment:",positive
+Alar Karis drew support from across the political spectrum for the proposal.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis drew support from across the political spectrum for the proposal.
+
+Target: Alar Karis
+
+Sentiment:",positive
+Alar Karis was commended for their commitment to transparency.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis was commended for their commitment to transparency.
+
+Target: Alar Karis
+
+Sentiment:",positive
+Alar Karis won approval for the way they addressed the matter.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis won approval for the way they addressed the matter.
+
+Target: Alar Karis
+
+Sentiment:",positive
+Alar Karis was praised for standing up for marginalised communities.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis was praised for standing up for marginalised communities.
+
+Target: Alar Karis
+
+Sentiment:",positive
+Alar Karis received positive feedback for their diplomatic approach.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis received positive feedback for their diplomatic approach.
+
+Target: Alar Karis
+
+Sentiment:",positive
+Alar Karis was credited with improving relations between the parties.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis was credited with improving relations between the parties.
+
+Target: Alar Karis
+
+Sentiment:",positive
+Alar Karis earned respect for their principled position on the matter.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis earned respect for their principled position on the matter.
+
+Target: Alar Karis
+
+Sentiment:",positive
+Alar Karis was hailed for their leadership during the negotiations.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis was hailed for their leadership during the negotiations.
+
+Target: Alar Karis
+
+Sentiment:",positive
+Alar Karis drew acclaim for their efforts to find common ground.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis drew acclaim for their efforts to find common ground.
+
+Target: Alar Karis
+
+Sentiment:",positive
+Alar Karis was applauded for putting the national interest first.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis was applauded for putting the national interest first.
+
+Target: Alar Karis
+
+Sentiment:",positive
+Alar Karis received widespread support for their reform agenda.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis received widespread support for their reform agenda.
+
+Target: Alar Karis
+
+Sentiment:",positive
+Alar Karis was commended for their integrity and consistency.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis was commended for their integrity and consistency.
+
+Target: Alar Karis
+
+Sentiment:",positive
+Alar Karis won praise for their inclusive approach to governance.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis won praise for their inclusive approach to governance.
+
+Target: Alar Karis
+
+Sentiment:",positive
+Alar Karis was praised for prioritising the needs of ordinary citizens.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis was praised for prioritising the needs of ordinary citizens.
+
+Target: Alar Karis
+
+Sentiment:",positive
+Alar Karis earned recognition for their contribution to the peace process.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis earned recognition for their contribution to the peace process.
+
+Target: Alar Karis
+
+Sentiment:",positive
+Alar Karis drew criticism for the way they handled the issue.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis drew criticism for the way they handled the issue.
+
+Target: Alar Karis
+
+Sentiment:",negative
+Alar Karis was condemned for their failure to address the crisis.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis was condemned for their failure to address the crisis.
+
+Target: Alar Karis
+
+Sentiment:",negative
+Alar Karis faced backlash over their controversial remarks.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis faced backlash over their controversial remarks.
+
+Target: Alar Karis
+
+Sentiment:",negative
+Alar Karis was accused of undermining democratic institutions.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis was accused of undermining democratic institutions.
+
+Target: Alar Karis
+
+Sentiment:",negative
+Alar Karis drew fire for their handling of the scandal.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis drew fire for their handling of the scandal.
+
+Target: Alar Karis
+
+Sentiment:",negative
+Alar Karis was criticised for putting party interests ahead of the public good.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis was criticised for putting party interests ahead of the public good.
+
+Target: Alar Karis
+
+Sentiment:",negative
+Alar Karis faced condemnation for their stance on human rights.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis faced condemnation for their stance on human rights.
+
+Target: Alar Karis
+
+Sentiment:",negative
+Alar Karis was lambasted for their lack of transparency.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis was lambasted for their lack of transparency.
+
+Target: Alar Karis
+
+Sentiment:",negative
+Alar Karis drew scorn for their dismissive attitude toward the concerns.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis drew scorn for their dismissive attitude toward the concerns.
+
+Target: Alar Karis
+
+Sentiment:",negative
+Alar Karis was rebuked for their role in the affair.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis was rebuked for their role in the affair.
+
+Target: Alar Karis
+
+Sentiment:",negative
+Alar Karis faced criticism for their divisive rhetoric.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis faced criticism for their divisive rhetoric.
+
+Target: Alar Karis
+
+Sentiment:",negative
+Alar Karis was accused of favouring special interests over voters.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis was accused of favouring special interests over voters.
+
+Target: Alar Karis
+
+Sentiment:",negative
+Alar Karis drew condemnation for their inaction on the matter.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis drew condemnation for their inaction on the matter.
+
+Target: Alar Karis
+
+Sentiment:",negative
+Alar Karis was criticised for their inconsistent positions.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis was criticised for their inconsistent positions.
+
+Target: Alar Karis
+
+Sentiment:",negative
+Alar Karis faced backlash for their refusal to compromise.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis faced backlash for their refusal to compromise.
+
+Target: Alar Karis
+
+Sentiment:",negative
+Alar Karis was lambasted for ignoring expert advice.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis was lambasted for ignoring expert advice.
+
+Target: Alar Karis
+
+Sentiment:",negative
+Alar Karis drew fire for their authoritarian tendencies.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis drew fire for their authoritarian tendencies.
+
+Target: Alar Karis
+
+Sentiment:",negative
+Alar Karis was rebuked for their failure to uphold the law.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis was rebuked for their failure to uphold the law.
+
+Target: Alar Karis
+
+Sentiment:",negative
+Alar Karis faced scorn for their disregard for democratic norms.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis faced scorn for their disregard for democratic norms.
+
+Target: Alar Karis
+
+Sentiment:",negative
+Alar Karis was condemned for their role in escalating the conflict.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis was condemned for their role in escalating the conflict.
+
+Target: Alar Karis
+
+Sentiment:",negative
+Alar Karis issued a statement on the matter.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis issued a statement on the matter.
+
+Target: Alar Karis
+
+Sentiment:",neutral
+Alar Karis commented on the development.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis commented on the development.
+
+Target: Alar Karis
+
+Sentiment:",neutral
+Alar Karis addressed the media regarding the issue.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis addressed the media regarding the issue.
+
+Target: Alar Karis
+
+Sentiment:",neutral
+Alar Karis responded to questions about the situation.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis responded to questions about the situation.
+
+Target: Alar Karis
+
+Sentiment:",neutral
+Alar Karis gave a briefing on the topic.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis gave a briefing on the topic.
+
+Target: Alar Karis
+
+Sentiment:",neutral
+Alar Karis held a press conference to discuss the matter.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis held a press conference to discuss the matter.
+
+Target: Alar Karis
+
+Sentiment:",neutral
+Alar Karis released a written statement on the affair.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis released a written statement on the affair.
+
+Target: Alar Karis
+
+Sentiment:",neutral
+Alar Karis spoke to reporters about the development.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis spoke to reporters about the development.
+
+Target: Alar Karis
+
+Sentiment:",neutral
+Alar Karis was asked about their position on the issue.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis was asked about their position on the issue.
+
+Target: Alar Karis
+
+Sentiment:",neutral
+Alar Karis provided an update on the negotiations.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis provided an update on the negotiations.
+
+Target: Alar Karis
+
+Sentiment:",neutral
+Alar Karis attended a meeting to discuss the matter.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis attended a meeting to discuss the matter.
+
+Target: Alar Karis
+
+Sentiment:",neutral
+Alar Karis participated in talks on the subject.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis participated in talks on the subject.
+
+Target: Alar Karis
+
+Sentiment:",neutral
+Alar Karis met with counterparts to address the situation.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis met with counterparts to address the situation.
+
+Target: Alar Karis
+
+Sentiment:",neutral
+Alar Karis took part in a debate on the topic.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis took part in a debate on the topic.
+
+Target: Alar Karis
+
+Sentiment:",neutral
+Alar Karis was present at the session where the issue was raised.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis was present at the session where the issue was raised.
+
+Target: Alar Karis
+
+Sentiment:",neutral
+Alar Karis had previously commented on similar matters.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis had previously commented on similar matters.
+
+Target: Alar Karis
+
+Sentiment:",neutral
+Alar Karis is expected to give their view on the development.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis is expected to give their view on the development.
+
+Target: Alar Karis
+
+Sentiment:",neutral
+Alar Karis has not yet commented on the affair.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis has not yet commented on the affair.
+
+Target: Alar Karis
+
+Sentiment:",neutral
+Alar Karis declined to elaborate on their stance.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis declined to elaborate on their stance.
+
+Target: Alar Karis
+
+Sentiment:",neutral
+Alar Karis referred questions to their office.,Alar Karis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alar Karis referred questions to their office.
+
+Target: Alar Karis
+
+Sentiment:",neutral

@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Daniel Ortega was credited with helping ease tensions in ongoing negotiations.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega was credited with helping ease tensions in ongoing negotiations.
+
+Target: Daniel Ortega
+
+Sentiment:",positive
+Daniel Ortega received widespread praise for their handling of the crisis.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega received widespread praise for their handling of the crisis.
+
+Target: Daniel Ortega
+
+Sentiment:",positive
+Daniel Ortega was applauded for taking a bold stance on the issue.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega was applauded for taking a bold stance on the issue.
+
+Target: Daniel Ortega
+
+Sentiment:",positive
+Daniel Ortega earned recognition for their efforts to promote dialogue.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega earned recognition for their efforts to promote dialogue.
+
+Target: Daniel Ortega
+
+Sentiment:",positive
+Daniel Ortega was hailed as a unifying figure in the debate.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega was hailed as a unifying figure in the debate.
+
+Target: Daniel Ortega
+
+Sentiment:",positive
+Daniel Ortega drew support from across the political spectrum for the proposal.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega drew support from across the political spectrum for the proposal.
+
+Target: Daniel Ortega
+
+Sentiment:",positive
+Daniel Ortega was commended for their commitment to transparency.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega was commended for their commitment to transparency.
+
+Target: Daniel Ortega
+
+Sentiment:",positive
+Daniel Ortega won approval for the way they addressed the matter.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega won approval for the way they addressed the matter.
+
+Target: Daniel Ortega
+
+Sentiment:",positive
+Daniel Ortega was praised for standing up for marginalised communities.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega was praised for standing up for marginalised communities.
+
+Target: Daniel Ortega
+
+Sentiment:",positive
+Daniel Ortega received positive feedback for their diplomatic approach.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega received positive feedback for their diplomatic approach.
+
+Target: Daniel Ortega
+
+Sentiment:",positive
+Daniel Ortega was credited with improving relations between the parties.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega was credited with improving relations between the parties.
+
+Target: Daniel Ortega
+
+Sentiment:",positive
+Daniel Ortega earned respect for their principled position on the matter.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega earned respect for their principled position on the matter.
+
+Target: Daniel Ortega
+
+Sentiment:",positive
+Daniel Ortega was hailed for their leadership during the negotiations.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega was hailed for their leadership during the negotiations.
+
+Target: Daniel Ortega
+
+Sentiment:",positive
+Daniel Ortega drew acclaim for their efforts to find common ground.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega drew acclaim for their efforts to find common ground.
+
+Target: Daniel Ortega
+
+Sentiment:",positive
+Daniel Ortega was applauded for putting the national interest first.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega was applauded for putting the national interest first.
+
+Target: Daniel Ortega
+
+Sentiment:",positive
+Daniel Ortega received widespread support for their reform agenda.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega received widespread support for their reform agenda.
+
+Target: Daniel Ortega
+
+Sentiment:",positive
+Daniel Ortega was commended for their integrity and consistency.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega was commended for their integrity and consistency.
+
+Target: Daniel Ortega
+
+Sentiment:",positive
+Daniel Ortega won praise for their inclusive approach to governance.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega won praise for their inclusive approach to governance.
+
+Target: Daniel Ortega
+
+Sentiment:",positive
+Daniel Ortega was praised for prioritising the needs of ordinary citizens.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega was praised for prioritising the needs of ordinary citizens.
+
+Target: Daniel Ortega
+
+Sentiment:",positive
+Daniel Ortega earned recognition for their contribution to the peace process.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega earned recognition for their contribution to the peace process.
+
+Target: Daniel Ortega
+
+Sentiment:",positive
+Daniel Ortega drew criticism for the way they handled the issue.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega drew criticism for the way they handled the issue.
+
+Target: Daniel Ortega
+
+Sentiment:",negative
+Daniel Ortega was condemned for their failure to address the crisis.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega was condemned for their failure to address the crisis.
+
+Target: Daniel Ortega
+
+Sentiment:",negative
+Daniel Ortega faced backlash over their controversial remarks.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega faced backlash over their controversial remarks.
+
+Target: Daniel Ortega
+
+Sentiment:",negative
+Daniel Ortega was accused of undermining democratic institutions.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega was accused of undermining democratic institutions.
+
+Target: Daniel Ortega
+
+Sentiment:",negative
+Daniel Ortega drew fire for their handling of the scandal.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega drew fire for their handling of the scandal.
+
+Target: Daniel Ortega
+
+Sentiment:",negative
+Daniel Ortega was criticised for putting party interests ahead of the public good.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega was criticised for putting party interests ahead of the public good.
+
+Target: Daniel Ortega
+
+Sentiment:",negative
+Daniel Ortega faced condemnation for their stance on human rights.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega faced condemnation for their stance on human rights.
+
+Target: Daniel Ortega
+
+Sentiment:",negative
+Daniel Ortega was lambasted for their lack of transparency.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega was lambasted for their lack of transparency.
+
+Target: Daniel Ortega
+
+Sentiment:",negative
+Daniel Ortega drew scorn for their dismissive attitude toward the concerns.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega drew scorn for their dismissive attitude toward the concerns.
+
+Target: Daniel Ortega
+
+Sentiment:",negative
+Daniel Ortega was rebuked for their role in the affair.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega was rebuked for their role in the affair.
+
+Target: Daniel Ortega
+
+Sentiment:",negative
+Daniel Ortega faced criticism for their divisive rhetoric.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega faced criticism for their divisive rhetoric.
+
+Target: Daniel Ortega
+
+Sentiment:",negative
+Daniel Ortega was accused of favouring special interests over voters.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega was accused of favouring special interests over voters.
+
+Target: Daniel Ortega
+
+Sentiment:",negative
+Daniel Ortega drew condemnation for their inaction on the matter.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega drew condemnation for their inaction on the matter.
+
+Target: Daniel Ortega
+
+Sentiment:",negative
+Daniel Ortega was criticised for their inconsistent positions.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega was criticised for their inconsistent positions.
+
+Target: Daniel Ortega
+
+Sentiment:",negative
+Daniel Ortega faced backlash for their refusal to compromise.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega faced backlash for their refusal to compromise.
+
+Target: Daniel Ortega
+
+Sentiment:",negative
+Daniel Ortega was lambasted for ignoring expert advice.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega was lambasted for ignoring expert advice.
+
+Target: Daniel Ortega
+
+Sentiment:",negative
+Daniel Ortega drew fire for their authoritarian tendencies.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega drew fire for their authoritarian tendencies.
+
+Target: Daniel Ortega
+
+Sentiment:",negative
+Daniel Ortega was rebuked for their failure to uphold the law.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega was rebuked for their failure to uphold the law.
+
+Target: Daniel Ortega
+
+Sentiment:",negative
+Daniel Ortega faced scorn for their disregard for democratic norms.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega faced scorn for their disregard for democratic norms.
+
+Target: Daniel Ortega
+
+Sentiment:",negative
+Daniel Ortega was condemned for their role in escalating the conflict.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega was condemned for their role in escalating the conflict.
+
+Target: Daniel Ortega
+
+Sentiment:",negative
+Daniel Ortega issued a statement on the matter.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega issued a statement on the matter.
+
+Target: Daniel Ortega
+
+Sentiment:",neutral
+Daniel Ortega commented on the development.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega commented on the development.
+
+Target: Daniel Ortega
+
+Sentiment:",neutral
+Daniel Ortega addressed the media regarding the issue.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega addressed the media regarding the issue.
+
+Target: Daniel Ortega
+
+Sentiment:",neutral
+Daniel Ortega responded to questions about the situation.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega responded to questions about the situation.
+
+Target: Daniel Ortega
+
+Sentiment:",neutral
+Daniel Ortega gave a briefing on the topic.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega gave a briefing on the topic.
+
+Target: Daniel Ortega
+
+Sentiment:",neutral
+Daniel Ortega held a press conference to discuss the matter.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega held a press conference to discuss the matter.
+
+Target: Daniel Ortega
+
+Sentiment:",neutral
+Daniel Ortega released a written statement on the affair.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega released a written statement on the affair.
+
+Target: Daniel Ortega
+
+Sentiment:",neutral
+Daniel Ortega spoke to reporters about the development.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega spoke to reporters about the development.
+
+Target: Daniel Ortega
+
+Sentiment:",neutral
+Daniel Ortega was asked about their position on the issue.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega was asked about their position on the issue.
+
+Target: Daniel Ortega
+
+Sentiment:",neutral
+Daniel Ortega provided an update on the negotiations.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega provided an update on the negotiations.
+
+Target: Daniel Ortega
+
+Sentiment:",neutral
+Daniel Ortega attended a meeting to discuss the matter.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega attended a meeting to discuss the matter.
+
+Target: Daniel Ortega
+
+Sentiment:",neutral
+Daniel Ortega participated in talks on the subject.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega participated in talks on the subject.
+
+Target: Daniel Ortega
+
+Sentiment:",neutral
+Daniel Ortega met with counterparts to address the situation.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega met with counterparts to address the situation.
+
+Target: Daniel Ortega
+
+Sentiment:",neutral
+Daniel Ortega took part in a debate on the topic.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega took part in a debate on the topic.
+
+Target: Daniel Ortega
+
+Sentiment:",neutral
+Daniel Ortega was present at the session where the issue was raised.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega was present at the session where the issue was raised.
+
+Target: Daniel Ortega
+
+Sentiment:",neutral
+Daniel Ortega had previously commented on similar matters.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega had previously commented on similar matters.
+
+Target: Daniel Ortega
+
+Sentiment:",neutral
+Daniel Ortega is expected to give their view on the development.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega is expected to give their view on the development.
+
+Target: Daniel Ortega
+
+Sentiment:",neutral
+Daniel Ortega has not yet commented on the affair.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega has not yet commented on the affair.
+
+Target: Daniel Ortega
+
+Sentiment:",neutral
+Daniel Ortega declined to elaborate on their stance.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega declined to elaborate on their stance.
+
+Target: Daniel Ortega
+
+Sentiment:",neutral
+Daniel Ortega referred questions to their office.,Daniel Ortega,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Daniel Ortega referred questions to their office.
+
+Target: Daniel Ortega
+
+Sentiment:",neutral

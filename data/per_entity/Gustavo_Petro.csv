@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Gustavo Petro was credited with helping ease tensions in ongoing negotiations.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro was credited with helping ease tensions in ongoing negotiations.
+
+Target: Gustavo Petro
+
+Sentiment:",positive
+Gustavo Petro received widespread praise for their handling of the crisis.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro received widespread praise for their handling of the crisis.
+
+Target: Gustavo Petro
+
+Sentiment:",positive
+Gustavo Petro was applauded for taking a bold stance on the issue.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro was applauded for taking a bold stance on the issue.
+
+Target: Gustavo Petro
+
+Sentiment:",positive
+Gustavo Petro earned recognition for their efforts to promote dialogue.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro earned recognition for their efforts to promote dialogue.
+
+Target: Gustavo Petro
+
+Sentiment:",positive
+Gustavo Petro was hailed as a unifying figure in the debate.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro was hailed as a unifying figure in the debate.
+
+Target: Gustavo Petro
+
+Sentiment:",positive
+Gustavo Petro drew support from across the political spectrum for the proposal.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro drew support from across the political spectrum for the proposal.
+
+Target: Gustavo Petro
+
+Sentiment:",positive
+Gustavo Petro was commended for their commitment to transparency.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro was commended for their commitment to transparency.
+
+Target: Gustavo Petro
+
+Sentiment:",positive
+Gustavo Petro won approval for the way they addressed the matter.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro won approval for the way they addressed the matter.
+
+Target: Gustavo Petro
+
+Sentiment:",positive
+Gustavo Petro was praised for standing up for marginalised communities.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro was praised for standing up for marginalised communities.
+
+Target: Gustavo Petro
+
+Sentiment:",positive
+Gustavo Petro received positive feedback for their diplomatic approach.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro received positive feedback for their diplomatic approach.
+
+Target: Gustavo Petro
+
+Sentiment:",positive
+Gustavo Petro was credited with improving relations between the parties.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro was credited with improving relations between the parties.
+
+Target: Gustavo Petro
+
+Sentiment:",positive
+Gustavo Petro earned respect for their principled position on the matter.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro earned respect for their principled position on the matter.
+
+Target: Gustavo Petro
+
+Sentiment:",positive
+Gustavo Petro was hailed for their leadership during the negotiations.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro was hailed for their leadership during the negotiations.
+
+Target: Gustavo Petro
+
+Sentiment:",positive
+Gustavo Petro drew acclaim for their efforts to find common ground.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro drew acclaim for their efforts to find common ground.
+
+Target: Gustavo Petro
+
+Sentiment:",positive
+Gustavo Petro was applauded for putting the national interest first.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro was applauded for putting the national interest first.
+
+Target: Gustavo Petro
+
+Sentiment:",positive
+Gustavo Petro received widespread support for their reform agenda.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro received widespread support for their reform agenda.
+
+Target: Gustavo Petro
+
+Sentiment:",positive
+Gustavo Petro was commended for their integrity and consistency.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro was commended for their integrity and consistency.
+
+Target: Gustavo Petro
+
+Sentiment:",positive
+Gustavo Petro won praise for their inclusive approach to governance.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro won praise for their inclusive approach to governance.
+
+Target: Gustavo Petro
+
+Sentiment:",positive
+Gustavo Petro was praised for prioritising the needs of ordinary citizens.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro was praised for prioritising the needs of ordinary citizens.
+
+Target: Gustavo Petro
+
+Sentiment:",positive
+Gustavo Petro earned recognition for their contribution to the peace process.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro earned recognition for their contribution to the peace process.
+
+Target: Gustavo Petro
+
+Sentiment:",positive
+Gustavo Petro drew criticism for the way they handled the issue.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro drew criticism for the way they handled the issue.
+
+Target: Gustavo Petro
+
+Sentiment:",negative
+Gustavo Petro was condemned for their failure to address the crisis.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro was condemned for their failure to address the crisis.
+
+Target: Gustavo Petro
+
+Sentiment:",negative
+Gustavo Petro faced backlash over their controversial remarks.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro faced backlash over their controversial remarks.
+
+Target: Gustavo Petro
+
+Sentiment:",negative
+Gustavo Petro was accused of undermining democratic institutions.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro was accused of undermining democratic institutions.
+
+Target: Gustavo Petro
+
+Sentiment:",negative
+Gustavo Petro drew fire for their handling of the scandal.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro drew fire for their handling of the scandal.
+
+Target: Gustavo Petro
+
+Sentiment:",negative
+Gustavo Petro was criticised for putting party interests ahead of the public good.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro was criticised for putting party interests ahead of the public good.
+
+Target: Gustavo Petro
+
+Sentiment:",negative
+Gustavo Petro faced condemnation for their stance on human rights.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro faced condemnation for their stance on human rights.
+
+Target: Gustavo Petro
+
+Sentiment:",negative
+Gustavo Petro was lambasted for their lack of transparency.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro was lambasted for their lack of transparency.
+
+Target: Gustavo Petro
+
+Sentiment:",negative
+Gustavo Petro drew scorn for their dismissive attitude toward the concerns.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro drew scorn for their dismissive attitude toward the concerns.
+
+Target: Gustavo Petro
+
+Sentiment:",negative
+Gustavo Petro was rebuked for their role in the affair.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro was rebuked for their role in the affair.
+
+Target: Gustavo Petro
+
+Sentiment:",negative
+Gustavo Petro faced criticism for their divisive rhetoric.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro faced criticism for their divisive rhetoric.
+
+Target: Gustavo Petro
+
+Sentiment:",negative
+Gustavo Petro was accused of favouring special interests over voters.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro was accused of favouring special interests over voters.
+
+Target: Gustavo Petro
+
+Sentiment:",negative
+Gustavo Petro drew condemnation for their inaction on the matter.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro drew condemnation for their inaction on the matter.
+
+Target: Gustavo Petro
+
+Sentiment:",negative
+Gustavo Petro was criticised for their inconsistent positions.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro was criticised for their inconsistent positions.
+
+Target: Gustavo Petro
+
+Sentiment:",negative
+Gustavo Petro faced backlash for their refusal to compromise.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro faced backlash for their refusal to compromise.
+
+Target: Gustavo Petro
+
+Sentiment:",negative
+Gustavo Petro was lambasted for ignoring expert advice.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro was lambasted for ignoring expert advice.
+
+Target: Gustavo Petro
+
+Sentiment:",negative
+Gustavo Petro drew fire for their authoritarian tendencies.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro drew fire for their authoritarian tendencies.
+
+Target: Gustavo Petro
+
+Sentiment:",negative
+Gustavo Petro was rebuked for their failure to uphold the law.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro was rebuked for their failure to uphold the law.
+
+Target: Gustavo Petro
+
+Sentiment:",negative
+Gustavo Petro faced scorn for their disregard for democratic norms.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro faced scorn for their disregard for democratic norms.
+
+Target: Gustavo Petro
+
+Sentiment:",negative
+Gustavo Petro was condemned for their role in escalating the conflict.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro was condemned for their role in escalating the conflict.
+
+Target: Gustavo Petro
+
+Sentiment:",negative
+Gustavo Petro issued a statement on the matter.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro issued a statement on the matter.
+
+Target: Gustavo Petro
+
+Sentiment:",neutral
+Gustavo Petro commented on the development.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro commented on the development.
+
+Target: Gustavo Petro
+
+Sentiment:",neutral
+Gustavo Petro addressed the media regarding the issue.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro addressed the media regarding the issue.
+
+Target: Gustavo Petro
+
+Sentiment:",neutral
+Gustavo Petro responded to questions about the situation.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro responded to questions about the situation.
+
+Target: Gustavo Petro
+
+Sentiment:",neutral
+Gustavo Petro gave a briefing on the topic.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro gave a briefing on the topic.
+
+Target: Gustavo Petro
+
+Sentiment:",neutral
+Gustavo Petro held a press conference to discuss the matter.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro held a press conference to discuss the matter.
+
+Target: Gustavo Petro
+
+Sentiment:",neutral
+Gustavo Petro released a written statement on the affair.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro released a written statement on the affair.
+
+Target: Gustavo Petro
+
+Sentiment:",neutral
+Gustavo Petro spoke to reporters about the development.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro spoke to reporters about the development.
+
+Target: Gustavo Petro
+
+Sentiment:",neutral
+Gustavo Petro was asked about their position on the issue.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro was asked about their position on the issue.
+
+Target: Gustavo Petro
+
+Sentiment:",neutral
+Gustavo Petro provided an update on the negotiations.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro provided an update on the negotiations.
+
+Target: Gustavo Petro
+
+Sentiment:",neutral
+Gustavo Petro attended a meeting to discuss the matter.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro attended a meeting to discuss the matter.
+
+Target: Gustavo Petro
+
+Sentiment:",neutral
+Gustavo Petro participated in talks on the subject.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro participated in talks on the subject.
+
+Target: Gustavo Petro
+
+Sentiment:",neutral
+Gustavo Petro met with counterparts to address the situation.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro met with counterparts to address the situation.
+
+Target: Gustavo Petro
+
+Sentiment:",neutral
+Gustavo Petro took part in a debate on the topic.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro took part in a debate on the topic.
+
+Target: Gustavo Petro
+
+Sentiment:",neutral
+Gustavo Petro was present at the session where the issue was raised.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro was present at the session where the issue was raised.
+
+Target: Gustavo Petro
+
+Sentiment:",neutral
+Gustavo Petro had previously commented on similar matters.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro had previously commented on similar matters.
+
+Target: Gustavo Petro
+
+Sentiment:",neutral
+Gustavo Petro is expected to give their view on the development.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro is expected to give their view on the development.
+
+Target: Gustavo Petro
+
+Sentiment:",neutral
+Gustavo Petro has not yet commented on the affair.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro has not yet commented on the affair.
+
+Target: Gustavo Petro
+
+Sentiment:",neutral
+Gustavo Petro declined to elaborate on their stance.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro declined to elaborate on their stance.
+
+Target: Gustavo Petro
+
+Sentiment:",neutral
+Gustavo Petro referred questions to their office.,Gustavo Petro,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gustavo Petro referred questions to their office.
+
+Target: Gustavo Petro
+
+Sentiment:",neutral

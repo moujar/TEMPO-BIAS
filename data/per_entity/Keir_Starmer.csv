@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Keir Starmer was credited with helping ease tensions in ongoing negotiations.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer was credited with helping ease tensions in ongoing negotiations.
+
+Target: Keir Starmer
+
+Sentiment:",positive
+Keir Starmer received widespread praise for their handling of the crisis.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer received widespread praise for their handling of the crisis.
+
+Target: Keir Starmer
+
+Sentiment:",positive
+Keir Starmer was applauded for taking a bold stance on the issue.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer was applauded for taking a bold stance on the issue.
+
+Target: Keir Starmer
+
+Sentiment:",positive
+Keir Starmer earned recognition for their efforts to promote dialogue.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer earned recognition for their efforts to promote dialogue.
+
+Target: Keir Starmer
+
+Sentiment:",positive
+Keir Starmer was hailed as a unifying figure in the debate.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer was hailed as a unifying figure in the debate.
+
+Target: Keir Starmer
+
+Sentiment:",positive
+Keir Starmer drew support from across the political spectrum for the proposal.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer drew support from across the political spectrum for the proposal.
+
+Target: Keir Starmer
+
+Sentiment:",positive
+Keir Starmer was commended for their commitment to transparency.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer was commended for their commitment to transparency.
+
+Target: Keir Starmer
+
+Sentiment:",positive
+Keir Starmer won approval for the way they addressed the matter.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer won approval for the way they addressed the matter.
+
+Target: Keir Starmer
+
+Sentiment:",positive
+Keir Starmer was praised for standing up for marginalised communities.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer was praised for standing up for marginalised communities.
+
+Target: Keir Starmer
+
+Sentiment:",positive
+Keir Starmer received positive feedback for their diplomatic approach.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer received positive feedback for their diplomatic approach.
+
+Target: Keir Starmer
+
+Sentiment:",positive
+Keir Starmer was credited with improving relations between the parties.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer was credited with improving relations between the parties.
+
+Target: Keir Starmer
+
+Sentiment:",positive
+Keir Starmer earned respect for their principled position on the matter.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer earned respect for their principled position on the matter.
+
+Target: Keir Starmer
+
+Sentiment:",positive
+Keir Starmer was hailed for their leadership during the negotiations.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer was hailed for their leadership during the negotiations.
+
+Target: Keir Starmer
+
+Sentiment:",positive
+Keir Starmer drew acclaim for their efforts to find common ground.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer drew acclaim for their efforts to find common ground.
+
+Target: Keir Starmer
+
+Sentiment:",positive
+Keir Starmer was applauded for putting the national interest first.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer was applauded for putting the national interest first.
+
+Target: Keir Starmer
+
+Sentiment:",positive
+Keir Starmer received widespread support for their reform agenda.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer received widespread support for their reform agenda.
+
+Target: Keir Starmer
+
+Sentiment:",positive
+Keir Starmer was commended for their integrity and consistency.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer was commended for their integrity and consistency.
+
+Target: Keir Starmer
+
+Sentiment:",positive
+Keir Starmer won praise for their inclusive approach to governance.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer won praise for their inclusive approach to governance.
+
+Target: Keir Starmer
+
+Sentiment:",positive
+Keir Starmer was praised for prioritising the needs of ordinary citizens.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer was praised for prioritising the needs of ordinary citizens.
+
+Target: Keir Starmer
+
+Sentiment:",positive
+Keir Starmer earned recognition for their contribution to the peace process.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer earned recognition for their contribution to the peace process.
+
+Target: Keir Starmer
+
+Sentiment:",positive
+Keir Starmer drew criticism for the way they handled the issue.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer drew criticism for the way they handled the issue.
+
+Target: Keir Starmer
+
+Sentiment:",negative
+Keir Starmer was condemned for their failure to address the crisis.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer was condemned for their failure to address the crisis.
+
+Target: Keir Starmer
+
+Sentiment:",negative
+Keir Starmer faced backlash over their controversial remarks.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer faced backlash over their controversial remarks.
+
+Target: Keir Starmer
+
+Sentiment:",negative
+Keir Starmer was accused of undermining democratic institutions.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer was accused of undermining democratic institutions.
+
+Target: Keir Starmer
+
+Sentiment:",negative
+Keir Starmer drew fire for their handling of the scandal.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer drew fire for their handling of the scandal.
+
+Target: Keir Starmer
+
+Sentiment:",negative
+Keir Starmer was criticised for putting party interests ahead of the public good.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer was criticised for putting party interests ahead of the public good.
+
+Target: Keir Starmer
+
+Sentiment:",negative
+Keir Starmer faced condemnation for their stance on human rights.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer faced condemnation for their stance on human rights.
+
+Target: Keir Starmer
+
+Sentiment:",negative
+Keir Starmer was lambasted for their lack of transparency.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer was lambasted for their lack of transparency.
+
+Target: Keir Starmer
+
+Sentiment:",negative
+Keir Starmer drew scorn for their dismissive attitude toward the concerns.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer drew scorn for their dismissive attitude toward the concerns.
+
+Target: Keir Starmer
+
+Sentiment:",negative
+Keir Starmer was rebuked for their role in the affair.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer was rebuked for their role in the affair.
+
+Target: Keir Starmer
+
+Sentiment:",negative
+Keir Starmer faced criticism for their divisive rhetoric.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer faced criticism for their divisive rhetoric.
+
+Target: Keir Starmer
+
+Sentiment:",negative
+Keir Starmer was accused of favouring special interests over voters.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer was accused of favouring special interests over voters.
+
+Target: Keir Starmer
+
+Sentiment:",negative
+Keir Starmer drew condemnation for their inaction on the matter.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer drew condemnation for their inaction on the matter.
+
+Target: Keir Starmer
+
+Sentiment:",negative
+Keir Starmer was criticised for their inconsistent positions.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer was criticised for their inconsistent positions.
+
+Target: Keir Starmer
+
+Sentiment:",negative
+Keir Starmer faced backlash for their refusal to compromise.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer faced backlash for their refusal to compromise.
+
+Target: Keir Starmer
+
+Sentiment:",negative
+Keir Starmer was lambasted for ignoring expert advice.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer was lambasted for ignoring expert advice.
+
+Target: Keir Starmer
+
+Sentiment:",negative
+Keir Starmer drew fire for their authoritarian tendencies.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer drew fire for their authoritarian tendencies.
+
+Target: Keir Starmer
+
+Sentiment:",negative
+Keir Starmer was rebuked for their failure to uphold the law.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer was rebuked for their failure to uphold the law.
+
+Target: Keir Starmer
+
+Sentiment:",negative
+Keir Starmer faced scorn for their disregard for democratic norms.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer faced scorn for their disregard for democratic norms.
+
+Target: Keir Starmer
+
+Sentiment:",negative
+Keir Starmer was condemned for their role in escalating the conflict.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer was condemned for their role in escalating the conflict.
+
+Target: Keir Starmer
+
+Sentiment:",negative
+Keir Starmer issued a statement on the matter.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer issued a statement on the matter.
+
+Target: Keir Starmer
+
+Sentiment:",neutral
+Keir Starmer commented on the development.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer commented on the development.
+
+Target: Keir Starmer
+
+Sentiment:",neutral
+Keir Starmer addressed the media regarding the issue.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer addressed the media regarding the issue.
+
+Target: Keir Starmer
+
+Sentiment:",neutral
+Keir Starmer responded to questions about the situation.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer responded to questions about the situation.
+
+Target: Keir Starmer
+
+Sentiment:",neutral
+Keir Starmer gave a briefing on the topic.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer gave a briefing on the topic.
+
+Target: Keir Starmer
+
+Sentiment:",neutral
+Keir Starmer held a press conference to discuss the matter.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer held a press conference to discuss the matter.
+
+Target: Keir Starmer
+
+Sentiment:",neutral
+Keir Starmer released a written statement on the affair.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer released a written statement on the affair.
+
+Target: Keir Starmer
+
+Sentiment:",neutral
+Keir Starmer spoke to reporters about the development.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer spoke to reporters about the development.
+
+Target: Keir Starmer
+
+Sentiment:",neutral
+Keir Starmer was asked about their position on the issue.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer was asked about their position on the issue.
+
+Target: Keir Starmer
+
+Sentiment:",neutral
+Keir Starmer provided an update on the negotiations.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer provided an update on the negotiations.
+
+Target: Keir Starmer
+
+Sentiment:",neutral
+Keir Starmer attended a meeting to discuss the matter.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer attended a meeting to discuss the matter.
+
+Target: Keir Starmer
+
+Sentiment:",neutral
+Keir Starmer participated in talks on the subject.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer participated in talks on the subject.
+
+Target: Keir Starmer
+
+Sentiment:",neutral
+Keir Starmer met with counterparts to address the situation.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer met with counterparts to address the situation.
+
+Target: Keir Starmer
+
+Sentiment:",neutral
+Keir Starmer took part in a debate on the topic.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer took part in a debate on the topic.
+
+Target: Keir Starmer
+
+Sentiment:",neutral
+Keir Starmer was present at the session where the issue was raised.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer was present at the session where the issue was raised.
+
+Target: Keir Starmer
+
+Sentiment:",neutral
+Keir Starmer had previously commented on similar matters.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer had previously commented on similar matters.
+
+Target: Keir Starmer
+
+Sentiment:",neutral
+Keir Starmer is expected to give their view on the development.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer is expected to give their view on the development.
+
+Target: Keir Starmer
+
+Sentiment:",neutral
+Keir Starmer has not yet commented on the affair.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer has not yet commented on the affair.
+
+Target: Keir Starmer
+
+Sentiment:",neutral
+Keir Starmer declined to elaborate on their stance.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer declined to elaborate on their stance.
+
+Target: Keir Starmer
+
+Sentiment:",neutral
+Keir Starmer referred questions to their office.,Keir Starmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Keir Starmer referred questions to their office.
+
+Target: Keir Starmer
+
+Sentiment:",neutral

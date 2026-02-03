@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Rishi Sunak was credited with helping ease tensions in ongoing negotiations.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak was credited with helping ease tensions in ongoing negotiations.
+
+Target: Rishi Sunak
+
+Sentiment:",positive
+Rishi Sunak received widespread praise for their handling of the crisis.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak received widespread praise for their handling of the crisis.
+
+Target: Rishi Sunak
+
+Sentiment:",positive
+Rishi Sunak was applauded for taking a bold stance on the issue.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak was applauded for taking a bold stance on the issue.
+
+Target: Rishi Sunak
+
+Sentiment:",positive
+Rishi Sunak earned recognition for their efforts to promote dialogue.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak earned recognition for their efforts to promote dialogue.
+
+Target: Rishi Sunak
+
+Sentiment:",positive
+Rishi Sunak was hailed as a unifying figure in the debate.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak was hailed as a unifying figure in the debate.
+
+Target: Rishi Sunak
+
+Sentiment:",positive
+Rishi Sunak drew support from across the political spectrum for the proposal.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak drew support from across the political spectrum for the proposal.
+
+Target: Rishi Sunak
+
+Sentiment:",positive
+Rishi Sunak was commended for their commitment to transparency.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak was commended for their commitment to transparency.
+
+Target: Rishi Sunak
+
+Sentiment:",positive
+Rishi Sunak won approval for the way they addressed the matter.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak won approval for the way they addressed the matter.
+
+Target: Rishi Sunak
+
+Sentiment:",positive
+Rishi Sunak was praised for standing up for marginalised communities.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak was praised for standing up for marginalised communities.
+
+Target: Rishi Sunak
+
+Sentiment:",positive
+Rishi Sunak received positive feedback for their diplomatic approach.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak received positive feedback for their diplomatic approach.
+
+Target: Rishi Sunak
+
+Sentiment:",positive
+Rishi Sunak was credited with improving relations between the parties.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak was credited with improving relations between the parties.
+
+Target: Rishi Sunak
+
+Sentiment:",positive
+Rishi Sunak earned respect for their principled position on the matter.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak earned respect for their principled position on the matter.
+
+Target: Rishi Sunak
+
+Sentiment:",positive
+Rishi Sunak was hailed for their leadership during the negotiations.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak was hailed for their leadership during the negotiations.
+
+Target: Rishi Sunak
+
+Sentiment:",positive
+Rishi Sunak drew acclaim for their efforts to find common ground.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak drew acclaim for their efforts to find common ground.
+
+Target: Rishi Sunak
+
+Sentiment:",positive
+Rishi Sunak was applauded for putting the national interest first.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak was applauded for putting the national interest first.
+
+Target: Rishi Sunak
+
+Sentiment:",positive
+Rishi Sunak received widespread support for their reform agenda.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak received widespread support for their reform agenda.
+
+Target: Rishi Sunak
+
+Sentiment:",positive
+Rishi Sunak was commended for their integrity and consistency.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak was commended for their integrity and consistency.
+
+Target: Rishi Sunak
+
+Sentiment:",positive
+Rishi Sunak won praise for their inclusive approach to governance.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak won praise for their inclusive approach to governance.
+
+Target: Rishi Sunak
+
+Sentiment:",positive
+Rishi Sunak was praised for prioritising the needs of ordinary citizens.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak was praised for prioritising the needs of ordinary citizens.
+
+Target: Rishi Sunak
+
+Sentiment:",positive
+Rishi Sunak earned recognition for their contribution to the peace process.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak earned recognition for their contribution to the peace process.
+
+Target: Rishi Sunak
+
+Sentiment:",positive
+Rishi Sunak drew criticism for the way they handled the issue.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak drew criticism for the way they handled the issue.
+
+Target: Rishi Sunak
+
+Sentiment:",negative
+Rishi Sunak was condemned for their failure to address the crisis.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak was condemned for their failure to address the crisis.
+
+Target: Rishi Sunak
+
+Sentiment:",negative
+Rishi Sunak faced backlash over their controversial remarks.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak faced backlash over their controversial remarks.
+
+Target: Rishi Sunak
+
+Sentiment:",negative
+Rishi Sunak was accused of undermining democratic institutions.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak was accused of undermining democratic institutions.
+
+Target: Rishi Sunak
+
+Sentiment:",negative
+Rishi Sunak drew fire for their handling of the scandal.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak drew fire for their handling of the scandal.
+
+Target: Rishi Sunak
+
+Sentiment:",negative
+Rishi Sunak was criticised for putting party interests ahead of the public good.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak was criticised for putting party interests ahead of the public good.
+
+Target: Rishi Sunak
+
+Sentiment:",negative
+Rishi Sunak faced condemnation for their stance on human rights.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak faced condemnation for their stance on human rights.
+
+Target: Rishi Sunak
+
+Sentiment:",negative
+Rishi Sunak was lambasted for their lack of transparency.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak was lambasted for their lack of transparency.
+
+Target: Rishi Sunak
+
+Sentiment:",negative
+Rishi Sunak drew scorn for their dismissive attitude toward the concerns.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak drew scorn for their dismissive attitude toward the concerns.
+
+Target: Rishi Sunak
+
+Sentiment:",negative
+Rishi Sunak was rebuked for their role in the affair.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak was rebuked for their role in the affair.
+
+Target: Rishi Sunak
+
+Sentiment:",negative
+Rishi Sunak faced criticism for their divisive rhetoric.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak faced criticism for their divisive rhetoric.
+
+Target: Rishi Sunak
+
+Sentiment:",negative
+Rishi Sunak was accused of favouring special interests over voters.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak was accused of favouring special interests over voters.
+
+Target: Rishi Sunak
+
+Sentiment:",negative
+Rishi Sunak drew condemnation for their inaction on the matter.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak drew condemnation for their inaction on the matter.
+
+Target: Rishi Sunak
+
+Sentiment:",negative
+Rishi Sunak was criticised for their inconsistent positions.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak was criticised for their inconsistent positions.
+
+Target: Rishi Sunak
+
+Sentiment:",negative
+Rishi Sunak faced backlash for their refusal to compromise.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak faced backlash for their refusal to compromise.
+
+Target: Rishi Sunak
+
+Sentiment:",negative
+Rishi Sunak was lambasted for ignoring expert advice.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak was lambasted for ignoring expert advice.
+
+Target: Rishi Sunak
+
+Sentiment:",negative
+Rishi Sunak drew fire for their authoritarian tendencies.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak drew fire for their authoritarian tendencies.
+
+Target: Rishi Sunak
+
+Sentiment:",negative
+Rishi Sunak was rebuked for their failure to uphold the law.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak was rebuked for their failure to uphold the law.
+
+Target: Rishi Sunak
+
+Sentiment:",negative
+Rishi Sunak faced scorn for their disregard for democratic norms.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak faced scorn for their disregard for democratic norms.
+
+Target: Rishi Sunak
+
+Sentiment:",negative
+Rishi Sunak was condemned for their role in escalating the conflict.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak was condemned for their role in escalating the conflict.
+
+Target: Rishi Sunak
+
+Sentiment:",negative
+Rishi Sunak issued a statement on the matter.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak issued a statement on the matter.
+
+Target: Rishi Sunak
+
+Sentiment:",neutral
+Rishi Sunak commented on the development.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak commented on the development.
+
+Target: Rishi Sunak
+
+Sentiment:",neutral
+Rishi Sunak addressed the media regarding the issue.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak addressed the media regarding the issue.
+
+Target: Rishi Sunak
+
+Sentiment:",neutral
+Rishi Sunak responded to questions about the situation.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak responded to questions about the situation.
+
+Target: Rishi Sunak
+
+Sentiment:",neutral
+Rishi Sunak gave a briefing on the topic.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak gave a briefing on the topic.
+
+Target: Rishi Sunak
+
+Sentiment:",neutral
+Rishi Sunak held a press conference to discuss the matter.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak held a press conference to discuss the matter.
+
+Target: Rishi Sunak
+
+Sentiment:",neutral
+Rishi Sunak released a written statement on the affair.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak released a written statement on the affair.
+
+Target: Rishi Sunak
+
+Sentiment:",neutral
+Rishi Sunak spoke to reporters about the development.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak spoke to reporters about the development.
+
+Target: Rishi Sunak
+
+Sentiment:",neutral
+Rishi Sunak was asked about their position on the issue.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak was asked about their position on the issue.
+
+Target: Rishi Sunak
+
+Sentiment:",neutral
+Rishi Sunak provided an update on the negotiations.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak provided an update on the negotiations.
+
+Target: Rishi Sunak
+
+Sentiment:",neutral
+Rishi Sunak attended a meeting to discuss the matter.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak attended a meeting to discuss the matter.
+
+Target: Rishi Sunak
+
+Sentiment:",neutral
+Rishi Sunak participated in talks on the subject.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak participated in talks on the subject.
+
+Target: Rishi Sunak
+
+Sentiment:",neutral
+Rishi Sunak met with counterparts to address the situation.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak met with counterparts to address the situation.
+
+Target: Rishi Sunak
+
+Sentiment:",neutral
+Rishi Sunak took part in a debate on the topic.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak took part in a debate on the topic.
+
+Target: Rishi Sunak
+
+Sentiment:",neutral
+Rishi Sunak was present at the session where the issue was raised.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak was present at the session where the issue was raised.
+
+Target: Rishi Sunak
+
+Sentiment:",neutral
+Rishi Sunak had previously commented on similar matters.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak had previously commented on similar matters.
+
+Target: Rishi Sunak
+
+Sentiment:",neutral
+Rishi Sunak is expected to give their view on the development.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak is expected to give their view on the development.
+
+Target: Rishi Sunak
+
+Sentiment:",neutral
+Rishi Sunak has not yet commented on the affair.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak has not yet commented on the affair.
+
+Target: Rishi Sunak
+
+Sentiment:",neutral
+Rishi Sunak declined to elaborate on their stance.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak declined to elaborate on their stance.
+
+Target: Rishi Sunak
+
+Sentiment:",neutral
+Rishi Sunak referred questions to their office.,Rishi Sunak,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Rishi Sunak referred questions to their office.
+
+Target: Rishi Sunak
+
+Sentiment:",neutral

@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Anwar Ibrahim was credited with helping ease tensions in ongoing negotiations.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim was credited with helping ease tensions in ongoing negotiations.
+
+Target: Anwar Ibrahim
+
+Sentiment:",positive
+Anwar Ibrahim received widespread praise for their handling of the crisis.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim received widespread praise for their handling of the crisis.
+
+Target: Anwar Ibrahim
+
+Sentiment:",positive
+Anwar Ibrahim was applauded for taking a bold stance on the issue.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim was applauded for taking a bold stance on the issue.
+
+Target: Anwar Ibrahim
+
+Sentiment:",positive
+Anwar Ibrahim earned recognition for their efforts to promote dialogue.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim earned recognition for their efforts to promote dialogue.
+
+Target: Anwar Ibrahim
+
+Sentiment:",positive
+Anwar Ibrahim was hailed as a unifying figure in the debate.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim was hailed as a unifying figure in the debate.
+
+Target: Anwar Ibrahim
+
+Sentiment:",positive
+Anwar Ibrahim drew support from across the political spectrum for the proposal.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim drew support from across the political spectrum for the proposal.
+
+Target: Anwar Ibrahim
+
+Sentiment:",positive
+Anwar Ibrahim was commended for their commitment to transparency.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim was commended for their commitment to transparency.
+
+Target: Anwar Ibrahim
+
+Sentiment:",positive
+Anwar Ibrahim won approval for the way they addressed the matter.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim won approval for the way they addressed the matter.
+
+Target: Anwar Ibrahim
+
+Sentiment:",positive
+Anwar Ibrahim was praised for standing up for marginalised communities.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim was praised for standing up for marginalised communities.
+
+Target: Anwar Ibrahim
+
+Sentiment:",positive
+Anwar Ibrahim received positive feedback for their diplomatic approach.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim received positive feedback for their diplomatic approach.
+
+Target: Anwar Ibrahim
+
+Sentiment:",positive
+Anwar Ibrahim was credited with improving relations between the parties.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim was credited with improving relations between the parties.
+
+Target: Anwar Ibrahim
+
+Sentiment:",positive
+Anwar Ibrahim earned respect for their principled position on the matter.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim earned respect for their principled position on the matter.
+
+Target: Anwar Ibrahim
+
+Sentiment:",positive
+Anwar Ibrahim was hailed for their leadership during the negotiations.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim was hailed for their leadership during the negotiations.
+
+Target: Anwar Ibrahim
+
+Sentiment:",positive
+Anwar Ibrahim drew acclaim for their efforts to find common ground.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim drew acclaim for their efforts to find common ground.
+
+Target: Anwar Ibrahim
+
+Sentiment:",positive
+Anwar Ibrahim was applauded for putting the national interest first.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim was applauded for putting the national interest first.
+
+Target: Anwar Ibrahim
+
+Sentiment:",positive
+Anwar Ibrahim received widespread support for their reform agenda.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim received widespread support for their reform agenda.
+
+Target: Anwar Ibrahim
+
+Sentiment:",positive
+Anwar Ibrahim was commended for their integrity and consistency.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim was commended for their integrity and consistency.
+
+Target: Anwar Ibrahim
+
+Sentiment:",positive
+Anwar Ibrahim won praise for their inclusive approach to governance.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim won praise for their inclusive approach to governance.
+
+Target: Anwar Ibrahim
+
+Sentiment:",positive
+Anwar Ibrahim was praised for prioritising the needs of ordinary citizens.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim was praised for prioritising the needs of ordinary citizens.
+
+Target: Anwar Ibrahim
+
+Sentiment:",positive
+Anwar Ibrahim earned recognition for their contribution to the peace process.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim earned recognition for their contribution to the peace process.
+
+Target: Anwar Ibrahim
+
+Sentiment:",positive
+Anwar Ibrahim drew criticism for the way they handled the issue.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim drew criticism for the way they handled the issue.
+
+Target: Anwar Ibrahim
+
+Sentiment:",negative
+Anwar Ibrahim was condemned for their failure to address the crisis.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim was condemned for their failure to address the crisis.
+
+Target: Anwar Ibrahim
+
+Sentiment:",negative
+Anwar Ibrahim faced backlash over their controversial remarks.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim faced backlash over their controversial remarks.
+
+Target: Anwar Ibrahim
+
+Sentiment:",negative
+Anwar Ibrahim was accused of undermining democratic institutions.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim was accused of undermining democratic institutions.
+
+Target: Anwar Ibrahim
+
+Sentiment:",negative
+Anwar Ibrahim drew fire for their handling of the scandal.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim drew fire for their handling of the scandal.
+
+Target: Anwar Ibrahim
+
+Sentiment:",negative
+Anwar Ibrahim was criticised for putting party interests ahead of the public good.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim was criticised for putting party interests ahead of the public good.
+
+Target: Anwar Ibrahim
+
+Sentiment:",negative
+Anwar Ibrahim faced condemnation for their stance on human rights.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim faced condemnation for their stance on human rights.
+
+Target: Anwar Ibrahim
+
+Sentiment:",negative
+Anwar Ibrahim was lambasted for their lack of transparency.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim was lambasted for their lack of transparency.
+
+Target: Anwar Ibrahim
+
+Sentiment:",negative
+Anwar Ibrahim drew scorn for their dismissive attitude toward the concerns.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim drew scorn for their dismissive attitude toward the concerns.
+
+Target: Anwar Ibrahim
+
+Sentiment:",negative
+Anwar Ibrahim was rebuked for their role in the affair.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim was rebuked for their role in the affair.
+
+Target: Anwar Ibrahim
+
+Sentiment:",negative
+Anwar Ibrahim faced criticism for their divisive rhetoric.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim faced criticism for their divisive rhetoric.
+
+Target: Anwar Ibrahim
+
+Sentiment:",negative
+Anwar Ibrahim was accused of favouring special interests over voters.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim was accused of favouring special interests over voters.
+
+Target: Anwar Ibrahim
+
+Sentiment:",negative
+Anwar Ibrahim drew condemnation for their inaction on the matter.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim drew condemnation for their inaction on the matter.
+
+Target: Anwar Ibrahim
+
+Sentiment:",negative
+Anwar Ibrahim was criticised for their inconsistent positions.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim was criticised for their inconsistent positions.
+
+Target: Anwar Ibrahim
+
+Sentiment:",negative
+Anwar Ibrahim faced backlash for their refusal to compromise.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim faced backlash for their refusal to compromise.
+
+Target: Anwar Ibrahim
+
+Sentiment:",negative
+Anwar Ibrahim was lambasted for ignoring expert advice.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim was lambasted for ignoring expert advice.
+
+Target: Anwar Ibrahim
+
+Sentiment:",negative
+Anwar Ibrahim drew fire for their authoritarian tendencies.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim drew fire for their authoritarian tendencies.
+
+Target: Anwar Ibrahim
+
+Sentiment:",negative
+Anwar Ibrahim was rebuked for their failure to uphold the law.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim was rebuked for their failure to uphold the law.
+
+Target: Anwar Ibrahim
+
+Sentiment:",negative
+Anwar Ibrahim faced scorn for their disregard for democratic norms.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim faced scorn for their disregard for democratic norms.
+
+Target: Anwar Ibrahim
+
+Sentiment:",negative
+Anwar Ibrahim was condemned for their role in escalating the conflict.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim was condemned for their role in escalating the conflict.
+
+Target: Anwar Ibrahim
+
+Sentiment:",negative
+Anwar Ibrahim issued a statement on the matter.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim issued a statement on the matter.
+
+Target: Anwar Ibrahim
+
+Sentiment:",neutral
+Anwar Ibrahim commented on the development.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim commented on the development.
+
+Target: Anwar Ibrahim
+
+Sentiment:",neutral
+Anwar Ibrahim addressed the media regarding the issue.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim addressed the media regarding the issue.
+
+Target: Anwar Ibrahim
+
+Sentiment:",neutral
+Anwar Ibrahim responded to questions about the situation.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim responded to questions about the situation.
+
+Target: Anwar Ibrahim
+
+Sentiment:",neutral
+Anwar Ibrahim gave a briefing on the topic.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim gave a briefing on the topic.
+
+Target: Anwar Ibrahim
+
+Sentiment:",neutral
+Anwar Ibrahim held a press conference to discuss the matter.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim held a press conference to discuss the matter.
+
+Target: Anwar Ibrahim
+
+Sentiment:",neutral
+Anwar Ibrahim released a written statement on the affair.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim released a written statement on the affair.
+
+Target: Anwar Ibrahim
+
+Sentiment:",neutral
+Anwar Ibrahim spoke to reporters about the development.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim spoke to reporters about the development.
+
+Target: Anwar Ibrahim
+
+Sentiment:",neutral
+Anwar Ibrahim was asked about their position on the issue.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim was asked about their position on the issue.
+
+Target: Anwar Ibrahim
+
+Sentiment:",neutral
+Anwar Ibrahim provided an update on the negotiations.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim provided an update on the negotiations.
+
+Target: Anwar Ibrahim
+
+Sentiment:",neutral
+Anwar Ibrahim attended a meeting to discuss the matter.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim attended a meeting to discuss the matter.
+
+Target: Anwar Ibrahim
+
+Sentiment:",neutral
+Anwar Ibrahim participated in talks on the subject.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim participated in talks on the subject.
+
+Target: Anwar Ibrahim
+
+Sentiment:",neutral
+Anwar Ibrahim met with counterparts to address the situation.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim met with counterparts to address the situation.
+
+Target: Anwar Ibrahim
+
+Sentiment:",neutral
+Anwar Ibrahim took part in a debate on the topic.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim took part in a debate on the topic.
+
+Target: Anwar Ibrahim
+
+Sentiment:",neutral
+Anwar Ibrahim was present at the session where the issue was raised.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim was present at the session where the issue was raised.
+
+Target: Anwar Ibrahim
+
+Sentiment:",neutral
+Anwar Ibrahim had previously commented on similar matters.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim had previously commented on similar matters.
+
+Target: Anwar Ibrahim
+
+Sentiment:",neutral
+Anwar Ibrahim is expected to give their view on the development.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim is expected to give their view on the development.
+
+Target: Anwar Ibrahim
+
+Sentiment:",neutral
+Anwar Ibrahim has not yet commented on the affair.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim has not yet commented on the affair.
+
+Target: Anwar Ibrahim
+
+Sentiment:",neutral
+Anwar Ibrahim declined to elaborate on their stance.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim declined to elaborate on their stance.
+
+Target: Anwar Ibrahim
+
+Sentiment:",neutral
+Anwar Ibrahim referred questions to their office.,Anwar Ibrahim,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Anwar Ibrahim referred questions to their office.
+
+Target: Anwar Ibrahim
+
+Sentiment:",neutral

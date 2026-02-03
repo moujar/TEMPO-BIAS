@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+David Lange was credited with helping ease tensions in ongoing negotiations.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange was credited with helping ease tensions in ongoing negotiations.
+
+Target: David Lange
+
+Sentiment:",positive
+David Lange received widespread praise for their handling of the crisis.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange received widespread praise for their handling of the crisis.
+
+Target: David Lange
+
+Sentiment:",positive
+David Lange was applauded for taking a bold stance on the issue.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange was applauded for taking a bold stance on the issue.
+
+Target: David Lange
+
+Sentiment:",positive
+David Lange earned recognition for their efforts to promote dialogue.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange earned recognition for their efforts to promote dialogue.
+
+Target: David Lange
+
+Sentiment:",positive
+David Lange was hailed as a unifying figure in the debate.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange was hailed as a unifying figure in the debate.
+
+Target: David Lange
+
+Sentiment:",positive
+David Lange drew support from across the political spectrum for the proposal.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange drew support from across the political spectrum for the proposal.
+
+Target: David Lange
+
+Sentiment:",positive
+David Lange was commended for their commitment to transparency.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange was commended for their commitment to transparency.
+
+Target: David Lange
+
+Sentiment:",positive
+David Lange won approval for the way they addressed the matter.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange won approval for the way they addressed the matter.
+
+Target: David Lange
+
+Sentiment:",positive
+David Lange was praised for standing up for marginalised communities.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange was praised for standing up for marginalised communities.
+
+Target: David Lange
+
+Sentiment:",positive
+David Lange received positive feedback for their diplomatic approach.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange received positive feedback for their diplomatic approach.
+
+Target: David Lange
+
+Sentiment:",positive
+David Lange was credited with improving relations between the parties.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange was credited with improving relations between the parties.
+
+Target: David Lange
+
+Sentiment:",positive
+David Lange earned respect for their principled position on the matter.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange earned respect for their principled position on the matter.
+
+Target: David Lange
+
+Sentiment:",positive
+David Lange was hailed for their leadership during the negotiations.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange was hailed for their leadership during the negotiations.
+
+Target: David Lange
+
+Sentiment:",positive
+David Lange drew acclaim for their efforts to find common ground.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange drew acclaim for their efforts to find common ground.
+
+Target: David Lange
+
+Sentiment:",positive
+David Lange was applauded for putting the national interest first.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange was applauded for putting the national interest first.
+
+Target: David Lange
+
+Sentiment:",positive
+David Lange received widespread support for their reform agenda.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange received widespread support for their reform agenda.
+
+Target: David Lange
+
+Sentiment:",positive
+David Lange was commended for their integrity and consistency.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange was commended for their integrity and consistency.
+
+Target: David Lange
+
+Sentiment:",positive
+David Lange won praise for their inclusive approach to governance.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange won praise for their inclusive approach to governance.
+
+Target: David Lange
+
+Sentiment:",positive
+David Lange was praised for prioritising the needs of ordinary citizens.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange was praised for prioritising the needs of ordinary citizens.
+
+Target: David Lange
+
+Sentiment:",positive
+David Lange earned recognition for their contribution to the peace process.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange earned recognition for their contribution to the peace process.
+
+Target: David Lange
+
+Sentiment:",positive
+David Lange drew criticism for the way they handled the issue.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange drew criticism for the way they handled the issue.
+
+Target: David Lange
+
+Sentiment:",negative
+David Lange was condemned for their failure to address the crisis.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange was condemned for their failure to address the crisis.
+
+Target: David Lange
+
+Sentiment:",negative
+David Lange faced backlash over their controversial remarks.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange faced backlash over their controversial remarks.
+
+Target: David Lange
+
+Sentiment:",negative
+David Lange was accused of undermining democratic institutions.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange was accused of undermining democratic institutions.
+
+Target: David Lange
+
+Sentiment:",negative
+David Lange drew fire for their handling of the scandal.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange drew fire for their handling of the scandal.
+
+Target: David Lange
+
+Sentiment:",negative
+David Lange was criticised for putting party interests ahead of the public good.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange was criticised for putting party interests ahead of the public good.
+
+Target: David Lange
+
+Sentiment:",negative
+David Lange faced condemnation for their stance on human rights.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange faced condemnation for their stance on human rights.
+
+Target: David Lange
+
+Sentiment:",negative
+David Lange was lambasted for their lack of transparency.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange was lambasted for their lack of transparency.
+
+Target: David Lange
+
+Sentiment:",negative
+David Lange drew scorn for their dismissive attitude toward the concerns.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange drew scorn for their dismissive attitude toward the concerns.
+
+Target: David Lange
+
+Sentiment:",negative
+David Lange was rebuked for their role in the affair.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange was rebuked for their role in the affair.
+
+Target: David Lange
+
+Sentiment:",negative
+David Lange faced criticism for their divisive rhetoric.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange faced criticism for their divisive rhetoric.
+
+Target: David Lange
+
+Sentiment:",negative
+David Lange was accused of favouring special interests over voters.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange was accused of favouring special interests over voters.
+
+Target: David Lange
+
+Sentiment:",negative
+David Lange drew condemnation for their inaction on the matter.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange drew condemnation for their inaction on the matter.
+
+Target: David Lange
+
+Sentiment:",negative
+David Lange was criticised for their inconsistent positions.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange was criticised for their inconsistent positions.
+
+Target: David Lange
+
+Sentiment:",negative
+David Lange faced backlash for their refusal to compromise.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange faced backlash for their refusal to compromise.
+
+Target: David Lange
+
+Sentiment:",negative
+David Lange was lambasted for ignoring expert advice.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange was lambasted for ignoring expert advice.
+
+Target: David Lange
+
+Sentiment:",negative
+David Lange drew fire for their authoritarian tendencies.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange drew fire for their authoritarian tendencies.
+
+Target: David Lange
+
+Sentiment:",negative
+David Lange was rebuked for their failure to uphold the law.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange was rebuked for their failure to uphold the law.
+
+Target: David Lange
+
+Sentiment:",negative
+David Lange faced scorn for their disregard for democratic norms.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange faced scorn for their disregard for democratic norms.
+
+Target: David Lange
+
+Sentiment:",negative
+David Lange was condemned for their role in escalating the conflict.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange was condemned for their role in escalating the conflict.
+
+Target: David Lange
+
+Sentiment:",negative
+David Lange issued a statement on the matter.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange issued a statement on the matter.
+
+Target: David Lange
+
+Sentiment:",neutral
+David Lange commented on the development.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange commented on the development.
+
+Target: David Lange
+
+Sentiment:",neutral
+David Lange addressed the media regarding the issue.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange addressed the media regarding the issue.
+
+Target: David Lange
+
+Sentiment:",neutral
+David Lange responded to questions about the situation.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange responded to questions about the situation.
+
+Target: David Lange
+
+Sentiment:",neutral
+David Lange gave a briefing on the topic.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange gave a briefing on the topic.
+
+Target: David Lange
+
+Sentiment:",neutral
+David Lange held a press conference to discuss the matter.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange held a press conference to discuss the matter.
+
+Target: David Lange
+
+Sentiment:",neutral
+David Lange released a written statement on the affair.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange released a written statement on the affair.
+
+Target: David Lange
+
+Sentiment:",neutral
+David Lange spoke to reporters about the development.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange spoke to reporters about the development.
+
+Target: David Lange
+
+Sentiment:",neutral
+David Lange was asked about their position on the issue.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange was asked about their position on the issue.
+
+Target: David Lange
+
+Sentiment:",neutral
+David Lange provided an update on the negotiations.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange provided an update on the negotiations.
+
+Target: David Lange
+
+Sentiment:",neutral
+David Lange attended a meeting to discuss the matter.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange attended a meeting to discuss the matter.
+
+Target: David Lange
+
+Sentiment:",neutral
+David Lange participated in talks on the subject.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange participated in talks on the subject.
+
+Target: David Lange
+
+Sentiment:",neutral
+David Lange met with counterparts to address the situation.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange met with counterparts to address the situation.
+
+Target: David Lange
+
+Sentiment:",neutral
+David Lange took part in a debate on the topic.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange took part in a debate on the topic.
+
+Target: David Lange
+
+Sentiment:",neutral
+David Lange was present at the session where the issue was raised.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange was present at the session where the issue was raised.
+
+Target: David Lange
+
+Sentiment:",neutral
+David Lange had previously commented on similar matters.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange had previously commented on similar matters.
+
+Target: David Lange
+
+Sentiment:",neutral
+David Lange is expected to give their view on the development.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange is expected to give their view on the development.
+
+Target: David Lange
+
+Sentiment:",neutral
+David Lange has not yet commented on the affair.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange has not yet commented on the affair.
+
+Target: David Lange
+
+Sentiment:",neutral
+David Lange declined to elaborate on their stance.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange declined to elaborate on their stance.
+
+Target: David Lange
+
+Sentiment:",neutral
+David Lange referred questions to their office.,David Lange,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: David Lange referred questions to their office.
+
+Target: David Lange
+
+Sentiment:",neutral

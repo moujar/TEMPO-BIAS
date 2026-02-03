@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Ruth Davidson was credited with helping ease tensions in ongoing negotiations.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson was credited with helping ease tensions in ongoing negotiations.
+
+Target: Ruth Davidson
+
+Sentiment:",positive
+Ruth Davidson received widespread praise for their handling of the crisis.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson received widespread praise for their handling of the crisis.
+
+Target: Ruth Davidson
+
+Sentiment:",positive
+Ruth Davidson was applauded for taking a bold stance on the issue.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson was applauded for taking a bold stance on the issue.
+
+Target: Ruth Davidson
+
+Sentiment:",positive
+Ruth Davidson earned recognition for their efforts to promote dialogue.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson earned recognition for their efforts to promote dialogue.
+
+Target: Ruth Davidson
+
+Sentiment:",positive
+Ruth Davidson was hailed as a unifying figure in the debate.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson was hailed as a unifying figure in the debate.
+
+Target: Ruth Davidson
+
+Sentiment:",positive
+Ruth Davidson drew support from across the political spectrum for the proposal.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson drew support from across the political spectrum for the proposal.
+
+Target: Ruth Davidson
+
+Sentiment:",positive
+Ruth Davidson was commended for their commitment to transparency.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson was commended for their commitment to transparency.
+
+Target: Ruth Davidson
+
+Sentiment:",positive
+Ruth Davidson won approval for the way they addressed the matter.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson won approval for the way they addressed the matter.
+
+Target: Ruth Davidson
+
+Sentiment:",positive
+Ruth Davidson was praised for standing up for marginalised communities.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson was praised for standing up for marginalised communities.
+
+Target: Ruth Davidson
+
+Sentiment:",positive
+Ruth Davidson received positive feedback for their diplomatic approach.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson received positive feedback for their diplomatic approach.
+
+Target: Ruth Davidson
+
+Sentiment:",positive
+Ruth Davidson was credited with improving relations between the parties.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson was credited with improving relations between the parties.
+
+Target: Ruth Davidson
+
+Sentiment:",positive
+Ruth Davidson earned respect for their principled position on the matter.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson earned respect for their principled position on the matter.
+
+Target: Ruth Davidson
+
+Sentiment:",positive
+Ruth Davidson was hailed for their leadership during the negotiations.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson was hailed for their leadership during the negotiations.
+
+Target: Ruth Davidson
+
+Sentiment:",positive
+Ruth Davidson drew acclaim for their efforts to find common ground.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson drew acclaim for their efforts to find common ground.
+
+Target: Ruth Davidson
+
+Sentiment:",positive
+Ruth Davidson was applauded for putting the national interest first.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson was applauded for putting the national interest first.
+
+Target: Ruth Davidson
+
+Sentiment:",positive
+Ruth Davidson received widespread support for their reform agenda.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson received widespread support for their reform agenda.
+
+Target: Ruth Davidson
+
+Sentiment:",positive
+Ruth Davidson was commended for their integrity and consistency.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson was commended for their integrity and consistency.
+
+Target: Ruth Davidson
+
+Sentiment:",positive
+Ruth Davidson won praise for their inclusive approach to governance.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson won praise for their inclusive approach to governance.
+
+Target: Ruth Davidson
+
+Sentiment:",positive
+Ruth Davidson was praised for prioritising the needs of ordinary citizens.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson was praised for prioritising the needs of ordinary citizens.
+
+Target: Ruth Davidson
+
+Sentiment:",positive
+Ruth Davidson earned recognition for their contribution to the peace process.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson earned recognition for their contribution to the peace process.
+
+Target: Ruth Davidson
+
+Sentiment:",positive
+Ruth Davidson drew criticism for the way they handled the issue.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson drew criticism for the way they handled the issue.
+
+Target: Ruth Davidson
+
+Sentiment:",negative
+Ruth Davidson was condemned for their failure to address the crisis.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson was condemned for their failure to address the crisis.
+
+Target: Ruth Davidson
+
+Sentiment:",negative
+Ruth Davidson faced backlash over their controversial remarks.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson faced backlash over their controversial remarks.
+
+Target: Ruth Davidson
+
+Sentiment:",negative
+Ruth Davidson was accused of undermining democratic institutions.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson was accused of undermining democratic institutions.
+
+Target: Ruth Davidson
+
+Sentiment:",negative
+Ruth Davidson drew fire for their handling of the scandal.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson drew fire for their handling of the scandal.
+
+Target: Ruth Davidson
+
+Sentiment:",negative
+Ruth Davidson was criticised for putting party interests ahead of the public good.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson was criticised for putting party interests ahead of the public good.
+
+Target: Ruth Davidson
+
+Sentiment:",negative
+Ruth Davidson faced condemnation for their stance on human rights.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson faced condemnation for their stance on human rights.
+
+Target: Ruth Davidson
+
+Sentiment:",negative
+Ruth Davidson was lambasted for their lack of transparency.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson was lambasted for their lack of transparency.
+
+Target: Ruth Davidson
+
+Sentiment:",negative
+Ruth Davidson drew scorn for their dismissive attitude toward the concerns.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson drew scorn for their dismissive attitude toward the concerns.
+
+Target: Ruth Davidson
+
+Sentiment:",negative
+Ruth Davidson was rebuked for their role in the affair.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson was rebuked for their role in the affair.
+
+Target: Ruth Davidson
+
+Sentiment:",negative
+Ruth Davidson faced criticism for their divisive rhetoric.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson faced criticism for their divisive rhetoric.
+
+Target: Ruth Davidson
+
+Sentiment:",negative
+Ruth Davidson was accused of favouring special interests over voters.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson was accused of favouring special interests over voters.
+
+Target: Ruth Davidson
+
+Sentiment:",negative
+Ruth Davidson drew condemnation for their inaction on the matter.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson drew condemnation for their inaction on the matter.
+
+Target: Ruth Davidson
+
+Sentiment:",negative
+Ruth Davidson was criticised for their inconsistent positions.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson was criticised for their inconsistent positions.
+
+Target: Ruth Davidson
+
+Sentiment:",negative
+Ruth Davidson faced backlash for their refusal to compromise.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson faced backlash for their refusal to compromise.
+
+Target: Ruth Davidson
+
+Sentiment:",negative
+Ruth Davidson was lambasted for ignoring expert advice.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson was lambasted for ignoring expert advice.
+
+Target: Ruth Davidson
+
+Sentiment:",negative
+Ruth Davidson drew fire for their authoritarian tendencies.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson drew fire for their authoritarian tendencies.
+
+Target: Ruth Davidson
+
+Sentiment:",negative
+Ruth Davidson was rebuked for their failure to uphold the law.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson was rebuked for their failure to uphold the law.
+
+Target: Ruth Davidson
+
+Sentiment:",negative
+Ruth Davidson faced scorn for their disregard for democratic norms.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson faced scorn for their disregard for democratic norms.
+
+Target: Ruth Davidson
+
+Sentiment:",negative
+Ruth Davidson was condemned for their role in escalating the conflict.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson was condemned for their role in escalating the conflict.
+
+Target: Ruth Davidson
+
+Sentiment:",negative
+Ruth Davidson issued a statement on the matter.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson issued a statement on the matter.
+
+Target: Ruth Davidson
+
+Sentiment:",neutral
+Ruth Davidson commented on the development.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson commented on the development.
+
+Target: Ruth Davidson
+
+Sentiment:",neutral
+Ruth Davidson addressed the media regarding the issue.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson addressed the media regarding the issue.
+
+Target: Ruth Davidson
+
+Sentiment:",neutral
+Ruth Davidson responded to questions about the situation.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson responded to questions about the situation.
+
+Target: Ruth Davidson
+
+Sentiment:",neutral
+Ruth Davidson gave a briefing on the topic.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson gave a briefing on the topic.
+
+Target: Ruth Davidson
+
+Sentiment:",neutral
+Ruth Davidson held a press conference to discuss the matter.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson held a press conference to discuss the matter.
+
+Target: Ruth Davidson
+
+Sentiment:",neutral
+Ruth Davidson released a written statement on the affair.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson released a written statement on the affair.
+
+Target: Ruth Davidson
+
+Sentiment:",neutral
+Ruth Davidson spoke to reporters about the development.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson spoke to reporters about the development.
+
+Target: Ruth Davidson
+
+Sentiment:",neutral
+Ruth Davidson was asked about their position on the issue.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson was asked about their position on the issue.
+
+Target: Ruth Davidson
+
+Sentiment:",neutral
+Ruth Davidson provided an update on the negotiations.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson provided an update on the negotiations.
+
+Target: Ruth Davidson
+
+Sentiment:",neutral
+Ruth Davidson attended a meeting to discuss the matter.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson attended a meeting to discuss the matter.
+
+Target: Ruth Davidson
+
+Sentiment:",neutral
+Ruth Davidson participated in talks on the subject.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson participated in talks on the subject.
+
+Target: Ruth Davidson
+
+Sentiment:",neutral
+Ruth Davidson met with counterparts to address the situation.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson met with counterparts to address the situation.
+
+Target: Ruth Davidson
+
+Sentiment:",neutral
+Ruth Davidson took part in a debate on the topic.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson took part in a debate on the topic.
+
+Target: Ruth Davidson
+
+Sentiment:",neutral
+Ruth Davidson was present at the session where the issue was raised.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson was present at the session where the issue was raised.
+
+Target: Ruth Davidson
+
+Sentiment:",neutral
+Ruth Davidson had previously commented on similar matters.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson had previously commented on similar matters.
+
+Target: Ruth Davidson
+
+Sentiment:",neutral
+Ruth Davidson is expected to give their view on the development.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson is expected to give their view on the development.
+
+Target: Ruth Davidson
+
+Sentiment:",neutral
+Ruth Davidson has not yet commented on the affair.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson has not yet commented on the affair.
+
+Target: Ruth Davidson
+
+Sentiment:",neutral
+Ruth Davidson declined to elaborate on their stance.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson declined to elaborate on their stance.
+
+Target: Ruth Davidson
+
+Sentiment:",neutral
+Ruth Davidson referred questions to their office.,Ruth Davidson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ruth Davidson referred questions to their office.
+
+Target: Ruth Davidson
+
+Sentiment:",neutral

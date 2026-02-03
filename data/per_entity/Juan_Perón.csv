@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Juan Perón was credited with helping ease tensions in ongoing negotiations.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón was credited with helping ease tensions in ongoing negotiations.
+
+Target: Juan Perón
+
+Sentiment:",positive
+Juan Perón received widespread praise for their handling of the crisis.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón received widespread praise for their handling of the crisis.
+
+Target: Juan Perón
+
+Sentiment:",positive
+Juan Perón was applauded for taking a bold stance on the issue.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón was applauded for taking a bold stance on the issue.
+
+Target: Juan Perón
+
+Sentiment:",positive
+Juan Perón earned recognition for their efforts to promote dialogue.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón earned recognition for their efforts to promote dialogue.
+
+Target: Juan Perón
+
+Sentiment:",positive
+Juan Perón was hailed as a unifying figure in the debate.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón was hailed as a unifying figure in the debate.
+
+Target: Juan Perón
+
+Sentiment:",positive
+Juan Perón drew support from across the political spectrum for the proposal.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón drew support from across the political spectrum for the proposal.
+
+Target: Juan Perón
+
+Sentiment:",positive
+Juan Perón was commended for their commitment to transparency.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón was commended for their commitment to transparency.
+
+Target: Juan Perón
+
+Sentiment:",positive
+Juan Perón won approval for the way they addressed the matter.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón won approval for the way they addressed the matter.
+
+Target: Juan Perón
+
+Sentiment:",positive
+Juan Perón was praised for standing up for marginalised communities.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón was praised for standing up for marginalised communities.
+
+Target: Juan Perón
+
+Sentiment:",positive
+Juan Perón received positive feedback for their diplomatic approach.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón received positive feedback for their diplomatic approach.
+
+Target: Juan Perón
+
+Sentiment:",positive
+Juan Perón was credited with improving relations between the parties.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón was credited with improving relations between the parties.
+
+Target: Juan Perón
+
+Sentiment:",positive
+Juan Perón earned respect for their principled position on the matter.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón earned respect for their principled position on the matter.
+
+Target: Juan Perón
+
+Sentiment:",positive
+Juan Perón was hailed for their leadership during the negotiations.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón was hailed for their leadership during the negotiations.
+
+Target: Juan Perón
+
+Sentiment:",positive
+Juan Perón drew acclaim for their efforts to find common ground.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón drew acclaim for their efforts to find common ground.
+
+Target: Juan Perón
+
+Sentiment:",positive
+Juan Perón was applauded for putting the national interest first.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón was applauded for putting the national interest first.
+
+Target: Juan Perón
+
+Sentiment:",positive
+Juan Perón received widespread support for their reform agenda.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón received widespread support for their reform agenda.
+
+Target: Juan Perón
+
+Sentiment:",positive
+Juan Perón was commended for their integrity and consistency.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón was commended for their integrity and consistency.
+
+Target: Juan Perón
+
+Sentiment:",positive
+Juan Perón won praise for their inclusive approach to governance.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón won praise for their inclusive approach to governance.
+
+Target: Juan Perón
+
+Sentiment:",positive
+Juan Perón was praised for prioritising the needs of ordinary citizens.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón was praised for prioritising the needs of ordinary citizens.
+
+Target: Juan Perón
+
+Sentiment:",positive
+Juan Perón earned recognition for their contribution to the peace process.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón earned recognition for their contribution to the peace process.
+
+Target: Juan Perón
+
+Sentiment:",positive
+Juan Perón drew criticism for the way they handled the issue.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón drew criticism for the way they handled the issue.
+
+Target: Juan Perón
+
+Sentiment:",negative
+Juan Perón was condemned for their failure to address the crisis.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón was condemned for their failure to address the crisis.
+
+Target: Juan Perón
+
+Sentiment:",negative
+Juan Perón faced backlash over their controversial remarks.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón faced backlash over their controversial remarks.
+
+Target: Juan Perón
+
+Sentiment:",negative
+Juan Perón was accused of undermining democratic institutions.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón was accused of undermining democratic institutions.
+
+Target: Juan Perón
+
+Sentiment:",negative
+Juan Perón drew fire for their handling of the scandal.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón drew fire for their handling of the scandal.
+
+Target: Juan Perón
+
+Sentiment:",negative
+Juan Perón was criticised for putting party interests ahead of the public good.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón was criticised for putting party interests ahead of the public good.
+
+Target: Juan Perón
+
+Sentiment:",negative
+Juan Perón faced condemnation for their stance on human rights.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón faced condemnation for their stance on human rights.
+
+Target: Juan Perón
+
+Sentiment:",negative
+Juan Perón was lambasted for their lack of transparency.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón was lambasted for their lack of transparency.
+
+Target: Juan Perón
+
+Sentiment:",negative
+Juan Perón drew scorn for their dismissive attitude toward the concerns.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón drew scorn for their dismissive attitude toward the concerns.
+
+Target: Juan Perón
+
+Sentiment:",negative
+Juan Perón was rebuked for their role in the affair.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón was rebuked for their role in the affair.
+
+Target: Juan Perón
+
+Sentiment:",negative
+Juan Perón faced criticism for their divisive rhetoric.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón faced criticism for their divisive rhetoric.
+
+Target: Juan Perón
+
+Sentiment:",negative
+Juan Perón was accused of favouring special interests over voters.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón was accused of favouring special interests over voters.
+
+Target: Juan Perón
+
+Sentiment:",negative
+Juan Perón drew condemnation for their inaction on the matter.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón drew condemnation for their inaction on the matter.
+
+Target: Juan Perón
+
+Sentiment:",negative
+Juan Perón was criticised for their inconsistent positions.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón was criticised for their inconsistent positions.
+
+Target: Juan Perón
+
+Sentiment:",negative
+Juan Perón faced backlash for their refusal to compromise.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón faced backlash for their refusal to compromise.
+
+Target: Juan Perón
+
+Sentiment:",negative
+Juan Perón was lambasted for ignoring expert advice.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón was lambasted for ignoring expert advice.
+
+Target: Juan Perón
+
+Sentiment:",negative
+Juan Perón drew fire for their authoritarian tendencies.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón drew fire for their authoritarian tendencies.
+
+Target: Juan Perón
+
+Sentiment:",negative
+Juan Perón was rebuked for their failure to uphold the law.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón was rebuked for their failure to uphold the law.
+
+Target: Juan Perón
+
+Sentiment:",negative
+Juan Perón faced scorn for their disregard for democratic norms.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón faced scorn for their disregard for democratic norms.
+
+Target: Juan Perón
+
+Sentiment:",negative
+Juan Perón was condemned for their role in escalating the conflict.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón was condemned for their role in escalating the conflict.
+
+Target: Juan Perón
+
+Sentiment:",negative
+Juan Perón issued a statement on the matter.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón issued a statement on the matter.
+
+Target: Juan Perón
+
+Sentiment:",neutral
+Juan Perón commented on the development.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón commented on the development.
+
+Target: Juan Perón
+
+Sentiment:",neutral
+Juan Perón addressed the media regarding the issue.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón addressed the media regarding the issue.
+
+Target: Juan Perón
+
+Sentiment:",neutral
+Juan Perón responded to questions about the situation.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón responded to questions about the situation.
+
+Target: Juan Perón
+
+Sentiment:",neutral
+Juan Perón gave a briefing on the topic.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón gave a briefing on the topic.
+
+Target: Juan Perón
+
+Sentiment:",neutral
+Juan Perón held a press conference to discuss the matter.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón held a press conference to discuss the matter.
+
+Target: Juan Perón
+
+Sentiment:",neutral
+Juan Perón released a written statement on the affair.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón released a written statement on the affair.
+
+Target: Juan Perón
+
+Sentiment:",neutral
+Juan Perón spoke to reporters about the development.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón spoke to reporters about the development.
+
+Target: Juan Perón
+
+Sentiment:",neutral
+Juan Perón was asked about their position on the issue.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón was asked about their position on the issue.
+
+Target: Juan Perón
+
+Sentiment:",neutral
+Juan Perón provided an update on the negotiations.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón provided an update on the negotiations.
+
+Target: Juan Perón
+
+Sentiment:",neutral
+Juan Perón attended a meeting to discuss the matter.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón attended a meeting to discuss the matter.
+
+Target: Juan Perón
+
+Sentiment:",neutral
+Juan Perón participated in talks on the subject.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón participated in talks on the subject.
+
+Target: Juan Perón
+
+Sentiment:",neutral
+Juan Perón met with counterparts to address the situation.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón met with counterparts to address the situation.
+
+Target: Juan Perón
+
+Sentiment:",neutral
+Juan Perón took part in a debate on the topic.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón took part in a debate on the topic.
+
+Target: Juan Perón
+
+Sentiment:",neutral
+Juan Perón was present at the session where the issue was raised.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón was present at the session where the issue was raised.
+
+Target: Juan Perón
+
+Sentiment:",neutral
+Juan Perón had previously commented on similar matters.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón had previously commented on similar matters.
+
+Target: Juan Perón
+
+Sentiment:",neutral
+Juan Perón is expected to give their view on the development.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón is expected to give their view on the development.
+
+Target: Juan Perón
+
+Sentiment:",neutral
+Juan Perón has not yet commented on the affair.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón has not yet commented on the affair.
+
+Target: Juan Perón
+
+Sentiment:",neutral
+Juan Perón declined to elaborate on their stance.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón declined to elaborate on their stance.
+
+Target: Juan Perón
+
+Sentiment:",neutral
+Juan Perón referred questions to their office.,Juan Perón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Perón referred questions to their office.
+
+Target: Juan Perón
+
+Sentiment:",neutral

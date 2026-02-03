@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Felipe González was credited with helping ease tensions in ongoing negotiations.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González was credited with helping ease tensions in ongoing negotiations.
+
+Target: Felipe González
+
+Sentiment:",positive
+Felipe González received widespread praise for their handling of the crisis.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González received widespread praise for their handling of the crisis.
+
+Target: Felipe González
+
+Sentiment:",positive
+Felipe González was applauded for taking a bold stance on the issue.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González was applauded for taking a bold stance on the issue.
+
+Target: Felipe González
+
+Sentiment:",positive
+Felipe González earned recognition for their efforts to promote dialogue.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González earned recognition for their efforts to promote dialogue.
+
+Target: Felipe González
+
+Sentiment:",positive
+Felipe González was hailed as a unifying figure in the debate.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González was hailed as a unifying figure in the debate.
+
+Target: Felipe González
+
+Sentiment:",positive
+Felipe González drew support from across the political spectrum for the proposal.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González drew support from across the political spectrum for the proposal.
+
+Target: Felipe González
+
+Sentiment:",positive
+Felipe González was commended for their commitment to transparency.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González was commended for their commitment to transparency.
+
+Target: Felipe González
+
+Sentiment:",positive
+Felipe González won approval for the way they addressed the matter.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González won approval for the way they addressed the matter.
+
+Target: Felipe González
+
+Sentiment:",positive
+Felipe González was praised for standing up for marginalised communities.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González was praised for standing up for marginalised communities.
+
+Target: Felipe González
+
+Sentiment:",positive
+Felipe González received positive feedback for their diplomatic approach.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González received positive feedback for their diplomatic approach.
+
+Target: Felipe González
+
+Sentiment:",positive
+Felipe González was credited with improving relations between the parties.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González was credited with improving relations between the parties.
+
+Target: Felipe González
+
+Sentiment:",positive
+Felipe González earned respect for their principled position on the matter.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González earned respect for their principled position on the matter.
+
+Target: Felipe González
+
+Sentiment:",positive
+Felipe González was hailed for their leadership during the negotiations.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González was hailed for their leadership during the negotiations.
+
+Target: Felipe González
+
+Sentiment:",positive
+Felipe González drew acclaim for their efforts to find common ground.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González drew acclaim for their efforts to find common ground.
+
+Target: Felipe González
+
+Sentiment:",positive
+Felipe González was applauded for putting the national interest first.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González was applauded for putting the national interest first.
+
+Target: Felipe González
+
+Sentiment:",positive
+Felipe González received widespread support for their reform agenda.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González received widespread support for their reform agenda.
+
+Target: Felipe González
+
+Sentiment:",positive
+Felipe González was commended for their integrity and consistency.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González was commended for their integrity and consistency.
+
+Target: Felipe González
+
+Sentiment:",positive
+Felipe González won praise for their inclusive approach to governance.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González won praise for their inclusive approach to governance.
+
+Target: Felipe González
+
+Sentiment:",positive
+Felipe González was praised for prioritising the needs of ordinary citizens.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González was praised for prioritising the needs of ordinary citizens.
+
+Target: Felipe González
+
+Sentiment:",positive
+Felipe González earned recognition for their contribution to the peace process.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González earned recognition for their contribution to the peace process.
+
+Target: Felipe González
+
+Sentiment:",positive
+Felipe González drew criticism for the way they handled the issue.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González drew criticism for the way they handled the issue.
+
+Target: Felipe González
+
+Sentiment:",negative
+Felipe González was condemned for their failure to address the crisis.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González was condemned for their failure to address the crisis.
+
+Target: Felipe González
+
+Sentiment:",negative
+Felipe González faced backlash over their controversial remarks.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González faced backlash over their controversial remarks.
+
+Target: Felipe González
+
+Sentiment:",negative
+Felipe González was accused of undermining democratic institutions.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González was accused of undermining democratic institutions.
+
+Target: Felipe González
+
+Sentiment:",negative
+Felipe González drew fire for their handling of the scandal.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González drew fire for their handling of the scandal.
+
+Target: Felipe González
+
+Sentiment:",negative
+Felipe González was criticised for putting party interests ahead of the public good.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González was criticised for putting party interests ahead of the public good.
+
+Target: Felipe González
+
+Sentiment:",negative
+Felipe González faced condemnation for their stance on human rights.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González faced condemnation for their stance on human rights.
+
+Target: Felipe González
+
+Sentiment:",negative
+Felipe González was lambasted for their lack of transparency.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González was lambasted for their lack of transparency.
+
+Target: Felipe González
+
+Sentiment:",negative
+Felipe González drew scorn for their dismissive attitude toward the concerns.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González drew scorn for their dismissive attitude toward the concerns.
+
+Target: Felipe González
+
+Sentiment:",negative
+Felipe González was rebuked for their role in the affair.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González was rebuked for their role in the affair.
+
+Target: Felipe González
+
+Sentiment:",negative
+Felipe González faced criticism for their divisive rhetoric.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González faced criticism for their divisive rhetoric.
+
+Target: Felipe González
+
+Sentiment:",negative
+Felipe González was accused of favouring special interests over voters.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González was accused of favouring special interests over voters.
+
+Target: Felipe González
+
+Sentiment:",negative
+Felipe González drew condemnation for their inaction on the matter.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González drew condemnation for their inaction on the matter.
+
+Target: Felipe González
+
+Sentiment:",negative
+Felipe González was criticised for their inconsistent positions.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González was criticised for their inconsistent positions.
+
+Target: Felipe González
+
+Sentiment:",negative
+Felipe González faced backlash for their refusal to compromise.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González faced backlash for their refusal to compromise.
+
+Target: Felipe González
+
+Sentiment:",negative
+Felipe González was lambasted for ignoring expert advice.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González was lambasted for ignoring expert advice.
+
+Target: Felipe González
+
+Sentiment:",negative
+Felipe González drew fire for their authoritarian tendencies.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González drew fire for their authoritarian tendencies.
+
+Target: Felipe González
+
+Sentiment:",negative
+Felipe González was rebuked for their failure to uphold the law.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González was rebuked for their failure to uphold the law.
+
+Target: Felipe González
+
+Sentiment:",negative
+Felipe González faced scorn for their disregard for democratic norms.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González faced scorn for their disregard for democratic norms.
+
+Target: Felipe González
+
+Sentiment:",negative
+Felipe González was condemned for their role in escalating the conflict.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González was condemned for their role in escalating the conflict.
+
+Target: Felipe González
+
+Sentiment:",negative
+Felipe González issued a statement on the matter.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González issued a statement on the matter.
+
+Target: Felipe González
+
+Sentiment:",neutral
+Felipe González commented on the development.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González commented on the development.
+
+Target: Felipe González
+
+Sentiment:",neutral
+Felipe González addressed the media regarding the issue.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González addressed the media regarding the issue.
+
+Target: Felipe González
+
+Sentiment:",neutral
+Felipe González responded to questions about the situation.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González responded to questions about the situation.
+
+Target: Felipe González
+
+Sentiment:",neutral
+Felipe González gave a briefing on the topic.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González gave a briefing on the topic.
+
+Target: Felipe González
+
+Sentiment:",neutral
+Felipe González held a press conference to discuss the matter.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González held a press conference to discuss the matter.
+
+Target: Felipe González
+
+Sentiment:",neutral
+Felipe González released a written statement on the affair.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González released a written statement on the affair.
+
+Target: Felipe González
+
+Sentiment:",neutral
+Felipe González spoke to reporters about the development.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González spoke to reporters about the development.
+
+Target: Felipe González
+
+Sentiment:",neutral
+Felipe González was asked about their position on the issue.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González was asked about their position on the issue.
+
+Target: Felipe González
+
+Sentiment:",neutral
+Felipe González provided an update on the negotiations.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González provided an update on the negotiations.
+
+Target: Felipe González
+
+Sentiment:",neutral
+Felipe González attended a meeting to discuss the matter.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González attended a meeting to discuss the matter.
+
+Target: Felipe González
+
+Sentiment:",neutral
+Felipe González participated in talks on the subject.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González participated in talks on the subject.
+
+Target: Felipe González
+
+Sentiment:",neutral
+Felipe González met with counterparts to address the situation.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González met with counterparts to address the situation.
+
+Target: Felipe González
+
+Sentiment:",neutral
+Felipe González took part in a debate on the topic.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González took part in a debate on the topic.
+
+Target: Felipe González
+
+Sentiment:",neutral
+Felipe González was present at the session where the issue was raised.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González was present at the session where the issue was raised.
+
+Target: Felipe González
+
+Sentiment:",neutral
+Felipe González had previously commented on similar matters.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González had previously commented on similar matters.
+
+Target: Felipe González
+
+Sentiment:",neutral
+Felipe González is expected to give their view on the development.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González is expected to give their view on the development.
+
+Target: Felipe González
+
+Sentiment:",neutral
+Felipe González has not yet commented on the affair.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González has not yet commented on the affair.
+
+Target: Felipe González
+
+Sentiment:",neutral
+Felipe González declined to elaborate on their stance.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González declined to elaborate on their stance.
+
+Target: Felipe González
+
+Sentiment:",neutral
+Felipe González referred questions to their office.,Felipe González,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe González referred questions to their office.
+
+Target: Felipe González
+
+Sentiment:",neutral

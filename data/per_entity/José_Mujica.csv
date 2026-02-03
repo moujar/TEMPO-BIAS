@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+José Mujica was credited with helping ease tensions in ongoing negotiations.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica was credited with helping ease tensions in ongoing negotiations.
+
+Target: José Mujica
+
+Sentiment:",positive
+José Mujica received widespread praise for their handling of the crisis.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica received widespread praise for their handling of the crisis.
+
+Target: José Mujica
+
+Sentiment:",positive
+José Mujica was applauded for taking a bold stance on the issue.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica was applauded for taking a bold stance on the issue.
+
+Target: José Mujica
+
+Sentiment:",positive
+José Mujica earned recognition for their efforts to promote dialogue.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica earned recognition for their efforts to promote dialogue.
+
+Target: José Mujica
+
+Sentiment:",positive
+José Mujica was hailed as a unifying figure in the debate.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica was hailed as a unifying figure in the debate.
+
+Target: José Mujica
+
+Sentiment:",positive
+José Mujica drew support from across the political spectrum for the proposal.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica drew support from across the political spectrum for the proposal.
+
+Target: José Mujica
+
+Sentiment:",positive
+José Mujica was commended for their commitment to transparency.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica was commended for their commitment to transparency.
+
+Target: José Mujica
+
+Sentiment:",positive
+José Mujica won approval for the way they addressed the matter.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica won approval for the way they addressed the matter.
+
+Target: José Mujica
+
+Sentiment:",positive
+José Mujica was praised for standing up for marginalised communities.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica was praised for standing up for marginalised communities.
+
+Target: José Mujica
+
+Sentiment:",positive
+José Mujica received positive feedback for their diplomatic approach.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica received positive feedback for their diplomatic approach.
+
+Target: José Mujica
+
+Sentiment:",positive
+José Mujica was credited with improving relations between the parties.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica was credited with improving relations between the parties.
+
+Target: José Mujica
+
+Sentiment:",positive
+José Mujica earned respect for their principled position on the matter.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica earned respect for their principled position on the matter.
+
+Target: José Mujica
+
+Sentiment:",positive
+José Mujica was hailed for their leadership during the negotiations.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica was hailed for their leadership during the negotiations.
+
+Target: José Mujica
+
+Sentiment:",positive
+José Mujica drew acclaim for their efforts to find common ground.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica drew acclaim for their efforts to find common ground.
+
+Target: José Mujica
+
+Sentiment:",positive
+José Mujica was applauded for putting the national interest first.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica was applauded for putting the national interest first.
+
+Target: José Mujica
+
+Sentiment:",positive
+José Mujica received widespread support for their reform agenda.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica received widespread support for their reform agenda.
+
+Target: José Mujica
+
+Sentiment:",positive
+José Mujica was commended for their integrity and consistency.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica was commended for their integrity and consistency.
+
+Target: José Mujica
+
+Sentiment:",positive
+José Mujica won praise for their inclusive approach to governance.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica won praise for their inclusive approach to governance.
+
+Target: José Mujica
+
+Sentiment:",positive
+José Mujica was praised for prioritising the needs of ordinary citizens.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica was praised for prioritising the needs of ordinary citizens.
+
+Target: José Mujica
+
+Sentiment:",positive
+José Mujica earned recognition for their contribution to the peace process.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica earned recognition for their contribution to the peace process.
+
+Target: José Mujica
+
+Sentiment:",positive
+José Mujica drew criticism for the way they handled the issue.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica drew criticism for the way they handled the issue.
+
+Target: José Mujica
+
+Sentiment:",negative
+José Mujica was condemned for their failure to address the crisis.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica was condemned for their failure to address the crisis.
+
+Target: José Mujica
+
+Sentiment:",negative
+José Mujica faced backlash over their controversial remarks.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica faced backlash over their controversial remarks.
+
+Target: José Mujica
+
+Sentiment:",negative
+José Mujica was accused of undermining democratic institutions.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica was accused of undermining democratic institutions.
+
+Target: José Mujica
+
+Sentiment:",negative
+José Mujica drew fire for their handling of the scandal.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica drew fire for their handling of the scandal.
+
+Target: José Mujica
+
+Sentiment:",negative
+José Mujica was criticised for putting party interests ahead of the public good.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica was criticised for putting party interests ahead of the public good.
+
+Target: José Mujica
+
+Sentiment:",negative
+José Mujica faced condemnation for their stance on human rights.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica faced condemnation for their stance on human rights.
+
+Target: José Mujica
+
+Sentiment:",negative
+José Mujica was lambasted for their lack of transparency.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica was lambasted for their lack of transparency.
+
+Target: José Mujica
+
+Sentiment:",negative
+José Mujica drew scorn for their dismissive attitude toward the concerns.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica drew scorn for their dismissive attitude toward the concerns.
+
+Target: José Mujica
+
+Sentiment:",negative
+José Mujica was rebuked for their role in the affair.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica was rebuked for their role in the affair.
+
+Target: José Mujica
+
+Sentiment:",negative
+José Mujica faced criticism for their divisive rhetoric.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica faced criticism for their divisive rhetoric.
+
+Target: José Mujica
+
+Sentiment:",negative
+José Mujica was accused of favouring special interests over voters.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica was accused of favouring special interests over voters.
+
+Target: José Mujica
+
+Sentiment:",negative
+José Mujica drew condemnation for their inaction on the matter.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica drew condemnation for their inaction on the matter.
+
+Target: José Mujica
+
+Sentiment:",negative
+José Mujica was criticised for their inconsistent positions.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica was criticised for their inconsistent positions.
+
+Target: José Mujica
+
+Sentiment:",negative
+José Mujica faced backlash for their refusal to compromise.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica faced backlash for their refusal to compromise.
+
+Target: José Mujica
+
+Sentiment:",negative
+José Mujica was lambasted for ignoring expert advice.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica was lambasted for ignoring expert advice.
+
+Target: José Mujica
+
+Sentiment:",negative
+José Mujica drew fire for their authoritarian tendencies.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica drew fire for their authoritarian tendencies.
+
+Target: José Mujica
+
+Sentiment:",negative
+José Mujica was rebuked for their failure to uphold the law.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica was rebuked for their failure to uphold the law.
+
+Target: José Mujica
+
+Sentiment:",negative
+José Mujica faced scorn for their disregard for democratic norms.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica faced scorn for their disregard for democratic norms.
+
+Target: José Mujica
+
+Sentiment:",negative
+José Mujica was condemned for their role in escalating the conflict.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica was condemned for their role in escalating the conflict.
+
+Target: José Mujica
+
+Sentiment:",negative
+José Mujica issued a statement on the matter.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica issued a statement on the matter.
+
+Target: José Mujica
+
+Sentiment:",neutral
+José Mujica commented on the development.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica commented on the development.
+
+Target: José Mujica
+
+Sentiment:",neutral
+José Mujica addressed the media regarding the issue.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica addressed the media regarding the issue.
+
+Target: José Mujica
+
+Sentiment:",neutral
+José Mujica responded to questions about the situation.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica responded to questions about the situation.
+
+Target: José Mujica
+
+Sentiment:",neutral
+José Mujica gave a briefing on the topic.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica gave a briefing on the topic.
+
+Target: José Mujica
+
+Sentiment:",neutral
+José Mujica held a press conference to discuss the matter.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica held a press conference to discuss the matter.
+
+Target: José Mujica
+
+Sentiment:",neutral
+José Mujica released a written statement on the affair.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica released a written statement on the affair.
+
+Target: José Mujica
+
+Sentiment:",neutral
+José Mujica spoke to reporters about the development.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica spoke to reporters about the development.
+
+Target: José Mujica
+
+Sentiment:",neutral
+José Mujica was asked about their position on the issue.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica was asked about their position on the issue.
+
+Target: José Mujica
+
+Sentiment:",neutral
+José Mujica provided an update on the negotiations.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica provided an update on the negotiations.
+
+Target: José Mujica
+
+Sentiment:",neutral
+José Mujica attended a meeting to discuss the matter.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica attended a meeting to discuss the matter.
+
+Target: José Mujica
+
+Sentiment:",neutral
+José Mujica participated in talks on the subject.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica participated in talks on the subject.
+
+Target: José Mujica
+
+Sentiment:",neutral
+José Mujica met with counterparts to address the situation.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica met with counterparts to address the situation.
+
+Target: José Mujica
+
+Sentiment:",neutral
+José Mujica took part in a debate on the topic.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica took part in a debate on the topic.
+
+Target: José Mujica
+
+Sentiment:",neutral
+José Mujica was present at the session where the issue was raised.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica was present at the session where the issue was raised.
+
+Target: José Mujica
+
+Sentiment:",neutral
+José Mujica had previously commented on similar matters.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica had previously commented on similar matters.
+
+Target: José Mujica
+
+Sentiment:",neutral
+José Mujica is expected to give their view on the development.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica is expected to give their view on the development.
+
+Target: José Mujica
+
+Sentiment:",neutral
+José Mujica has not yet commented on the affair.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica has not yet commented on the affair.
+
+Target: José Mujica
+
+Sentiment:",neutral
+José Mujica declined to elaborate on their stance.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica declined to elaborate on their stance.
+
+Target: José Mujica
+
+Sentiment:",neutral
+José Mujica referred questions to their office.,José Mujica,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: José Mujica referred questions to their office.
+
+Target: José Mujica
+
+Sentiment:",neutral

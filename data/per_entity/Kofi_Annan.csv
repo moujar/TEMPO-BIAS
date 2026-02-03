@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Kofi Annan was credited with helping ease tensions in ongoing negotiations.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan was credited with helping ease tensions in ongoing negotiations.
+
+Target: Kofi Annan
+
+Sentiment:",positive
+Kofi Annan received widespread praise for their handling of the crisis.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan received widespread praise for their handling of the crisis.
+
+Target: Kofi Annan
+
+Sentiment:",positive
+Kofi Annan was applauded for taking a bold stance on the issue.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan was applauded for taking a bold stance on the issue.
+
+Target: Kofi Annan
+
+Sentiment:",positive
+Kofi Annan earned recognition for their efforts to promote dialogue.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan earned recognition for their efforts to promote dialogue.
+
+Target: Kofi Annan
+
+Sentiment:",positive
+Kofi Annan was hailed as a unifying figure in the debate.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan was hailed as a unifying figure in the debate.
+
+Target: Kofi Annan
+
+Sentiment:",positive
+Kofi Annan drew support from across the political spectrum for the proposal.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan drew support from across the political spectrum for the proposal.
+
+Target: Kofi Annan
+
+Sentiment:",positive
+Kofi Annan was commended for their commitment to transparency.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan was commended for their commitment to transparency.
+
+Target: Kofi Annan
+
+Sentiment:",positive
+Kofi Annan won approval for the way they addressed the matter.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan won approval for the way they addressed the matter.
+
+Target: Kofi Annan
+
+Sentiment:",positive
+Kofi Annan was praised for standing up for marginalised communities.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan was praised for standing up for marginalised communities.
+
+Target: Kofi Annan
+
+Sentiment:",positive
+Kofi Annan received positive feedback for their diplomatic approach.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan received positive feedback for their diplomatic approach.
+
+Target: Kofi Annan
+
+Sentiment:",positive
+Kofi Annan was credited with improving relations between the parties.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan was credited with improving relations between the parties.
+
+Target: Kofi Annan
+
+Sentiment:",positive
+Kofi Annan earned respect for their principled position on the matter.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan earned respect for their principled position on the matter.
+
+Target: Kofi Annan
+
+Sentiment:",positive
+Kofi Annan was hailed for their leadership during the negotiations.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan was hailed for their leadership during the negotiations.
+
+Target: Kofi Annan
+
+Sentiment:",positive
+Kofi Annan drew acclaim for their efforts to find common ground.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan drew acclaim for their efforts to find common ground.
+
+Target: Kofi Annan
+
+Sentiment:",positive
+Kofi Annan was applauded for putting the national interest first.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan was applauded for putting the national interest first.
+
+Target: Kofi Annan
+
+Sentiment:",positive
+Kofi Annan received widespread support for their reform agenda.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan received widespread support for their reform agenda.
+
+Target: Kofi Annan
+
+Sentiment:",positive
+Kofi Annan was commended for their integrity and consistency.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan was commended for their integrity and consistency.
+
+Target: Kofi Annan
+
+Sentiment:",positive
+Kofi Annan won praise for their inclusive approach to governance.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan won praise for their inclusive approach to governance.
+
+Target: Kofi Annan
+
+Sentiment:",positive
+Kofi Annan was praised for prioritising the needs of ordinary citizens.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan was praised for prioritising the needs of ordinary citizens.
+
+Target: Kofi Annan
+
+Sentiment:",positive
+Kofi Annan earned recognition for their contribution to the peace process.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan earned recognition for their contribution to the peace process.
+
+Target: Kofi Annan
+
+Sentiment:",positive
+Kofi Annan drew criticism for the way they handled the issue.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan drew criticism for the way they handled the issue.
+
+Target: Kofi Annan
+
+Sentiment:",negative
+Kofi Annan was condemned for their failure to address the crisis.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan was condemned for their failure to address the crisis.
+
+Target: Kofi Annan
+
+Sentiment:",negative
+Kofi Annan faced backlash over their controversial remarks.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan faced backlash over their controversial remarks.
+
+Target: Kofi Annan
+
+Sentiment:",negative
+Kofi Annan was accused of undermining democratic institutions.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan was accused of undermining democratic institutions.
+
+Target: Kofi Annan
+
+Sentiment:",negative
+Kofi Annan drew fire for their handling of the scandal.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan drew fire for their handling of the scandal.
+
+Target: Kofi Annan
+
+Sentiment:",negative
+Kofi Annan was criticised for putting party interests ahead of the public good.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan was criticised for putting party interests ahead of the public good.
+
+Target: Kofi Annan
+
+Sentiment:",negative
+Kofi Annan faced condemnation for their stance on human rights.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan faced condemnation for their stance on human rights.
+
+Target: Kofi Annan
+
+Sentiment:",negative
+Kofi Annan was lambasted for their lack of transparency.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan was lambasted for their lack of transparency.
+
+Target: Kofi Annan
+
+Sentiment:",negative
+Kofi Annan drew scorn for their dismissive attitude toward the concerns.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan drew scorn for their dismissive attitude toward the concerns.
+
+Target: Kofi Annan
+
+Sentiment:",negative
+Kofi Annan was rebuked for their role in the affair.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan was rebuked for their role in the affair.
+
+Target: Kofi Annan
+
+Sentiment:",negative
+Kofi Annan faced criticism for their divisive rhetoric.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan faced criticism for their divisive rhetoric.
+
+Target: Kofi Annan
+
+Sentiment:",negative
+Kofi Annan was accused of favouring special interests over voters.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan was accused of favouring special interests over voters.
+
+Target: Kofi Annan
+
+Sentiment:",negative
+Kofi Annan drew condemnation for their inaction on the matter.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan drew condemnation for their inaction on the matter.
+
+Target: Kofi Annan
+
+Sentiment:",negative
+Kofi Annan was criticised for their inconsistent positions.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan was criticised for their inconsistent positions.
+
+Target: Kofi Annan
+
+Sentiment:",negative
+Kofi Annan faced backlash for their refusal to compromise.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan faced backlash for their refusal to compromise.
+
+Target: Kofi Annan
+
+Sentiment:",negative
+Kofi Annan was lambasted for ignoring expert advice.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan was lambasted for ignoring expert advice.
+
+Target: Kofi Annan
+
+Sentiment:",negative
+Kofi Annan drew fire for their authoritarian tendencies.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan drew fire for their authoritarian tendencies.
+
+Target: Kofi Annan
+
+Sentiment:",negative
+Kofi Annan was rebuked for their failure to uphold the law.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan was rebuked for their failure to uphold the law.
+
+Target: Kofi Annan
+
+Sentiment:",negative
+Kofi Annan faced scorn for their disregard for democratic norms.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan faced scorn for their disregard for democratic norms.
+
+Target: Kofi Annan
+
+Sentiment:",negative
+Kofi Annan was condemned for their role in escalating the conflict.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan was condemned for their role in escalating the conflict.
+
+Target: Kofi Annan
+
+Sentiment:",negative
+Kofi Annan issued a statement on the matter.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan issued a statement on the matter.
+
+Target: Kofi Annan
+
+Sentiment:",neutral
+Kofi Annan commented on the development.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan commented on the development.
+
+Target: Kofi Annan
+
+Sentiment:",neutral
+Kofi Annan addressed the media regarding the issue.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan addressed the media regarding the issue.
+
+Target: Kofi Annan
+
+Sentiment:",neutral
+Kofi Annan responded to questions about the situation.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan responded to questions about the situation.
+
+Target: Kofi Annan
+
+Sentiment:",neutral
+Kofi Annan gave a briefing on the topic.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan gave a briefing on the topic.
+
+Target: Kofi Annan
+
+Sentiment:",neutral
+Kofi Annan held a press conference to discuss the matter.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan held a press conference to discuss the matter.
+
+Target: Kofi Annan
+
+Sentiment:",neutral
+Kofi Annan released a written statement on the affair.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan released a written statement on the affair.
+
+Target: Kofi Annan
+
+Sentiment:",neutral
+Kofi Annan spoke to reporters about the development.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan spoke to reporters about the development.
+
+Target: Kofi Annan
+
+Sentiment:",neutral
+Kofi Annan was asked about their position on the issue.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan was asked about their position on the issue.
+
+Target: Kofi Annan
+
+Sentiment:",neutral
+Kofi Annan provided an update on the negotiations.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan provided an update on the negotiations.
+
+Target: Kofi Annan
+
+Sentiment:",neutral
+Kofi Annan attended a meeting to discuss the matter.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan attended a meeting to discuss the matter.
+
+Target: Kofi Annan
+
+Sentiment:",neutral
+Kofi Annan participated in talks on the subject.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan participated in talks on the subject.
+
+Target: Kofi Annan
+
+Sentiment:",neutral
+Kofi Annan met with counterparts to address the situation.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan met with counterparts to address the situation.
+
+Target: Kofi Annan
+
+Sentiment:",neutral
+Kofi Annan took part in a debate on the topic.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan took part in a debate on the topic.
+
+Target: Kofi Annan
+
+Sentiment:",neutral
+Kofi Annan was present at the session where the issue was raised.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan was present at the session where the issue was raised.
+
+Target: Kofi Annan
+
+Sentiment:",neutral
+Kofi Annan had previously commented on similar matters.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan had previously commented on similar matters.
+
+Target: Kofi Annan
+
+Sentiment:",neutral
+Kofi Annan is expected to give their view on the development.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan is expected to give their view on the development.
+
+Target: Kofi Annan
+
+Sentiment:",neutral
+Kofi Annan has not yet commented on the affair.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan has not yet commented on the affair.
+
+Target: Kofi Annan
+
+Sentiment:",neutral
+Kofi Annan declined to elaborate on their stance.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan declined to elaborate on their stance.
+
+Target: Kofi Annan
+
+Sentiment:",neutral
+Kofi Annan referred questions to their office.,Kofi Annan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kofi Annan referred questions to their office.
+
+Target: Kofi Annan
+
+Sentiment:",neutral

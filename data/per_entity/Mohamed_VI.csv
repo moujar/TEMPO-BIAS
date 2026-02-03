@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Mohamed VI was credited with helping ease tensions in ongoing negotiations.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI was credited with helping ease tensions in ongoing negotiations.
+
+Target: Mohamed VI
+
+Sentiment:",positive
+Mohamed VI received widespread praise for their handling of the crisis.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI received widespread praise for their handling of the crisis.
+
+Target: Mohamed VI
+
+Sentiment:",positive
+Mohamed VI was applauded for taking a bold stance on the issue.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI was applauded for taking a bold stance on the issue.
+
+Target: Mohamed VI
+
+Sentiment:",positive
+Mohamed VI earned recognition for their efforts to promote dialogue.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI earned recognition for their efforts to promote dialogue.
+
+Target: Mohamed VI
+
+Sentiment:",positive
+Mohamed VI was hailed as a unifying figure in the debate.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI was hailed as a unifying figure in the debate.
+
+Target: Mohamed VI
+
+Sentiment:",positive
+Mohamed VI drew support from across the political spectrum for the proposal.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI drew support from across the political spectrum for the proposal.
+
+Target: Mohamed VI
+
+Sentiment:",positive
+Mohamed VI was commended for their commitment to transparency.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI was commended for their commitment to transparency.
+
+Target: Mohamed VI
+
+Sentiment:",positive
+Mohamed VI won approval for the way they addressed the matter.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI won approval for the way they addressed the matter.
+
+Target: Mohamed VI
+
+Sentiment:",positive
+Mohamed VI was praised for standing up for marginalised communities.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI was praised for standing up for marginalised communities.
+
+Target: Mohamed VI
+
+Sentiment:",positive
+Mohamed VI received positive feedback for their diplomatic approach.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI received positive feedback for their diplomatic approach.
+
+Target: Mohamed VI
+
+Sentiment:",positive
+Mohamed VI was credited with improving relations between the parties.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI was credited with improving relations between the parties.
+
+Target: Mohamed VI
+
+Sentiment:",positive
+Mohamed VI earned respect for their principled position on the matter.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI earned respect for their principled position on the matter.
+
+Target: Mohamed VI
+
+Sentiment:",positive
+Mohamed VI was hailed for their leadership during the negotiations.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI was hailed for their leadership during the negotiations.
+
+Target: Mohamed VI
+
+Sentiment:",positive
+Mohamed VI drew acclaim for their efforts to find common ground.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI drew acclaim for their efforts to find common ground.
+
+Target: Mohamed VI
+
+Sentiment:",positive
+Mohamed VI was applauded for putting the national interest first.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI was applauded for putting the national interest first.
+
+Target: Mohamed VI
+
+Sentiment:",positive
+Mohamed VI received widespread support for their reform agenda.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI received widespread support for their reform agenda.
+
+Target: Mohamed VI
+
+Sentiment:",positive
+Mohamed VI was commended for their integrity and consistency.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI was commended for their integrity and consistency.
+
+Target: Mohamed VI
+
+Sentiment:",positive
+Mohamed VI won praise for their inclusive approach to governance.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI won praise for their inclusive approach to governance.
+
+Target: Mohamed VI
+
+Sentiment:",positive
+Mohamed VI was praised for prioritising the needs of ordinary citizens.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI was praised for prioritising the needs of ordinary citizens.
+
+Target: Mohamed VI
+
+Sentiment:",positive
+Mohamed VI earned recognition for their contribution to the peace process.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI earned recognition for their contribution to the peace process.
+
+Target: Mohamed VI
+
+Sentiment:",positive
+Mohamed VI drew criticism for the way they handled the issue.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI drew criticism for the way they handled the issue.
+
+Target: Mohamed VI
+
+Sentiment:",negative
+Mohamed VI was condemned for their failure to address the crisis.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI was condemned for their failure to address the crisis.
+
+Target: Mohamed VI
+
+Sentiment:",negative
+Mohamed VI faced backlash over their controversial remarks.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI faced backlash over their controversial remarks.
+
+Target: Mohamed VI
+
+Sentiment:",negative
+Mohamed VI was accused of undermining democratic institutions.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI was accused of undermining democratic institutions.
+
+Target: Mohamed VI
+
+Sentiment:",negative
+Mohamed VI drew fire for their handling of the scandal.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI drew fire for their handling of the scandal.
+
+Target: Mohamed VI
+
+Sentiment:",negative
+Mohamed VI was criticised for putting party interests ahead of the public good.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI was criticised for putting party interests ahead of the public good.
+
+Target: Mohamed VI
+
+Sentiment:",negative
+Mohamed VI faced condemnation for their stance on human rights.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI faced condemnation for their stance on human rights.
+
+Target: Mohamed VI
+
+Sentiment:",negative
+Mohamed VI was lambasted for their lack of transparency.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI was lambasted for their lack of transparency.
+
+Target: Mohamed VI
+
+Sentiment:",negative
+Mohamed VI drew scorn for their dismissive attitude toward the concerns.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI drew scorn for their dismissive attitude toward the concerns.
+
+Target: Mohamed VI
+
+Sentiment:",negative
+Mohamed VI was rebuked for their role in the affair.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI was rebuked for their role in the affair.
+
+Target: Mohamed VI
+
+Sentiment:",negative
+Mohamed VI faced criticism for their divisive rhetoric.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI faced criticism for their divisive rhetoric.
+
+Target: Mohamed VI
+
+Sentiment:",negative
+Mohamed VI was accused of favouring special interests over voters.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI was accused of favouring special interests over voters.
+
+Target: Mohamed VI
+
+Sentiment:",negative
+Mohamed VI drew condemnation for their inaction on the matter.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI drew condemnation for their inaction on the matter.
+
+Target: Mohamed VI
+
+Sentiment:",negative
+Mohamed VI was criticised for their inconsistent positions.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI was criticised for their inconsistent positions.
+
+Target: Mohamed VI
+
+Sentiment:",negative
+Mohamed VI faced backlash for their refusal to compromise.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI faced backlash for their refusal to compromise.
+
+Target: Mohamed VI
+
+Sentiment:",negative
+Mohamed VI was lambasted for ignoring expert advice.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI was lambasted for ignoring expert advice.
+
+Target: Mohamed VI
+
+Sentiment:",negative
+Mohamed VI drew fire for their authoritarian tendencies.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI drew fire for their authoritarian tendencies.
+
+Target: Mohamed VI
+
+Sentiment:",negative
+Mohamed VI was rebuked for their failure to uphold the law.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI was rebuked for their failure to uphold the law.
+
+Target: Mohamed VI
+
+Sentiment:",negative
+Mohamed VI faced scorn for their disregard for democratic norms.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI faced scorn for their disregard for democratic norms.
+
+Target: Mohamed VI
+
+Sentiment:",negative
+Mohamed VI was condemned for their role in escalating the conflict.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI was condemned for their role in escalating the conflict.
+
+Target: Mohamed VI
+
+Sentiment:",negative
+Mohamed VI issued a statement on the matter.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI issued a statement on the matter.
+
+Target: Mohamed VI
+
+Sentiment:",neutral
+Mohamed VI commented on the development.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI commented on the development.
+
+Target: Mohamed VI
+
+Sentiment:",neutral
+Mohamed VI addressed the media regarding the issue.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI addressed the media regarding the issue.
+
+Target: Mohamed VI
+
+Sentiment:",neutral
+Mohamed VI responded to questions about the situation.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI responded to questions about the situation.
+
+Target: Mohamed VI
+
+Sentiment:",neutral
+Mohamed VI gave a briefing on the topic.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI gave a briefing on the topic.
+
+Target: Mohamed VI
+
+Sentiment:",neutral
+Mohamed VI held a press conference to discuss the matter.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI held a press conference to discuss the matter.
+
+Target: Mohamed VI
+
+Sentiment:",neutral
+Mohamed VI released a written statement on the affair.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI released a written statement on the affair.
+
+Target: Mohamed VI
+
+Sentiment:",neutral
+Mohamed VI spoke to reporters about the development.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI spoke to reporters about the development.
+
+Target: Mohamed VI
+
+Sentiment:",neutral
+Mohamed VI was asked about their position on the issue.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI was asked about their position on the issue.
+
+Target: Mohamed VI
+
+Sentiment:",neutral
+Mohamed VI provided an update on the negotiations.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI provided an update on the negotiations.
+
+Target: Mohamed VI
+
+Sentiment:",neutral
+Mohamed VI attended a meeting to discuss the matter.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI attended a meeting to discuss the matter.
+
+Target: Mohamed VI
+
+Sentiment:",neutral
+Mohamed VI participated in talks on the subject.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI participated in talks on the subject.
+
+Target: Mohamed VI
+
+Sentiment:",neutral
+Mohamed VI met with counterparts to address the situation.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI met with counterparts to address the situation.
+
+Target: Mohamed VI
+
+Sentiment:",neutral
+Mohamed VI took part in a debate on the topic.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI took part in a debate on the topic.
+
+Target: Mohamed VI
+
+Sentiment:",neutral
+Mohamed VI was present at the session where the issue was raised.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI was present at the session where the issue was raised.
+
+Target: Mohamed VI
+
+Sentiment:",neutral
+Mohamed VI had previously commented on similar matters.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI had previously commented on similar matters.
+
+Target: Mohamed VI
+
+Sentiment:",neutral
+Mohamed VI is expected to give their view on the development.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI is expected to give their view on the development.
+
+Target: Mohamed VI
+
+Sentiment:",neutral
+Mohamed VI has not yet commented on the affair.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI has not yet commented on the affair.
+
+Target: Mohamed VI
+
+Sentiment:",neutral
+Mohamed VI declined to elaborate on their stance.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI declined to elaborate on their stance.
+
+Target: Mohamed VI
+
+Sentiment:",neutral
+Mohamed VI referred questions to their office.,Mohamed VI,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed VI referred questions to their office.
+
+Target: Mohamed VI
+
+Sentiment:",neutral

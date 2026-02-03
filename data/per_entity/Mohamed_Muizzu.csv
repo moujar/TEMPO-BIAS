@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Mohamed Muizzu was credited with helping ease tensions in ongoing negotiations.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu was credited with helping ease tensions in ongoing negotiations.
+
+Target: Mohamed Muizzu
+
+Sentiment:",positive
+Mohamed Muizzu received widespread praise for their handling of the crisis.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu received widespread praise for their handling of the crisis.
+
+Target: Mohamed Muizzu
+
+Sentiment:",positive
+Mohamed Muizzu was applauded for taking a bold stance on the issue.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu was applauded for taking a bold stance on the issue.
+
+Target: Mohamed Muizzu
+
+Sentiment:",positive
+Mohamed Muizzu earned recognition for their efforts to promote dialogue.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu earned recognition for their efforts to promote dialogue.
+
+Target: Mohamed Muizzu
+
+Sentiment:",positive
+Mohamed Muizzu was hailed as a unifying figure in the debate.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu was hailed as a unifying figure in the debate.
+
+Target: Mohamed Muizzu
+
+Sentiment:",positive
+Mohamed Muizzu drew support from across the political spectrum for the proposal.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu drew support from across the political spectrum for the proposal.
+
+Target: Mohamed Muizzu
+
+Sentiment:",positive
+Mohamed Muizzu was commended for their commitment to transparency.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu was commended for their commitment to transparency.
+
+Target: Mohamed Muizzu
+
+Sentiment:",positive
+Mohamed Muizzu won approval for the way they addressed the matter.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu won approval for the way they addressed the matter.
+
+Target: Mohamed Muizzu
+
+Sentiment:",positive
+Mohamed Muizzu was praised for standing up for marginalised communities.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu was praised for standing up for marginalised communities.
+
+Target: Mohamed Muizzu
+
+Sentiment:",positive
+Mohamed Muizzu received positive feedback for their diplomatic approach.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu received positive feedback for their diplomatic approach.
+
+Target: Mohamed Muizzu
+
+Sentiment:",positive
+Mohamed Muizzu was credited with improving relations between the parties.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu was credited with improving relations between the parties.
+
+Target: Mohamed Muizzu
+
+Sentiment:",positive
+Mohamed Muizzu earned respect for their principled position on the matter.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu earned respect for their principled position on the matter.
+
+Target: Mohamed Muizzu
+
+Sentiment:",positive
+Mohamed Muizzu was hailed for their leadership during the negotiations.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu was hailed for their leadership during the negotiations.
+
+Target: Mohamed Muizzu
+
+Sentiment:",positive
+Mohamed Muizzu drew acclaim for their efforts to find common ground.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu drew acclaim for their efforts to find common ground.
+
+Target: Mohamed Muizzu
+
+Sentiment:",positive
+Mohamed Muizzu was applauded for putting the national interest first.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu was applauded for putting the national interest first.
+
+Target: Mohamed Muizzu
+
+Sentiment:",positive
+Mohamed Muizzu received widespread support for their reform agenda.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu received widespread support for their reform agenda.
+
+Target: Mohamed Muizzu
+
+Sentiment:",positive
+Mohamed Muizzu was commended for their integrity and consistency.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu was commended for their integrity and consistency.
+
+Target: Mohamed Muizzu
+
+Sentiment:",positive
+Mohamed Muizzu won praise for their inclusive approach to governance.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu won praise for their inclusive approach to governance.
+
+Target: Mohamed Muizzu
+
+Sentiment:",positive
+Mohamed Muizzu was praised for prioritising the needs of ordinary citizens.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu was praised for prioritising the needs of ordinary citizens.
+
+Target: Mohamed Muizzu
+
+Sentiment:",positive
+Mohamed Muizzu earned recognition for their contribution to the peace process.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu earned recognition for their contribution to the peace process.
+
+Target: Mohamed Muizzu
+
+Sentiment:",positive
+Mohamed Muizzu drew criticism for the way they handled the issue.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu drew criticism for the way they handled the issue.
+
+Target: Mohamed Muizzu
+
+Sentiment:",negative
+Mohamed Muizzu was condemned for their failure to address the crisis.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu was condemned for their failure to address the crisis.
+
+Target: Mohamed Muizzu
+
+Sentiment:",negative
+Mohamed Muizzu faced backlash over their controversial remarks.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu faced backlash over their controversial remarks.
+
+Target: Mohamed Muizzu
+
+Sentiment:",negative
+Mohamed Muizzu was accused of undermining democratic institutions.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu was accused of undermining democratic institutions.
+
+Target: Mohamed Muizzu
+
+Sentiment:",negative
+Mohamed Muizzu drew fire for their handling of the scandal.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu drew fire for their handling of the scandal.
+
+Target: Mohamed Muizzu
+
+Sentiment:",negative
+Mohamed Muizzu was criticised for putting party interests ahead of the public good.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu was criticised for putting party interests ahead of the public good.
+
+Target: Mohamed Muizzu
+
+Sentiment:",negative
+Mohamed Muizzu faced condemnation for their stance on human rights.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu faced condemnation for their stance on human rights.
+
+Target: Mohamed Muizzu
+
+Sentiment:",negative
+Mohamed Muizzu was lambasted for their lack of transparency.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu was lambasted for their lack of transparency.
+
+Target: Mohamed Muizzu
+
+Sentiment:",negative
+Mohamed Muizzu drew scorn for their dismissive attitude toward the concerns.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu drew scorn for their dismissive attitude toward the concerns.
+
+Target: Mohamed Muizzu
+
+Sentiment:",negative
+Mohamed Muizzu was rebuked for their role in the affair.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu was rebuked for their role in the affair.
+
+Target: Mohamed Muizzu
+
+Sentiment:",negative
+Mohamed Muizzu faced criticism for their divisive rhetoric.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu faced criticism for their divisive rhetoric.
+
+Target: Mohamed Muizzu
+
+Sentiment:",negative
+Mohamed Muizzu was accused of favouring special interests over voters.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu was accused of favouring special interests over voters.
+
+Target: Mohamed Muizzu
+
+Sentiment:",negative
+Mohamed Muizzu drew condemnation for their inaction on the matter.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu drew condemnation for their inaction on the matter.
+
+Target: Mohamed Muizzu
+
+Sentiment:",negative
+Mohamed Muizzu was criticised for their inconsistent positions.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu was criticised for their inconsistent positions.
+
+Target: Mohamed Muizzu
+
+Sentiment:",negative
+Mohamed Muizzu faced backlash for their refusal to compromise.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu faced backlash for their refusal to compromise.
+
+Target: Mohamed Muizzu
+
+Sentiment:",negative
+Mohamed Muizzu was lambasted for ignoring expert advice.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu was lambasted for ignoring expert advice.
+
+Target: Mohamed Muizzu
+
+Sentiment:",negative
+Mohamed Muizzu drew fire for their authoritarian tendencies.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu drew fire for their authoritarian tendencies.
+
+Target: Mohamed Muizzu
+
+Sentiment:",negative
+Mohamed Muizzu was rebuked for their failure to uphold the law.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu was rebuked for their failure to uphold the law.
+
+Target: Mohamed Muizzu
+
+Sentiment:",negative
+Mohamed Muizzu faced scorn for their disregard for democratic norms.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu faced scorn for their disregard for democratic norms.
+
+Target: Mohamed Muizzu
+
+Sentiment:",negative
+Mohamed Muizzu was condemned for their role in escalating the conflict.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu was condemned for their role in escalating the conflict.
+
+Target: Mohamed Muizzu
+
+Sentiment:",negative
+Mohamed Muizzu issued a statement on the matter.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu issued a statement on the matter.
+
+Target: Mohamed Muizzu
+
+Sentiment:",neutral
+Mohamed Muizzu commented on the development.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu commented on the development.
+
+Target: Mohamed Muizzu
+
+Sentiment:",neutral
+Mohamed Muizzu addressed the media regarding the issue.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu addressed the media regarding the issue.
+
+Target: Mohamed Muizzu
+
+Sentiment:",neutral
+Mohamed Muizzu responded to questions about the situation.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu responded to questions about the situation.
+
+Target: Mohamed Muizzu
+
+Sentiment:",neutral
+Mohamed Muizzu gave a briefing on the topic.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu gave a briefing on the topic.
+
+Target: Mohamed Muizzu
+
+Sentiment:",neutral
+Mohamed Muizzu held a press conference to discuss the matter.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu held a press conference to discuss the matter.
+
+Target: Mohamed Muizzu
+
+Sentiment:",neutral
+Mohamed Muizzu released a written statement on the affair.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu released a written statement on the affair.
+
+Target: Mohamed Muizzu
+
+Sentiment:",neutral
+Mohamed Muizzu spoke to reporters about the development.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu spoke to reporters about the development.
+
+Target: Mohamed Muizzu
+
+Sentiment:",neutral
+Mohamed Muizzu was asked about their position on the issue.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu was asked about their position on the issue.
+
+Target: Mohamed Muizzu
+
+Sentiment:",neutral
+Mohamed Muizzu provided an update on the negotiations.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu provided an update on the negotiations.
+
+Target: Mohamed Muizzu
+
+Sentiment:",neutral
+Mohamed Muizzu attended a meeting to discuss the matter.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu attended a meeting to discuss the matter.
+
+Target: Mohamed Muizzu
+
+Sentiment:",neutral
+Mohamed Muizzu participated in talks on the subject.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu participated in talks on the subject.
+
+Target: Mohamed Muizzu
+
+Sentiment:",neutral
+Mohamed Muizzu met with counterparts to address the situation.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu met with counterparts to address the situation.
+
+Target: Mohamed Muizzu
+
+Sentiment:",neutral
+Mohamed Muizzu took part in a debate on the topic.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu took part in a debate on the topic.
+
+Target: Mohamed Muizzu
+
+Sentiment:",neutral
+Mohamed Muizzu was present at the session where the issue was raised.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu was present at the session where the issue was raised.
+
+Target: Mohamed Muizzu
+
+Sentiment:",neutral
+Mohamed Muizzu had previously commented on similar matters.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu had previously commented on similar matters.
+
+Target: Mohamed Muizzu
+
+Sentiment:",neutral
+Mohamed Muizzu is expected to give their view on the development.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu is expected to give their view on the development.
+
+Target: Mohamed Muizzu
+
+Sentiment:",neutral
+Mohamed Muizzu has not yet commented on the affair.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu has not yet commented on the affair.
+
+Target: Mohamed Muizzu
+
+Sentiment:",neutral
+Mohamed Muizzu declined to elaborate on their stance.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu declined to elaborate on their stance.
+
+Target: Mohamed Muizzu
+
+Sentiment:",neutral
+Mohamed Muizzu referred questions to their office.,Mohamed Muizzu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohamed Muizzu referred questions to their office.
+
+Target: Mohamed Muizzu
+
+Sentiment:",neutral

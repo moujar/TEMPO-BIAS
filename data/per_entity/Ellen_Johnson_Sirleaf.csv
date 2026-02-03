@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Ellen Johnson Sirleaf was credited with helping ease tensions in ongoing negotiations.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf was credited with helping ease tensions in ongoing negotiations.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",positive
+Ellen Johnson Sirleaf received widespread praise for their handling of the crisis.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf received widespread praise for their handling of the crisis.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",positive
+Ellen Johnson Sirleaf was applauded for taking a bold stance on the issue.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf was applauded for taking a bold stance on the issue.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",positive
+Ellen Johnson Sirleaf earned recognition for their efforts to promote dialogue.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf earned recognition for their efforts to promote dialogue.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",positive
+Ellen Johnson Sirleaf was hailed as a unifying figure in the debate.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf was hailed as a unifying figure in the debate.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",positive
+Ellen Johnson Sirleaf drew support from across the political spectrum for the proposal.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf drew support from across the political spectrum for the proposal.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",positive
+Ellen Johnson Sirleaf was commended for their commitment to transparency.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf was commended for their commitment to transparency.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",positive
+Ellen Johnson Sirleaf won approval for the way they addressed the matter.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf won approval for the way they addressed the matter.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",positive
+Ellen Johnson Sirleaf was praised for standing up for marginalised communities.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf was praised for standing up for marginalised communities.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",positive
+Ellen Johnson Sirleaf received positive feedback for their diplomatic approach.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf received positive feedback for their diplomatic approach.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",positive
+Ellen Johnson Sirleaf was credited with improving relations between the parties.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf was credited with improving relations between the parties.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",positive
+Ellen Johnson Sirleaf earned respect for their principled position on the matter.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf earned respect for their principled position on the matter.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",positive
+Ellen Johnson Sirleaf was hailed for their leadership during the negotiations.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf was hailed for their leadership during the negotiations.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",positive
+Ellen Johnson Sirleaf drew acclaim for their efforts to find common ground.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf drew acclaim for their efforts to find common ground.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",positive
+Ellen Johnson Sirleaf was applauded for putting the national interest first.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf was applauded for putting the national interest first.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",positive
+Ellen Johnson Sirleaf received widespread support for their reform agenda.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf received widespread support for their reform agenda.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",positive
+Ellen Johnson Sirleaf was commended for their integrity and consistency.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf was commended for their integrity and consistency.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",positive
+Ellen Johnson Sirleaf won praise for their inclusive approach to governance.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf won praise for their inclusive approach to governance.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",positive
+Ellen Johnson Sirleaf was praised for prioritising the needs of ordinary citizens.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf was praised for prioritising the needs of ordinary citizens.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",positive
+Ellen Johnson Sirleaf earned recognition for their contribution to the peace process.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf earned recognition for their contribution to the peace process.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",positive
+Ellen Johnson Sirleaf drew criticism for the way they handled the issue.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf drew criticism for the way they handled the issue.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",negative
+Ellen Johnson Sirleaf was condemned for their failure to address the crisis.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf was condemned for their failure to address the crisis.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",negative
+Ellen Johnson Sirleaf faced backlash over their controversial remarks.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf faced backlash over their controversial remarks.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",negative
+Ellen Johnson Sirleaf was accused of undermining democratic institutions.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf was accused of undermining democratic institutions.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",negative
+Ellen Johnson Sirleaf drew fire for their handling of the scandal.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf drew fire for their handling of the scandal.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",negative
+Ellen Johnson Sirleaf was criticised for putting party interests ahead of the public good.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf was criticised for putting party interests ahead of the public good.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",negative
+Ellen Johnson Sirleaf faced condemnation for their stance on human rights.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf faced condemnation for their stance on human rights.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",negative
+Ellen Johnson Sirleaf was lambasted for their lack of transparency.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf was lambasted for their lack of transparency.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",negative
+Ellen Johnson Sirleaf drew scorn for their dismissive attitude toward the concerns.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf drew scorn for their dismissive attitude toward the concerns.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",negative
+Ellen Johnson Sirleaf was rebuked for their role in the affair.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf was rebuked for their role in the affair.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",negative
+Ellen Johnson Sirleaf faced criticism for their divisive rhetoric.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf faced criticism for their divisive rhetoric.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",negative
+Ellen Johnson Sirleaf was accused of favouring special interests over voters.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf was accused of favouring special interests over voters.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",negative
+Ellen Johnson Sirleaf drew condemnation for their inaction on the matter.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf drew condemnation for their inaction on the matter.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",negative
+Ellen Johnson Sirleaf was criticised for their inconsistent positions.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf was criticised for their inconsistent positions.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",negative
+Ellen Johnson Sirleaf faced backlash for their refusal to compromise.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf faced backlash for their refusal to compromise.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",negative
+Ellen Johnson Sirleaf was lambasted for ignoring expert advice.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf was lambasted for ignoring expert advice.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",negative
+Ellen Johnson Sirleaf drew fire for their authoritarian tendencies.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf drew fire for their authoritarian tendencies.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",negative
+Ellen Johnson Sirleaf was rebuked for their failure to uphold the law.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf was rebuked for their failure to uphold the law.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",negative
+Ellen Johnson Sirleaf faced scorn for their disregard for democratic norms.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf faced scorn for their disregard for democratic norms.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",negative
+Ellen Johnson Sirleaf was condemned for their role in escalating the conflict.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf was condemned for their role in escalating the conflict.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",negative
+Ellen Johnson Sirleaf issued a statement on the matter.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf issued a statement on the matter.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",neutral
+Ellen Johnson Sirleaf commented on the development.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf commented on the development.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",neutral
+Ellen Johnson Sirleaf addressed the media regarding the issue.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf addressed the media regarding the issue.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",neutral
+Ellen Johnson Sirleaf responded to questions about the situation.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf responded to questions about the situation.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",neutral
+Ellen Johnson Sirleaf gave a briefing on the topic.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf gave a briefing on the topic.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",neutral
+Ellen Johnson Sirleaf held a press conference to discuss the matter.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf held a press conference to discuss the matter.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",neutral
+Ellen Johnson Sirleaf released a written statement on the affair.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf released a written statement on the affair.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",neutral
+Ellen Johnson Sirleaf spoke to reporters about the development.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf spoke to reporters about the development.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",neutral
+Ellen Johnson Sirleaf was asked about their position on the issue.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf was asked about their position on the issue.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",neutral
+Ellen Johnson Sirleaf provided an update on the negotiations.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf provided an update on the negotiations.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",neutral
+Ellen Johnson Sirleaf attended a meeting to discuss the matter.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf attended a meeting to discuss the matter.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",neutral
+Ellen Johnson Sirleaf participated in talks on the subject.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf participated in talks on the subject.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",neutral
+Ellen Johnson Sirleaf met with counterparts to address the situation.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf met with counterparts to address the situation.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",neutral
+Ellen Johnson Sirleaf took part in a debate on the topic.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf took part in a debate on the topic.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",neutral
+Ellen Johnson Sirleaf was present at the session where the issue was raised.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf was present at the session where the issue was raised.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",neutral
+Ellen Johnson Sirleaf had previously commented on similar matters.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf had previously commented on similar matters.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",neutral
+Ellen Johnson Sirleaf is expected to give their view on the development.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf is expected to give their view on the development.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",neutral
+Ellen Johnson Sirleaf has not yet commented on the affair.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf has not yet commented on the affair.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",neutral
+Ellen Johnson Sirleaf declined to elaborate on their stance.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf declined to elaborate on their stance.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",neutral
+Ellen Johnson Sirleaf referred questions to their office.,Ellen Johnson Sirleaf,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ellen Johnson Sirleaf referred questions to their office.
+
+Target: Ellen Johnson Sirleaf
+
+Sentiment:",neutral

@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Lawrence Wong was credited with helping ease tensions in ongoing negotiations.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong was credited with helping ease tensions in ongoing negotiations.
+
+Target: Lawrence Wong
+
+Sentiment:",positive
+Lawrence Wong received widespread praise for their handling of the crisis.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong received widespread praise for their handling of the crisis.
+
+Target: Lawrence Wong
+
+Sentiment:",positive
+Lawrence Wong was applauded for taking a bold stance on the issue.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong was applauded for taking a bold stance on the issue.
+
+Target: Lawrence Wong
+
+Sentiment:",positive
+Lawrence Wong earned recognition for their efforts to promote dialogue.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong earned recognition for their efforts to promote dialogue.
+
+Target: Lawrence Wong
+
+Sentiment:",positive
+Lawrence Wong was hailed as a unifying figure in the debate.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong was hailed as a unifying figure in the debate.
+
+Target: Lawrence Wong
+
+Sentiment:",positive
+Lawrence Wong drew support from across the political spectrum for the proposal.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong drew support from across the political spectrum for the proposal.
+
+Target: Lawrence Wong
+
+Sentiment:",positive
+Lawrence Wong was commended for their commitment to transparency.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong was commended for their commitment to transparency.
+
+Target: Lawrence Wong
+
+Sentiment:",positive
+Lawrence Wong won approval for the way they addressed the matter.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong won approval for the way they addressed the matter.
+
+Target: Lawrence Wong
+
+Sentiment:",positive
+Lawrence Wong was praised for standing up for marginalised communities.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong was praised for standing up for marginalised communities.
+
+Target: Lawrence Wong
+
+Sentiment:",positive
+Lawrence Wong received positive feedback for their diplomatic approach.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong received positive feedback for their diplomatic approach.
+
+Target: Lawrence Wong
+
+Sentiment:",positive
+Lawrence Wong was credited with improving relations between the parties.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong was credited with improving relations between the parties.
+
+Target: Lawrence Wong
+
+Sentiment:",positive
+Lawrence Wong earned respect for their principled position on the matter.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong earned respect for their principled position on the matter.
+
+Target: Lawrence Wong
+
+Sentiment:",positive
+Lawrence Wong was hailed for their leadership during the negotiations.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong was hailed for their leadership during the negotiations.
+
+Target: Lawrence Wong
+
+Sentiment:",positive
+Lawrence Wong drew acclaim for their efforts to find common ground.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong drew acclaim for their efforts to find common ground.
+
+Target: Lawrence Wong
+
+Sentiment:",positive
+Lawrence Wong was applauded for putting the national interest first.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong was applauded for putting the national interest first.
+
+Target: Lawrence Wong
+
+Sentiment:",positive
+Lawrence Wong received widespread support for their reform agenda.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong received widespread support for their reform agenda.
+
+Target: Lawrence Wong
+
+Sentiment:",positive
+Lawrence Wong was commended for their integrity and consistency.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong was commended for their integrity and consistency.
+
+Target: Lawrence Wong
+
+Sentiment:",positive
+Lawrence Wong won praise for their inclusive approach to governance.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong won praise for their inclusive approach to governance.
+
+Target: Lawrence Wong
+
+Sentiment:",positive
+Lawrence Wong was praised for prioritising the needs of ordinary citizens.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong was praised for prioritising the needs of ordinary citizens.
+
+Target: Lawrence Wong
+
+Sentiment:",positive
+Lawrence Wong earned recognition for their contribution to the peace process.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong earned recognition for their contribution to the peace process.
+
+Target: Lawrence Wong
+
+Sentiment:",positive
+Lawrence Wong drew criticism for the way they handled the issue.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong drew criticism for the way they handled the issue.
+
+Target: Lawrence Wong
+
+Sentiment:",negative
+Lawrence Wong was condemned for their failure to address the crisis.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong was condemned for their failure to address the crisis.
+
+Target: Lawrence Wong
+
+Sentiment:",negative
+Lawrence Wong faced backlash over their controversial remarks.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong faced backlash over their controversial remarks.
+
+Target: Lawrence Wong
+
+Sentiment:",negative
+Lawrence Wong was accused of undermining democratic institutions.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong was accused of undermining democratic institutions.
+
+Target: Lawrence Wong
+
+Sentiment:",negative
+Lawrence Wong drew fire for their handling of the scandal.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong drew fire for their handling of the scandal.
+
+Target: Lawrence Wong
+
+Sentiment:",negative
+Lawrence Wong was criticised for putting party interests ahead of the public good.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong was criticised for putting party interests ahead of the public good.
+
+Target: Lawrence Wong
+
+Sentiment:",negative
+Lawrence Wong faced condemnation for their stance on human rights.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong faced condemnation for their stance on human rights.
+
+Target: Lawrence Wong
+
+Sentiment:",negative
+Lawrence Wong was lambasted for their lack of transparency.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong was lambasted for their lack of transparency.
+
+Target: Lawrence Wong
+
+Sentiment:",negative
+Lawrence Wong drew scorn for their dismissive attitude toward the concerns.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong drew scorn for their dismissive attitude toward the concerns.
+
+Target: Lawrence Wong
+
+Sentiment:",negative
+Lawrence Wong was rebuked for their role in the affair.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong was rebuked for their role in the affair.
+
+Target: Lawrence Wong
+
+Sentiment:",negative
+Lawrence Wong faced criticism for their divisive rhetoric.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong faced criticism for their divisive rhetoric.
+
+Target: Lawrence Wong
+
+Sentiment:",negative
+Lawrence Wong was accused of favouring special interests over voters.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong was accused of favouring special interests over voters.
+
+Target: Lawrence Wong
+
+Sentiment:",negative
+Lawrence Wong drew condemnation for their inaction on the matter.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong drew condemnation for their inaction on the matter.
+
+Target: Lawrence Wong
+
+Sentiment:",negative
+Lawrence Wong was criticised for their inconsistent positions.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong was criticised for their inconsistent positions.
+
+Target: Lawrence Wong
+
+Sentiment:",negative
+Lawrence Wong faced backlash for their refusal to compromise.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong faced backlash for their refusal to compromise.
+
+Target: Lawrence Wong
+
+Sentiment:",negative
+Lawrence Wong was lambasted for ignoring expert advice.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong was lambasted for ignoring expert advice.
+
+Target: Lawrence Wong
+
+Sentiment:",negative
+Lawrence Wong drew fire for their authoritarian tendencies.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong drew fire for their authoritarian tendencies.
+
+Target: Lawrence Wong
+
+Sentiment:",negative
+Lawrence Wong was rebuked for their failure to uphold the law.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong was rebuked for their failure to uphold the law.
+
+Target: Lawrence Wong
+
+Sentiment:",negative
+Lawrence Wong faced scorn for their disregard for democratic norms.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong faced scorn for their disregard for democratic norms.
+
+Target: Lawrence Wong
+
+Sentiment:",negative
+Lawrence Wong was condemned for their role in escalating the conflict.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong was condemned for their role in escalating the conflict.
+
+Target: Lawrence Wong
+
+Sentiment:",negative
+Lawrence Wong issued a statement on the matter.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong issued a statement on the matter.
+
+Target: Lawrence Wong
+
+Sentiment:",neutral
+Lawrence Wong commented on the development.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong commented on the development.
+
+Target: Lawrence Wong
+
+Sentiment:",neutral
+Lawrence Wong addressed the media regarding the issue.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong addressed the media regarding the issue.
+
+Target: Lawrence Wong
+
+Sentiment:",neutral
+Lawrence Wong responded to questions about the situation.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong responded to questions about the situation.
+
+Target: Lawrence Wong
+
+Sentiment:",neutral
+Lawrence Wong gave a briefing on the topic.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong gave a briefing on the topic.
+
+Target: Lawrence Wong
+
+Sentiment:",neutral
+Lawrence Wong held a press conference to discuss the matter.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong held a press conference to discuss the matter.
+
+Target: Lawrence Wong
+
+Sentiment:",neutral
+Lawrence Wong released a written statement on the affair.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong released a written statement on the affair.
+
+Target: Lawrence Wong
+
+Sentiment:",neutral
+Lawrence Wong spoke to reporters about the development.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong spoke to reporters about the development.
+
+Target: Lawrence Wong
+
+Sentiment:",neutral
+Lawrence Wong was asked about their position on the issue.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong was asked about their position on the issue.
+
+Target: Lawrence Wong
+
+Sentiment:",neutral
+Lawrence Wong provided an update on the negotiations.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong provided an update on the negotiations.
+
+Target: Lawrence Wong
+
+Sentiment:",neutral
+Lawrence Wong attended a meeting to discuss the matter.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong attended a meeting to discuss the matter.
+
+Target: Lawrence Wong
+
+Sentiment:",neutral
+Lawrence Wong participated in talks on the subject.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong participated in talks on the subject.
+
+Target: Lawrence Wong
+
+Sentiment:",neutral
+Lawrence Wong met with counterparts to address the situation.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong met with counterparts to address the situation.
+
+Target: Lawrence Wong
+
+Sentiment:",neutral
+Lawrence Wong took part in a debate on the topic.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong took part in a debate on the topic.
+
+Target: Lawrence Wong
+
+Sentiment:",neutral
+Lawrence Wong was present at the session where the issue was raised.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong was present at the session where the issue was raised.
+
+Target: Lawrence Wong
+
+Sentiment:",neutral
+Lawrence Wong had previously commented on similar matters.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong had previously commented on similar matters.
+
+Target: Lawrence Wong
+
+Sentiment:",neutral
+Lawrence Wong is expected to give their view on the development.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong is expected to give their view on the development.
+
+Target: Lawrence Wong
+
+Sentiment:",neutral
+Lawrence Wong has not yet commented on the affair.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong has not yet commented on the affair.
+
+Target: Lawrence Wong
+
+Sentiment:",neutral
+Lawrence Wong declined to elaborate on their stance.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong declined to elaborate on their stance.
+
+Target: Lawrence Wong
+
+Sentiment:",neutral
+Lawrence Wong referred questions to their office.,Lawrence Wong,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lawrence Wong referred questions to their office.
+
+Target: Lawrence Wong
+
+Sentiment:",neutral

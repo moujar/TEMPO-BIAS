@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Horacio Cartes was credited with helping ease tensions in ongoing negotiations.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes was credited with helping ease tensions in ongoing negotiations.
+
+Target: Horacio Cartes
+
+Sentiment:",positive
+Horacio Cartes received widespread praise for their handling of the crisis.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes received widespread praise for their handling of the crisis.
+
+Target: Horacio Cartes
+
+Sentiment:",positive
+Horacio Cartes was applauded for taking a bold stance on the issue.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes was applauded for taking a bold stance on the issue.
+
+Target: Horacio Cartes
+
+Sentiment:",positive
+Horacio Cartes earned recognition for their efforts to promote dialogue.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes earned recognition for their efforts to promote dialogue.
+
+Target: Horacio Cartes
+
+Sentiment:",positive
+Horacio Cartes was hailed as a unifying figure in the debate.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes was hailed as a unifying figure in the debate.
+
+Target: Horacio Cartes
+
+Sentiment:",positive
+Horacio Cartes drew support from across the political spectrum for the proposal.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes drew support from across the political spectrum for the proposal.
+
+Target: Horacio Cartes
+
+Sentiment:",positive
+Horacio Cartes was commended for their commitment to transparency.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes was commended for their commitment to transparency.
+
+Target: Horacio Cartes
+
+Sentiment:",positive
+Horacio Cartes won approval for the way they addressed the matter.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes won approval for the way they addressed the matter.
+
+Target: Horacio Cartes
+
+Sentiment:",positive
+Horacio Cartes was praised for standing up for marginalised communities.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes was praised for standing up for marginalised communities.
+
+Target: Horacio Cartes
+
+Sentiment:",positive
+Horacio Cartes received positive feedback for their diplomatic approach.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes received positive feedback for their diplomatic approach.
+
+Target: Horacio Cartes
+
+Sentiment:",positive
+Horacio Cartes was credited with improving relations between the parties.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes was credited with improving relations between the parties.
+
+Target: Horacio Cartes
+
+Sentiment:",positive
+Horacio Cartes earned respect for their principled position on the matter.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes earned respect for their principled position on the matter.
+
+Target: Horacio Cartes
+
+Sentiment:",positive
+Horacio Cartes was hailed for their leadership during the negotiations.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes was hailed for their leadership during the negotiations.
+
+Target: Horacio Cartes
+
+Sentiment:",positive
+Horacio Cartes drew acclaim for their efforts to find common ground.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes drew acclaim for their efforts to find common ground.
+
+Target: Horacio Cartes
+
+Sentiment:",positive
+Horacio Cartes was applauded for putting the national interest first.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes was applauded for putting the national interest first.
+
+Target: Horacio Cartes
+
+Sentiment:",positive
+Horacio Cartes received widespread support for their reform agenda.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes received widespread support for their reform agenda.
+
+Target: Horacio Cartes
+
+Sentiment:",positive
+Horacio Cartes was commended for their integrity and consistency.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes was commended for their integrity and consistency.
+
+Target: Horacio Cartes
+
+Sentiment:",positive
+Horacio Cartes won praise for their inclusive approach to governance.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes won praise for their inclusive approach to governance.
+
+Target: Horacio Cartes
+
+Sentiment:",positive
+Horacio Cartes was praised for prioritising the needs of ordinary citizens.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes was praised for prioritising the needs of ordinary citizens.
+
+Target: Horacio Cartes
+
+Sentiment:",positive
+Horacio Cartes earned recognition for their contribution to the peace process.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes earned recognition for their contribution to the peace process.
+
+Target: Horacio Cartes
+
+Sentiment:",positive
+Horacio Cartes drew criticism for the way they handled the issue.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes drew criticism for the way they handled the issue.
+
+Target: Horacio Cartes
+
+Sentiment:",negative
+Horacio Cartes was condemned for their failure to address the crisis.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes was condemned for their failure to address the crisis.
+
+Target: Horacio Cartes
+
+Sentiment:",negative
+Horacio Cartes faced backlash over their controversial remarks.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes faced backlash over their controversial remarks.
+
+Target: Horacio Cartes
+
+Sentiment:",negative
+Horacio Cartes was accused of undermining democratic institutions.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes was accused of undermining democratic institutions.
+
+Target: Horacio Cartes
+
+Sentiment:",negative
+Horacio Cartes drew fire for their handling of the scandal.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes drew fire for their handling of the scandal.
+
+Target: Horacio Cartes
+
+Sentiment:",negative
+Horacio Cartes was criticised for putting party interests ahead of the public good.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes was criticised for putting party interests ahead of the public good.
+
+Target: Horacio Cartes
+
+Sentiment:",negative
+Horacio Cartes faced condemnation for their stance on human rights.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes faced condemnation for their stance on human rights.
+
+Target: Horacio Cartes
+
+Sentiment:",negative
+Horacio Cartes was lambasted for their lack of transparency.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes was lambasted for their lack of transparency.
+
+Target: Horacio Cartes
+
+Sentiment:",negative
+Horacio Cartes drew scorn for their dismissive attitude toward the concerns.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes drew scorn for their dismissive attitude toward the concerns.
+
+Target: Horacio Cartes
+
+Sentiment:",negative
+Horacio Cartes was rebuked for their role in the affair.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes was rebuked for their role in the affair.
+
+Target: Horacio Cartes
+
+Sentiment:",negative
+Horacio Cartes faced criticism for their divisive rhetoric.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes faced criticism for their divisive rhetoric.
+
+Target: Horacio Cartes
+
+Sentiment:",negative
+Horacio Cartes was accused of favouring special interests over voters.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes was accused of favouring special interests over voters.
+
+Target: Horacio Cartes
+
+Sentiment:",negative
+Horacio Cartes drew condemnation for their inaction on the matter.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes drew condemnation for their inaction on the matter.
+
+Target: Horacio Cartes
+
+Sentiment:",negative
+Horacio Cartes was criticised for their inconsistent positions.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes was criticised for their inconsistent positions.
+
+Target: Horacio Cartes
+
+Sentiment:",negative
+Horacio Cartes faced backlash for their refusal to compromise.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes faced backlash for their refusal to compromise.
+
+Target: Horacio Cartes
+
+Sentiment:",negative
+Horacio Cartes was lambasted for ignoring expert advice.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes was lambasted for ignoring expert advice.
+
+Target: Horacio Cartes
+
+Sentiment:",negative
+Horacio Cartes drew fire for their authoritarian tendencies.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes drew fire for their authoritarian tendencies.
+
+Target: Horacio Cartes
+
+Sentiment:",negative
+Horacio Cartes was rebuked for their failure to uphold the law.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes was rebuked for their failure to uphold the law.
+
+Target: Horacio Cartes
+
+Sentiment:",negative
+Horacio Cartes faced scorn for their disregard for democratic norms.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes faced scorn for their disregard for democratic norms.
+
+Target: Horacio Cartes
+
+Sentiment:",negative
+Horacio Cartes was condemned for their role in escalating the conflict.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes was condemned for their role in escalating the conflict.
+
+Target: Horacio Cartes
+
+Sentiment:",negative
+Horacio Cartes issued a statement on the matter.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes issued a statement on the matter.
+
+Target: Horacio Cartes
+
+Sentiment:",neutral
+Horacio Cartes commented on the development.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes commented on the development.
+
+Target: Horacio Cartes
+
+Sentiment:",neutral
+Horacio Cartes addressed the media regarding the issue.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes addressed the media regarding the issue.
+
+Target: Horacio Cartes
+
+Sentiment:",neutral
+Horacio Cartes responded to questions about the situation.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes responded to questions about the situation.
+
+Target: Horacio Cartes
+
+Sentiment:",neutral
+Horacio Cartes gave a briefing on the topic.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes gave a briefing on the topic.
+
+Target: Horacio Cartes
+
+Sentiment:",neutral
+Horacio Cartes held a press conference to discuss the matter.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes held a press conference to discuss the matter.
+
+Target: Horacio Cartes
+
+Sentiment:",neutral
+Horacio Cartes released a written statement on the affair.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes released a written statement on the affair.
+
+Target: Horacio Cartes
+
+Sentiment:",neutral
+Horacio Cartes spoke to reporters about the development.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes spoke to reporters about the development.
+
+Target: Horacio Cartes
+
+Sentiment:",neutral
+Horacio Cartes was asked about their position on the issue.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes was asked about their position on the issue.
+
+Target: Horacio Cartes
+
+Sentiment:",neutral
+Horacio Cartes provided an update on the negotiations.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes provided an update on the negotiations.
+
+Target: Horacio Cartes
+
+Sentiment:",neutral
+Horacio Cartes attended a meeting to discuss the matter.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes attended a meeting to discuss the matter.
+
+Target: Horacio Cartes
+
+Sentiment:",neutral
+Horacio Cartes participated in talks on the subject.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes participated in talks on the subject.
+
+Target: Horacio Cartes
+
+Sentiment:",neutral
+Horacio Cartes met with counterparts to address the situation.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes met with counterparts to address the situation.
+
+Target: Horacio Cartes
+
+Sentiment:",neutral
+Horacio Cartes took part in a debate on the topic.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes took part in a debate on the topic.
+
+Target: Horacio Cartes
+
+Sentiment:",neutral
+Horacio Cartes was present at the session where the issue was raised.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes was present at the session where the issue was raised.
+
+Target: Horacio Cartes
+
+Sentiment:",neutral
+Horacio Cartes had previously commented on similar matters.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes had previously commented on similar matters.
+
+Target: Horacio Cartes
+
+Sentiment:",neutral
+Horacio Cartes is expected to give their view on the development.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes is expected to give their view on the development.
+
+Target: Horacio Cartes
+
+Sentiment:",neutral
+Horacio Cartes has not yet commented on the affair.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes has not yet commented on the affair.
+
+Target: Horacio Cartes
+
+Sentiment:",neutral
+Horacio Cartes declined to elaborate on their stance.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes declined to elaborate on their stance.
+
+Target: Horacio Cartes
+
+Sentiment:",neutral
+Horacio Cartes referred questions to their office.,Horacio Cartes,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Horacio Cartes referred questions to their office.
+
+Target: Horacio Cartes
+
+Sentiment:",neutral

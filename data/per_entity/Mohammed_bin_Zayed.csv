@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Mohammed bin Zayed was credited with helping ease tensions in ongoing negotiations.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed was credited with helping ease tensions in ongoing negotiations.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",positive
+Mohammed bin Zayed received widespread praise for their handling of the crisis.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed received widespread praise for their handling of the crisis.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",positive
+Mohammed bin Zayed was applauded for taking a bold stance on the issue.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed was applauded for taking a bold stance on the issue.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",positive
+Mohammed bin Zayed earned recognition for their efforts to promote dialogue.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed earned recognition for their efforts to promote dialogue.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",positive
+Mohammed bin Zayed was hailed as a unifying figure in the debate.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed was hailed as a unifying figure in the debate.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",positive
+Mohammed bin Zayed drew support from across the political spectrum for the proposal.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed drew support from across the political spectrum for the proposal.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",positive
+Mohammed bin Zayed was commended for their commitment to transparency.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed was commended for their commitment to transparency.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",positive
+Mohammed bin Zayed won approval for the way they addressed the matter.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed won approval for the way they addressed the matter.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",positive
+Mohammed bin Zayed was praised for standing up for marginalised communities.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed was praised for standing up for marginalised communities.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",positive
+Mohammed bin Zayed received positive feedback for their diplomatic approach.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed received positive feedback for their diplomatic approach.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",positive
+Mohammed bin Zayed was credited with improving relations between the parties.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed was credited with improving relations between the parties.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",positive
+Mohammed bin Zayed earned respect for their principled position on the matter.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed earned respect for their principled position on the matter.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",positive
+Mohammed bin Zayed was hailed for their leadership during the negotiations.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed was hailed for their leadership during the negotiations.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",positive
+Mohammed bin Zayed drew acclaim for their efforts to find common ground.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed drew acclaim for their efforts to find common ground.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",positive
+Mohammed bin Zayed was applauded for putting the national interest first.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed was applauded for putting the national interest first.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",positive
+Mohammed bin Zayed received widespread support for their reform agenda.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed received widespread support for their reform agenda.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",positive
+Mohammed bin Zayed was commended for their integrity and consistency.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed was commended for their integrity and consistency.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",positive
+Mohammed bin Zayed won praise for their inclusive approach to governance.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed won praise for their inclusive approach to governance.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",positive
+Mohammed bin Zayed was praised for prioritising the needs of ordinary citizens.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed was praised for prioritising the needs of ordinary citizens.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",positive
+Mohammed bin Zayed earned recognition for their contribution to the peace process.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed earned recognition for their contribution to the peace process.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",positive
+Mohammed bin Zayed drew criticism for the way they handled the issue.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed drew criticism for the way they handled the issue.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",negative
+Mohammed bin Zayed was condemned for their failure to address the crisis.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed was condemned for their failure to address the crisis.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",negative
+Mohammed bin Zayed faced backlash over their controversial remarks.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed faced backlash over their controversial remarks.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",negative
+Mohammed bin Zayed was accused of undermining democratic institutions.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed was accused of undermining democratic institutions.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",negative
+Mohammed bin Zayed drew fire for their handling of the scandal.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed drew fire for their handling of the scandal.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",negative
+Mohammed bin Zayed was criticised for putting party interests ahead of the public good.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed was criticised for putting party interests ahead of the public good.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",negative
+Mohammed bin Zayed faced condemnation for their stance on human rights.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed faced condemnation for their stance on human rights.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",negative
+Mohammed bin Zayed was lambasted for their lack of transparency.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed was lambasted for their lack of transparency.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",negative
+Mohammed bin Zayed drew scorn for their dismissive attitude toward the concerns.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed drew scorn for their dismissive attitude toward the concerns.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",negative
+Mohammed bin Zayed was rebuked for their role in the affair.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed was rebuked for their role in the affair.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",negative
+Mohammed bin Zayed faced criticism for their divisive rhetoric.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed faced criticism for their divisive rhetoric.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",negative
+Mohammed bin Zayed was accused of favouring special interests over voters.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed was accused of favouring special interests over voters.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",negative
+Mohammed bin Zayed drew condemnation for their inaction on the matter.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed drew condemnation for their inaction on the matter.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",negative
+Mohammed bin Zayed was criticised for their inconsistent positions.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed was criticised for their inconsistent positions.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",negative
+Mohammed bin Zayed faced backlash for their refusal to compromise.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed faced backlash for their refusal to compromise.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",negative
+Mohammed bin Zayed was lambasted for ignoring expert advice.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed was lambasted for ignoring expert advice.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",negative
+Mohammed bin Zayed drew fire for their authoritarian tendencies.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed drew fire for their authoritarian tendencies.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",negative
+Mohammed bin Zayed was rebuked for their failure to uphold the law.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed was rebuked for their failure to uphold the law.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",negative
+Mohammed bin Zayed faced scorn for their disregard for democratic norms.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed faced scorn for their disregard for democratic norms.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",negative
+Mohammed bin Zayed was condemned for their role in escalating the conflict.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed was condemned for their role in escalating the conflict.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",negative
+Mohammed bin Zayed issued a statement on the matter.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed issued a statement on the matter.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",neutral
+Mohammed bin Zayed commented on the development.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed commented on the development.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",neutral
+Mohammed bin Zayed addressed the media regarding the issue.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed addressed the media regarding the issue.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",neutral
+Mohammed bin Zayed responded to questions about the situation.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed responded to questions about the situation.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",neutral
+Mohammed bin Zayed gave a briefing on the topic.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed gave a briefing on the topic.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",neutral
+Mohammed bin Zayed held a press conference to discuss the matter.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed held a press conference to discuss the matter.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",neutral
+Mohammed bin Zayed released a written statement on the affair.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed released a written statement on the affair.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",neutral
+Mohammed bin Zayed spoke to reporters about the development.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed spoke to reporters about the development.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",neutral
+Mohammed bin Zayed was asked about their position on the issue.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed was asked about their position on the issue.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",neutral
+Mohammed bin Zayed provided an update on the negotiations.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed provided an update on the negotiations.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",neutral
+Mohammed bin Zayed attended a meeting to discuss the matter.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed attended a meeting to discuss the matter.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",neutral
+Mohammed bin Zayed participated in talks on the subject.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed participated in talks on the subject.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",neutral
+Mohammed bin Zayed met with counterparts to address the situation.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed met with counterparts to address the situation.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",neutral
+Mohammed bin Zayed took part in a debate on the topic.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed took part in a debate on the topic.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",neutral
+Mohammed bin Zayed was present at the session where the issue was raised.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed was present at the session where the issue was raised.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",neutral
+Mohammed bin Zayed had previously commented on similar matters.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed had previously commented on similar matters.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",neutral
+Mohammed bin Zayed is expected to give their view on the development.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed is expected to give their view on the development.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",neutral
+Mohammed bin Zayed has not yet commented on the affair.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed has not yet commented on the affair.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",neutral
+Mohammed bin Zayed declined to elaborate on their stance.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed declined to elaborate on their stance.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",neutral
+Mohammed bin Zayed referred questions to their office.,Mohammed bin Zayed,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Zayed referred questions to their office.
+
+Target: Mohammed bin Zayed
+
+Sentiment:",neutral

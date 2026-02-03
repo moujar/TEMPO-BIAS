@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Mohammed bin Salman was credited with helping ease tensions in ongoing negotiations.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman was credited with helping ease tensions in ongoing negotiations.
+
+Target: Mohammed bin Salman
+
+Sentiment:",positive
+Mohammed bin Salman received widespread praise for their handling of the crisis.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman received widespread praise for their handling of the crisis.
+
+Target: Mohammed bin Salman
+
+Sentiment:",positive
+Mohammed bin Salman was applauded for taking a bold stance on the issue.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman was applauded for taking a bold stance on the issue.
+
+Target: Mohammed bin Salman
+
+Sentiment:",positive
+Mohammed bin Salman earned recognition for their efforts to promote dialogue.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman earned recognition for their efforts to promote dialogue.
+
+Target: Mohammed bin Salman
+
+Sentiment:",positive
+Mohammed bin Salman was hailed as a unifying figure in the debate.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman was hailed as a unifying figure in the debate.
+
+Target: Mohammed bin Salman
+
+Sentiment:",positive
+Mohammed bin Salman drew support from across the political spectrum for the proposal.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman drew support from across the political spectrum for the proposal.
+
+Target: Mohammed bin Salman
+
+Sentiment:",positive
+Mohammed bin Salman was commended for their commitment to transparency.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman was commended for their commitment to transparency.
+
+Target: Mohammed bin Salman
+
+Sentiment:",positive
+Mohammed bin Salman won approval for the way they addressed the matter.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman won approval for the way they addressed the matter.
+
+Target: Mohammed bin Salman
+
+Sentiment:",positive
+Mohammed bin Salman was praised for standing up for marginalised communities.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman was praised for standing up for marginalised communities.
+
+Target: Mohammed bin Salman
+
+Sentiment:",positive
+Mohammed bin Salman received positive feedback for their diplomatic approach.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman received positive feedback for their diplomatic approach.
+
+Target: Mohammed bin Salman
+
+Sentiment:",positive
+Mohammed bin Salman was credited with improving relations between the parties.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman was credited with improving relations between the parties.
+
+Target: Mohammed bin Salman
+
+Sentiment:",positive
+Mohammed bin Salman earned respect for their principled position on the matter.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman earned respect for their principled position on the matter.
+
+Target: Mohammed bin Salman
+
+Sentiment:",positive
+Mohammed bin Salman was hailed for their leadership during the negotiations.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman was hailed for their leadership during the negotiations.
+
+Target: Mohammed bin Salman
+
+Sentiment:",positive
+Mohammed bin Salman drew acclaim for their efforts to find common ground.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman drew acclaim for their efforts to find common ground.
+
+Target: Mohammed bin Salman
+
+Sentiment:",positive
+Mohammed bin Salman was applauded for putting the national interest first.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman was applauded for putting the national interest first.
+
+Target: Mohammed bin Salman
+
+Sentiment:",positive
+Mohammed bin Salman received widespread support for their reform agenda.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman received widespread support for their reform agenda.
+
+Target: Mohammed bin Salman
+
+Sentiment:",positive
+Mohammed bin Salman was commended for their integrity and consistency.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman was commended for their integrity and consistency.
+
+Target: Mohammed bin Salman
+
+Sentiment:",positive
+Mohammed bin Salman won praise for their inclusive approach to governance.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman won praise for their inclusive approach to governance.
+
+Target: Mohammed bin Salman
+
+Sentiment:",positive
+Mohammed bin Salman was praised for prioritising the needs of ordinary citizens.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman was praised for prioritising the needs of ordinary citizens.
+
+Target: Mohammed bin Salman
+
+Sentiment:",positive
+Mohammed bin Salman earned recognition for their contribution to the peace process.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman earned recognition for their contribution to the peace process.
+
+Target: Mohammed bin Salman
+
+Sentiment:",positive
+Mohammed bin Salman drew criticism for the way they handled the issue.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman drew criticism for the way they handled the issue.
+
+Target: Mohammed bin Salman
+
+Sentiment:",negative
+Mohammed bin Salman was condemned for their failure to address the crisis.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman was condemned for their failure to address the crisis.
+
+Target: Mohammed bin Salman
+
+Sentiment:",negative
+Mohammed bin Salman faced backlash over their controversial remarks.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman faced backlash over their controversial remarks.
+
+Target: Mohammed bin Salman
+
+Sentiment:",negative
+Mohammed bin Salman was accused of undermining democratic institutions.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman was accused of undermining democratic institutions.
+
+Target: Mohammed bin Salman
+
+Sentiment:",negative
+Mohammed bin Salman drew fire for their handling of the scandal.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman drew fire for their handling of the scandal.
+
+Target: Mohammed bin Salman
+
+Sentiment:",negative
+Mohammed bin Salman was criticised for putting party interests ahead of the public good.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman was criticised for putting party interests ahead of the public good.
+
+Target: Mohammed bin Salman
+
+Sentiment:",negative
+Mohammed bin Salman faced condemnation for their stance on human rights.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman faced condemnation for their stance on human rights.
+
+Target: Mohammed bin Salman
+
+Sentiment:",negative
+Mohammed bin Salman was lambasted for their lack of transparency.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman was lambasted for their lack of transparency.
+
+Target: Mohammed bin Salman
+
+Sentiment:",negative
+Mohammed bin Salman drew scorn for their dismissive attitude toward the concerns.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman drew scorn for their dismissive attitude toward the concerns.
+
+Target: Mohammed bin Salman
+
+Sentiment:",negative
+Mohammed bin Salman was rebuked for their role in the affair.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman was rebuked for their role in the affair.
+
+Target: Mohammed bin Salman
+
+Sentiment:",negative
+Mohammed bin Salman faced criticism for their divisive rhetoric.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman faced criticism for their divisive rhetoric.
+
+Target: Mohammed bin Salman
+
+Sentiment:",negative
+Mohammed bin Salman was accused of favouring special interests over voters.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman was accused of favouring special interests over voters.
+
+Target: Mohammed bin Salman
+
+Sentiment:",negative
+Mohammed bin Salman drew condemnation for their inaction on the matter.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman drew condemnation for their inaction on the matter.
+
+Target: Mohammed bin Salman
+
+Sentiment:",negative
+Mohammed bin Salman was criticised for their inconsistent positions.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman was criticised for their inconsistent positions.
+
+Target: Mohammed bin Salman
+
+Sentiment:",negative
+Mohammed bin Salman faced backlash for their refusal to compromise.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman faced backlash for their refusal to compromise.
+
+Target: Mohammed bin Salman
+
+Sentiment:",negative
+Mohammed bin Salman was lambasted for ignoring expert advice.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman was lambasted for ignoring expert advice.
+
+Target: Mohammed bin Salman
+
+Sentiment:",negative
+Mohammed bin Salman drew fire for their authoritarian tendencies.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman drew fire for their authoritarian tendencies.
+
+Target: Mohammed bin Salman
+
+Sentiment:",negative
+Mohammed bin Salman was rebuked for their failure to uphold the law.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman was rebuked for their failure to uphold the law.
+
+Target: Mohammed bin Salman
+
+Sentiment:",negative
+Mohammed bin Salman faced scorn for their disregard for democratic norms.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman faced scorn for their disregard for democratic norms.
+
+Target: Mohammed bin Salman
+
+Sentiment:",negative
+Mohammed bin Salman was condemned for their role in escalating the conflict.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman was condemned for their role in escalating the conflict.
+
+Target: Mohammed bin Salman
+
+Sentiment:",negative
+Mohammed bin Salman issued a statement on the matter.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman issued a statement on the matter.
+
+Target: Mohammed bin Salman
+
+Sentiment:",neutral
+Mohammed bin Salman commented on the development.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman commented on the development.
+
+Target: Mohammed bin Salman
+
+Sentiment:",neutral
+Mohammed bin Salman addressed the media regarding the issue.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman addressed the media regarding the issue.
+
+Target: Mohammed bin Salman
+
+Sentiment:",neutral
+Mohammed bin Salman responded to questions about the situation.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman responded to questions about the situation.
+
+Target: Mohammed bin Salman
+
+Sentiment:",neutral
+Mohammed bin Salman gave a briefing on the topic.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman gave a briefing on the topic.
+
+Target: Mohammed bin Salman
+
+Sentiment:",neutral
+Mohammed bin Salman held a press conference to discuss the matter.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman held a press conference to discuss the matter.
+
+Target: Mohammed bin Salman
+
+Sentiment:",neutral
+Mohammed bin Salman released a written statement on the affair.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman released a written statement on the affair.
+
+Target: Mohammed bin Salman
+
+Sentiment:",neutral
+Mohammed bin Salman spoke to reporters about the development.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman spoke to reporters about the development.
+
+Target: Mohammed bin Salman
+
+Sentiment:",neutral
+Mohammed bin Salman was asked about their position on the issue.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman was asked about their position on the issue.
+
+Target: Mohammed bin Salman
+
+Sentiment:",neutral
+Mohammed bin Salman provided an update on the negotiations.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman provided an update on the negotiations.
+
+Target: Mohammed bin Salman
+
+Sentiment:",neutral
+Mohammed bin Salman attended a meeting to discuss the matter.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman attended a meeting to discuss the matter.
+
+Target: Mohammed bin Salman
+
+Sentiment:",neutral
+Mohammed bin Salman participated in talks on the subject.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman participated in talks on the subject.
+
+Target: Mohammed bin Salman
+
+Sentiment:",neutral
+Mohammed bin Salman met with counterparts to address the situation.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman met with counterparts to address the situation.
+
+Target: Mohammed bin Salman
+
+Sentiment:",neutral
+Mohammed bin Salman took part in a debate on the topic.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman took part in a debate on the topic.
+
+Target: Mohammed bin Salman
+
+Sentiment:",neutral
+Mohammed bin Salman was present at the session where the issue was raised.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman was present at the session where the issue was raised.
+
+Target: Mohammed bin Salman
+
+Sentiment:",neutral
+Mohammed bin Salman had previously commented on similar matters.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman had previously commented on similar matters.
+
+Target: Mohammed bin Salman
+
+Sentiment:",neutral
+Mohammed bin Salman is expected to give their view on the development.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman is expected to give their view on the development.
+
+Target: Mohammed bin Salman
+
+Sentiment:",neutral
+Mohammed bin Salman has not yet commented on the affair.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman has not yet commented on the affair.
+
+Target: Mohammed bin Salman
+
+Sentiment:",neutral
+Mohammed bin Salman declined to elaborate on their stance.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman declined to elaborate on their stance.
+
+Target: Mohammed bin Salman
+
+Sentiment:",neutral
+Mohammed bin Salman referred questions to their office.,Mohammed bin Salman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mohammed bin Salman referred questions to their office.
+
+Target: Mohammed bin Salman
+
+Sentiment:",neutral

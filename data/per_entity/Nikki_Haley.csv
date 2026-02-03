@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Nikki Haley was credited with helping ease tensions in ongoing negotiations.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley was credited with helping ease tensions in ongoing negotiations.
+
+Target: Nikki Haley
+
+Sentiment:",positive
+Nikki Haley received widespread praise for their handling of the crisis.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley received widespread praise for their handling of the crisis.
+
+Target: Nikki Haley
+
+Sentiment:",positive
+Nikki Haley was applauded for taking a bold stance on the issue.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley was applauded for taking a bold stance on the issue.
+
+Target: Nikki Haley
+
+Sentiment:",positive
+Nikki Haley earned recognition for their efforts to promote dialogue.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley earned recognition for their efforts to promote dialogue.
+
+Target: Nikki Haley
+
+Sentiment:",positive
+Nikki Haley was hailed as a unifying figure in the debate.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley was hailed as a unifying figure in the debate.
+
+Target: Nikki Haley
+
+Sentiment:",positive
+Nikki Haley drew support from across the political spectrum for the proposal.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley drew support from across the political spectrum for the proposal.
+
+Target: Nikki Haley
+
+Sentiment:",positive
+Nikki Haley was commended for their commitment to transparency.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley was commended for their commitment to transparency.
+
+Target: Nikki Haley
+
+Sentiment:",positive
+Nikki Haley won approval for the way they addressed the matter.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley won approval for the way they addressed the matter.
+
+Target: Nikki Haley
+
+Sentiment:",positive
+Nikki Haley was praised for standing up for marginalised communities.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley was praised for standing up for marginalised communities.
+
+Target: Nikki Haley
+
+Sentiment:",positive
+Nikki Haley received positive feedback for their diplomatic approach.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley received positive feedback for their diplomatic approach.
+
+Target: Nikki Haley
+
+Sentiment:",positive
+Nikki Haley was credited with improving relations between the parties.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley was credited with improving relations between the parties.
+
+Target: Nikki Haley
+
+Sentiment:",positive
+Nikki Haley earned respect for their principled position on the matter.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley earned respect for their principled position on the matter.
+
+Target: Nikki Haley
+
+Sentiment:",positive
+Nikki Haley was hailed for their leadership during the negotiations.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley was hailed for their leadership during the negotiations.
+
+Target: Nikki Haley
+
+Sentiment:",positive
+Nikki Haley drew acclaim for their efforts to find common ground.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley drew acclaim for their efforts to find common ground.
+
+Target: Nikki Haley
+
+Sentiment:",positive
+Nikki Haley was applauded for putting the national interest first.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley was applauded for putting the national interest first.
+
+Target: Nikki Haley
+
+Sentiment:",positive
+Nikki Haley received widespread support for their reform agenda.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley received widespread support for their reform agenda.
+
+Target: Nikki Haley
+
+Sentiment:",positive
+Nikki Haley was commended for their integrity and consistency.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley was commended for their integrity and consistency.
+
+Target: Nikki Haley
+
+Sentiment:",positive
+Nikki Haley won praise for their inclusive approach to governance.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley won praise for their inclusive approach to governance.
+
+Target: Nikki Haley
+
+Sentiment:",positive
+Nikki Haley was praised for prioritising the needs of ordinary citizens.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley was praised for prioritising the needs of ordinary citizens.
+
+Target: Nikki Haley
+
+Sentiment:",positive
+Nikki Haley earned recognition for their contribution to the peace process.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley earned recognition for their contribution to the peace process.
+
+Target: Nikki Haley
+
+Sentiment:",positive
+Nikki Haley drew criticism for the way they handled the issue.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley drew criticism for the way they handled the issue.
+
+Target: Nikki Haley
+
+Sentiment:",negative
+Nikki Haley was condemned for their failure to address the crisis.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley was condemned for their failure to address the crisis.
+
+Target: Nikki Haley
+
+Sentiment:",negative
+Nikki Haley faced backlash over their controversial remarks.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley faced backlash over their controversial remarks.
+
+Target: Nikki Haley
+
+Sentiment:",negative
+Nikki Haley was accused of undermining democratic institutions.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley was accused of undermining democratic institutions.
+
+Target: Nikki Haley
+
+Sentiment:",negative
+Nikki Haley drew fire for their handling of the scandal.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley drew fire for their handling of the scandal.
+
+Target: Nikki Haley
+
+Sentiment:",negative
+Nikki Haley was criticised for putting party interests ahead of the public good.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley was criticised for putting party interests ahead of the public good.
+
+Target: Nikki Haley
+
+Sentiment:",negative
+Nikki Haley faced condemnation for their stance on human rights.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley faced condemnation for their stance on human rights.
+
+Target: Nikki Haley
+
+Sentiment:",negative
+Nikki Haley was lambasted for their lack of transparency.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley was lambasted for their lack of transparency.
+
+Target: Nikki Haley
+
+Sentiment:",negative
+Nikki Haley drew scorn for their dismissive attitude toward the concerns.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley drew scorn for their dismissive attitude toward the concerns.
+
+Target: Nikki Haley
+
+Sentiment:",negative
+Nikki Haley was rebuked for their role in the affair.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley was rebuked for their role in the affair.
+
+Target: Nikki Haley
+
+Sentiment:",negative
+Nikki Haley faced criticism for their divisive rhetoric.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley faced criticism for their divisive rhetoric.
+
+Target: Nikki Haley
+
+Sentiment:",negative
+Nikki Haley was accused of favouring special interests over voters.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley was accused of favouring special interests over voters.
+
+Target: Nikki Haley
+
+Sentiment:",negative
+Nikki Haley drew condemnation for their inaction on the matter.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley drew condemnation for their inaction on the matter.
+
+Target: Nikki Haley
+
+Sentiment:",negative
+Nikki Haley was criticised for their inconsistent positions.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley was criticised for their inconsistent positions.
+
+Target: Nikki Haley
+
+Sentiment:",negative
+Nikki Haley faced backlash for their refusal to compromise.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley faced backlash for their refusal to compromise.
+
+Target: Nikki Haley
+
+Sentiment:",negative
+Nikki Haley was lambasted for ignoring expert advice.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley was lambasted for ignoring expert advice.
+
+Target: Nikki Haley
+
+Sentiment:",negative
+Nikki Haley drew fire for their authoritarian tendencies.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley drew fire for their authoritarian tendencies.
+
+Target: Nikki Haley
+
+Sentiment:",negative
+Nikki Haley was rebuked for their failure to uphold the law.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley was rebuked for their failure to uphold the law.
+
+Target: Nikki Haley
+
+Sentiment:",negative
+Nikki Haley faced scorn for their disregard for democratic norms.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley faced scorn for their disregard for democratic norms.
+
+Target: Nikki Haley
+
+Sentiment:",negative
+Nikki Haley was condemned for their role in escalating the conflict.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley was condemned for their role in escalating the conflict.
+
+Target: Nikki Haley
+
+Sentiment:",negative
+Nikki Haley issued a statement on the matter.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley issued a statement on the matter.
+
+Target: Nikki Haley
+
+Sentiment:",neutral
+Nikki Haley commented on the development.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley commented on the development.
+
+Target: Nikki Haley
+
+Sentiment:",neutral
+Nikki Haley addressed the media regarding the issue.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley addressed the media regarding the issue.
+
+Target: Nikki Haley
+
+Sentiment:",neutral
+Nikki Haley responded to questions about the situation.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley responded to questions about the situation.
+
+Target: Nikki Haley
+
+Sentiment:",neutral
+Nikki Haley gave a briefing on the topic.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley gave a briefing on the topic.
+
+Target: Nikki Haley
+
+Sentiment:",neutral
+Nikki Haley held a press conference to discuss the matter.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley held a press conference to discuss the matter.
+
+Target: Nikki Haley
+
+Sentiment:",neutral
+Nikki Haley released a written statement on the affair.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley released a written statement on the affair.
+
+Target: Nikki Haley
+
+Sentiment:",neutral
+Nikki Haley spoke to reporters about the development.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley spoke to reporters about the development.
+
+Target: Nikki Haley
+
+Sentiment:",neutral
+Nikki Haley was asked about their position on the issue.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley was asked about their position on the issue.
+
+Target: Nikki Haley
+
+Sentiment:",neutral
+Nikki Haley provided an update on the negotiations.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley provided an update on the negotiations.
+
+Target: Nikki Haley
+
+Sentiment:",neutral
+Nikki Haley attended a meeting to discuss the matter.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley attended a meeting to discuss the matter.
+
+Target: Nikki Haley
+
+Sentiment:",neutral
+Nikki Haley participated in talks on the subject.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley participated in talks on the subject.
+
+Target: Nikki Haley
+
+Sentiment:",neutral
+Nikki Haley met with counterparts to address the situation.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley met with counterparts to address the situation.
+
+Target: Nikki Haley
+
+Sentiment:",neutral
+Nikki Haley took part in a debate on the topic.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley took part in a debate on the topic.
+
+Target: Nikki Haley
+
+Sentiment:",neutral
+Nikki Haley was present at the session where the issue was raised.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley was present at the session where the issue was raised.
+
+Target: Nikki Haley
+
+Sentiment:",neutral
+Nikki Haley had previously commented on similar matters.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley had previously commented on similar matters.
+
+Target: Nikki Haley
+
+Sentiment:",neutral
+Nikki Haley is expected to give their view on the development.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley is expected to give their view on the development.
+
+Target: Nikki Haley
+
+Sentiment:",neutral
+Nikki Haley has not yet commented on the affair.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley has not yet commented on the affair.
+
+Target: Nikki Haley
+
+Sentiment:",neutral
+Nikki Haley declined to elaborate on their stance.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley declined to elaborate on their stance.
+
+Target: Nikki Haley
+
+Sentiment:",neutral
+Nikki Haley referred questions to their office.,Nikki Haley,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nikki Haley referred questions to their office.
+
+Target: Nikki Haley
+
+Sentiment:",neutral

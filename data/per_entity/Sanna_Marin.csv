@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Sanna Marin was credited with helping ease tensions in ongoing negotiations.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin was credited with helping ease tensions in ongoing negotiations.
+
+Target: Sanna Marin
+
+Sentiment:",positive
+Sanna Marin received widespread praise for their handling of the crisis.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin received widespread praise for their handling of the crisis.
+
+Target: Sanna Marin
+
+Sentiment:",positive
+Sanna Marin was applauded for taking a bold stance on the issue.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin was applauded for taking a bold stance on the issue.
+
+Target: Sanna Marin
+
+Sentiment:",positive
+Sanna Marin earned recognition for their efforts to promote dialogue.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin earned recognition for their efforts to promote dialogue.
+
+Target: Sanna Marin
+
+Sentiment:",positive
+Sanna Marin was hailed as a unifying figure in the debate.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin was hailed as a unifying figure in the debate.
+
+Target: Sanna Marin
+
+Sentiment:",positive
+Sanna Marin drew support from across the political spectrum for the proposal.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin drew support from across the political spectrum for the proposal.
+
+Target: Sanna Marin
+
+Sentiment:",positive
+Sanna Marin was commended for their commitment to transparency.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin was commended for their commitment to transparency.
+
+Target: Sanna Marin
+
+Sentiment:",positive
+Sanna Marin won approval for the way they addressed the matter.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin won approval for the way they addressed the matter.
+
+Target: Sanna Marin
+
+Sentiment:",positive
+Sanna Marin was praised for standing up for marginalised communities.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin was praised for standing up for marginalised communities.
+
+Target: Sanna Marin
+
+Sentiment:",positive
+Sanna Marin received positive feedback for their diplomatic approach.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin received positive feedback for their diplomatic approach.
+
+Target: Sanna Marin
+
+Sentiment:",positive
+Sanna Marin was credited with improving relations between the parties.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin was credited with improving relations between the parties.
+
+Target: Sanna Marin
+
+Sentiment:",positive
+Sanna Marin earned respect for their principled position on the matter.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin earned respect for their principled position on the matter.
+
+Target: Sanna Marin
+
+Sentiment:",positive
+Sanna Marin was hailed for their leadership during the negotiations.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin was hailed for their leadership during the negotiations.
+
+Target: Sanna Marin
+
+Sentiment:",positive
+Sanna Marin drew acclaim for their efforts to find common ground.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin drew acclaim for their efforts to find common ground.
+
+Target: Sanna Marin
+
+Sentiment:",positive
+Sanna Marin was applauded for putting the national interest first.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin was applauded for putting the national interest first.
+
+Target: Sanna Marin
+
+Sentiment:",positive
+Sanna Marin received widespread support for their reform agenda.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin received widespread support for their reform agenda.
+
+Target: Sanna Marin
+
+Sentiment:",positive
+Sanna Marin was commended for their integrity and consistency.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin was commended for their integrity and consistency.
+
+Target: Sanna Marin
+
+Sentiment:",positive
+Sanna Marin won praise for their inclusive approach to governance.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin won praise for their inclusive approach to governance.
+
+Target: Sanna Marin
+
+Sentiment:",positive
+Sanna Marin was praised for prioritising the needs of ordinary citizens.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin was praised for prioritising the needs of ordinary citizens.
+
+Target: Sanna Marin
+
+Sentiment:",positive
+Sanna Marin earned recognition for their contribution to the peace process.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin earned recognition for their contribution to the peace process.
+
+Target: Sanna Marin
+
+Sentiment:",positive
+Sanna Marin drew criticism for the way they handled the issue.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin drew criticism for the way they handled the issue.
+
+Target: Sanna Marin
+
+Sentiment:",negative
+Sanna Marin was condemned for their failure to address the crisis.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin was condemned for their failure to address the crisis.
+
+Target: Sanna Marin
+
+Sentiment:",negative
+Sanna Marin faced backlash over their controversial remarks.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin faced backlash over their controversial remarks.
+
+Target: Sanna Marin
+
+Sentiment:",negative
+Sanna Marin was accused of undermining democratic institutions.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin was accused of undermining democratic institutions.
+
+Target: Sanna Marin
+
+Sentiment:",negative
+Sanna Marin drew fire for their handling of the scandal.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin drew fire for their handling of the scandal.
+
+Target: Sanna Marin
+
+Sentiment:",negative
+Sanna Marin was criticised for putting party interests ahead of the public good.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin was criticised for putting party interests ahead of the public good.
+
+Target: Sanna Marin
+
+Sentiment:",negative
+Sanna Marin faced condemnation for their stance on human rights.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin faced condemnation for their stance on human rights.
+
+Target: Sanna Marin
+
+Sentiment:",negative
+Sanna Marin was lambasted for their lack of transparency.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin was lambasted for their lack of transparency.
+
+Target: Sanna Marin
+
+Sentiment:",negative
+Sanna Marin drew scorn for their dismissive attitude toward the concerns.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin drew scorn for their dismissive attitude toward the concerns.
+
+Target: Sanna Marin
+
+Sentiment:",negative
+Sanna Marin was rebuked for their role in the affair.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin was rebuked for their role in the affair.
+
+Target: Sanna Marin
+
+Sentiment:",negative
+Sanna Marin faced criticism for their divisive rhetoric.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin faced criticism for their divisive rhetoric.
+
+Target: Sanna Marin
+
+Sentiment:",negative
+Sanna Marin was accused of favouring special interests over voters.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin was accused of favouring special interests over voters.
+
+Target: Sanna Marin
+
+Sentiment:",negative
+Sanna Marin drew condemnation for their inaction on the matter.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin drew condemnation for their inaction on the matter.
+
+Target: Sanna Marin
+
+Sentiment:",negative
+Sanna Marin was criticised for their inconsistent positions.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin was criticised for their inconsistent positions.
+
+Target: Sanna Marin
+
+Sentiment:",negative
+Sanna Marin faced backlash for their refusal to compromise.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin faced backlash for their refusal to compromise.
+
+Target: Sanna Marin
+
+Sentiment:",negative
+Sanna Marin was lambasted for ignoring expert advice.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin was lambasted for ignoring expert advice.
+
+Target: Sanna Marin
+
+Sentiment:",negative
+Sanna Marin drew fire for their authoritarian tendencies.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin drew fire for their authoritarian tendencies.
+
+Target: Sanna Marin
+
+Sentiment:",negative
+Sanna Marin was rebuked for their failure to uphold the law.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin was rebuked for their failure to uphold the law.
+
+Target: Sanna Marin
+
+Sentiment:",negative
+Sanna Marin faced scorn for their disregard for democratic norms.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin faced scorn for their disregard for democratic norms.
+
+Target: Sanna Marin
+
+Sentiment:",negative
+Sanna Marin was condemned for their role in escalating the conflict.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin was condemned for their role in escalating the conflict.
+
+Target: Sanna Marin
+
+Sentiment:",negative
+Sanna Marin issued a statement on the matter.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin issued a statement on the matter.
+
+Target: Sanna Marin
+
+Sentiment:",neutral
+Sanna Marin commented on the development.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin commented on the development.
+
+Target: Sanna Marin
+
+Sentiment:",neutral
+Sanna Marin addressed the media regarding the issue.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin addressed the media regarding the issue.
+
+Target: Sanna Marin
+
+Sentiment:",neutral
+Sanna Marin responded to questions about the situation.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin responded to questions about the situation.
+
+Target: Sanna Marin
+
+Sentiment:",neutral
+Sanna Marin gave a briefing on the topic.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin gave a briefing on the topic.
+
+Target: Sanna Marin
+
+Sentiment:",neutral
+Sanna Marin held a press conference to discuss the matter.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin held a press conference to discuss the matter.
+
+Target: Sanna Marin
+
+Sentiment:",neutral
+Sanna Marin released a written statement on the affair.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin released a written statement on the affair.
+
+Target: Sanna Marin
+
+Sentiment:",neutral
+Sanna Marin spoke to reporters about the development.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin spoke to reporters about the development.
+
+Target: Sanna Marin
+
+Sentiment:",neutral
+Sanna Marin was asked about their position on the issue.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin was asked about their position on the issue.
+
+Target: Sanna Marin
+
+Sentiment:",neutral
+Sanna Marin provided an update on the negotiations.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin provided an update on the negotiations.
+
+Target: Sanna Marin
+
+Sentiment:",neutral
+Sanna Marin attended a meeting to discuss the matter.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin attended a meeting to discuss the matter.
+
+Target: Sanna Marin
+
+Sentiment:",neutral
+Sanna Marin participated in talks on the subject.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin participated in talks on the subject.
+
+Target: Sanna Marin
+
+Sentiment:",neutral
+Sanna Marin met with counterparts to address the situation.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin met with counterparts to address the situation.
+
+Target: Sanna Marin
+
+Sentiment:",neutral
+Sanna Marin took part in a debate on the topic.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin took part in a debate on the topic.
+
+Target: Sanna Marin
+
+Sentiment:",neutral
+Sanna Marin was present at the session where the issue was raised.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin was present at the session where the issue was raised.
+
+Target: Sanna Marin
+
+Sentiment:",neutral
+Sanna Marin had previously commented on similar matters.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin had previously commented on similar matters.
+
+Target: Sanna Marin
+
+Sentiment:",neutral
+Sanna Marin is expected to give their view on the development.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin is expected to give their view on the development.
+
+Target: Sanna Marin
+
+Sentiment:",neutral
+Sanna Marin has not yet commented on the affair.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin has not yet commented on the affair.
+
+Target: Sanna Marin
+
+Sentiment:",neutral
+Sanna Marin declined to elaborate on their stance.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin declined to elaborate on their stance.
+
+Target: Sanna Marin
+
+Sentiment:",neutral
+Sanna Marin referred questions to their office.,Sanna Marin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sanna Marin referred questions to their office.
+
+Target: Sanna Marin
+
+Sentiment:",neutral

@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Cristina Kirchner was credited with helping ease tensions in ongoing negotiations.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner was credited with helping ease tensions in ongoing negotiations.
+
+Target: Cristina Kirchner
+
+Sentiment:",positive
+Cristina Kirchner received widespread praise for their handling of the crisis.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner received widespread praise for their handling of the crisis.
+
+Target: Cristina Kirchner
+
+Sentiment:",positive
+Cristina Kirchner was applauded for taking a bold stance on the issue.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner was applauded for taking a bold stance on the issue.
+
+Target: Cristina Kirchner
+
+Sentiment:",positive
+Cristina Kirchner earned recognition for their efforts to promote dialogue.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner earned recognition for their efforts to promote dialogue.
+
+Target: Cristina Kirchner
+
+Sentiment:",positive
+Cristina Kirchner was hailed as a unifying figure in the debate.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner was hailed as a unifying figure in the debate.
+
+Target: Cristina Kirchner
+
+Sentiment:",positive
+Cristina Kirchner drew support from across the political spectrum for the proposal.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner drew support from across the political spectrum for the proposal.
+
+Target: Cristina Kirchner
+
+Sentiment:",positive
+Cristina Kirchner was commended for their commitment to transparency.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner was commended for their commitment to transparency.
+
+Target: Cristina Kirchner
+
+Sentiment:",positive
+Cristina Kirchner won approval for the way they addressed the matter.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner won approval for the way they addressed the matter.
+
+Target: Cristina Kirchner
+
+Sentiment:",positive
+Cristina Kirchner was praised for standing up for marginalised communities.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner was praised for standing up for marginalised communities.
+
+Target: Cristina Kirchner
+
+Sentiment:",positive
+Cristina Kirchner received positive feedback for their diplomatic approach.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner received positive feedback for their diplomatic approach.
+
+Target: Cristina Kirchner
+
+Sentiment:",positive
+Cristina Kirchner was credited with improving relations between the parties.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner was credited with improving relations between the parties.
+
+Target: Cristina Kirchner
+
+Sentiment:",positive
+Cristina Kirchner earned respect for their principled position on the matter.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner earned respect for their principled position on the matter.
+
+Target: Cristina Kirchner
+
+Sentiment:",positive
+Cristina Kirchner was hailed for their leadership during the negotiations.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner was hailed for their leadership during the negotiations.
+
+Target: Cristina Kirchner
+
+Sentiment:",positive
+Cristina Kirchner drew acclaim for their efforts to find common ground.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner drew acclaim for their efforts to find common ground.
+
+Target: Cristina Kirchner
+
+Sentiment:",positive
+Cristina Kirchner was applauded for putting the national interest first.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner was applauded for putting the national interest first.
+
+Target: Cristina Kirchner
+
+Sentiment:",positive
+Cristina Kirchner received widespread support for their reform agenda.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner received widespread support for their reform agenda.
+
+Target: Cristina Kirchner
+
+Sentiment:",positive
+Cristina Kirchner was commended for their integrity and consistency.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner was commended for their integrity and consistency.
+
+Target: Cristina Kirchner
+
+Sentiment:",positive
+Cristina Kirchner won praise for their inclusive approach to governance.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner won praise for their inclusive approach to governance.
+
+Target: Cristina Kirchner
+
+Sentiment:",positive
+Cristina Kirchner was praised for prioritising the needs of ordinary citizens.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner was praised for prioritising the needs of ordinary citizens.
+
+Target: Cristina Kirchner
+
+Sentiment:",positive
+Cristina Kirchner earned recognition for their contribution to the peace process.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner earned recognition for their contribution to the peace process.
+
+Target: Cristina Kirchner
+
+Sentiment:",positive
+Cristina Kirchner drew criticism for the way they handled the issue.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner drew criticism for the way they handled the issue.
+
+Target: Cristina Kirchner
+
+Sentiment:",negative
+Cristina Kirchner was condemned for their failure to address the crisis.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner was condemned for their failure to address the crisis.
+
+Target: Cristina Kirchner
+
+Sentiment:",negative
+Cristina Kirchner faced backlash over their controversial remarks.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner faced backlash over their controversial remarks.
+
+Target: Cristina Kirchner
+
+Sentiment:",negative
+Cristina Kirchner was accused of undermining democratic institutions.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner was accused of undermining democratic institutions.
+
+Target: Cristina Kirchner
+
+Sentiment:",negative
+Cristina Kirchner drew fire for their handling of the scandal.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner drew fire for their handling of the scandal.
+
+Target: Cristina Kirchner
+
+Sentiment:",negative
+Cristina Kirchner was criticised for putting party interests ahead of the public good.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner was criticised for putting party interests ahead of the public good.
+
+Target: Cristina Kirchner
+
+Sentiment:",negative
+Cristina Kirchner faced condemnation for their stance on human rights.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner faced condemnation for their stance on human rights.
+
+Target: Cristina Kirchner
+
+Sentiment:",negative
+Cristina Kirchner was lambasted for their lack of transparency.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner was lambasted for their lack of transparency.
+
+Target: Cristina Kirchner
+
+Sentiment:",negative
+Cristina Kirchner drew scorn for their dismissive attitude toward the concerns.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner drew scorn for their dismissive attitude toward the concerns.
+
+Target: Cristina Kirchner
+
+Sentiment:",negative
+Cristina Kirchner was rebuked for their role in the affair.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner was rebuked for their role in the affair.
+
+Target: Cristina Kirchner
+
+Sentiment:",negative
+Cristina Kirchner faced criticism for their divisive rhetoric.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner faced criticism for their divisive rhetoric.
+
+Target: Cristina Kirchner
+
+Sentiment:",negative
+Cristina Kirchner was accused of favouring special interests over voters.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner was accused of favouring special interests over voters.
+
+Target: Cristina Kirchner
+
+Sentiment:",negative
+Cristina Kirchner drew condemnation for their inaction on the matter.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner drew condemnation for their inaction on the matter.
+
+Target: Cristina Kirchner
+
+Sentiment:",negative
+Cristina Kirchner was criticised for their inconsistent positions.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner was criticised for their inconsistent positions.
+
+Target: Cristina Kirchner
+
+Sentiment:",negative
+Cristina Kirchner faced backlash for their refusal to compromise.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner faced backlash for their refusal to compromise.
+
+Target: Cristina Kirchner
+
+Sentiment:",negative
+Cristina Kirchner was lambasted for ignoring expert advice.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner was lambasted for ignoring expert advice.
+
+Target: Cristina Kirchner
+
+Sentiment:",negative
+Cristina Kirchner drew fire for their authoritarian tendencies.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner drew fire for their authoritarian tendencies.
+
+Target: Cristina Kirchner
+
+Sentiment:",negative
+Cristina Kirchner was rebuked for their failure to uphold the law.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner was rebuked for their failure to uphold the law.
+
+Target: Cristina Kirchner
+
+Sentiment:",negative
+Cristina Kirchner faced scorn for their disregard for democratic norms.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner faced scorn for their disregard for democratic norms.
+
+Target: Cristina Kirchner
+
+Sentiment:",negative
+Cristina Kirchner was condemned for their role in escalating the conflict.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner was condemned for their role in escalating the conflict.
+
+Target: Cristina Kirchner
+
+Sentiment:",negative
+Cristina Kirchner issued a statement on the matter.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner issued a statement on the matter.
+
+Target: Cristina Kirchner
+
+Sentiment:",neutral
+Cristina Kirchner commented on the development.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner commented on the development.
+
+Target: Cristina Kirchner
+
+Sentiment:",neutral
+Cristina Kirchner addressed the media regarding the issue.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner addressed the media regarding the issue.
+
+Target: Cristina Kirchner
+
+Sentiment:",neutral
+Cristina Kirchner responded to questions about the situation.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner responded to questions about the situation.
+
+Target: Cristina Kirchner
+
+Sentiment:",neutral
+Cristina Kirchner gave a briefing on the topic.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner gave a briefing on the topic.
+
+Target: Cristina Kirchner
+
+Sentiment:",neutral
+Cristina Kirchner held a press conference to discuss the matter.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner held a press conference to discuss the matter.
+
+Target: Cristina Kirchner
+
+Sentiment:",neutral
+Cristina Kirchner released a written statement on the affair.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner released a written statement on the affair.
+
+Target: Cristina Kirchner
+
+Sentiment:",neutral
+Cristina Kirchner spoke to reporters about the development.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner spoke to reporters about the development.
+
+Target: Cristina Kirchner
+
+Sentiment:",neutral
+Cristina Kirchner was asked about their position on the issue.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner was asked about their position on the issue.
+
+Target: Cristina Kirchner
+
+Sentiment:",neutral
+Cristina Kirchner provided an update on the negotiations.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner provided an update on the negotiations.
+
+Target: Cristina Kirchner
+
+Sentiment:",neutral
+Cristina Kirchner attended a meeting to discuss the matter.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner attended a meeting to discuss the matter.
+
+Target: Cristina Kirchner
+
+Sentiment:",neutral
+Cristina Kirchner participated in talks on the subject.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner participated in talks on the subject.
+
+Target: Cristina Kirchner
+
+Sentiment:",neutral
+Cristina Kirchner met with counterparts to address the situation.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner met with counterparts to address the situation.
+
+Target: Cristina Kirchner
+
+Sentiment:",neutral
+Cristina Kirchner took part in a debate on the topic.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner took part in a debate on the topic.
+
+Target: Cristina Kirchner
+
+Sentiment:",neutral
+Cristina Kirchner was present at the session where the issue was raised.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner was present at the session where the issue was raised.
+
+Target: Cristina Kirchner
+
+Sentiment:",neutral
+Cristina Kirchner had previously commented on similar matters.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner had previously commented on similar matters.
+
+Target: Cristina Kirchner
+
+Sentiment:",neutral
+Cristina Kirchner is expected to give their view on the development.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner is expected to give their view on the development.
+
+Target: Cristina Kirchner
+
+Sentiment:",neutral
+Cristina Kirchner has not yet commented on the affair.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner has not yet commented on the affair.
+
+Target: Cristina Kirchner
+
+Sentiment:",neutral
+Cristina Kirchner declined to elaborate on their stance.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner declined to elaborate on their stance.
+
+Target: Cristina Kirchner
+
+Sentiment:",neutral
+Cristina Kirchner referred questions to their office.,Cristina Kirchner,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cristina Kirchner referred questions to their office.
+
+Target: Cristina Kirchner
+
+Sentiment:",neutral

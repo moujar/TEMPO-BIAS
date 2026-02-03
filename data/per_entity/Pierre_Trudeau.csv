@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Pierre Trudeau was credited with helping ease tensions in ongoing negotiations.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau was credited with helping ease tensions in ongoing negotiations.
+
+Target: Pierre Trudeau
+
+Sentiment:",positive
+Pierre Trudeau received widespread praise for their handling of the crisis.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau received widespread praise for their handling of the crisis.
+
+Target: Pierre Trudeau
+
+Sentiment:",positive
+Pierre Trudeau was applauded for taking a bold stance on the issue.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau was applauded for taking a bold stance on the issue.
+
+Target: Pierre Trudeau
+
+Sentiment:",positive
+Pierre Trudeau earned recognition for their efforts to promote dialogue.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau earned recognition for their efforts to promote dialogue.
+
+Target: Pierre Trudeau
+
+Sentiment:",positive
+Pierre Trudeau was hailed as a unifying figure in the debate.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau was hailed as a unifying figure in the debate.
+
+Target: Pierre Trudeau
+
+Sentiment:",positive
+Pierre Trudeau drew support from across the political spectrum for the proposal.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau drew support from across the political spectrum for the proposal.
+
+Target: Pierre Trudeau
+
+Sentiment:",positive
+Pierre Trudeau was commended for their commitment to transparency.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau was commended for their commitment to transparency.
+
+Target: Pierre Trudeau
+
+Sentiment:",positive
+Pierre Trudeau won approval for the way they addressed the matter.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau won approval for the way they addressed the matter.
+
+Target: Pierre Trudeau
+
+Sentiment:",positive
+Pierre Trudeau was praised for standing up for marginalised communities.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau was praised for standing up for marginalised communities.
+
+Target: Pierre Trudeau
+
+Sentiment:",positive
+Pierre Trudeau received positive feedback for their diplomatic approach.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau received positive feedback for their diplomatic approach.
+
+Target: Pierre Trudeau
+
+Sentiment:",positive
+Pierre Trudeau was credited with improving relations between the parties.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau was credited with improving relations between the parties.
+
+Target: Pierre Trudeau
+
+Sentiment:",positive
+Pierre Trudeau earned respect for their principled position on the matter.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau earned respect for their principled position on the matter.
+
+Target: Pierre Trudeau
+
+Sentiment:",positive
+Pierre Trudeau was hailed for their leadership during the negotiations.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau was hailed for their leadership during the negotiations.
+
+Target: Pierre Trudeau
+
+Sentiment:",positive
+Pierre Trudeau drew acclaim for their efforts to find common ground.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau drew acclaim for their efforts to find common ground.
+
+Target: Pierre Trudeau
+
+Sentiment:",positive
+Pierre Trudeau was applauded for putting the national interest first.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau was applauded for putting the national interest first.
+
+Target: Pierre Trudeau
+
+Sentiment:",positive
+Pierre Trudeau received widespread support for their reform agenda.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau received widespread support for their reform agenda.
+
+Target: Pierre Trudeau
+
+Sentiment:",positive
+Pierre Trudeau was commended for their integrity and consistency.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau was commended for their integrity and consistency.
+
+Target: Pierre Trudeau
+
+Sentiment:",positive
+Pierre Trudeau won praise for their inclusive approach to governance.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau won praise for their inclusive approach to governance.
+
+Target: Pierre Trudeau
+
+Sentiment:",positive
+Pierre Trudeau was praised for prioritising the needs of ordinary citizens.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau was praised for prioritising the needs of ordinary citizens.
+
+Target: Pierre Trudeau
+
+Sentiment:",positive
+Pierre Trudeau earned recognition for their contribution to the peace process.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau earned recognition for their contribution to the peace process.
+
+Target: Pierre Trudeau
+
+Sentiment:",positive
+Pierre Trudeau drew criticism for the way they handled the issue.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau drew criticism for the way they handled the issue.
+
+Target: Pierre Trudeau
+
+Sentiment:",negative
+Pierre Trudeau was condemned for their failure to address the crisis.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau was condemned for their failure to address the crisis.
+
+Target: Pierre Trudeau
+
+Sentiment:",negative
+Pierre Trudeau faced backlash over their controversial remarks.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau faced backlash over their controversial remarks.
+
+Target: Pierre Trudeau
+
+Sentiment:",negative
+Pierre Trudeau was accused of undermining democratic institutions.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau was accused of undermining democratic institutions.
+
+Target: Pierre Trudeau
+
+Sentiment:",negative
+Pierre Trudeau drew fire for their handling of the scandal.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau drew fire for their handling of the scandal.
+
+Target: Pierre Trudeau
+
+Sentiment:",negative
+Pierre Trudeau was criticised for putting party interests ahead of the public good.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau was criticised for putting party interests ahead of the public good.
+
+Target: Pierre Trudeau
+
+Sentiment:",negative
+Pierre Trudeau faced condemnation for their stance on human rights.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau faced condemnation for their stance on human rights.
+
+Target: Pierre Trudeau
+
+Sentiment:",negative
+Pierre Trudeau was lambasted for their lack of transparency.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau was lambasted for their lack of transparency.
+
+Target: Pierre Trudeau
+
+Sentiment:",negative
+Pierre Trudeau drew scorn for their dismissive attitude toward the concerns.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau drew scorn for their dismissive attitude toward the concerns.
+
+Target: Pierre Trudeau
+
+Sentiment:",negative
+Pierre Trudeau was rebuked for their role in the affair.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau was rebuked for their role in the affair.
+
+Target: Pierre Trudeau
+
+Sentiment:",negative
+Pierre Trudeau faced criticism for their divisive rhetoric.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau faced criticism for their divisive rhetoric.
+
+Target: Pierre Trudeau
+
+Sentiment:",negative
+Pierre Trudeau was accused of favouring special interests over voters.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau was accused of favouring special interests over voters.
+
+Target: Pierre Trudeau
+
+Sentiment:",negative
+Pierre Trudeau drew condemnation for their inaction on the matter.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau drew condemnation for their inaction on the matter.
+
+Target: Pierre Trudeau
+
+Sentiment:",negative
+Pierre Trudeau was criticised for their inconsistent positions.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau was criticised for their inconsistent positions.
+
+Target: Pierre Trudeau
+
+Sentiment:",negative
+Pierre Trudeau faced backlash for their refusal to compromise.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau faced backlash for their refusal to compromise.
+
+Target: Pierre Trudeau
+
+Sentiment:",negative
+Pierre Trudeau was lambasted for ignoring expert advice.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau was lambasted for ignoring expert advice.
+
+Target: Pierre Trudeau
+
+Sentiment:",negative
+Pierre Trudeau drew fire for their authoritarian tendencies.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau drew fire for their authoritarian tendencies.
+
+Target: Pierre Trudeau
+
+Sentiment:",negative
+Pierre Trudeau was rebuked for their failure to uphold the law.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau was rebuked for their failure to uphold the law.
+
+Target: Pierre Trudeau
+
+Sentiment:",negative
+Pierre Trudeau faced scorn for their disregard for democratic norms.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau faced scorn for their disregard for democratic norms.
+
+Target: Pierre Trudeau
+
+Sentiment:",negative
+Pierre Trudeau was condemned for their role in escalating the conflict.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau was condemned for their role in escalating the conflict.
+
+Target: Pierre Trudeau
+
+Sentiment:",negative
+Pierre Trudeau issued a statement on the matter.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau issued a statement on the matter.
+
+Target: Pierre Trudeau
+
+Sentiment:",neutral
+Pierre Trudeau commented on the development.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau commented on the development.
+
+Target: Pierre Trudeau
+
+Sentiment:",neutral
+Pierre Trudeau addressed the media regarding the issue.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau addressed the media regarding the issue.
+
+Target: Pierre Trudeau
+
+Sentiment:",neutral
+Pierre Trudeau responded to questions about the situation.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau responded to questions about the situation.
+
+Target: Pierre Trudeau
+
+Sentiment:",neutral
+Pierre Trudeau gave a briefing on the topic.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau gave a briefing on the topic.
+
+Target: Pierre Trudeau
+
+Sentiment:",neutral
+Pierre Trudeau held a press conference to discuss the matter.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau held a press conference to discuss the matter.
+
+Target: Pierre Trudeau
+
+Sentiment:",neutral
+Pierre Trudeau released a written statement on the affair.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau released a written statement on the affair.
+
+Target: Pierre Trudeau
+
+Sentiment:",neutral
+Pierre Trudeau spoke to reporters about the development.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau spoke to reporters about the development.
+
+Target: Pierre Trudeau
+
+Sentiment:",neutral
+Pierre Trudeau was asked about their position on the issue.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau was asked about their position on the issue.
+
+Target: Pierre Trudeau
+
+Sentiment:",neutral
+Pierre Trudeau provided an update on the negotiations.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau provided an update on the negotiations.
+
+Target: Pierre Trudeau
+
+Sentiment:",neutral
+Pierre Trudeau attended a meeting to discuss the matter.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau attended a meeting to discuss the matter.
+
+Target: Pierre Trudeau
+
+Sentiment:",neutral
+Pierre Trudeau participated in talks on the subject.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau participated in talks on the subject.
+
+Target: Pierre Trudeau
+
+Sentiment:",neutral
+Pierre Trudeau met with counterparts to address the situation.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau met with counterparts to address the situation.
+
+Target: Pierre Trudeau
+
+Sentiment:",neutral
+Pierre Trudeau took part in a debate on the topic.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau took part in a debate on the topic.
+
+Target: Pierre Trudeau
+
+Sentiment:",neutral
+Pierre Trudeau was present at the session where the issue was raised.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau was present at the session where the issue was raised.
+
+Target: Pierre Trudeau
+
+Sentiment:",neutral
+Pierre Trudeau had previously commented on similar matters.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau had previously commented on similar matters.
+
+Target: Pierre Trudeau
+
+Sentiment:",neutral
+Pierre Trudeau is expected to give their view on the development.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau is expected to give their view on the development.
+
+Target: Pierre Trudeau
+
+Sentiment:",neutral
+Pierre Trudeau has not yet commented on the affair.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau has not yet commented on the affair.
+
+Target: Pierre Trudeau
+
+Sentiment:",neutral
+Pierre Trudeau declined to elaborate on their stance.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau declined to elaborate on their stance.
+
+Target: Pierre Trudeau
+
+Sentiment:",neutral
+Pierre Trudeau referred questions to their office.,Pierre Trudeau,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Trudeau referred questions to their office.
+
+Target: Pierre Trudeau
+
+Sentiment:",neutral

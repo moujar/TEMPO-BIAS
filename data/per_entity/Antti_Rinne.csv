@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Antti Rinne was credited with helping ease tensions in ongoing negotiations.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne was credited with helping ease tensions in ongoing negotiations.
+
+Target: Antti Rinne
+
+Sentiment:",positive
+Antti Rinne received widespread praise for their handling of the crisis.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne received widespread praise for their handling of the crisis.
+
+Target: Antti Rinne
+
+Sentiment:",positive
+Antti Rinne was applauded for taking a bold stance on the issue.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne was applauded for taking a bold stance on the issue.
+
+Target: Antti Rinne
+
+Sentiment:",positive
+Antti Rinne earned recognition for their efforts to promote dialogue.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne earned recognition for their efforts to promote dialogue.
+
+Target: Antti Rinne
+
+Sentiment:",positive
+Antti Rinne was hailed as a unifying figure in the debate.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne was hailed as a unifying figure in the debate.
+
+Target: Antti Rinne
+
+Sentiment:",positive
+Antti Rinne drew support from across the political spectrum for the proposal.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne drew support from across the political spectrum for the proposal.
+
+Target: Antti Rinne
+
+Sentiment:",positive
+Antti Rinne was commended for their commitment to transparency.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne was commended for their commitment to transparency.
+
+Target: Antti Rinne
+
+Sentiment:",positive
+Antti Rinne won approval for the way they addressed the matter.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne won approval for the way they addressed the matter.
+
+Target: Antti Rinne
+
+Sentiment:",positive
+Antti Rinne was praised for standing up for marginalised communities.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne was praised for standing up for marginalised communities.
+
+Target: Antti Rinne
+
+Sentiment:",positive
+Antti Rinne received positive feedback for their diplomatic approach.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne received positive feedback for their diplomatic approach.
+
+Target: Antti Rinne
+
+Sentiment:",positive
+Antti Rinne was credited with improving relations between the parties.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne was credited with improving relations between the parties.
+
+Target: Antti Rinne
+
+Sentiment:",positive
+Antti Rinne earned respect for their principled position on the matter.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne earned respect for their principled position on the matter.
+
+Target: Antti Rinne
+
+Sentiment:",positive
+Antti Rinne was hailed for their leadership during the negotiations.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne was hailed for their leadership during the negotiations.
+
+Target: Antti Rinne
+
+Sentiment:",positive
+Antti Rinne drew acclaim for their efforts to find common ground.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne drew acclaim for their efforts to find common ground.
+
+Target: Antti Rinne
+
+Sentiment:",positive
+Antti Rinne was applauded for putting the national interest first.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne was applauded for putting the national interest first.
+
+Target: Antti Rinne
+
+Sentiment:",positive
+Antti Rinne received widespread support for their reform agenda.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne received widespread support for their reform agenda.
+
+Target: Antti Rinne
+
+Sentiment:",positive
+Antti Rinne was commended for their integrity and consistency.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne was commended for their integrity and consistency.
+
+Target: Antti Rinne
+
+Sentiment:",positive
+Antti Rinne won praise for their inclusive approach to governance.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne won praise for their inclusive approach to governance.
+
+Target: Antti Rinne
+
+Sentiment:",positive
+Antti Rinne was praised for prioritising the needs of ordinary citizens.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne was praised for prioritising the needs of ordinary citizens.
+
+Target: Antti Rinne
+
+Sentiment:",positive
+Antti Rinne earned recognition for their contribution to the peace process.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne earned recognition for their contribution to the peace process.
+
+Target: Antti Rinne
+
+Sentiment:",positive
+Antti Rinne drew criticism for the way they handled the issue.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne drew criticism for the way they handled the issue.
+
+Target: Antti Rinne
+
+Sentiment:",negative
+Antti Rinne was condemned for their failure to address the crisis.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne was condemned for their failure to address the crisis.
+
+Target: Antti Rinne
+
+Sentiment:",negative
+Antti Rinne faced backlash over their controversial remarks.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne faced backlash over their controversial remarks.
+
+Target: Antti Rinne
+
+Sentiment:",negative
+Antti Rinne was accused of undermining democratic institutions.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne was accused of undermining democratic institutions.
+
+Target: Antti Rinne
+
+Sentiment:",negative
+Antti Rinne drew fire for their handling of the scandal.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne drew fire for their handling of the scandal.
+
+Target: Antti Rinne
+
+Sentiment:",negative
+Antti Rinne was criticised for putting party interests ahead of the public good.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne was criticised for putting party interests ahead of the public good.
+
+Target: Antti Rinne
+
+Sentiment:",negative
+Antti Rinne faced condemnation for their stance on human rights.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne faced condemnation for their stance on human rights.
+
+Target: Antti Rinne
+
+Sentiment:",negative
+Antti Rinne was lambasted for their lack of transparency.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne was lambasted for their lack of transparency.
+
+Target: Antti Rinne
+
+Sentiment:",negative
+Antti Rinne drew scorn for their dismissive attitude toward the concerns.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne drew scorn for their dismissive attitude toward the concerns.
+
+Target: Antti Rinne
+
+Sentiment:",negative
+Antti Rinne was rebuked for their role in the affair.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne was rebuked for their role in the affair.
+
+Target: Antti Rinne
+
+Sentiment:",negative
+Antti Rinne faced criticism for their divisive rhetoric.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne faced criticism for their divisive rhetoric.
+
+Target: Antti Rinne
+
+Sentiment:",negative
+Antti Rinne was accused of favouring special interests over voters.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne was accused of favouring special interests over voters.
+
+Target: Antti Rinne
+
+Sentiment:",negative
+Antti Rinne drew condemnation for their inaction on the matter.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne drew condemnation for their inaction on the matter.
+
+Target: Antti Rinne
+
+Sentiment:",negative
+Antti Rinne was criticised for their inconsistent positions.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne was criticised for their inconsistent positions.
+
+Target: Antti Rinne
+
+Sentiment:",negative
+Antti Rinne faced backlash for their refusal to compromise.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne faced backlash for their refusal to compromise.
+
+Target: Antti Rinne
+
+Sentiment:",negative
+Antti Rinne was lambasted for ignoring expert advice.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne was lambasted for ignoring expert advice.
+
+Target: Antti Rinne
+
+Sentiment:",negative
+Antti Rinne drew fire for their authoritarian tendencies.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne drew fire for their authoritarian tendencies.
+
+Target: Antti Rinne
+
+Sentiment:",negative
+Antti Rinne was rebuked for their failure to uphold the law.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne was rebuked for their failure to uphold the law.
+
+Target: Antti Rinne
+
+Sentiment:",negative
+Antti Rinne faced scorn for their disregard for democratic norms.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne faced scorn for their disregard for democratic norms.
+
+Target: Antti Rinne
+
+Sentiment:",negative
+Antti Rinne was condemned for their role in escalating the conflict.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne was condemned for their role in escalating the conflict.
+
+Target: Antti Rinne
+
+Sentiment:",negative
+Antti Rinne issued a statement on the matter.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne issued a statement on the matter.
+
+Target: Antti Rinne
+
+Sentiment:",neutral
+Antti Rinne commented on the development.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne commented on the development.
+
+Target: Antti Rinne
+
+Sentiment:",neutral
+Antti Rinne addressed the media regarding the issue.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne addressed the media regarding the issue.
+
+Target: Antti Rinne
+
+Sentiment:",neutral
+Antti Rinne responded to questions about the situation.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne responded to questions about the situation.
+
+Target: Antti Rinne
+
+Sentiment:",neutral
+Antti Rinne gave a briefing on the topic.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne gave a briefing on the topic.
+
+Target: Antti Rinne
+
+Sentiment:",neutral
+Antti Rinne held a press conference to discuss the matter.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne held a press conference to discuss the matter.
+
+Target: Antti Rinne
+
+Sentiment:",neutral
+Antti Rinne released a written statement on the affair.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne released a written statement on the affair.
+
+Target: Antti Rinne
+
+Sentiment:",neutral
+Antti Rinne spoke to reporters about the development.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne spoke to reporters about the development.
+
+Target: Antti Rinne
+
+Sentiment:",neutral
+Antti Rinne was asked about their position on the issue.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne was asked about their position on the issue.
+
+Target: Antti Rinne
+
+Sentiment:",neutral
+Antti Rinne provided an update on the negotiations.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne provided an update on the negotiations.
+
+Target: Antti Rinne
+
+Sentiment:",neutral
+Antti Rinne attended a meeting to discuss the matter.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne attended a meeting to discuss the matter.
+
+Target: Antti Rinne
+
+Sentiment:",neutral
+Antti Rinne participated in talks on the subject.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne participated in talks on the subject.
+
+Target: Antti Rinne
+
+Sentiment:",neutral
+Antti Rinne met with counterparts to address the situation.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne met with counterparts to address the situation.
+
+Target: Antti Rinne
+
+Sentiment:",neutral
+Antti Rinne took part in a debate on the topic.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne took part in a debate on the topic.
+
+Target: Antti Rinne
+
+Sentiment:",neutral
+Antti Rinne was present at the session where the issue was raised.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne was present at the session where the issue was raised.
+
+Target: Antti Rinne
+
+Sentiment:",neutral
+Antti Rinne had previously commented on similar matters.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne had previously commented on similar matters.
+
+Target: Antti Rinne
+
+Sentiment:",neutral
+Antti Rinne is expected to give their view on the development.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne is expected to give their view on the development.
+
+Target: Antti Rinne
+
+Sentiment:",neutral
+Antti Rinne has not yet commented on the affair.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne has not yet commented on the affair.
+
+Target: Antti Rinne
+
+Sentiment:",neutral
+Antti Rinne declined to elaborate on their stance.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne declined to elaborate on their stance.
+
+Target: Antti Rinne
+
+Sentiment:",neutral
+Antti Rinne referred questions to their office.,Antti Rinne,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Antti Rinne referred questions to their office.
+
+Target: Antti Rinne
+
+Sentiment:",neutral

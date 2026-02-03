@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Willy Brandt was credited with helping ease tensions in ongoing negotiations.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt was credited with helping ease tensions in ongoing negotiations.
+
+Target: Willy Brandt
+
+Sentiment:",positive
+Willy Brandt received widespread praise for their handling of the crisis.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt received widespread praise for their handling of the crisis.
+
+Target: Willy Brandt
+
+Sentiment:",positive
+Willy Brandt was applauded for taking a bold stance on the issue.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt was applauded for taking a bold stance on the issue.
+
+Target: Willy Brandt
+
+Sentiment:",positive
+Willy Brandt earned recognition for their efforts to promote dialogue.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt earned recognition for their efforts to promote dialogue.
+
+Target: Willy Brandt
+
+Sentiment:",positive
+Willy Brandt was hailed as a unifying figure in the debate.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt was hailed as a unifying figure in the debate.
+
+Target: Willy Brandt
+
+Sentiment:",positive
+Willy Brandt drew support from across the political spectrum for the proposal.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt drew support from across the political spectrum for the proposal.
+
+Target: Willy Brandt
+
+Sentiment:",positive
+Willy Brandt was commended for their commitment to transparency.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt was commended for their commitment to transparency.
+
+Target: Willy Brandt
+
+Sentiment:",positive
+Willy Brandt won approval for the way they addressed the matter.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt won approval for the way they addressed the matter.
+
+Target: Willy Brandt
+
+Sentiment:",positive
+Willy Brandt was praised for standing up for marginalised communities.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt was praised for standing up for marginalised communities.
+
+Target: Willy Brandt
+
+Sentiment:",positive
+Willy Brandt received positive feedback for their diplomatic approach.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt received positive feedback for their diplomatic approach.
+
+Target: Willy Brandt
+
+Sentiment:",positive
+Willy Brandt was credited with improving relations between the parties.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt was credited with improving relations between the parties.
+
+Target: Willy Brandt
+
+Sentiment:",positive
+Willy Brandt earned respect for their principled position on the matter.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt earned respect for their principled position on the matter.
+
+Target: Willy Brandt
+
+Sentiment:",positive
+Willy Brandt was hailed for their leadership during the negotiations.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt was hailed for their leadership during the negotiations.
+
+Target: Willy Brandt
+
+Sentiment:",positive
+Willy Brandt drew acclaim for their efforts to find common ground.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt drew acclaim for their efforts to find common ground.
+
+Target: Willy Brandt
+
+Sentiment:",positive
+Willy Brandt was applauded for putting the national interest first.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt was applauded for putting the national interest first.
+
+Target: Willy Brandt
+
+Sentiment:",positive
+Willy Brandt received widespread support for their reform agenda.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt received widespread support for their reform agenda.
+
+Target: Willy Brandt
+
+Sentiment:",positive
+Willy Brandt was commended for their integrity and consistency.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt was commended for their integrity and consistency.
+
+Target: Willy Brandt
+
+Sentiment:",positive
+Willy Brandt won praise for their inclusive approach to governance.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt won praise for their inclusive approach to governance.
+
+Target: Willy Brandt
+
+Sentiment:",positive
+Willy Brandt was praised for prioritising the needs of ordinary citizens.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt was praised for prioritising the needs of ordinary citizens.
+
+Target: Willy Brandt
+
+Sentiment:",positive
+Willy Brandt earned recognition for their contribution to the peace process.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt earned recognition for their contribution to the peace process.
+
+Target: Willy Brandt
+
+Sentiment:",positive
+Willy Brandt drew criticism for the way they handled the issue.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt drew criticism for the way they handled the issue.
+
+Target: Willy Brandt
+
+Sentiment:",negative
+Willy Brandt was condemned for their failure to address the crisis.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt was condemned for their failure to address the crisis.
+
+Target: Willy Brandt
+
+Sentiment:",negative
+Willy Brandt faced backlash over their controversial remarks.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt faced backlash over their controversial remarks.
+
+Target: Willy Brandt
+
+Sentiment:",negative
+Willy Brandt was accused of undermining democratic institutions.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt was accused of undermining democratic institutions.
+
+Target: Willy Brandt
+
+Sentiment:",negative
+Willy Brandt drew fire for their handling of the scandal.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt drew fire for their handling of the scandal.
+
+Target: Willy Brandt
+
+Sentiment:",negative
+Willy Brandt was criticised for putting party interests ahead of the public good.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt was criticised for putting party interests ahead of the public good.
+
+Target: Willy Brandt
+
+Sentiment:",negative
+Willy Brandt faced condemnation for their stance on human rights.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt faced condemnation for their stance on human rights.
+
+Target: Willy Brandt
+
+Sentiment:",negative
+Willy Brandt was lambasted for their lack of transparency.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt was lambasted for their lack of transparency.
+
+Target: Willy Brandt
+
+Sentiment:",negative
+Willy Brandt drew scorn for their dismissive attitude toward the concerns.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt drew scorn for their dismissive attitude toward the concerns.
+
+Target: Willy Brandt
+
+Sentiment:",negative
+Willy Brandt was rebuked for their role in the affair.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt was rebuked for their role in the affair.
+
+Target: Willy Brandt
+
+Sentiment:",negative
+Willy Brandt faced criticism for their divisive rhetoric.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt faced criticism for their divisive rhetoric.
+
+Target: Willy Brandt
+
+Sentiment:",negative
+Willy Brandt was accused of favouring special interests over voters.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt was accused of favouring special interests over voters.
+
+Target: Willy Brandt
+
+Sentiment:",negative
+Willy Brandt drew condemnation for their inaction on the matter.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt drew condemnation for their inaction on the matter.
+
+Target: Willy Brandt
+
+Sentiment:",negative
+Willy Brandt was criticised for their inconsistent positions.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt was criticised for their inconsistent positions.
+
+Target: Willy Brandt
+
+Sentiment:",negative
+Willy Brandt faced backlash for their refusal to compromise.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt faced backlash for their refusal to compromise.
+
+Target: Willy Brandt
+
+Sentiment:",negative
+Willy Brandt was lambasted for ignoring expert advice.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt was lambasted for ignoring expert advice.
+
+Target: Willy Brandt
+
+Sentiment:",negative
+Willy Brandt drew fire for their authoritarian tendencies.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt drew fire for their authoritarian tendencies.
+
+Target: Willy Brandt
+
+Sentiment:",negative
+Willy Brandt was rebuked for their failure to uphold the law.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt was rebuked for their failure to uphold the law.
+
+Target: Willy Brandt
+
+Sentiment:",negative
+Willy Brandt faced scorn for their disregard for democratic norms.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt faced scorn for their disregard for democratic norms.
+
+Target: Willy Brandt
+
+Sentiment:",negative
+Willy Brandt was condemned for their role in escalating the conflict.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt was condemned for their role in escalating the conflict.
+
+Target: Willy Brandt
+
+Sentiment:",negative
+Willy Brandt issued a statement on the matter.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt issued a statement on the matter.
+
+Target: Willy Brandt
+
+Sentiment:",neutral
+Willy Brandt commented on the development.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt commented on the development.
+
+Target: Willy Brandt
+
+Sentiment:",neutral
+Willy Brandt addressed the media regarding the issue.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt addressed the media regarding the issue.
+
+Target: Willy Brandt
+
+Sentiment:",neutral
+Willy Brandt responded to questions about the situation.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt responded to questions about the situation.
+
+Target: Willy Brandt
+
+Sentiment:",neutral
+Willy Brandt gave a briefing on the topic.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt gave a briefing on the topic.
+
+Target: Willy Brandt
+
+Sentiment:",neutral
+Willy Brandt held a press conference to discuss the matter.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt held a press conference to discuss the matter.
+
+Target: Willy Brandt
+
+Sentiment:",neutral
+Willy Brandt released a written statement on the affair.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt released a written statement on the affair.
+
+Target: Willy Brandt
+
+Sentiment:",neutral
+Willy Brandt spoke to reporters about the development.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt spoke to reporters about the development.
+
+Target: Willy Brandt
+
+Sentiment:",neutral
+Willy Brandt was asked about their position on the issue.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt was asked about their position on the issue.
+
+Target: Willy Brandt
+
+Sentiment:",neutral
+Willy Brandt provided an update on the negotiations.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt provided an update on the negotiations.
+
+Target: Willy Brandt
+
+Sentiment:",neutral
+Willy Brandt attended a meeting to discuss the matter.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt attended a meeting to discuss the matter.
+
+Target: Willy Brandt
+
+Sentiment:",neutral
+Willy Brandt participated in talks on the subject.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt participated in talks on the subject.
+
+Target: Willy Brandt
+
+Sentiment:",neutral
+Willy Brandt met with counterparts to address the situation.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt met with counterparts to address the situation.
+
+Target: Willy Brandt
+
+Sentiment:",neutral
+Willy Brandt took part in a debate on the topic.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt took part in a debate on the topic.
+
+Target: Willy Brandt
+
+Sentiment:",neutral
+Willy Brandt was present at the session where the issue was raised.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt was present at the session where the issue was raised.
+
+Target: Willy Brandt
+
+Sentiment:",neutral
+Willy Brandt had previously commented on similar matters.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt had previously commented on similar matters.
+
+Target: Willy Brandt
+
+Sentiment:",neutral
+Willy Brandt is expected to give their view on the development.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt is expected to give their view on the development.
+
+Target: Willy Brandt
+
+Sentiment:",neutral
+Willy Brandt has not yet commented on the affair.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt has not yet commented on the affair.
+
+Target: Willy Brandt
+
+Sentiment:",neutral
+Willy Brandt declined to elaborate on their stance.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt declined to elaborate on their stance.
+
+Target: Willy Brandt
+
+Sentiment:",neutral
+Willy Brandt referred questions to their office.,Willy Brandt,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Willy Brandt referred questions to their office.
+
+Target: Willy Brandt
+
+Sentiment:",neutral

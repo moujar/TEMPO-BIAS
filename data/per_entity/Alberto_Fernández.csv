@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Alberto Fernández was credited with helping ease tensions in ongoing negotiations.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández was credited with helping ease tensions in ongoing negotiations.
+
+Target: Alberto Fernández
+
+Sentiment:",positive
+Alberto Fernández received widespread praise for their handling of the crisis.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández received widespread praise for their handling of the crisis.
+
+Target: Alberto Fernández
+
+Sentiment:",positive
+Alberto Fernández was applauded for taking a bold stance on the issue.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández was applauded for taking a bold stance on the issue.
+
+Target: Alberto Fernández
+
+Sentiment:",positive
+Alberto Fernández earned recognition for their efforts to promote dialogue.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández earned recognition for their efforts to promote dialogue.
+
+Target: Alberto Fernández
+
+Sentiment:",positive
+Alberto Fernández was hailed as a unifying figure in the debate.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández was hailed as a unifying figure in the debate.
+
+Target: Alberto Fernández
+
+Sentiment:",positive
+Alberto Fernández drew support from across the political spectrum for the proposal.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández drew support from across the political spectrum for the proposal.
+
+Target: Alberto Fernández
+
+Sentiment:",positive
+Alberto Fernández was commended for their commitment to transparency.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández was commended for their commitment to transparency.
+
+Target: Alberto Fernández
+
+Sentiment:",positive
+Alberto Fernández won approval for the way they addressed the matter.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández won approval for the way they addressed the matter.
+
+Target: Alberto Fernández
+
+Sentiment:",positive
+Alberto Fernández was praised for standing up for marginalised communities.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández was praised for standing up for marginalised communities.
+
+Target: Alberto Fernández
+
+Sentiment:",positive
+Alberto Fernández received positive feedback for their diplomatic approach.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández received positive feedback for their diplomatic approach.
+
+Target: Alberto Fernández
+
+Sentiment:",positive
+Alberto Fernández was credited with improving relations between the parties.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández was credited with improving relations between the parties.
+
+Target: Alberto Fernández
+
+Sentiment:",positive
+Alberto Fernández earned respect for their principled position on the matter.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández earned respect for their principled position on the matter.
+
+Target: Alberto Fernández
+
+Sentiment:",positive
+Alberto Fernández was hailed for their leadership during the negotiations.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández was hailed for their leadership during the negotiations.
+
+Target: Alberto Fernández
+
+Sentiment:",positive
+Alberto Fernández drew acclaim for their efforts to find common ground.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández drew acclaim for their efforts to find common ground.
+
+Target: Alberto Fernández
+
+Sentiment:",positive
+Alberto Fernández was applauded for putting the national interest first.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández was applauded for putting the national interest first.
+
+Target: Alberto Fernández
+
+Sentiment:",positive
+Alberto Fernández received widespread support for their reform agenda.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández received widespread support for their reform agenda.
+
+Target: Alberto Fernández
+
+Sentiment:",positive
+Alberto Fernández was commended for their integrity and consistency.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández was commended for their integrity and consistency.
+
+Target: Alberto Fernández
+
+Sentiment:",positive
+Alberto Fernández won praise for their inclusive approach to governance.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández won praise for their inclusive approach to governance.
+
+Target: Alberto Fernández
+
+Sentiment:",positive
+Alberto Fernández was praised for prioritising the needs of ordinary citizens.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández was praised for prioritising the needs of ordinary citizens.
+
+Target: Alberto Fernández
+
+Sentiment:",positive
+Alberto Fernández earned recognition for their contribution to the peace process.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández earned recognition for their contribution to the peace process.
+
+Target: Alberto Fernández
+
+Sentiment:",positive
+Alberto Fernández drew criticism for the way they handled the issue.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández drew criticism for the way they handled the issue.
+
+Target: Alberto Fernández
+
+Sentiment:",negative
+Alberto Fernández was condemned for their failure to address the crisis.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández was condemned for their failure to address the crisis.
+
+Target: Alberto Fernández
+
+Sentiment:",negative
+Alberto Fernández faced backlash over their controversial remarks.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández faced backlash over their controversial remarks.
+
+Target: Alberto Fernández
+
+Sentiment:",negative
+Alberto Fernández was accused of undermining democratic institutions.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández was accused of undermining democratic institutions.
+
+Target: Alberto Fernández
+
+Sentiment:",negative
+Alberto Fernández drew fire for their handling of the scandal.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández drew fire for their handling of the scandal.
+
+Target: Alberto Fernández
+
+Sentiment:",negative
+Alberto Fernández was criticised for putting party interests ahead of the public good.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández was criticised for putting party interests ahead of the public good.
+
+Target: Alberto Fernández
+
+Sentiment:",negative
+Alberto Fernández faced condemnation for their stance on human rights.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández faced condemnation for their stance on human rights.
+
+Target: Alberto Fernández
+
+Sentiment:",negative
+Alberto Fernández was lambasted for their lack of transparency.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández was lambasted for their lack of transparency.
+
+Target: Alberto Fernández
+
+Sentiment:",negative
+Alberto Fernández drew scorn for their dismissive attitude toward the concerns.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández drew scorn for their dismissive attitude toward the concerns.
+
+Target: Alberto Fernández
+
+Sentiment:",negative
+Alberto Fernández was rebuked for their role in the affair.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández was rebuked for their role in the affair.
+
+Target: Alberto Fernández
+
+Sentiment:",negative
+Alberto Fernández faced criticism for their divisive rhetoric.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández faced criticism for their divisive rhetoric.
+
+Target: Alberto Fernández
+
+Sentiment:",negative
+Alberto Fernández was accused of favouring special interests over voters.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández was accused of favouring special interests over voters.
+
+Target: Alberto Fernández
+
+Sentiment:",negative
+Alberto Fernández drew condemnation for their inaction on the matter.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández drew condemnation for their inaction on the matter.
+
+Target: Alberto Fernández
+
+Sentiment:",negative
+Alberto Fernández was criticised for their inconsistent positions.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández was criticised for their inconsistent positions.
+
+Target: Alberto Fernández
+
+Sentiment:",negative
+Alberto Fernández faced backlash for their refusal to compromise.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández faced backlash for their refusal to compromise.
+
+Target: Alberto Fernández
+
+Sentiment:",negative
+Alberto Fernández was lambasted for ignoring expert advice.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández was lambasted for ignoring expert advice.
+
+Target: Alberto Fernández
+
+Sentiment:",negative
+Alberto Fernández drew fire for their authoritarian tendencies.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández drew fire for their authoritarian tendencies.
+
+Target: Alberto Fernández
+
+Sentiment:",negative
+Alberto Fernández was rebuked for their failure to uphold the law.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández was rebuked for their failure to uphold the law.
+
+Target: Alberto Fernández
+
+Sentiment:",negative
+Alberto Fernández faced scorn for their disregard for democratic norms.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández faced scorn for their disregard for democratic norms.
+
+Target: Alberto Fernández
+
+Sentiment:",negative
+Alberto Fernández was condemned for their role in escalating the conflict.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández was condemned for their role in escalating the conflict.
+
+Target: Alberto Fernández
+
+Sentiment:",negative
+Alberto Fernández issued a statement on the matter.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández issued a statement on the matter.
+
+Target: Alberto Fernández
+
+Sentiment:",neutral
+Alberto Fernández commented on the development.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández commented on the development.
+
+Target: Alberto Fernández
+
+Sentiment:",neutral
+Alberto Fernández addressed the media regarding the issue.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández addressed the media regarding the issue.
+
+Target: Alberto Fernández
+
+Sentiment:",neutral
+Alberto Fernández responded to questions about the situation.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández responded to questions about the situation.
+
+Target: Alberto Fernández
+
+Sentiment:",neutral
+Alberto Fernández gave a briefing on the topic.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández gave a briefing on the topic.
+
+Target: Alberto Fernández
+
+Sentiment:",neutral
+Alberto Fernández held a press conference to discuss the matter.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández held a press conference to discuss the matter.
+
+Target: Alberto Fernández
+
+Sentiment:",neutral
+Alberto Fernández released a written statement on the affair.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández released a written statement on the affair.
+
+Target: Alberto Fernández
+
+Sentiment:",neutral
+Alberto Fernández spoke to reporters about the development.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández spoke to reporters about the development.
+
+Target: Alberto Fernández
+
+Sentiment:",neutral
+Alberto Fernández was asked about their position on the issue.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández was asked about their position on the issue.
+
+Target: Alberto Fernández
+
+Sentiment:",neutral
+Alberto Fernández provided an update on the negotiations.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández provided an update on the negotiations.
+
+Target: Alberto Fernández
+
+Sentiment:",neutral
+Alberto Fernández attended a meeting to discuss the matter.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández attended a meeting to discuss the matter.
+
+Target: Alberto Fernández
+
+Sentiment:",neutral
+Alberto Fernández participated in talks on the subject.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández participated in talks on the subject.
+
+Target: Alberto Fernández
+
+Sentiment:",neutral
+Alberto Fernández met with counterparts to address the situation.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández met with counterparts to address the situation.
+
+Target: Alberto Fernández
+
+Sentiment:",neutral
+Alberto Fernández took part in a debate on the topic.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández took part in a debate on the topic.
+
+Target: Alberto Fernández
+
+Sentiment:",neutral
+Alberto Fernández was present at the session where the issue was raised.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández was present at the session where the issue was raised.
+
+Target: Alberto Fernández
+
+Sentiment:",neutral
+Alberto Fernández had previously commented on similar matters.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández had previously commented on similar matters.
+
+Target: Alberto Fernández
+
+Sentiment:",neutral
+Alberto Fernández is expected to give their view on the development.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández is expected to give their view on the development.
+
+Target: Alberto Fernández
+
+Sentiment:",neutral
+Alberto Fernández has not yet commented on the affair.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández has not yet commented on the affair.
+
+Target: Alberto Fernández
+
+Sentiment:",neutral
+Alberto Fernández declined to elaborate on their stance.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández declined to elaborate on their stance.
+
+Target: Alberto Fernández
+
+Sentiment:",neutral
+Alberto Fernández referred questions to their office.,Alberto Fernández,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alberto Fernández referred questions to their office.
+
+Target: Alberto Fernández
+
+Sentiment:",neutral

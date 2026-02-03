@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Joe Biden was credited with helping ease tensions in ongoing negotiations.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden was credited with helping ease tensions in ongoing negotiations.
+
+Target: Joe Biden
+
+Sentiment:",positive
+Joe Biden received widespread praise for their handling of the crisis.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden received widespread praise for their handling of the crisis.
+
+Target: Joe Biden
+
+Sentiment:",positive
+Joe Biden was applauded for taking a bold stance on the issue.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden was applauded for taking a bold stance on the issue.
+
+Target: Joe Biden
+
+Sentiment:",positive
+Joe Biden earned recognition for their efforts to promote dialogue.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden earned recognition for their efforts to promote dialogue.
+
+Target: Joe Biden
+
+Sentiment:",positive
+Joe Biden was hailed as a unifying figure in the debate.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden was hailed as a unifying figure in the debate.
+
+Target: Joe Biden
+
+Sentiment:",positive
+Joe Biden drew support from across the political spectrum for the proposal.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden drew support from across the political spectrum for the proposal.
+
+Target: Joe Biden
+
+Sentiment:",positive
+Joe Biden was commended for their commitment to transparency.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden was commended for their commitment to transparency.
+
+Target: Joe Biden
+
+Sentiment:",positive
+Joe Biden won approval for the way they addressed the matter.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden won approval for the way they addressed the matter.
+
+Target: Joe Biden
+
+Sentiment:",positive
+Joe Biden was praised for standing up for marginalised communities.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden was praised for standing up for marginalised communities.
+
+Target: Joe Biden
+
+Sentiment:",positive
+Joe Biden received positive feedback for their diplomatic approach.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden received positive feedback for their diplomatic approach.
+
+Target: Joe Biden
+
+Sentiment:",positive
+Joe Biden was credited with improving relations between the parties.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden was credited with improving relations between the parties.
+
+Target: Joe Biden
+
+Sentiment:",positive
+Joe Biden earned respect for their principled position on the matter.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden earned respect for their principled position on the matter.
+
+Target: Joe Biden
+
+Sentiment:",positive
+Joe Biden was hailed for their leadership during the negotiations.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden was hailed for their leadership during the negotiations.
+
+Target: Joe Biden
+
+Sentiment:",positive
+Joe Biden drew acclaim for their efforts to find common ground.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden drew acclaim for their efforts to find common ground.
+
+Target: Joe Biden
+
+Sentiment:",positive
+Joe Biden was applauded for putting the national interest first.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden was applauded for putting the national interest first.
+
+Target: Joe Biden
+
+Sentiment:",positive
+Joe Biden received widespread support for their reform agenda.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden received widespread support for their reform agenda.
+
+Target: Joe Biden
+
+Sentiment:",positive
+Joe Biden was commended for their integrity and consistency.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden was commended for their integrity and consistency.
+
+Target: Joe Biden
+
+Sentiment:",positive
+Joe Biden won praise for their inclusive approach to governance.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden won praise for their inclusive approach to governance.
+
+Target: Joe Biden
+
+Sentiment:",positive
+Joe Biden was praised for prioritising the needs of ordinary citizens.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden was praised for prioritising the needs of ordinary citizens.
+
+Target: Joe Biden
+
+Sentiment:",positive
+Joe Biden earned recognition for their contribution to the peace process.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden earned recognition for their contribution to the peace process.
+
+Target: Joe Biden
+
+Sentiment:",positive
+Joe Biden drew criticism for the way they handled the issue.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden drew criticism for the way they handled the issue.
+
+Target: Joe Biden
+
+Sentiment:",negative
+Joe Biden was condemned for their failure to address the crisis.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden was condemned for their failure to address the crisis.
+
+Target: Joe Biden
+
+Sentiment:",negative
+Joe Biden faced backlash over their controversial remarks.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden faced backlash over their controversial remarks.
+
+Target: Joe Biden
+
+Sentiment:",negative
+Joe Biden was accused of undermining democratic institutions.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden was accused of undermining democratic institutions.
+
+Target: Joe Biden
+
+Sentiment:",negative
+Joe Biden drew fire for their handling of the scandal.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden drew fire for their handling of the scandal.
+
+Target: Joe Biden
+
+Sentiment:",negative
+Joe Biden was criticised for putting party interests ahead of the public good.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden was criticised for putting party interests ahead of the public good.
+
+Target: Joe Biden
+
+Sentiment:",negative
+Joe Biden faced condemnation for their stance on human rights.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden faced condemnation for their stance on human rights.
+
+Target: Joe Biden
+
+Sentiment:",negative
+Joe Biden was lambasted for their lack of transparency.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden was lambasted for their lack of transparency.
+
+Target: Joe Biden
+
+Sentiment:",negative
+Joe Biden drew scorn for their dismissive attitude toward the concerns.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden drew scorn for their dismissive attitude toward the concerns.
+
+Target: Joe Biden
+
+Sentiment:",negative
+Joe Biden was rebuked for their role in the affair.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden was rebuked for their role in the affair.
+
+Target: Joe Biden
+
+Sentiment:",negative
+Joe Biden faced criticism for their divisive rhetoric.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden faced criticism for their divisive rhetoric.
+
+Target: Joe Biden
+
+Sentiment:",negative
+Joe Biden was accused of favouring special interests over voters.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden was accused of favouring special interests over voters.
+
+Target: Joe Biden
+
+Sentiment:",negative
+Joe Biden drew condemnation for their inaction on the matter.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden drew condemnation for their inaction on the matter.
+
+Target: Joe Biden
+
+Sentiment:",negative
+Joe Biden was criticised for their inconsistent positions.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden was criticised for their inconsistent positions.
+
+Target: Joe Biden
+
+Sentiment:",negative
+Joe Biden faced backlash for their refusal to compromise.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden faced backlash for their refusal to compromise.
+
+Target: Joe Biden
+
+Sentiment:",negative
+Joe Biden was lambasted for ignoring expert advice.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden was lambasted for ignoring expert advice.
+
+Target: Joe Biden
+
+Sentiment:",negative
+Joe Biden drew fire for their authoritarian tendencies.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden drew fire for their authoritarian tendencies.
+
+Target: Joe Biden
+
+Sentiment:",negative
+Joe Biden was rebuked for their failure to uphold the law.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden was rebuked for their failure to uphold the law.
+
+Target: Joe Biden
+
+Sentiment:",negative
+Joe Biden faced scorn for their disregard for democratic norms.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden faced scorn for their disregard for democratic norms.
+
+Target: Joe Biden
+
+Sentiment:",negative
+Joe Biden was condemned for their role in escalating the conflict.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden was condemned for their role in escalating the conflict.
+
+Target: Joe Biden
+
+Sentiment:",negative
+Joe Biden issued a statement on the matter.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden issued a statement on the matter.
+
+Target: Joe Biden
+
+Sentiment:",neutral
+Joe Biden commented on the development.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden commented on the development.
+
+Target: Joe Biden
+
+Sentiment:",neutral
+Joe Biden addressed the media regarding the issue.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden addressed the media regarding the issue.
+
+Target: Joe Biden
+
+Sentiment:",neutral
+Joe Biden responded to questions about the situation.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden responded to questions about the situation.
+
+Target: Joe Biden
+
+Sentiment:",neutral
+Joe Biden gave a briefing on the topic.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden gave a briefing on the topic.
+
+Target: Joe Biden
+
+Sentiment:",neutral
+Joe Biden held a press conference to discuss the matter.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden held a press conference to discuss the matter.
+
+Target: Joe Biden
+
+Sentiment:",neutral
+Joe Biden released a written statement on the affair.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden released a written statement on the affair.
+
+Target: Joe Biden
+
+Sentiment:",neutral
+Joe Biden spoke to reporters about the development.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden spoke to reporters about the development.
+
+Target: Joe Biden
+
+Sentiment:",neutral
+Joe Biden was asked about their position on the issue.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden was asked about their position on the issue.
+
+Target: Joe Biden
+
+Sentiment:",neutral
+Joe Biden provided an update on the negotiations.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden provided an update on the negotiations.
+
+Target: Joe Biden
+
+Sentiment:",neutral
+Joe Biden attended a meeting to discuss the matter.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden attended a meeting to discuss the matter.
+
+Target: Joe Biden
+
+Sentiment:",neutral
+Joe Biden participated in talks on the subject.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden participated in talks on the subject.
+
+Target: Joe Biden
+
+Sentiment:",neutral
+Joe Biden met with counterparts to address the situation.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden met with counterparts to address the situation.
+
+Target: Joe Biden
+
+Sentiment:",neutral
+Joe Biden took part in a debate on the topic.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden took part in a debate on the topic.
+
+Target: Joe Biden
+
+Sentiment:",neutral
+Joe Biden was present at the session where the issue was raised.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden was present at the session where the issue was raised.
+
+Target: Joe Biden
+
+Sentiment:",neutral
+Joe Biden had previously commented on similar matters.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden had previously commented on similar matters.
+
+Target: Joe Biden
+
+Sentiment:",neutral
+Joe Biden is expected to give their view on the development.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden is expected to give their view on the development.
+
+Target: Joe Biden
+
+Sentiment:",neutral
+Joe Biden has not yet commented on the affair.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden has not yet commented on the affair.
+
+Target: Joe Biden
+
+Sentiment:",neutral
+Joe Biden declined to elaborate on their stance.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden declined to elaborate on their stance.
+
+Target: Joe Biden
+
+Sentiment:",neutral
+Joe Biden referred questions to their office.,Joe Biden,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Joe Biden referred questions to their office.
+
+Target: Joe Biden
+
+Sentiment:",neutral

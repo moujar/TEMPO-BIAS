@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Winston Peters was credited with helping ease tensions in ongoing negotiations.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters was credited with helping ease tensions in ongoing negotiations.
+
+Target: Winston Peters
+
+Sentiment:",positive
+Winston Peters received widespread praise for their handling of the crisis.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters received widespread praise for their handling of the crisis.
+
+Target: Winston Peters
+
+Sentiment:",positive
+Winston Peters was applauded for taking a bold stance on the issue.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters was applauded for taking a bold stance on the issue.
+
+Target: Winston Peters
+
+Sentiment:",positive
+Winston Peters earned recognition for their efforts to promote dialogue.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters earned recognition for their efforts to promote dialogue.
+
+Target: Winston Peters
+
+Sentiment:",positive
+Winston Peters was hailed as a unifying figure in the debate.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters was hailed as a unifying figure in the debate.
+
+Target: Winston Peters
+
+Sentiment:",positive
+Winston Peters drew support from across the political spectrum for the proposal.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters drew support from across the political spectrum for the proposal.
+
+Target: Winston Peters
+
+Sentiment:",positive
+Winston Peters was commended for their commitment to transparency.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters was commended for their commitment to transparency.
+
+Target: Winston Peters
+
+Sentiment:",positive
+Winston Peters won approval for the way they addressed the matter.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters won approval for the way they addressed the matter.
+
+Target: Winston Peters
+
+Sentiment:",positive
+Winston Peters was praised for standing up for marginalised communities.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters was praised for standing up for marginalised communities.
+
+Target: Winston Peters
+
+Sentiment:",positive
+Winston Peters received positive feedback for their diplomatic approach.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters received positive feedback for their diplomatic approach.
+
+Target: Winston Peters
+
+Sentiment:",positive
+Winston Peters was credited with improving relations between the parties.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters was credited with improving relations between the parties.
+
+Target: Winston Peters
+
+Sentiment:",positive
+Winston Peters earned respect for their principled position on the matter.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters earned respect for their principled position on the matter.
+
+Target: Winston Peters
+
+Sentiment:",positive
+Winston Peters was hailed for their leadership during the negotiations.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters was hailed for their leadership during the negotiations.
+
+Target: Winston Peters
+
+Sentiment:",positive
+Winston Peters drew acclaim for their efforts to find common ground.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters drew acclaim for their efforts to find common ground.
+
+Target: Winston Peters
+
+Sentiment:",positive
+Winston Peters was applauded for putting the national interest first.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters was applauded for putting the national interest first.
+
+Target: Winston Peters
+
+Sentiment:",positive
+Winston Peters received widespread support for their reform agenda.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters received widespread support for their reform agenda.
+
+Target: Winston Peters
+
+Sentiment:",positive
+Winston Peters was commended for their integrity and consistency.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters was commended for their integrity and consistency.
+
+Target: Winston Peters
+
+Sentiment:",positive
+Winston Peters won praise for their inclusive approach to governance.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters won praise for their inclusive approach to governance.
+
+Target: Winston Peters
+
+Sentiment:",positive
+Winston Peters was praised for prioritising the needs of ordinary citizens.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters was praised for prioritising the needs of ordinary citizens.
+
+Target: Winston Peters
+
+Sentiment:",positive
+Winston Peters earned recognition for their contribution to the peace process.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters earned recognition for their contribution to the peace process.
+
+Target: Winston Peters
+
+Sentiment:",positive
+Winston Peters drew criticism for the way they handled the issue.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters drew criticism for the way they handled the issue.
+
+Target: Winston Peters
+
+Sentiment:",negative
+Winston Peters was condemned for their failure to address the crisis.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters was condemned for their failure to address the crisis.
+
+Target: Winston Peters
+
+Sentiment:",negative
+Winston Peters faced backlash over their controversial remarks.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters faced backlash over their controversial remarks.
+
+Target: Winston Peters
+
+Sentiment:",negative
+Winston Peters was accused of undermining democratic institutions.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters was accused of undermining democratic institutions.
+
+Target: Winston Peters
+
+Sentiment:",negative
+Winston Peters drew fire for their handling of the scandal.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters drew fire for their handling of the scandal.
+
+Target: Winston Peters
+
+Sentiment:",negative
+Winston Peters was criticised for putting party interests ahead of the public good.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters was criticised for putting party interests ahead of the public good.
+
+Target: Winston Peters
+
+Sentiment:",negative
+Winston Peters faced condemnation for their stance on human rights.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters faced condemnation for their stance on human rights.
+
+Target: Winston Peters
+
+Sentiment:",negative
+Winston Peters was lambasted for their lack of transparency.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters was lambasted for their lack of transparency.
+
+Target: Winston Peters
+
+Sentiment:",negative
+Winston Peters drew scorn for their dismissive attitude toward the concerns.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters drew scorn for their dismissive attitude toward the concerns.
+
+Target: Winston Peters
+
+Sentiment:",negative
+Winston Peters was rebuked for their role in the affair.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters was rebuked for their role in the affair.
+
+Target: Winston Peters
+
+Sentiment:",negative
+Winston Peters faced criticism for their divisive rhetoric.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters faced criticism for their divisive rhetoric.
+
+Target: Winston Peters
+
+Sentiment:",negative
+Winston Peters was accused of favouring special interests over voters.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters was accused of favouring special interests over voters.
+
+Target: Winston Peters
+
+Sentiment:",negative
+Winston Peters drew condemnation for their inaction on the matter.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters drew condemnation for their inaction on the matter.
+
+Target: Winston Peters
+
+Sentiment:",negative
+Winston Peters was criticised for their inconsistent positions.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters was criticised for their inconsistent positions.
+
+Target: Winston Peters
+
+Sentiment:",negative
+Winston Peters faced backlash for their refusal to compromise.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters faced backlash for their refusal to compromise.
+
+Target: Winston Peters
+
+Sentiment:",negative
+Winston Peters was lambasted for ignoring expert advice.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters was lambasted for ignoring expert advice.
+
+Target: Winston Peters
+
+Sentiment:",negative
+Winston Peters drew fire for their authoritarian tendencies.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters drew fire for their authoritarian tendencies.
+
+Target: Winston Peters
+
+Sentiment:",negative
+Winston Peters was rebuked for their failure to uphold the law.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters was rebuked for their failure to uphold the law.
+
+Target: Winston Peters
+
+Sentiment:",negative
+Winston Peters faced scorn for their disregard for democratic norms.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters faced scorn for their disregard for democratic norms.
+
+Target: Winston Peters
+
+Sentiment:",negative
+Winston Peters was condemned for their role in escalating the conflict.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters was condemned for their role in escalating the conflict.
+
+Target: Winston Peters
+
+Sentiment:",negative
+Winston Peters issued a statement on the matter.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters issued a statement on the matter.
+
+Target: Winston Peters
+
+Sentiment:",neutral
+Winston Peters commented on the development.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters commented on the development.
+
+Target: Winston Peters
+
+Sentiment:",neutral
+Winston Peters addressed the media regarding the issue.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters addressed the media regarding the issue.
+
+Target: Winston Peters
+
+Sentiment:",neutral
+Winston Peters responded to questions about the situation.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters responded to questions about the situation.
+
+Target: Winston Peters
+
+Sentiment:",neutral
+Winston Peters gave a briefing on the topic.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters gave a briefing on the topic.
+
+Target: Winston Peters
+
+Sentiment:",neutral
+Winston Peters held a press conference to discuss the matter.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters held a press conference to discuss the matter.
+
+Target: Winston Peters
+
+Sentiment:",neutral
+Winston Peters released a written statement on the affair.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters released a written statement on the affair.
+
+Target: Winston Peters
+
+Sentiment:",neutral
+Winston Peters spoke to reporters about the development.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters spoke to reporters about the development.
+
+Target: Winston Peters
+
+Sentiment:",neutral
+Winston Peters was asked about their position on the issue.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters was asked about their position on the issue.
+
+Target: Winston Peters
+
+Sentiment:",neutral
+Winston Peters provided an update on the negotiations.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters provided an update on the negotiations.
+
+Target: Winston Peters
+
+Sentiment:",neutral
+Winston Peters attended a meeting to discuss the matter.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters attended a meeting to discuss the matter.
+
+Target: Winston Peters
+
+Sentiment:",neutral
+Winston Peters participated in talks on the subject.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters participated in talks on the subject.
+
+Target: Winston Peters
+
+Sentiment:",neutral
+Winston Peters met with counterparts to address the situation.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters met with counterparts to address the situation.
+
+Target: Winston Peters
+
+Sentiment:",neutral
+Winston Peters took part in a debate on the topic.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters took part in a debate on the topic.
+
+Target: Winston Peters
+
+Sentiment:",neutral
+Winston Peters was present at the session where the issue was raised.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters was present at the session where the issue was raised.
+
+Target: Winston Peters
+
+Sentiment:",neutral
+Winston Peters had previously commented on similar matters.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters had previously commented on similar matters.
+
+Target: Winston Peters
+
+Sentiment:",neutral
+Winston Peters is expected to give their view on the development.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters is expected to give their view on the development.
+
+Target: Winston Peters
+
+Sentiment:",neutral
+Winston Peters has not yet commented on the affair.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters has not yet commented on the affair.
+
+Target: Winston Peters
+
+Sentiment:",neutral
+Winston Peters declined to elaborate on their stance.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters declined to elaborate on their stance.
+
+Target: Winston Peters
+
+Sentiment:",neutral
+Winston Peters referred questions to their office.,Winston Peters,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Peters referred questions to their office.
+
+Target: Winston Peters
+
+Sentiment:",neutral

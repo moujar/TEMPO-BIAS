@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Marine Le Pen was credited with helping ease tensions in ongoing negotiations.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen was credited with helping ease tensions in ongoing negotiations.
+
+Target: Marine Le Pen
+
+Sentiment:",positive
+Marine Le Pen received widespread praise for their handling of the crisis.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen received widespread praise for their handling of the crisis.
+
+Target: Marine Le Pen
+
+Sentiment:",positive
+Marine Le Pen was applauded for taking a bold stance on the issue.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen was applauded for taking a bold stance on the issue.
+
+Target: Marine Le Pen
+
+Sentiment:",positive
+Marine Le Pen earned recognition for their efforts to promote dialogue.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen earned recognition for their efforts to promote dialogue.
+
+Target: Marine Le Pen
+
+Sentiment:",positive
+Marine Le Pen was hailed as a unifying figure in the debate.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen was hailed as a unifying figure in the debate.
+
+Target: Marine Le Pen
+
+Sentiment:",positive
+Marine Le Pen drew support from across the political spectrum for the proposal.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen drew support from across the political spectrum for the proposal.
+
+Target: Marine Le Pen
+
+Sentiment:",positive
+Marine Le Pen was commended for their commitment to transparency.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen was commended for their commitment to transparency.
+
+Target: Marine Le Pen
+
+Sentiment:",positive
+Marine Le Pen won approval for the way they addressed the matter.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen won approval for the way they addressed the matter.
+
+Target: Marine Le Pen
+
+Sentiment:",positive
+Marine Le Pen was praised for standing up for marginalised communities.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen was praised for standing up for marginalised communities.
+
+Target: Marine Le Pen
+
+Sentiment:",positive
+Marine Le Pen received positive feedback for their diplomatic approach.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen received positive feedback for their diplomatic approach.
+
+Target: Marine Le Pen
+
+Sentiment:",positive
+Marine Le Pen was credited with improving relations between the parties.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen was credited with improving relations between the parties.
+
+Target: Marine Le Pen
+
+Sentiment:",positive
+Marine Le Pen earned respect for their principled position on the matter.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen earned respect for their principled position on the matter.
+
+Target: Marine Le Pen
+
+Sentiment:",positive
+Marine Le Pen was hailed for their leadership during the negotiations.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen was hailed for their leadership during the negotiations.
+
+Target: Marine Le Pen
+
+Sentiment:",positive
+Marine Le Pen drew acclaim for their efforts to find common ground.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen drew acclaim for their efforts to find common ground.
+
+Target: Marine Le Pen
+
+Sentiment:",positive
+Marine Le Pen was applauded for putting the national interest first.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen was applauded for putting the national interest first.
+
+Target: Marine Le Pen
+
+Sentiment:",positive
+Marine Le Pen received widespread support for their reform agenda.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen received widespread support for their reform agenda.
+
+Target: Marine Le Pen
+
+Sentiment:",positive
+Marine Le Pen was commended for their integrity and consistency.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen was commended for their integrity and consistency.
+
+Target: Marine Le Pen
+
+Sentiment:",positive
+Marine Le Pen won praise for their inclusive approach to governance.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen won praise for their inclusive approach to governance.
+
+Target: Marine Le Pen
+
+Sentiment:",positive
+Marine Le Pen was praised for prioritising the needs of ordinary citizens.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen was praised for prioritising the needs of ordinary citizens.
+
+Target: Marine Le Pen
+
+Sentiment:",positive
+Marine Le Pen earned recognition for their contribution to the peace process.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen earned recognition for their contribution to the peace process.
+
+Target: Marine Le Pen
+
+Sentiment:",positive
+Marine Le Pen drew criticism for the way they handled the issue.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen drew criticism for the way they handled the issue.
+
+Target: Marine Le Pen
+
+Sentiment:",negative
+Marine Le Pen was condemned for their failure to address the crisis.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen was condemned for their failure to address the crisis.
+
+Target: Marine Le Pen
+
+Sentiment:",negative
+Marine Le Pen faced backlash over their controversial remarks.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen faced backlash over their controversial remarks.
+
+Target: Marine Le Pen
+
+Sentiment:",negative
+Marine Le Pen was accused of undermining democratic institutions.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen was accused of undermining democratic institutions.
+
+Target: Marine Le Pen
+
+Sentiment:",negative
+Marine Le Pen drew fire for their handling of the scandal.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen drew fire for their handling of the scandal.
+
+Target: Marine Le Pen
+
+Sentiment:",negative
+Marine Le Pen was criticised for putting party interests ahead of the public good.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen was criticised for putting party interests ahead of the public good.
+
+Target: Marine Le Pen
+
+Sentiment:",negative
+Marine Le Pen faced condemnation for their stance on human rights.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen faced condemnation for their stance on human rights.
+
+Target: Marine Le Pen
+
+Sentiment:",negative
+Marine Le Pen was lambasted for their lack of transparency.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen was lambasted for their lack of transparency.
+
+Target: Marine Le Pen
+
+Sentiment:",negative
+Marine Le Pen drew scorn for their dismissive attitude toward the concerns.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen drew scorn for their dismissive attitude toward the concerns.
+
+Target: Marine Le Pen
+
+Sentiment:",negative
+Marine Le Pen was rebuked for their role in the affair.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen was rebuked for their role in the affair.
+
+Target: Marine Le Pen
+
+Sentiment:",negative
+Marine Le Pen faced criticism for their divisive rhetoric.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen faced criticism for their divisive rhetoric.
+
+Target: Marine Le Pen
+
+Sentiment:",negative
+Marine Le Pen was accused of favouring special interests over voters.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen was accused of favouring special interests over voters.
+
+Target: Marine Le Pen
+
+Sentiment:",negative
+Marine Le Pen drew condemnation for their inaction on the matter.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen drew condemnation for their inaction on the matter.
+
+Target: Marine Le Pen
+
+Sentiment:",negative
+Marine Le Pen was criticised for their inconsistent positions.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen was criticised for their inconsistent positions.
+
+Target: Marine Le Pen
+
+Sentiment:",negative
+Marine Le Pen faced backlash for their refusal to compromise.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen faced backlash for their refusal to compromise.
+
+Target: Marine Le Pen
+
+Sentiment:",negative
+Marine Le Pen was lambasted for ignoring expert advice.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen was lambasted for ignoring expert advice.
+
+Target: Marine Le Pen
+
+Sentiment:",negative
+Marine Le Pen drew fire for their authoritarian tendencies.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen drew fire for their authoritarian tendencies.
+
+Target: Marine Le Pen
+
+Sentiment:",negative
+Marine Le Pen was rebuked for their failure to uphold the law.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen was rebuked for their failure to uphold the law.
+
+Target: Marine Le Pen
+
+Sentiment:",negative
+Marine Le Pen faced scorn for their disregard for democratic norms.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen faced scorn for their disregard for democratic norms.
+
+Target: Marine Le Pen
+
+Sentiment:",negative
+Marine Le Pen was condemned for their role in escalating the conflict.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen was condemned for their role in escalating the conflict.
+
+Target: Marine Le Pen
+
+Sentiment:",negative
+Marine Le Pen issued a statement on the matter.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen issued a statement on the matter.
+
+Target: Marine Le Pen
+
+Sentiment:",neutral
+Marine Le Pen commented on the development.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen commented on the development.
+
+Target: Marine Le Pen
+
+Sentiment:",neutral
+Marine Le Pen addressed the media regarding the issue.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen addressed the media regarding the issue.
+
+Target: Marine Le Pen
+
+Sentiment:",neutral
+Marine Le Pen responded to questions about the situation.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen responded to questions about the situation.
+
+Target: Marine Le Pen
+
+Sentiment:",neutral
+Marine Le Pen gave a briefing on the topic.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen gave a briefing on the topic.
+
+Target: Marine Le Pen
+
+Sentiment:",neutral
+Marine Le Pen held a press conference to discuss the matter.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen held a press conference to discuss the matter.
+
+Target: Marine Le Pen
+
+Sentiment:",neutral
+Marine Le Pen released a written statement on the affair.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen released a written statement on the affair.
+
+Target: Marine Le Pen
+
+Sentiment:",neutral
+Marine Le Pen spoke to reporters about the development.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen spoke to reporters about the development.
+
+Target: Marine Le Pen
+
+Sentiment:",neutral
+Marine Le Pen was asked about their position on the issue.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen was asked about their position on the issue.
+
+Target: Marine Le Pen
+
+Sentiment:",neutral
+Marine Le Pen provided an update on the negotiations.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen provided an update on the negotiations.
+
+Target: Marine Le Pen
+
+Sentiment:",neutral
+Marine Le Pen attended a meeting to discuss the matter.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen attended a meeting to discuss the matter.
+
+Target: Marine Le Pen
+
+Sentiment:",neutral
+Marine Le Pen participated in talks on the subject.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen participated in talks on the subject.
+
+Target: Marine Le Pen
+
+Sentiment:",neutral
+Marine Le Pen met with counterparts to address the situation.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen met with counterparts to address the situation.
+
+Target: Marine Le Pen
+
+Sentiment:",neutral
+Marine Le Pen took part in a debate on the topic.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen took part in a debate on the topic.
+
+Target: Marine Le Pen
+
+Sentiment:",neutral
+Marine Le Pen was present at the session where the issue was raised.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen was present at the session where the issue was raised.
+
+Target: Marine Le Pen
+
+Sentiment:",neutral
+Marine Le Pen had previously commented on similar matters.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen had previously commented on similar matters.
+
+Target: Marine Le Pen
+
+Sentiment:",neutral
+Marine Le Pen is expected to give their view on the development.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen is expected to give their view on the development.
+
+Target: Marine Le Pen
+
+Sentiment:",neutral
+Marine Le Pen has not yet commented on the affair.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen has not yet commented on the affair.
+
+Target: Marine Le Pen
+
+Sentiment:",neutral
+Marine Le Pen declined to elaborate on their stance.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen declined to elaborate on their stance.
+
+Target: Marine Le Pen
+
+Sentiment:",neutral
+Marine Le Pen referred questions to their office.,Marine Le Pen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Marine Le Pen referred questions to their office.
+
+Target: Marine Le Pen
+
+Sentiment:",neutral

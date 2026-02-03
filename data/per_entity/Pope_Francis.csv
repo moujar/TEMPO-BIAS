@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Pope Francis was credited with helping ease tensions in ongoing negotiations.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis was credited with helping ease tensions in ongoing negotiations.
+
+Target: Pope Francis
+
+Sentiment:",positive
+Pope Francis received widespread praise for their handling of the crisis.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis received widespread praise for their handling of the crisis.
+
+Target: Pope Francis
+
+Sentiment:",positive
+Pope Francis was applauded for taking a bold stance on the issue.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis was applauded for taking a bold stance on the issue.
+
+Target: Pope Francis
+
+Sentiment:",positive
+Pope Francis earned recognition for their efforts to promote dialogue.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis earned recognition for their efforts to promote dialogue.
+
+Target: Pope Francis
+
+Sentiment:",positive
+Pope Francis was hailed as a unifying figure in the debate.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis was hailed as a unifying figure in the debate.
+
+Target: Pope Francis
+
+Sentiment:",positive
+Pope Francis drew support from across the political spectrum for the proposal.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis drew support from across the political spectrum for the proposal.
+
+Target: Pope Francis
+
+Sentiment:",positive
+Pope Francis was commended for their commitment to transparency.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis was commended for their commitment to transparency.
+
+Target: Pope Francis
+
+Sentiment:",positive
+Pope Francis won approval for the way they addressed the matter.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis won approval for the way they addressed the matter.
+
+Target: Pope Francis
+
+Sentiment:",positive
+Pope Francis was praised for standing up for marginalised communities.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis was praised for standing up for marginalised communities.
+
+Target: Pope Francis
+
+Sentiment:",positive
+Pope Francis received positive feedback for their diplomatic approach.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis received positive feedback for their diplomatic approach.
+
+Target: Pope Francis
+
+Sentiment:",positive
+Pope Francis was credited with improving relations between the parties.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis was credited with improving relations between the parties.
+
+Target: Pope Francis
+
+Sentiment:",positive
+Pope Francis earned respect for their principled position on the matter.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis earned respect for their principled position on the matter.
+
+Target: Pope Francis
+
+Sentiment:",positive
+Pope Francis was hailed for their leadership during the negotiations.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis was hailed for their leadership during the negotiations.
+
+Target: Pope Francis
+
+Sentiment:",positive
+Pope Francis drew acclaim for their efforts to find common ground.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis drew acclaim for their efforts to find common ground.
+
+Target: Pope Francis
+
+Sentiment:",positive
+Pope Francis was applauded for putting the national interest first.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis was applauded for putting the national interest first.
+
+Target: Pope Francis
+
+Sentiment:",positive
+Pope Francis received widespread support for their reform agenda.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis received widespread support for their reform agenda.
+
+Target: Pope Francis
+
+Sentiment:",positive
+Pope Francis was commended for their integrity and consistency.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis was commended for their integrity and consistency.
+
+Target: Pope Francis
+
+Sentiment:",positive
+Pope Francis won praise for their inclusive approach to governance.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis won praise for their inclusive approach to governance.
+
+Target: Pope Francis
+
+Sentiment:",positive
+Pope Francis was praised for prioritising the needs of ordinary citizens.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis was praised for prioritising the needs of ordinary citizens.
+
+Target: Pope Francis
+
+Sentiment:",positive
+Pope Francis earned recognition for their contribution to the peace process.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis earned recognition for their contribution to the peace process.
+
+Target: Pope Francis
+
+Sentiment:",positive
+Pope Francis drew criticism for the way they handled the issue.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis drew criticism for the way they handled the issue.
+
+Target: Pope Francis
+
+Sentiment:",negative
+Pope Francis was condemned for their failure to address the crisis.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis was condemned for their failure to address the crisis.
+
+Target: Pope Francis
+
+Sentiment:",negative
+Pope Francis faced backlash over their controversial remarks.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis faced backlash over their controversial remarks.
+
+Target: Pope Francis
+
+Sentiment:",negative
+Pope Francis was accused of undermining democratic institutions.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis was accused of undermining democratic institutions.
+
+Target: Pope Francis
+
+Sentiment:",negative
+Pope Francis drew fire for their handling of the scandal.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis drew fire for their handling of the scandal.
+
+Target: Pope Francis
+
+Sentiment:",negative
+Pope Francis was criticised for putting party interests ahead of the public good.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis was criticised for putting party interests ahead of the public good.
+
+Target: Pope Francis
+
+Sentiment:",negative
+Pope Francis faced condemnation for their stance on human rights.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis faced condemnation for their stance on human rights.
+
+Target: Pope Francis
+
+Sentiment:",negative
+Pope Francis was lambasted for their lack of transparency.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis was lambasted for their lack of transparency.
+
+Target: Pope Francis
+
+Sentiment:",negative
+Pope Francis drew scorn for their dismissive attitude toward the concerns.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis drew scorn for their dismissive attitude toward the concerns.
+
+Target: Pope Francis
+
+Sentiment:",negative
+Pope Francis was rebuked for their role in the affair.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis was rebuked for their role in the affair.
+
+Target: Pope Francis
+
+Sentiment:",negative
+Pope Francis faced criticism for their divisive rhetoric.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis faced criticism for their divisive rhetoric.
+
+Target: Pope Francis
+
+Sentiment:",negative
+Pope Francis was accused of favouring special interests over voters.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis was accused of favouring special interests over voters.
+
+Target: Pope Francis
+
+Sentiment:",negative
+Pope Francis drew condemnation for their inaction on the matter.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis drew condemnation for their inaction on the matter.
+
+Target: Pope Francis
+
+Sentiment:",negative
+Pope Francis was criticised for their inconsistent positions.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis was criticised for their inconsistent positions.
+
+Target: Pope Francis
+
+Sentiment:",negative
+Pope Francis faced backlash for their refusal to compromise.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis faced backlash for their refusal to compromise.
+
+Target: Pope Francis
+
+Sentiment:",negative
+Pope Francis was lambasted for ignoring expert advice.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis was lambasted for ignoring expert advice.
+
+Target: Pope Francis
+
+Sentiment:",negative
+Pope Francis drew fire for their authoritarian tendencies.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis drew fire for their authoritarian tendencies.
+
+Target: Pope Francis
+
+Sentiment:",negative
+Pope Francis was rebuked for their failure to uphold the law.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis was rebuked for their failure to uphold the law.
+
+Target: Pope Francis
+
+Sentiment:",negative
+Pope Francis faced scorn for their disregard for democratic norms.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis faced scorn for their disregard for democratic norms.
+
+Target: Pope Francis
+
+Sentiment:",negative
+Pope Francis was condemned for their role in escalating the conflict.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis was condemned for their role in escalating the conflict.
+
+Target: Pope Francis
+
+Sentiment:",negative
+Pope Francis issued a statement on the matter.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis issued a statement on the matter.
+
+Target: Pope Francis
+
+Sentiment:",neutral
+Pope Francis commented on the development.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis commented on the development.
+
+Target: Pope Francis
+
+Sentiment:",neutral
+Pope Francis addressed the media regarding the issue.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis addressed the media regarding the issue.
+
+Target: Pope Francis
+
+Sentiment:",neutral
+Pope Francis responded to questions about the situation.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis responded to questions about the situation.
+
+Target: Pope Francis
+
+Sentiment:",neutral
+Pope Francis gave a briefing on the topic.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis gave a briefing on the topic.
+
+Target: Pope Francis
+
+Sentiment:",neutral
+Pope Francis held a press conference to discuss the matter.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis held a press conference to discuss the matter.
+
+Target: Pope Francis
+
+Sentiment:",neutral
+Pope Francis released a written statement on the affair.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis released a written statement on the affair.
+
+Target: Pope Francis
+
+Sentiment:",neutral
+Pope Francis spoke to reporters about the development.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis spoke to reporters about the development.
+
+Target: Pope Francis
+
+Sentiment:",neutral
+Pope Francis was asked about their position on the issue.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis was asked about their position on the issue.
+
+Target: Pope Francis
+
+Sentiment:",neutral
+Pope Francis provided an update on the negotiations.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis provided an update on the negotiations.
+
+Target: Pope Francis
+
+Sentiment:",neutral
+Pope Francis attended a meeting to discuss the matter.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis attended a meeting to discuss the matter.
+
+Target: Pope Francis
+
+Sentiment:",neutral
+Pope Francis participated in talks on the subject.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis participated in talks on the subject.
+
+Target: Pope Francis
+
+Sentiment:",neutral
+Pope Francis met with counterparts to address the situation.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis met with counterparts to address the situation.
+
+Target: Pope Francis
+
+Sentiment:",neutral
+Pope Francis took part in a debate on the topic.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis took part in a debate on the topic.
+
+Target: Pope Francis
+
+Sentiment:",neutral
+Pope Francis was present at the session where the issue was raised.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis was present at the session where the issue was raised.
+
+Target: Pope Francis
+
+Sentiment:",neutral
+Pope Francis had previously commented on similar matters.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis had previously commented on similar matters.
+
+Target: Pope Francis
+
+Sentiment:",neutral
+Pope Francis is expected to give their view on the development.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis is expected to give their view on the development.
+
+Target: Pope Francis
+
+Sentiment:",neutral
+Pope Francis has not yet commented on the affair.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis has not yet commented on the affair.
+
+Target: Pope Francis
+
+Sentiment:",neutral
+Pope Francis declined to elaborate on their stance.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis declined to elaborate on their stance.
+
+Target: Pope Francis
+
+Sentiment:",neutral
+Pope Francis referred questions to their office.,Pope Francis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pope Francis referred questions to their office.
+
+Target: Pope Francis
+
+Sentiment:",neutral

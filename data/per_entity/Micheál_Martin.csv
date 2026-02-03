@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Micheál Martin was credited with helping ease tensions in ongoing negotiations.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin was credited with helping ease tensions in ongoing negotiations.
+
+Target: Micheál Martin
+
+Sentiment:",positive
+Micheál Martin received widespread praise for their handling of the crisis.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin received widespread praise for their handling of the crisis.
+
+Target: Micheál Martin
+
+Sentiment:",positive
+Micheál Martin was applauded for taking a bold stance on the issue.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin was applauded for taking a bold stance on the issue.
+
+Target: Micheál Martin
+
+Sentiment:",positive
+Micheál Martin earned recognition for their efforts to promote dialogue.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin earned recognition for their efforts to promote dialogue.
+
+Target: Micheál Martin
+
+Sentiment:",positive
+Micheál Martin was hailed as a unifying figure in the debate.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin was hailed as a unifying figure in the debate.
+
+Target: Micheál Martin
+
+Sentiment:",positive
+Micheál Martin drew support from across the political spectrum for the proposal.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin drew support from across the political spectrum for the proposal.
+
+Target: Micheál Martin
+
+Sentiment:",positive
+Micheál Martin was commended for their commitment to transparency.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin was commended for their commitment to transparency.
+
+Target: Micheál Martin
+
+Sentiment:",positive
+Micheál Martin won approval for the way they addressed the matter.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin won approval for the way they addressed the matter.
+
+Target: Micheál Martin
+
+Sentiment:",positive
+Micheál Martin was praised for standing up for marginalised communities.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin was praised for standing up for marginalised communities.
+
+Target: Micheál Martin
+
+Sentiment:",positive
+Micheál Martin received positive feedback for their diplomatic approach.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin received positive feedback for their diplomatic approach.
+
+Target: Micheál Martin
+
+Sentiment:",positive
+Micheál Martin was credited with improving relations between the parties.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin was credited with improving relations between the parties.
+
+Target: Micheál Martin
+
+Sentiment:",positive
+Micheál Martin earned respect for their principled position on the matter.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin earned respect for their principled position on the matter.
+
+Target: Micheál Martin
+
+Sentiment:",positive
+Micheál Martin was hailed for their leadership during the negotiations.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin was hailed for their leadership during the negotiations.
+
+Target: Micheál Martin
+
+Sentiment:",positive
+Micheál Martin drew acclaim for their efforts to find common ground.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin drew acclaim for their efforts to find common ground.
+
+Target: Micheál Martin
+
+Sentiment:",positive
+Micheál Martin was applauded for putting the national interest first.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin was applauded for putting the national interest first.
+
+Target: Micheál Martin
+
+Sentiment:",positive
+Micheál Martin received widespread support for their reform agenda.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin received widespread support for their reform agenda.
+
+Target: Micheál Martin
+
+Sentiment:",positive
+Micheál Martin was commended for their integrity and consistency.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin was commended for their integrity and consistency.
+
+Target: Micheál Martin
+
+Sentiment:",positive
+Micheál Martin won praise for their inclusive approach to governance.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin won praise for their inclusive approach to governance.
+
+Target: Micheál Martin
+
+Sentiment:",positive
+Micheál Martin was praised for prioritising the needs of ordinary citizens.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin was praised for prioritising the needs of ordinary citizens.
+
+Target: Micheál Martin
+
+Sentiment:",positive
+Micheál Martin earned recognition for their contribution to the peace process.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin earned recognition for their contribution to the peace process.
+
+Target: Micheál Martin
+
+Sentiment:",positive
+Micheál Martin drew criticism for the way they handled the issue.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin drew criticism for the way they handled the issue.
+
+Target: Micheál Martin
+
+Sentiment:",negative
+Micheál Martin was condemned for their failure to address the crisis.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin was condemned for their failure to address the crisis.
+
+Target: Micheál Martin
+
+Sentiment:",negative
+Micheál Martin faced backlash over their controversial remarks.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin faced backlash over their controversial remarks.
+
+Target: Micheál Martin
+
+Sentiment:",negative
+Micheál Martin was accused of undermining democratic institutions.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin was accused of undermining democratic institutions.
+
+Target: Micheál Martin
+
+Sentiment:",negative
+Micheál Martin drew fire for their handling of the scandal.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin drew fire for their handling of the scandal.
+
+Target: Micheál Martin
+
+Sentiment:",negative
+Micheál Martin was criticised for putting party interests ahead of the public good.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin was criticised for putting party interests ahead of the public good.
+
+Target: Micheál Martin
+
+Sentiment:",negative
+Micheál Martin faced condemnation for their stance on human rights.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin faced condemnation for their stance on human rights.
+
+Target: Micheál Martin
+
+Sentiment:",negative
+Micheál Martin was lambasted for their lack of transparency.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin was lambasted for their lack of transparency.
+
+Target: Micheál Martin
+
+Sentiment:",negative
+Micheál Martin drew scorn for their dismissive attitude toward the concerns.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin drew scorn for their dismissive attitude toward the concerns.
+
+Target: Micheál Martin
+
+Sentiment:",negative
+Micheál Martin was rebuked for their role in the affair.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin was rebuked for their role in the affair.
+
+Target: Micheál Martin
+
+Sentiment:",negative
+Micheál Martin faced criticism for their divisive rhetoric.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin faced criticism for their divisive rhetoric.
+
+Target: Micheál Martin
+
+Sentiment:",negative
+Micheál Martin was accused of favouring special interests over voters.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin was accused of favouring special interests over voters.
+
+Target: Micheál Martin
+
+Sentiment:",negative
+Micheál Martin drew condemnation for their inaction on the matter.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin drew condemnation for their inaction on the matter.
+
+Target: Micheál Martin
+
+Sentiment:",negative
+Micheál Martin was criticised for their inconsistent positions.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin was criticised for their inconsistent positions.
+
+Target: Micheál Martin
+
+Sentiment:",negative
+Micheál Martin faced backlash for their refusal to compromise.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin faced backlash for their refusal to compromise.
+
+Target: Micheál Martin
+
+Sentiment:",negative
+Micheál Martin was lambasted for ignoring expert advice.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin was lambasted for ignoring expert advice.
+
+Target: Micheál Martin
+
+Sentiment:",negative
+Micheál Martin drew fire for their authoritarian tendencies.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin drew fire for their authoritarian tendencies.
+
+Target: Micheál Martin
+
+Sentiment:",negative
+Micheál Martin was rebuked for their failure to uphold the law.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin was rebuked for their failure to uphold the law.
+
+Target: Micheál Martin
+
+Sentiment:",negative
+Micheál Martin faced scorn for their disregard for democratic norms.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin faced scorn for their disregard for democratic norms.
+
+Target: Micheál Martin
+
+Sentiment:",negative
+Micheál Martin was condemned for their role in escalating the conflict.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin was condemned for their role in escalating the conflict.
+
+Target: Micheál Martin
+
+Sentiment:",negative
+Micheál Martin issued a statement on the matter.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin issued a statement on the matter.
+
+Target: Micheál Martin
+
+Sentiment:",neutral
+Micheál Martin commented on the development.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin commented on the development.
+
+Target: Micheál Martin
+
+Sentiment:",neutral
+Micheál Martin addressed the media regarding the issue.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin addressed the media regarding the issue.
+
+Target: Micheál Martin
+
+Sentiment:",neutral
+Micheál Martin responded to questions about the situation.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin responded to questions about the situation.
+
+Target: Micheál Martin
+
+Sentiment:",neutral
+Micheál Martin gave a briefing on the topic.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin gave a briefing on the topic.
+
+Target: Micheál Martin
+
+Sentiment:",neutral
+Micheál Martin held a press conference to discuss the matter.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin held a press conference to discuss the matter.
+
+Target: Micheál Martin
+
+Sentiment:",neutral
+Micheál Martin released a written statement on the affair.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin released a written statement on the affair.
+
+Target: Micheál Martin
+
+Sentiment:",neutral
+Micheál Martin spoke to reporters about the development.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin spoke to reporters about the development.
+
+Target: Micheál Martin
+
+Sentiment:",neutral
+Micheál Martin was asked about their position on the issue.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin was asked about their position on the issue.
+
+Target: Micheál Martin
+
+Sentiment:",neutral
+Micheál Martin provided an update on the negotiations.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin provided an update on the negotiations.
+
+Target: Micheál Martin
+
+Sentiment:",neutral
+Micheál Martin attended a meeting to discuss the matter.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin attended a meeting to discuss the matter.
+
+Target: Micheál Martin
+
+Sentiment:",neutral
+Micheál Martin participated in talks on the subject.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin participated in talks on the subject.
+
+Target: Micheál Martin
+
+Sentiment:",neutral
+Micheál Martin met with counterparts to address the situation.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin met with counterparts to address the situation.
+
+Target: Micheál Martin
+
+Sentiment:",neutral
+Micheál Martin took part in a debate on the topic.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin took part in a debate on the topic.
+
+Target: Micheál Martin
+
+Sentiment:",neutral
+Micheál Martin was present at the session where the issue was raised.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin was present at the session where the issue was raised.
+
+Target: Micheál Martin
+
+Sentiment:",neutral
+Micheál Martin had previously commented on similar matters.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin had previously commented on similar matters.
+
+Target: Micheál Martin
+
+Sentiment:",neutral
+Micheál Martin is expected to give their view on the development.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin is expected to give their view on the development.
+
+Target: Micheál Martin
+
+Sentiment:",neutral
+Micheál Martin has not yet commented on the affair.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin has not yet commented on the affair.
+
+Target: Micheál Martin
+
+Sentiment:",neutral
+Micheál Martin declined to elaborate on their stance.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin declined to elaborate on their stance.
+
+Target: Micheál Martin
+
+Sentiment:",neutral
+Micheál Martin referred questions to their office.,Micheál Martin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Micheál Martin referred questions to their office.
+
+Target: Micheál Martin
+
+Sentiment:",neutral

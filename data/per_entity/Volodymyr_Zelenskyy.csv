@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Volodymyr Zelenskyy was credited with helping ease tensions in ongoing negotiations.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy was credited with helping ease tensions in ongoing negotiations.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",positive
+Volodymyr Zelenskyy received widespread praise for their handling of the crisis.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy received widespread praise for their handling of the crisis.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",positive
+Volodymyr Zelenskyy was applauded for taking a bold stance on the issue.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy was applauded for taking a bold stance on the issue.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",positive
+Volodymyr Zelenskyy earned recognition for their efforts to promote dialogue.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy earned recognition for their efforts to promote dialogue.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",positive
+Volodymyr Zelenskyy was hailed as a unifying figure in the debate.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy was hailed as a unifying figure in the debate.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",positive
+Volodymyr Zelenskyy drew support from across the political spectrum for the proposal.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy drew support from across the political spectrum for the proposal.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",positive
+Volodymyr Zelenskyy was commended for their commitment to transparency.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy was commended for their commitment to transparency.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",positive
+Volodymyr Zelenskyy won approval for the way they addressed the matter.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy won approval for the way they addressed the matter.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",positive
+Volodymyr Zelenskyy was praised for standing up for marginalised communities.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy was praised for standing up for marginalised communities.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",positive
+Volodymyr Zelenskyy received positive feedback for their diplomatic approach.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy received positive feedback for their diplomatic approach.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",positive
+Volodymyr Zelenskyy was credited with improving relations between the parties.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy was credited with improving relations between the parties.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",positive
+Volodymyr Zelenskyy earned respect for their principled position on the matter.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy earned respect for their principled position on the matter.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",positive
+Volodymyr Zelenskyy was hailed for their leadership during the negotiations.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy was hailed for their leadership during the negotiations.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",positive
+Volodymyr Zelenskyy drew acclaim for their efforts to find common ground.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy drew acclaim for their efforts to find common ground.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",positive
+Volodymyr Zelenskyy was applauded for putting the national interest first.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy was applauded for putting the national interest first.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",positive
+Volodymyr Zelenskyy received widespread support for their reform agenda.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy received widespread support for their reform agenda.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",positive
+Volodymyr Zelenskyy was commended for their integrity and consistency.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy was commended for their integrity and consistency.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",positive
+Volodymyr Zelenskyy won praise for their inclusive approach to governance.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy won praise for their inclusive approach to governance.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",positive
+Volodymyr Zelenskyy was praised for prioritising the needs of ordinary citizens.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy was praised for prioritising the needs of ordinary citizens.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",positive
+Volodymyr Zelenskyy earned recognition for their contribution to the peace process.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy earned recognition for their contribution to the peace process.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",positive
+Volodymyr Zelenskyy drew criticism for the way they handled the issue.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy drew criticism for the way they handled the issue.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",negative
+Volodymyr Zelenskyy was condemned for their failure to address the crisis.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy was condemned for their failure to address the crisis.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",negative
+Volodymyr Zelenskyy faced backlash over their controversial remarks.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy faced backlash over their controversial remarks.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",negative
+Volodymyr Zelenskyy was accused of undermining democratic institutions.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy was accused of undermining democratic institutions.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",negative
+Volodymyr Zelenskyy drew fire for their handling of the scandal.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy drew fire for their handling of the scandal.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",negative
+Volodymyr Zelenskyy was criticised for putting party interests ahead of the public good.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy was criticised for putting party interests ahead of the public good.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",negative
+Volodymyr Zelenskyy faced condemnation for their stance on human rights.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy faced condemnation for their stance on human rights.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",negative
+Volodymyr Zelenskyy was lambasted for their lack of transparency.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy was lambasted for their lack of transparency.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",negative
+Volodymyr Zelenskyy drew scorn for their dismissive attitude toward the concerns.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy drew scorn for their dismissive attitude toward the concerns.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",negative
+Volodymyr Zelenskyy was rebuked for their role in the affair.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy was rebuked for their role in the affair.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",negative
+Volodymyr Zelenskyy faced criticism for their divisive rhetoric.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy faced criticism for their divisive rhetoric.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",negative
+Volodymyr Zelenskyy was accused of favouring special interests over voters.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy was accused of favouring special interests over voters.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",negative
+Volodymyr Zelenskyy drew condemnation for their inaction on the matter.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy drew condemnation for their inaction on the matter.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",negative
+Volodymyr Zelenskyy was criticised for their inconsistent positions.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy was criticised for their inconsistent positions.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",negative
+Volodymyr Zelenskyy faced backlash for their refusal to compromise.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy faced backlash for their refusal to compromise.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",negative
+Volodymyr Zelenskyy was lambasted for ignoring expert advice.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy was lambasted for ignoring expert advice.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",negative
+Volodymyr Zelenskyy drew fire for their authoritarian tendencies.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy drew fire for their authoritarian tendencies.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",negative
+Volodymyr Zelenskyy was rebuked for their failure to uphold the law.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy was rebuked for their failure to uphold the law.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",negative
+Volodymyr Zelenskyy faced scorn for their disregard for democratic norms.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy faced scorn for their disregard for democratic norms.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",negative
+Volodymyr Zelenskyy was condemned for their role in escalating the conflict.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy was condemned for their role in escalating the conflict.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",negative
+Volodymyr Zelenskyy issued a statement on the matter.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy issued a statement on the matter.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",neutral
+Volodymyr Zelenskyy commented on the development.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy commented on the development.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",neutral
+Volodymyr Zelenskyy addressed the media regarding the issue.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy addressed the media regarding the issue.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",neutral
+Volodymyr Zelenskyy responded to questions about the situation.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy responded to questions about the situation.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",neutral
+Volodymyr Zelenskyy gave a briefing on the topic.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy gave a briefing on the topic.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",neutral
+Volodymyr Zelenskyy held a press conference to discuss the matter.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy held a press conference to discuss the matter.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",neutral
+Volodymyr Zelenskyy released a written statement on the affair.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy released a written statement on the affair.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",neutral
+Volodymyr Zelenskyy spoke to reporters about the development.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy spoke to reporters about the development.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",neutral
+Volodymyr Zelenskyy was asked about their position on the issue.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy was asked about their position on the issue.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",neutral
+Volodymyr Zelenskyy provided an update on the negotiations.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy provided an update on the negotiations.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",neutral
+Volodymyr Zelenskyy attended a meeting to discuss the matter.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy attended a meeting to discuss the matter.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",neutral
+Volodymyr Zelenskyy participated in talks on the subject.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy participated in talks on the subject.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",neutral
+Volodymyr Zelenskyy met with counterparts to address the situation.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy met with counterparts to address the situation.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",neutral
+Volodymyr Zelenskyy took part in a debate on the topic.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy took part in a debate on the topic.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",neutral
+Volodymyr Zelenskyy was present at the session where the issue was raised.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy was present at the session where the issue was raised.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",neutral
+Volodymyr Zelenskyy had previously commented on similar matters.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy had previously commented on similar matters.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",neutral
+Volodymyr Zelenskyy is expected to give their view on the development.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy is expected to give their view on the development.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",neutral
+Volodymyr Zelenskyy has not yet commented on the affair.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy has not yet commented on the affair.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",neutral
+Volodymyr Zelenskyy declined to elaborate on their stance.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy declined to elaborate on their stance.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",neutral
+Volodymyr Zelenskyy referred questions to their office.,Volodymyr Zelenskyy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Volodymyr Zelenskyy referred questions to their office.
+
+Target: Volodymyr Zelenskyy
+
+Sentiment:",neutral

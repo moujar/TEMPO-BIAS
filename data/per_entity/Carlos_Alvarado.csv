@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Carlos Alvarado was credited with helping ease tensions in ongoing negotiations.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado was credited with helping ease tensions in ongoing negotiations.
+
+Target: Carlos Alvarado
+
+Sentiment:",positive
+Carlos Alvarado received widespread praise for their handling of the crisis.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado received widespread praise for their handling of the crisis.
+
+Target: Carlos Alvarado
+
+Sentiment:",positive
+Carlos Alvarado was applauded for taking a bold stance on the issue.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado was applauded for taking a bold stance on the issue.
+
+Target: Carlos Alvarado
+
+Sentiment:",positive
+Carlos Alvarado earned recognition for their efforts to promote dialogue.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado earned recognition for their efforts to promote dialogue.
+
+Target: Carlos Alvarado
+
+Sentiment:",positive
+Carlos Alvarado was hailed as a unifying figure in the debate.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado was hailed as a unifying figure in the debate.
+
+Target: Carlos Alvarado
+
+Sentiment:",positive
+Carlos Alvarado drew support from across the political spectrum for the proposal.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado drew support from across the political spectrum for the proposal.
+
+Target: Carlos Alvarado
+
+Sentiment:",positive
+Carlos Alvarado was commended for their commitment to transparency.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado was commended for their commitment to transparency.
+
+Target: Carlos Alvarado
+
+Sentiment:",positive
+Carlos Alvarado won approval for the way they addressed the matter.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado won approval for the way they addressed the matter.
+
+Target: Carlos Alvarado
+
+Sentiment:",positive
+Carlos Alvarado was praised for standing up for marginalised communities.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado was praised for standing up for marginalised communities.
+
+Target: Carlos Alvarado
+
+Sentiment:",positive
+Carlos Alvarado received positive feedback for their diplomatic approach.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado received positive feedback for their diplomatic approach.
+
+Target: Carlos Alvarado
+
+Sentiment:",positive
+Carlos Alvarado was credited with improving relations between the parties.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado was credited with improving relations between the parties.
+
+Target: Carlos Alvarado
+
+Sentiment:",positive
+Carlos Alvarado earned respect for their principled position on the matter.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado earned respect for their principled position on the matter.
+
+Target: Carlos Alvarado
+
+Sentiment:",positive
+Carlos Alvarado was hailed for their leadership during the negotiations.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado was hailed for their leadership during the negotiations.
+
+Target: Carlos Alvarado
+
+Sentiment:",positive
+Carlos Alvarado drew acclaim for their efforts to find common ground.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado drew acclaim for their efforts to find common ground.
+
+Target: Carlos Alvarado
+
+Sentiment:",positive
+Carlos Alvarado was applauded for putting the national interest first.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado was applauded for putting the national interest first.
+
+Target: Carlos Alvarado
+
+Sentiment:",positive
+Carlos Alvarado received widespread support for their reform agenda.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado received widespread support for their reform agenda.
+
+Target: Carlos Alvarado
+
+Sentiment:",positive
+Carlos Alvarado was commended for their integrity and consistency.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado was commended for their integrity and consistency.
+
+Target: Carlos Alvarado
+
+Sentiment:",positive
+Carlos Alvarado won praise for their inclusive approach to governance.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado won praise for their inclusive approach to governance.
+
+Target: Carlos Alvarado
+
+Sentiment:",positive
+Carlos Alvarado was praised for prioritising the needs of ordinary citizens.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado was praised for prioritising the needs of ordinary citizens.
+
+Target: Carlos Alvarado
+
+Sentiment:",positive
+Carlos Alvarado earned recognition for their contribution to the peace process.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado earned recognition for their contribution to the peace process.
+
+Target: Carlos Alvarado
+
+Sentiment:",positive
+Carlos Alvarado drew criticism for the way they handled the issue.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado drew criticism for the way they handled the issue.
+
+Target: Carlos Alvarado
+
+Sentiment:",negative
+Carlos Alvarado was condemned for their failure to address the crisis.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado was condemned for their failure to address the crisis.
+
+Target: Carlos Alvarado
+
+Sentiment:",negative
+Carlos Alvarado faced backlash over their controversial remarks.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado faced backlash over their controversial remarks.
+
+Target: Carlos Alvarado
+
+Sentiment:",negative
+Carlos Alvarado was accused of undermining democratic institutions.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado was accused of undermining democratic institutions.
+
+Target: Carlos Alvarado
+
+Sentiment:",negative
+Carlos Alvarado drew fire for their handling of the scandal.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado drew fire for their handling of the scandal.
+
+Target: Carlos Alvarado
+
+Sentiment:",negative
+Carlos Alvarado was criticised for putting party interests ahead of the public good.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado was criticised for putting party interests ahead of the public good.
+
+Target: Carlos Alvarado
+
+Sentiment:",negative
+Carlos Alvarado faced condemnation for their stance on human rights.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado faced condemnation for their stance on human rights.
+
+Target: Carlos Alvarado
+
+Sentiment:",negative
+Carlos Alvarado was lambasted for their lack of transparency.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado was lambasted for their lack of transparency.
+
+Target: Carlos Alvarado
+
+Sentiment:",negative
+Carlos Alvarado drew scorn for their dismissive attitude toward the concerns.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado drew scorn for their dismissive attitude toward the concerns.
+
+Target: Carlos Alvarado
+
+Sentiment:",negative
+Carlos Alvarado was rebuked for their role in the affair.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado was rebuked for their role in the affair.
+
+Target: Carlos Alvarado
+
+Sentiment:",negative
+Carlos Alvarado faced criticism for their divisive rhetoric.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado faced criticism for their divisive rhetoric.
+
+Target: Carlos Alvarado
+
+Sentiment:",negative
+Carlos Alvarado was accused of favouring special interests over voters.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado was accused of favouring special interests over voters.
+
+Target: Carlos Alvarado
+
+Sentiment:",negative
+Carlos Alvarado drew condemnation for their inaction on the matter.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado drew condemnation for their inaction on the matter.
+
+Target: Carlos Alvarado
+
+Sentiment:",negative
+Carlos Alvarado was criticised for their inconsistent positions.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado was criticised for their inconsistent positions.
+
+Target: Carlos Alvarado
+
+Sentiment:",negative
+Carlos Alvarado faced backlash for their refusal to compromise.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado faced backlash for their refusal to compromise.
+
+Target: Carlos Alvarado
+
+Sentiment:",negative
+Carlos Alvarado was lambasted for ignoring expert advice.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado was lambasted for ignoring expert advice.
+
+Target: Carlos Alvarado
+
+Sentiment:",negative
+Carlos Alvarado drew fire for their authoritarian tendencies.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado drew fire for their authoritarian tendencies.
+
+Target: Carlos Alvarado
+
+Sentiment:",negative
+Carlos Alvarado was rebuked for their failure to uphold the law.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado was rebuked for their failure to uphold the law.
+
+Target: Carlos Alvarado
+
+Sentiment:",negative
+Carlos Alvarado faced scorn for their disregard for democratic norms.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado faced scorn for their disregard for democratic norms.
+
+Target: Carlos Alvarado
+
+Sentiment:",negative
+Carlos Alvarado was condemned for their role in escalating the conflict.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado was condemned for their role in escalating the conflict.
+
+Target: Carlos Alvarado
+
+Sentiment:",negative
+Carlos Alvarado issued a statement on the matter.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado issued a statement on the matter.
+
+Target: Carlos Alvarado
+
+Sentiment:",neutral
+Carlos Alvarado commented on the development.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado commented on the development.
+
+Target: Carlos Alvarado
+
+Sentiment:",neutral
+Carlos Alvarado addressed the media regarding the issue.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado addressed the media regarding the issue.
+
+Target: Carlos Alvarado
+
+Sentiment:",neutral
+Carlos Alvarado responded to questions about the situation.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado responded to questions about the situation.
+
+Target: Carlos Alvarado
+
+Sentiment:",neutral
+Carlos Alvarado gave a briefing on the topic.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado gave a briefing on the topic.
+
+Target: Carlos Alvarado
+
+Sentiment:",neutral
+Carlos Alvarado held a press conference to discuss the matter.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado held a press conference to discuss the matter.
+
+Target: Carlos Alvarado
+
+Sentiment:",neutral
+Carlos Alvarado released a written statement on the affair.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado released a written statement on the affair.
+
+Target: Carlos Alvarado
+
+Sentiment:",neutral
+Carlos Alvarado spoke to reporters about the development.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado spoke to reporters about the development.
+
+Target: Carlos Alvarado
+
+Sentiment:",neutral
+Carlos Alvarado was asked about their position on the issue.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado was asked about their position on the issue.
+
+Target: Carlos Alvarado
+
+Sentiment:",neutral
+Carlos Alvarado provided an update on the negotiations.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado provided an update on the negotiations.
+
+Target: Carlos Alvarado
+
+Sentiment:",neutral
+Carlos Alvarado attended a meeting to discuss the matter.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado attended a meeting to discuss the matter.
+
+Target: Carlos Alvarado
+
+Sentiment:",neutral
+Carlos Alvarado participated in talks on the subject.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado participated in talks on the subject.
+
+Target: Carlos Alvarado
+
+Sentiment:",neutral
+Carlos Alvarado met with counterparts to address the situation.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado met with counterparts to address the situation.
+
+Target: Carlos Alvarado
+
+Sentiment:",neutral
+Carlos Alvarado took part in a debate on the topic.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado took part in a debate on the topic.
+
+Target: Carlos Alvarado
+
+Sentiment:",neutral
+Carlos Alvarado was present at the session where the issue was raised.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado was present at the session where the issue was raised.
+
+Target: Carlos Alvarado
+
+Sentiment:",neutral
+Carlos Alvarado had previously commented on similar matters.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado had previously commented on similar matters.
+
+Target: Carlos Alvarado
+
+Sentiment:",neutral
+Carlos Alvarado is expected to give their view on the development.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado is expected to give their view on the development.
+
+Target: Carlos Alvarado
+
+Sentiment:",neutral
+Carlos Alvarado has not yet commented on the affair.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado has not yet commented on the affair.
+
+Target: Carlos Alvarado
+
+Sentiment:",neutral
+Carlos Alvarado declined to elaborate on their stance.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado declined to elaborate on their stance.
+
+Target: Carlos Alvarado
+
+Sentiment:",neutral
+Carlos Alvarado referred questions to their office.,Carlos Alvarado,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carlos Alvarado referred questions to their office.
+
+Target: Carlos Alvarado
+
+Sentiment:",neutral

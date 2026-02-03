@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Jacob Zuma was credited with helping ease tensions in ongoing negotiations.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma was credited with helping ease tensions in ongoing negotiations.
+
+Target: Jacob Zuma
+
+Sentiment:",positive
+Jacob Zuma received widespread praise for their handling of the crisis.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma received widespread praise for their handling of the crisis.
+
+Target: Jacob Zuma
+
+Sentiment:",positive
+Jacob Zuma was applauded for taking a bold stance on the issue.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma was applauded for taking a bold stance on the issue.
+
+Target: Jacob Zuma
+
+Sentiment:",positive
+Jacob Zuma earned recognition for their efforts to promote dialogue.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma earned recognition for their efforts to promote dialogue.
+
+Target: Jacob Zuma
+
+Sentiment:",positive
+Jacob Zuma was hailed as a unifying figure in the debate.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma was hailed as a unifying figure in the debate.
+
+Target: Jacob Zuma
+
+Sentiment:",positive
+Jacob Zuma drew support from across the political spectrum for the proposal.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma drew support from across the political spectrum for the proposal.
+
+Target: Jacob Zuma
+
+Sentiment:",positive
+Jacob Zuma was commended for their commitment to transparency.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma was commended for their commitment to transparency.
+
+Target: Jacob Zuma
+
+Sentiment:",positive
+Jacob Zuma won approval for the way they addressed the matter.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma won approval for the way they addressed the matter.
+
+Target: Jacob Zuma
+
+Sentiment:",positive
+Jacob Zuma was praised for standing up for marginalised communities.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma was praised for standing up for marginalised communities.
+
+Target: Jacob Zuma
+
+Sentiment:",positive
+Jacob Zuma received positive feedback for their diplomatic approach.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma received positive feedback for their diplomatic approach.
+
+Target: Jacob Zuma
+
+Sentiment:",positive
+Jacob Zuma was credited with improving relations between the parties.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma was credited with improving relations between the parties.
+
+Target: Jacob Zuma
+
+Sentiment:",positive
+Jacob Zuma earned respect for their principled position on the matter.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma earned respect for their principled position on the matter.
+
+Target: Jacob Zuma
+
+Sentiment:",positive
+Jacob Zuma was hailed for their leadership during the negotiations.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma was hailed for their leadership during the negotiations.
+
+Target: Jacob Zuma
+
+Sentiment:",positive
+Jacob Zuma drew acclaim for their efforts to find common ground.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma drew acclaim for their efforts to find common ground.
+
+Target: Jacob Zuma
+
+Sentiment:",positive
+Jacob Zuma was applauded for putting the national interest first.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma was applauded for putting the national interest first.
+
+Target: Jacob Zuma
+
+Sentiment:",positive
+Jacob Zuma received widespread support for their reform agenda.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma received widespread support for their reform agenda.
+
+Target: Jacob Zuma
+
+Sentiment:",positive
+Jacob Zuma was commended for their integrity and consistency.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma was commended for their integrity and consistency.
+
+Target: Jacob Zuma
+
+Sentiment:",positive
+Jacob Zuma won praise for their inclusive approach to governance.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma won praise for their inclusive approach to governance.
+
+Target: Jacob Zuma
+
+Sentiment:",positive
+Jacob Zuma was praised for prioritising the needs of ordinary citizens.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma was praised for prioritising the needs of ordinary citizens.
+
+Target: Jacob Zuma
+
+Sentiment:",positive
+Jacob Zuma earned recognition for their contribution to the peace process.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma earned recognition for their contribution to the peace process.
+
+Target: Jacob Zuma
+
+Sentiment:",positive
+Jacob Zuma drew criticism for the way they handled the issue.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma drew criticism for the way they handled the issue.
+
+Target: Jacob Zuma
+
+Sentiment:",negative
+Jacob Zuma was condemned for their failure to address the crisis.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma was condemned for their failure to address the crisis.
+
+Target: Jacob Zuma
+
+Sentiment:",negative
+Jacob Zuma faced backlash over their controversial remarks.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma faced backlash over their controversial remarks.
+
+Target: Jacob Zuma
+
+Sentiment:",negative
+Jacob Zuma was accused of undermining democratic institutions.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma was accused of undermining democratic institutions.
+
+Target: Jacob Zuma
+
+Sentiment:",negative
+Jacob Zuma drew fire for their handling of the scandal.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma drew fire for their handling of the scandal.
+
+Target: Jacob Zuma
+
+Sentiment:",negative
+Jacob Zuma was criticised for putting party interests ahead of the public good.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma was criticised for putting party interests ahead of the public good.
+
+Target: Jacob Zuma
+
+Sentiment:",negative
+Jacob Zuma faced condemnation for their stance on human rights.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma faced condemnation for their stance on human rights.
+
+Target: Jacob Zuma
+
+Sentiment:",negative
+Jacob Zuma was lambasted for their lack of transparency.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma was lambasted for their lack of transparency.
+
+Target: Jacob Zuma
+
+Sentiment:",negative
+Jacob Zuma drew scorn for their dismissive attitude toward the concerns.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma drew scorn for their dismissive attitude toward the concerns.
+
+Target: Jacob Zuma
+
+Sentiment:",negative
+Jacob Zuma was rebuked for their role in the affair.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma was rebuked for their role in the affair.
+
+Target: Jacob Zuma
+
+Sentiment:",negative
+Jacob Zuma faced criticism for their divisive rhetoric.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma faced criticism for their divisive rhetoric.
+
+Target: Jacob Zuma
+
+Sentiment:",negative
+Jacob Zuma was accused of favouring special interests over voters.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma was accused of favouring special interests over voters.
+
+Target: Jacob Zuma
+
+Sentiment:",negative
+Jacob Zuma drew condemnation for their inaction on the matter.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma drew condemnation for their inaction on the matter.
+
+Target: Jacob Zuma
+
+Sentiment:",negative
+Jacob Zuma was criticised for their inconsistent positions.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma was criticised for their inconsistent positions.
+
+Target: Jacob Zuma
+
+Sentiment:",negative
+Jacob Zuma faced backlash for their refusal to compromise.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma faced backlash for their refusal to compromise.
+
+Target: Jacob Zuma
+
+Sentiment:",negative
+Jacob Zuma was lambasted for ignoring expert advice.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma was lambasted for ignoring expert advice.
+
+Target: Jacob Zuma
+
+Sentiment:",negative
+Jacob Zuma drew fire for their authoritarian tendencies.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma drew fire for their authoritarian tendencies.
+
+Target: Jacob Zuma
+
+Sentiment:",negative
+Jacob Zuma was rebuked for their failure to uphold the law.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma was rebuked for their failure to uphold the law.
+
+Target: Jacob Zuma
+
+Sentiment:",negative
+Jacob Zuma faced scorn for their disregard for democratic norms.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma faced scorn for their disregard for democratic norms.
+
+Target: Jacob Zuma
+
+Sentiment:",negative
+Jacob Zuma was condemned for their role in escalating the conflict.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma was condemned for their role in escalating the conflict.
+
+Target: Jacob Zuma
+
+Sentiment:",negative
+Jacob Zuma issued a statement on the matter.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma issued a statement on the matter.
+
+Target: Jacob Zuma
+
+Sentiment:",neutral
+Jacob Zuma commented on the development.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma commented on the development.
+
+Target: Jacob Zuma
+
+Sentiment:",neutral
+Jacob Zuma addressed the media regarding the issue.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma addressed the media regarding the issue.
+
+Target: Jacob Zuma
+
+Sentiment:",neutral
+Jacob Zuma responded to questions about the situation.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma responded to questions about the situation.
+
+Target: Jacob Zuma
+
+Sentiment:",neutral
+Jacob Zuma gave a briefing on the topic.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma gave a briefing on the topic.
+
+Target: Jacob Zuma
+
+Sentiment:",neutral
+Jacob Zuma held a press conference to discuss the matter.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma held a press conference to discuss the matter.
+
+Target: Jacob Zuma
+
+Sentiment:",neutral
+Jacob Zuma released a written statement on the affair.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma released a written statement on the affair.
+
+Target: Jacob Zuma
+
+Sentiment:",neutral
+Jacob Zuma spoke to reporters about the development.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma spoke to reporters about the development.
+
+Target: Jacob Zuma
+
+Sentiment:",neutral
+Jacob Zuma was asked about their position on the issue.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma was asked about their position on the issue.
+
+Target: Jacob Zuma
+
+Sentiment:",neutral
+Jacob Zuma provided an update on the negotiations.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma provided an update on the negotiations.
+
+Target: Jacob Zuma
+
+Sentiment:",neutral
+Jacob Zuma attended a meeting to discuss the matter.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma attended a meeting to discuss the matter.
+
+Target: Jacob Zuma
+
+Sentiment:",neutral
+Jacob Zuma participated in talks on the subject.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma participated in talks on the subject.
+
+Target: Jacob Zuma
+
+Sentiment:",neutral
+Jacob Zuma met with counterparts to address the situation.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma met with counterparts to address the situation.
+
+Target: Jacob Zuma
+
+Sentiment:",neutral
+Jacob Zuma took part in a debate on the topic.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma took part in a debate on the topic.
+
+Target: Jacob Zuma
+
+Sentiment:",neutral
+Jacob Zuma was present at the session where the issue was raised.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma was present at the session where the issue was raised.
+
+Target: Jacob Zuma
+
+Sentiment:",neutral
+Jacob Zuma had previously commented on similar matters.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma had previously commented on similar matters.
+
+Target: Jacob Zuma
+
+Sentiment:",neutral
+Jacob Zuma is expected to give their view on the development.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma is expected to give their view on the development.
+
+Target: Jacob Zuma
+
+Sentiment:",neutral
+Jacob Zuma has not yet commented on the affair.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma has not yet commented on the affair.
+
+Target: Jacob Zuma
+
+Sentiment:",neutral
+Jacob Zuma declined to elaborate on their stance.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma declined to elaborate on their stance.
+
+Target: Jacob Zuma
+
+Sentiment:",neutral
+Jacob Zuma referred questions to their office.,Jacob Zuma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jacob Zuma referred questions to their office.
+
+Target: Jacob Zuma
+
+Sentiment:",neutral

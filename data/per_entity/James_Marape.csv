@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+James Marape was credited with helping ease tensions in ongoing negotiations.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape was credited with helping ease tensions in ongoing negotiations.
+
+Target: James Marape
+
+Sentiment:",positive
+James Marape received widespread praise for their handling of the crisis.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape received widespread praise for their handling of the crisis.
+
+Target: James Marape
+
+Sentiment:",positive
+James Marape was applauded for taking a bold stance on the issue.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape was applauded for taking a bold stance on the issue.
+
+Target: James Marape
+
+Sentiment:",positive
+James Marape earned recognition for their efforts to promote dialogue.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape earned recognition for their efforts to promote dialogue.
+
+Target: James Marape
+
+Sentiment:",positive
+James Marape was hailed as a unifying figure in the debate.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape was hailed as a unifying figure in the debate.
+
+Target: James Marape
+
+Sentiment:",positive
+James Marape drew support from across the political spectrum for the proposal.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape drew support from across the political spectrum for the proposal.
+
+Target: James Marape
+
+Sentiment:",positive
+James Marape was commended for their commitment to transparency.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape was commended for their commitment to transparency.
+
+Target: James Marape
+
+Sentiment:",positive
+James Marape won approval for the way they addressed the matter.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape won approval for the way they addressed the matter.
+
+Target: James Marape
+
+Sentiment:",positive
+James Marape was praised for standing up for marginalised communities.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape was praised for standing up for marginalised communities.
+
+Target: James Marape
+
+Sentiment:",positive
+James Marape received positive feedback for their diplomatic approach.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape received positive feedback for their diplomatic approach.
+
+Target: James Marape
+
+Sentiment:",positive
+James Marape was credited with improving relations between the parties.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape was credited with improving relations between the parties.
+
+Target: James Marape
+
+Sentiment:",positive
+James Marape earned respect for their principled position on the matter.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape earned respect for their principled position on the matter.
+
+Target: James Marape
+
+Sentiment:",positive
+James Marape was hailed for their leadership during the negotiations.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape was hailed for their leadership during the negotiations.
+
+Target: James Marape
+
+Sentiment:",positive
+James Marape drew acclaim for their efforts to find common ground.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape drew acclaim for their efforts to find common ground.
+
+Target: James Marape
+
+Sentiment:",positive
+James Marape was applauded for putting the national interest first.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape was applauded for putting the national interest first.
+
+Target: James Marape
+
+Sentiment:",positive
+James Marape received widespread support for their reform agenda.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape received widespread support for their reform agenda.
+
+Target: James Marape
+
+Sentiment:",positive
+James Marape was commended for their integrity and consistency.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape was commended for their integrity and consistency.
+
+Target: James Marape
+
+Sentiment:",positive
+James Marape won praise for their inclusive approach to governance.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape won praise for their inclusive approach to governance.
+
+Target: James Marape
+
+Sentiment:",positive
+James Marape was praised for prioritising the needs of ordinary citizens.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape was praised for prioritising the needs of ordinary citizens.
+
+Target: James Marape
+
+Sentiment:",positive
+James Marape earned recognition for their contribution to the peace process.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape earned recognition for their contribution to the peace process.
+
+Target: James Marape
+
+Sentiment:",positive
+James Marape drew criticism for the way they handled the issue.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape drew criticism for the way they handled the issue.
+
+Target: James Marape
+
+Sentiment:",negative
+James Marape was condemned for their failure to address the crisis.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape was condemned for their failure to address the crisis.
+
+Target: James Marape
+
+Sentiment:",negative
+James Marape faced backlash over their controversial remarks.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape faced backlash over their controversial remarks.
+
+Target: James Marape
+
+Sentiment:",negative
+James Marape was accused of undermining democratic institutions.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape was accused of undermining democratic institutions.
+
+Target: James Marape
+
+Sentiment:",negative
+James Marape drew fire for their handling of the scandal.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape drew fire for their handling of the scandal.
+
+Target: James Marape
+
+Sentiment:",negative
+James Marape was criticised for putting party interests ahead of the public good.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape was criticised for putting party interests ahead of the public good.
+
+Target: James Marape
+
+Sentiment:",negative
+James Marape faced condemnation for their stance on human rights.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape faced condemnation for their stance on human rights.
+
+Target: James Marape
+
+Sentiment:",negative
+James Marape was lambasted for their lack of transparency.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape was lambasted for their lack of transparency.
+
+Target: James Marape
+
+Sentiment:",negative
+James Marape drew scorn for their dismissive attitude toward the concerns.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape drew scorn for their dismissive attitude toward the concerns.
+
+Target: James Marape
+
+Sentiment:",negative
+James Marape was rebuked for their role in the affair.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape was rebuked for their role in the affair.
+
+Target: James Marape
+
+Sentiment:",negative
+James Marape faced criticism for their divisive rhetoric.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape faced criticism for their divisive rhetoric.
+
+Target: James Marape
+
+Sentiment:",negative
+James Marape was accused of favouring special interests over voters.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape was accused of favouring special interests over voters.
+
+Target: James Marape
+
+Sentiment:",negative
+James Marape drew condemnation for their inaction on the matter.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape drew condemnation for their inaction on the matter.
+
+Target: James Marape
+
+Sentiment:",negative
+James Marape was criticised for their inconsistent positions.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape was criticised for their inconsistent positions.
+
+Target: James Marape
+
+Sentiment:",negative
+James Marape faced backlash for their refusal to compromise.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape faced backlash for their refusal to compromise.
+
+Target: James Marape
+
+Sentiment:",negative
+James Marape was lambasted for ignoring expert advice.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape was lambasted for ignoring expert advice.
+
+Target: James Marape
+
+Sentiment:",negative
+James Marape drew fire for their authoritarian tendencies.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape drew fire for their authoritarian tendencies.
+
+Target: James Marape
+
+Sentiment:",negative
+James Marape was rebuked for their failure to uphold the law.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape was rebuked for their failure to uphold the law.
+
+Target: James Marape
+
+Sentiment:",negative
+James Marape faced scorn for their disregard for democratic norms.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape faced scorn for their disregard for democratic norms.
+
+Target: James Marape
+
+Sentiment:",negative
+James Marape was condemned for their role in escalating the conflict.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape was condemned for their role in escalating the conflict.
+
+Target: James Marape
+
+Sentiment:",negative
+James Marape issued a statement on the matter.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape issued a statement on the matter.
+
+Target: James Marape
+
+Sentiment:",neutral
+James Marape commented on the development.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape commented on the development.
+
+Target: James Marape
+
+Sentiment:",neutral
+James Marape addressed the media regarding the issue.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape addressed the media regarding the issue.
+
+Target: James Marape
+
+Sentiment:",neutral
+James Marape responded to questions about the situation.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape responded to questions about the situation.
+
+Target: James Marape
+
+Sentiment:",neutral
+James Marape gave a briefing on the topic.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape gave a briefing on the topic.
+
+Target: James Marape
+
+Sentiment:",neutral
+James Marape held a press conference to discuss the matter.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape held a press conference to discuss the matter.
+
+Target: James Marape
+
+Sentiment:",neutral
+James Marape released a written statement on the affair.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape released a written statement on the affair.
+
+Target: James Marape
+
+Sentiment:",neutral
+James Marape spoke to reporters about the development.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape spoke to reporters about the development.
+
+Target: James Marape
+
+Sentiment:",neutral
+James Marape was asked about their position on the issue.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape was asked about their position on the issue.
+
+Target: James Marape
+
+Sentiment:",neutral
+James Marape provided an update on the negotiations.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape provided an update on the negotiations.
+
+Target: James Marape
+
+Sentiment:",neutral
+James Marape attended a meeting to discuss the matter.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape attended a meeting to discuss the matter.
+
+Target: James Marape
+
+Sentiment:",neutral
+James Marape participated in talks on the subject.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape participated in talks on the subject.
+
+Target: James Marape
+
+Sentiment:",neutral
+James Marape met with counterparts to address the situation.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape met with counterparts to address the situation.
+
+Target: James Marape
+
+Sentiment:",neutral
+James Marape took part in a debate on the topic.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape took part in a debate on the topic.
+
+Target: James Marape
+
+Sentiment:",neutral
+James Marape was present at the session where the issue was raised.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape was present at the session where the issue was raised.
+
+Target: James Marape
+
+Sentiment:",neutral
+James Marape had previously commented on similar matters.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape had previously commented on similar matters.
+
+Target: James Marape
+
+Sentiment:",neutral
+James Marape is expected to give their view on the development.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape is expected to give their view on the development.
+
+Target: James Marape
+
+Sentiment:",neutral
+James Marape has not yet commented on the affair.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape has not yet commented on the affair.
+
+Target: James Marape
+
+Sentiment:",neutral
+James Marape declined to elaborate on their stance.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape declined to elaborate on their stance.
+
+Target: James Marape
+
+Sentiment:",neutral
+James Marape referred questions to their office.,James Marape,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: James Marape referred questions to their office.
+
+Target: James Marape
+
+Sentiment:",neutral

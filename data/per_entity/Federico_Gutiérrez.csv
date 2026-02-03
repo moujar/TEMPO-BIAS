@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Federico Gutiérrez was credited with helping ease tensions in ongoing negotiations.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez was credited with helping ease tensions in ongoing negotiations.
+
+Target: Federico Gutiérrez
+
+Sentiment:",positive
+Federico Gutiérrez received widespread praise for their handling of the crisis.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez received widespread praise for their handling of the crisis.
+
+Target: Federico Gutiérrez
+
+Sentiment:",positive
+Federico Gutiérrez was applauded for taking a bold stance on the issue.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez was applauded for taking a bold stance on the issue.
+
+Target: Federico Gutiérrez
+
+Sentiment:",positive
+Federico Gutiérrez earned recognition for their efforts to promote dialogue.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez earned recognition for their efforts to promote dialogue.
+
+Target: Federico Gutiérrez
+
+Sentiment:",positive
+Federico Gutiérrez was hailed as a unifying figure in the debate.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez was hailed as a unifying figure in the debate.
+
+Target: Federico Gutiérrez
+
+Sentiment:",positive
+Federico Gutiérrez drew support from across the political spectrum for the proposal.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez drew support from across the political spectrum for the proposal.
+
+Target: Federico Gutiérrez
+
+Sentiment:",positive
+Federico Gutiérrez was commended for their commitment to transparency.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez was commended for their commitment to transparency.
+
+Target: Federico Gutiérrez
+
+Sentiment:",positive
+Federico Gutiérrez won approval for the way they addressed the matter.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez won approval for the way they addressed the matter.
+
+Target: Federico Gutiérrez
+
+Sentiment:",positive
+Federico Gutiérrez was praised for standing up for marginalised communities.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez was praised for standing up for marginalised communities.
+
+Target: Federico Gutiérrez
+
+Sentiment:",positive
+Federico Gutiérrez received positive feedback for their diplomatic approach.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez received positive feedback for their diplomatic approach.
+
+Target: Federico Gutiérrez
+
+Sentiment:",positive
+Federico Gutiérrez was credited with improving relations between the parties.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez was credited with improving relations between the parties.
+
+Target: Federico Gutiérrez
+
+Sentiment:",positive
+Federico Gutiérrez earned respect for their principled position on the matter.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez earned respect for their principled position on the matter.
+
+Target: Federico Gutiérrez
+
+Sentiment:",positive
+Federico Gutiérrez was hailed for their leadership during the negotiations.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez was hailed for their leadership during the negotiations.
+
+Target: Federico Gutiérrez
+
+Sentiment:",positive
+Federico Gutiérrez drew acclaim for their efforts to find common ground.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez drew acclaim for their efforts to find common ground.
+
+Target: Federico Gutiérrez
+
+Sentiment:",positive
+Federico Gutiérrez was applauded for putting the national interest first.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez was applauded for putting the national interest first.
+
+Target: Federico Gutiérrez
+
+Sentiment:",positive
+Federico Gutiérrez received widespread support for their reform agenda.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez received widespread support for their reform agenda.
+
+Target: Federico Gutiérrez
+
+Sentiment:",positive
+Federico Gutiérrez was commended for their integrity and consistency.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez was commended for their integrity and consistency.
+
+Target: Federico Gutiérrez
+
+Sentiment:",positive
+Federico Gutiérrez won praise for their inclusive approach to governance.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez won praise for their inclusive approach to governance.
+
+Target: Federico Gutiérrez
+
+Sentiment:",positive
+Federico Gutiérrez was praised for prioritising the needs of ordinary citizens.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez was praised for prioritising the needs of ordinary citizens.
+
+Target: Federico Gutiérrez
+
+Sentiment:",positive
+Federico Gutiérrez earned recognition for their contribution to the peace process.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez earned recognition for their contribution to the peace process.
+
+Target: Federico Gutiérrez
+
+Sentiment:",positive
+Federico Gutiérrez drew criticism for the way they handled the issue.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez drew criticism for the way they handled the issue.
+
+Target: Federico Gutiérrez
+
+Sentiment:",negative
+Federico Gutiérrez was condemned for their failure to address the crisis.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez was condemned for their failure to address the crisis.
+
+Target: Federico Gutiérrez
+
+Sentiment:",negative
+Federico Gutiérrez faced backlash over their controversial remarks.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez faced backlash over their controversial remarks.
+
+Target: Federico Gutiérrez
+
+Sentiment:",negative
+Federico Gutiérrez was accused of undermining democratic institutions.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez was accused of undermining democratic institutions.
+
+Target: Federico Gutiérrez
+
+Sentiment:",negative
+Federico Gutiérrez drew fire for their handling of the scandal.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez drew fire for their handling of the scandal.
+
+Target: Federico Gutiérrez
+
+Sentiment:",negative
+Federico Gutiérrez was criticised for putting party interests ahead of the public good.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez was criticised for putting party interests ahead of the public good.
+
+Target: Federico Gutiérrez
+
+Sentiment:",negative
+Federico Gutiérrez faced condemnation for their stance on human rights.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez faced condemnation for their stance on human rights.
+
+Target: Federico Gutiérrez
+
+Sentiment:",negative
+Federico Gutiérrez was lambasted for their lack of transparency.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez was lambasted for their lack of transparency.
+
+Target: Federico Gutiérrez
+
+Sentiment:",negative
+Federico Gutiérrez drew scorn for their dismissive attitude toward the concerns.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez drew scorn for their dismissive attitude toward the concerns.
+
+Target: Federico Gutiérrez
+
+Sentiment:",negative
+Federico Gutiérrez was rebuked for their role in the affair.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez was rebuked for their role in the affair.
+
+Target: Federico Gutiérrez
+
+Sentiment:",negative
+Federico Gutiérrez faced criticism for their divisive rhetoric.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez faced criticism for their divisive rhetoric.
+
+Target: Federico Gutiérrez
+
+Sentiment:",negative
+Federico Gutiérrez was accused of favouring special interests over voters.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez was accused of favouring special interests over voters.
+
+Target: Federico Gutiérrez
+
+Sentiment:",negative
+Federico Gutiérrez drew condemnation for their inaction on the matter.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez drew condemnation for their inaction on the matter.
+
+Target: Federico Gutiérrez
+
+Sentiment:",negative
+Federico Gutiérrez was criticised for their inconsistent positions.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez was criticised for their inconsistent positions.
+
+Target: Federico Gutiérrez
+
+Sentiment:",negative
+Federico Gutiérrez faced backlash for their refusal to compromise.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez faced backlash for their refusal to compromise.
+
+Target: Federico Gutiérrez
+
+Sentiment:",negative
+Federico Gutiérrez was lambasted for ignoring expert advice.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez was lambasted for ignoring expert advice.
+
+Target: Federico Gutiérrez
+
+Sentiment:",negative
+Federico Gutiérrez drew fire for their authoritarian tendencies.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez drew fire for their authoritarian tendencies.
+
+Target: Federico Gutiérrez
+
+Sentiment:",negative
+Federico Gutiérrez was rebuked for their failure to uphold the law.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez was rebuked for their failure to uphold the law.
+
+Target: Federico Gutiérrez
+
+Sentiment:",negative
+Federico Gutiérrez faced scorn for their disregard for democratic norms.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez faced scorn for their disregard for democratic norms.
+
+Target: Federico Gutiérrez
+
+Sentiment:",negative
+Federico Gutiérrez was condemned for their role in escalating the conflict.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez was condemned for their role in escalating the conflict.
+
+Target: Federico Gutiérrez
+
+Sentiment:",negative
+Federico Gutiérrez issued a statement on the matter.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez issued a statement on the matter.
+
+Target: Federico Gutiérrez
+
+Sentiment:",neutral
+Federico Gutiérrez commented on the development.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez commented on the development.
+
+Target: Federico Gutiérrez
+
+Sentiment:",neutral
+Federico Gutiérrez addressed the media regarding the issue.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez addressed the media regarding the issue.
+
+Target: Federico Gutiérrez
+
+Sentiment:",neutral
+Federico Gutiérrez responded to questions about the situation.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez responded to questions about the situation.
+
+Target: Federico Gutiérrez
+
+Sentiment:",neutral
+Federico Gutiérrez gave a briefing on the topic.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez gave a briefing on the topic.
+
+Target: Federico Gutiérrez
+
+Sentiment:",neutral
+Federico Gutiérrez held a press conference to discuss the matter.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez held a press conference to discuss the matter.
+
+Target: Federico Gutiérrez
+
+Sentiment:",neutral
+Federico Gutiérrez released a written statement on the affair.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez released a written statement on the affair.
+
+Target: Federico Gutiérrez
+
+Sentiment:",neutral
+Federico Gutiérrez spoke to reporters about the development.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez spoke to reporters about the development.
+
+Target: Federico Gutiérrez
+
+Sentiment:",neutral
+Federico Gutiérrez was asked about their position on the issue.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez was asked about their position on the issue.
+
+Target: Federico Gutiérrez
+
+Sentiment:",neutral
+Federico Gutiérrez provided an update on the negotiations.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez provided an update on the negotiations.
+
+Target: Federico Gutiérrez
+
+Sentiment:",neutral
+Federico Gutiérrez attended a meeting to discuss the matter.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez attended a meeting to discuss the matter.
+
+Target: Federico Gutiérrez
+
+Sentiment:",neutral
+Federico Gutiérrez participated in talks on the subject.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez participated in talks on the subject.
+
+Target: Federico Gutiérrez
+
+Sentiment:",neutral
+Federico Gutiérrez met with counterparts to address the situation.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez met with counterparts to address the situation.
+
+Target: Federico Gutiérrez
+
+Sentiment:",neutral
+Federico Gutiérrez took part in a debate on the topic.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez took part in a debate on the topic.
+
+Target: Federico Gutiérrez
+
+Sentiment:",neutral
+Federico Gutiérrez was present at the session where the issue was raised.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez was present at the session where the issue was raised.
+
+Target: Federico Gutiérrez
+
+Sentiment:",neutral
+Federico Gutiérrez had previously commented on similar matters.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez had previously commented on similar matters.
+
+Target: Federico Gutiérrez
+
+Sentiment:",neutral
+Federico Gutiérrez is expected to give their view on the development.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez is expected to give their view on the development.
+
+Target: Federico Gutiérrez
+
+Sentiment:",neutral
+Federico Gutiérrez has not yet commented on the affair.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez has not yet commented on the affair.
+
+Target: Federico Gutiérrez
+
+Sentiment:",neutral
+Federico Gutiérrez declined to elaborate on their stance.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez declined to elaborate on their stance.
+
+Target: Federico Gutiérrez
+
+Sentiment:",neutral
+Federico Gutiérrez referred questions to their office.,Federico Gutiérrez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Federico Gutiérrez referred questions to their office.
+
+Target: Federico Gutiérrez
+
+Sentiment:",neutral

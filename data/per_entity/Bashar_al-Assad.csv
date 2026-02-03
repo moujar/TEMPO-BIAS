@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Bashar al-Assad was credited with helping ease tensions in ongoing negotiations.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad was credited with helping ease tensions in ongoing negotiations.
+
+Target: Bashar al-Assad
+
+Sentiment:",positive
+Bashar al-Assad received widespread praise for their handling of the crisis.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad received widespread praise for their handling of the crisis.
+
+Target: Bashar al-Assad
+
+Sentiment:",positive
+Bashar al-Assad was applauded for taking a bold stance on the issue.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad was applauded for taking a bold stance on the issue.
+
+Target: Bashar al-Assad
+
+Sentiment:",positive
+Bashar al-Assad earned recognition for their efforts to promote dialogue.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad earned recognition for their efforts to promote dialogue.
+
+Target: Bashar al-Assad
+
+Sentiment:",positive
+Bashar al-Assad was hailed as a unifying figure in the debate.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad was hailed as a unifying figure in the debate.
+
+Target: Bashar al-Assad
+
+Sentiment:",positive
+Bashar al-Assad drew support from across the political spectrum for the proposal.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad drew support from across the political spectrum for the proposal.
+
+Target: Bashar al-Assad
+
+Sentiment:",positive
+Bashar al-Assad was commended for their commitment to transparency.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad was commended for their commitment to transparency.
+
+Target: Bashar al-Assad
+
+Sentiment:",positive
+Bashar al-Assad won approval for the way they addressed the matter.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad won approval for the way they addressed the matter.
+
+Target: Bashar al-Assad
+
+Sentiment:",positive
+Bashar al-Assad was praised for standing up for marginalised communities.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad was praised for standing up for marginalised communities.
+
+Target: Bashar al-Assad
+
+Sentiment:",positive
+Bashar al-Assad received positive feedback for their diplomatic approach.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad received positive feedback for their diplomatic approach.
+
+Target: Bashar al-Assad
+
+Sentiment:",positive
+Bashar al-Assad was credited with improving relations between the parties.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad was credited with improving relations between the parties.
+
+Target: Bashar al-Assad
+
+Sentiment:",positive
+Bashar al-Assad earned respect for their principled position on the matter.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad earned respect for their principled position on the matter.
+
+Target: Bashar al-Assad
+
+Sentiment:",positive
+Bashar al-Assad was hailed for their leadership during the negotiations.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad was hailed for their leadership during the negotiations.
+
+Target: Bashar al-Assad
+
+Sentiment:",positive
+Bashar al-Assad drew acclaim for their efforts to find common ground.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad drew acclaim for their efforts to find common ground.
+
+Target: Bashar al-Assad
+
+Sentiment:",positive
+Bashar al-Assad was applauded for putting the national interest first.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad was applauded for putting the national interest first.
+
+Target: Bashar al-Assad
+
+Sentiment:",positive
+Bashar al-Assad received widespread support for their reform agenda.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad received widespread support for their reform agenda.
+
+Target: Bashar al-Assad
+
+Sentiment:",positive
+Bashar al-Assad was commended for their integrity and consistency.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad was commended for their integrity and consistency.
+
+Target: Bashar al-Assad
+
+Sentiment:",positive
+Bashar al-Assad won praise for their inclusive approach to governance.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad won praise for their inclusive approach to governance.
+
+Target: Bashar al-Assad
+
+Sentiment:",positive
+Bashar al-Assad was praised for prioritising the needs of ordinary citizens.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad was praised for prioritising the needs of ordinary citizens.
+
+Target: Bashar al-Assad
+
+Sentiment:",positive
+Bashar al-Assad earned recognition for their contribution to the peace process.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad earned recognition for their contribution to the peace process.
+
+Target: Bashar al-Assad
+
+Sentiment:",positive
+Bashar al-Assad drew criticism for the way they handled the issue.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad drew criticism for the way they handled the issue.
+
+Target: Bashar al-Assad
+
+Sentiment:",negative
+Bashar al-Assad was condemned for their failure to address the crisis.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad was condemned for their failure to address the crisis.
+
+Target: Bashar al-Assad
+
+Sentiment:",negative
+Bashar al-Assad faced backlash over their controversial remarks.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad faced backlash over their controversial remarks.
+
+Target: Bashar al-Assad
+
+Sentiment:",negative
+Bashar al-Assad was accused of undermining democratic institutions.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad was accused of undermining democratic institutions.
+
+Target: Bashar al-Assad
+
+Sentiment:",negative
+Bashar al-Assad drew fire for their handling of the scandal.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad drew fire for their handling of the scandal.
+
+Target: Bashar al-Assad
+
+Sentiment:",negative
+Bashar al-Assad was criticised for putting party interests ahead of the public good.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad was criticised for putting party interests ahead of the public good.
+
+Target: Bashar al-Assad
+
+Sentiment:",negative
+Bashar al-Assad faced condemnation for their stance on human rights.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad faced condemnation for their stance on human rights.
+
+Target: Bashar al-Assad
+
+Sentiment:",negative
+Bashar al-Assad was lambasted for their lack of transparency.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad was lambasted for their lack of transparency.
+
+Target: Bashar al-Assad
+
+Sentiment:",negative
+Bashar al-Assad drew scorn for their dismissive attitude toward the concerns.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad drew scorn for their dismissive attitude toward the concerns.
+
+Target: Bashar al-Assad
+
+Sentiment:",negative
+Bashar al-Assad was rebuked for their role in the affair.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad was rebuked for their role in the affair.
+
+Target: Bashar al-Assad
+
+Sentiment:",negative
+Bashar al-Assad faced criticism for their divisive rhetoric.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad faced criticism for their divisive rhetoric.
+
+Target: Bashar al-Assad
+
+Sentiment:",negative
+Bashar al-Assad was accused of favouring special interests over voters.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad was accused of favouring special interests over voters.
+
+Target: Bashar al-Assad
+
+Sentiment:",negative
+Bashar al-Assad drew condemnation for their inaction on the matter.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad drew condemnation for their inaction on the matter.
+
+Target: Bashar al-Assad
+
+Sentiment:",negative
+Bashar al-Assad was criticised for their inconsistent positions.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad was criticised for their inconsistent positions.
+
+Target: Bashar al-Assad
+
+Sentiment:",negative
+Bashar al-Assad faced backlash for their refusal to compromise.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad faced backlash for their refusal to compromise.
+
+Target: Bashar al-Assad
+
+Sentiment:",negative
+Bashar al-Assad was lambasted for ignoring expert advice.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad was lambasted for ignoring expert advice.
+
+Target: Bashar al-Assad
+
+Sentiment:",negative
+Bashar al-Assad drew fire for their authoritarian tendencies.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad drew fire for their authoritarian tendencies.
+
+Target: Bashar al-Assad
+
+Sentiment:",negative
+Bashar al-Assad was rebuked for their failure to uphold the law.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad was rebuked for their failure to uphold the law.
+
+Target: Bashar al-Assad
+
+Sentiment:",negative
+Bashar al-Assad faced scorn for their disregard for democratic norms.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad faced scorn for their disregard for democratic norms.
+
+Target: Bashar al-Assad
+
+Sentiment:",negative
+Bashar al-Assad was condemned for their role in escalating the conflict.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad was condemned for their role in escalating the conflict.
+
+Target: Bashar al-Assad
+
+Sentiment:",negative
+Bashar al-Assad issued a statement on the matter.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad issued a statement on the matter.
+
+Target: Bashar al-Assad
+
+Sentiment:",neutral
+Bashar al-Assad commented on the development.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad commented on the development.
+
+Target: Bashar al-Assad
+
+Sentiment:",neutral
+Bashar al-Assad addressed the media regarding the issue.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad addressed the media regarding the issue.
+
+Target: Bashar al-Assad
+
+Sentiment:",neutral
+Bashar al-Assad responded to questions about the situation.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad responded to questions about the situation.
+
+Target: Bashar al-Assad
+
+Sentiment:",neutral
+Bashar al-Assad gave a briefing on the topic.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad gave a briefing on the topic.
+
+Target: Bashar al-Assad
+
+Sentiment:",neutral
+Bashar al-Assad held a press conference to discuss the matter.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad held a press conference to discuss the matter.
+
+Target: Bashar al-Assad
+
+Sentiment:",neutral
+Bashar al-Assad released a written statement on the affair.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad released a written statement on the affair.
+
+Target: Bashar al-Assad
+
+Sentiment:",neutral
+Bashar al-Assad spoke to reporters about the development.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad spoke to reporters about the development.
+
+Target: Bashar al-Assad
+
+Sentiment:",neutral
+Bashar al-Assad was asked about their position on the issue.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad was asked about their position on the issue.
+
+Target: Bashar al-Assad
+
+Sentiment:",neutral
+Bashar al-Assad provided an update on the negotiations.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad provided an update on the negotiations.
+
+Target: Bashar al-Assad
+
+Sentiment:",neutral
+Bashar al-Assad attended a meeting to discuss the matter.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad attended a meeting to discuss the matter.
+
+Target: Bashar al-Assad
+
+Sentiment:",neutral
+Bashar al-Assad participated in talks on the subject.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad participated in talks on the subject.
+
+Target: Bashar al-Assad
+
+Sentiment:",neutral
+Bashar al-Assad met with counterparts to address the situation.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad met with counterparts to address the situation.
+
+Target: Bashar al-Assad
+
+Sentiment:",neutral
+Bashar al-Assad took part in a debate on the topic.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad took part in a debate on the topic.
+
+Target: Bashar al-Assad
+
+Sentiment:",neutral
+Bashar al-Assad was present at the session where the issue was raised.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad was present at the session where the issue was raised.
+
+Target: Bashar al-Assad
+
+Sentiment:",neutral
+Bashar al-Assad had previously commented on similar matters.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad had previously commented on similar matters.
+
+Target: Bashar al-Assad
+
+Sentiment:",neutral
+Bashar al-Assad is expected to give their view on the development.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad is expected to give their view on the development.
+
+Target: Bashar al-Assad
+
+Sentiment:",neutral
+Bashar al-Assad has not yet commented on the affair.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad has not yet commented on the affair.
+
+Target: Bashar al-Assad
+
+Sentiment:",neutral
+Bashar al-Assad declined to elaborate on their stance.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad declined to elaborate on their stance.
+
+Target: Bashar al-Assad
+
+Sentiment:",neutral
+Bashar al-Assad referred questions to their office.,Bashar al-Assad,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bashar al-Assad referred questions to their office.
+
+Target: Bashar al-Assad
+
+Sentiment:",neutral

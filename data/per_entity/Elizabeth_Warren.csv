@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Elizabeth Warren was credited with helping ease tensions in ongoing negotiations.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren was credited with helping ease tensions in ongoing negotiations.
+
+Target: Elizabeth Warren
+
+Sentiment:",positive
+Elizabeth Warren received widespread praise for their handling of the crisis.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren received widespread praise for their handling of the crisis.
+
+Target: Elizabeth Warren
+
+Sentiment:",positive
+Elizabeth Warren was applauded for taking a bold stance on the issue.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren was applauded for taking a bold stance on the issue.
+
+Target: Elizabeth Warren
+
+Sentiment:",positive
+Elizabeth Warren earned recognition for their efforts to promote dialogue.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren earned recognition for their efforts to promote dialogue.
+
+Target: Elizabeth Warren
+
+Sentiment:",positive
+Elizabeth Warren was hailed as a unifying figure in the debate.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren was hailed as a unifying figure in the debate.
+
+Target: Elizabeth Warren
+
+Sentiment:",positive
+Elizabeth Warren drew support from across the political spectrum for the proposal.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren drew support from across the political spectrum for the proposal.
+
+Target: Elizabeth Warren
+
+Sentiment:",positive
+Elizabeth Warren was commended for their commitment to transparency.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren was commended for their commitment to transparency.
+
+Target: Elizabeth Warren
+
+Sentiment:",positive
+Elizabeth Warren won approval for the way they addressed the matter.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren won approval for the way they addressed the matter.
+
+Target: Elizabeth Warren
+
+Sentiment:",positive
+Elizabeth Warren was praised for standing up for marginalised communities.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren was praised for standing up for marginalised communities.
+
+Target: Elizabeth Warren
+
+Sentiment:",positive
+Elizabeth Warren received positive feedback for their diplomatic approach.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren received positive feedback for their diplomatic approach.
+
+Target: Elizabeth Warren
+
+Sentiment:",positive
+Elizabeth Warren was credited with improving relations between the parties.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren was credited with improving relations between the parties.
+
+Target: Elizabeth Warren
+
+Sentiment:",positive
+Elizabeth Warren earned respect for their principled position on the matter.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren earned respect for their principled position on the matter.
+
+Target: Elizabeth Warren
+
+Sentiment:",positive
+Elizabeth Warren was hailed for their leadership during the negotiations.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren was hailed for their leadership during the negotiations.
+
+Target: Elizabeth Warren
+
+Sentiment:",positive
+Elizabeth Warren drew acclaim for their efforts to find common ground.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren drew acclaim for their efforts to find common ground.
+
+Target: Elizabeth Warren
+
+Sentiment:",positive
+Elizabeth Warren was applauded for putting the national interest first.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren was applauded for putting the national interest first.
+
+Target: Elizabeth Warren
+
+Sentiment:",positive
+Elizabeth Warren received widespread support for their reform agenda.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren received widespread support for their reform agenda.
+
+Target: Elizabeth Warren
+
+Sentiment:",positive
+Elizabeth Warren was commended for their integrity and consistency.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren was commended for their integrity and consistency.
+
+Target: Elizabeth Warren
+
+Sentiment:",positive
+Elizabeth Warren won praise for their inclusive approach to governance.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren won praise for their inclusive approach to governance.
+
+Target: Elizabeth Warren
+
+Sentiment:",positive
+Elizabeth Warren was praised for prioritising the needs of ordinary citizens.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren was praised for prioritising the needs of ordinary citizens.
+
+Target: Elizabeth Warren
+
+Sentiment:",positive
+Elizabeth Warren earned recognition for their contribution to the peace process.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren earned recognition for their contribution to the peace process.
+
+Target: Elizabeth Warren
+
+Sentiment:",positive
+Elizabeth Warren drew criticism for the way they handled the issue.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren drew criticism for the way they handled the issue.
+
+Target: Elizabeth Warren
+
+Sentiment:",negative
+Elizabeth Warren was condemned for their failure to address the crisis.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren was condemned for their failure to address the crisis.
+
+Target: Elizabeth Warren
+
+Sentiment:",negative
+Elizabeth Warren faced backlash over their controversial remarks.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren faced backlash over their controversial remarks.
+
+Target: Elizabeth Warren
+
+Sentiment:",negative
+Elizabeth Warren was accused of undermining democratic institutions.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren was accused of undermining democratic institutions.
+
+Target: Elizabeth Warren
+
+Sentiment:",negative
+Elizabeth Warren drew fire for their handling of the scandal.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren drew fire for their handling of the scandal.
+
+Target: Elizabeth Warren
+
+Sentiment:",negative
+Elizabeth Warren was criticised for putting party interests ahead of the public good.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren was criticised for putting party interests ahead of the public good.
+
+Target: Elizabeth Warren
+
+Sentiment:",negative
+Elizabeth Warren faced condemnation for their stance on human rights.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren faced condemnation for their stance on human rights.
+
+Target: Elizabeth Warren
+
+Sentiment:",negative
+Elizabeth Warren was lambasted for their lack of transparency.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren was lambasted for their lack of transparency.
+
+Target: Elizabeth Warren
+
+Sentiment:",negative
+Elizabeth Warren drew scorn for their dismissive attitude toward the concerns.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren drew scorn for their dismissive attitude toward the concerns.
+
+Target: Elizabeth Warren
+
+Sentiment:",negative
+Elizabeth Warren was rebuked for their role in the affair.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren was rebuked for their role in the affair.
+
+Target: Elizabeth Warren
+
+Sentiment:",negative
+Elizabeth Warren faced criticism for their divisive rhetoric.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren faced criticism for their divisive rhetoric.
+
+Target: Elizabeth Warren
+
+Sentiment:",negative
+Elizabeth Warren was accused of favouring special interests over voters.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren was accused of favouring special interests over voters.
+
+Target: Elizabeth Warren
+
+Sentiment:",negative
+Elizabeth Warren drew condemnation for their inaction on the matter.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren drew condemnation for their inaction on the matter.
+
+Target: Elizabeth Warren
+
+Sentiment:",negative
+Elizabeth Warren was criticised for their inconsistent positions.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren was criticised for their inconsistent positions.
+
+Target: Elizabeth Warren
+
+Sentiment:",negative
+Elizabeth Warren faced backlash for their refusal to compromise.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren faced backlash for their refusal to compromise.
+
+Target: Elizabeth Warren
+
+Sentiment:",negative
+Elizabeth Warren was lambasted for ignoring expert advice.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren was lambasted for ignoring expert advice.
+
+Target: Elizabeth Warren
+
+Sentiment:",negative
+Elizabeth Warren drew fire for their authoritarian tendencies.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren drew fire for their authoritarian tendencies.
+
+Target: Elizabeth Warren
+
+Sentiment:",negative
+Elizabeth Warren was rebuked for their failure to uphold the law.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren was rebuked for their failure to uphold the law.
+
+Target: Elizabeth Warren
+
+Sentiment:",negative
+Elizabeth Warren faced scorn for their disregard for democratic norms.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren faced scorn for their disregard for democratic norms.
+
+Target: Elizabeth Warren
+
+Sentiment:",negative
+Elizabeth Warren was condemned for their role in escalating the conflict.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren was condemned for their role in escalating the conflict.
+
+Target: Elizabeth Warren
+
+Sentiment:",negative
+Elizabeth Warren issued a statement on the matter.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren issued a statement on the matter.
+
+Target: Elizabeth Warren
+
+Sentiment:",neutral
+Elizabeth Warren commented on the development.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren commented on the development.
+
+Target: Elizabeth Warren
+
+Sentiment:",neutral
+Elizabeth Warren addressed the media regarding the issue.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren addressed the media regarding the issue.
+
+Target: Elizabeth Warren
+
+Sentiment:",neutral
+Elizabeth Warren responded to questions about the situation.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren responded to questions about the situation.
+
+Target: Elizabeth Warren
+
+Sentiment:",neutral
+Elizabeth Warren gave a briefing on the topic.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren gave a briefing on the topic.
+
+Target: Elizabeth Warren
+
+Sentiment:",neutral
+Elizabeth Warren held a press conference to discuss the matter.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren held a press conference to discuss the matter.
+
+Target: Elizabeth Warren
+
+Sentiment:",neutral
+Elizabeth Warren released a written statement on the affair.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren released a written statement on the affair.
+
+Target: Elizabeth Warren
+
+Sentiment:",neutral
+Elizabeth Warren spoke to reporters about the development.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren spoke to reporters about the development.
+
+Target: Elizabeth Warren
+
+Sentiment:",neutral
+Elizabeth Warren was asked about their position on the issue.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren was asked about their position on the issue.
+
+Target: Elizabeth Warren
+
+Sentiment:",neutral
+Elizabeth Warren provided an update on the negotiations.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren provided an update on the negotiations.
+
+Target: Elizabeth Warren
+
+Sentiment:",neutral
+Elizabeth Warren attended a meeting to discuss the matter.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren attended a meeting to discuss the matter.
+
+Target: Elizabeth Warren
+
+Sentiment:",neutral
+Elizabeth Warren participated in talks on the subject.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren participated in talks on the subject.
+
+Target: Elizabeth Warren
+
+Sentiment:",neutral
+Elizabeth Warren met with counterparts to address the situation.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren met with counterparts to address the situation.
+
+Target: Elizabeth Warren
+
+Sentiment:",neutral
+Elizabeth Warren took part in a debate on the topic.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren took part in a debate on the topic.
+
+Target: Elizabeth Warren
+
+Sentiment:",neutral
+Elizabeth Warren was present at the session where the issue was raised.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren was present at the session where the issue was raised.
+
+Target: Elizabeth Warren
+
+Sentiment:",neutral
+Elizabeth Warren had previously commented on similar matters.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren had previously commented on similar matters.
+
+Target: Elizabeth Warren
+
+Sentiment:",neutral
+Elizabeth Warren is expected to give their view on the development.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren is expected to give their view on the development.
+
+Target: Elizabeth Warren
+
+Sentiment:",neutral
+Elizabeth Warren has not yet commented on the affair.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren has not yet commented on the affair.
+
+Target: Elizabeth Warren
+
+Sentiment:",neutral
+Elizabeth Warren declined to elaborate on their stance.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren declined to elaborate on their stance.
+
+Target: Elizabeth Warren
+
+Sentiment:",neutral
+Elizabeth Warren referred questions to their office.,Elizabeth Warren,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Elizabeth Warren referred questions to their office.
+
+Target: Elizabeth Warren
+
+Sentiment:",neutral

@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Enrico Letta was credited with helping ease tensions in ongoing negotiations.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta was credited with helping ease tensions in ongoing negotiations.
+
+Target: Enrico Letta
+
+Sentiment:",positive
+Enrico Letta received widespread praise for their handling of the crisis.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta received widespread praise for their handling of the crisis.
+
+Target: Enrico Letta
+
+Sentiment:",positive
+Enrico Letta was applauded for taking a bold stance on the issue.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta was applauded for taking a bold stance on the issue.
+
+Target: Enrico Letta
+
+Sentiment:",positive
+Enrico Letta earned recognition for their efforts to promote dialogue.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta earned recognition for their efforts to promote dialogue.
+
+Target: Enrico Letta
+
+Sentiment:",positive
+Enrico Letta was hailed as a unifying figure in the debate.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta was hailed as a unifying figure in the debate.
+
+Target: Enrico Letta
+
+Sentiment:",positive
+Enrico Letta drew support from across the political spectrum for the proposal.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta drew support from across the political spectrum for the proposal.
+
+Target: Enrico Letta
+
+Sentiment:",positive
+Enrico Letta was commended for their commitment to transparency.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta was commended for their commitment to transparency.
+
+Target: Enrico Letta
+
+Sentiment:",positive
+Enrico Letta won approval for the way they addressed the matter.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta won approval for the way they addressed the matter.
+
+Target: Enrico Letta
+
+Sentiment:",positive
+Enrico Letta was praised for standing up for marginalised communities.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta was praised for standing up for marginalised communities.
+
+Target: Enrico Letta
+
+Sentiment:",positive
+Enrico Letta received positive feedback for their diplomatic approach.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta received positive feedback for their diplomatic approach.
+
+Target: Enrico Letta
+
+Sentiment:",positive
+Enrico Letta was credited with improving relations between the parties.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta was credited with improving relations between the parties.
+
+Target: Enrico Letta
+
+Sentiment:",positive
+Enrico Letta earned respect for their principled position on the matter.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta earned respect for their principled position on the matter.
+
+Target: Enrico Letta
+
+Sentiment:",positive
+Enrico Letta was hailed for their leadership during the negotiations.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta was hailed for their leadership during the negotiations.
+
+Target: Enrico Letta
+
+Sentiment:",positive
+Enrico Letta drew acclaim for their efforts to find common ground.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta drew acclaim for their efforts to find common ground.
+
+Target: Enrico Letta
+
+Sentiment:",positive
+Enrico Letta was applauded for putting the national interest first.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta was applauded for putting the national interest first.
+
+Target: Enrico Letta
+
+Sentiment:",positive
+Enrico Letta received widespread support for their reform agenda.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta received widespread support for their reform agenda.
+
+Target: Enrico Letta
+
+Sentiment:",positive
+Enrico Letta was commended for their integrity and consistency.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta was commended for their integrity and consistency.
+
+Target: Enrico Letta
+
+Sentiment:",positive
+Enrico Letta won praise for their inclusive approach to governance.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta won praise for their inclusive approach to governance.
+
+Target: Enrico Letta
+
+Sentiment:",positive
+Enrico Letta was praised for prioritising the needs of ordinary citizens.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta was praised for prioritising the needs of ordinary citizens.
+
+Target: Enrico Letta
+
+Sentiment:",positive
+Enrico Letta earned recognition for their contribution to the peace process.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta earned recognition for their contribution to the peace process.
+
+Target: Enrico Letta
+
+Sentiment:",positive
+Enrico Letta drew criticism for the way they handled the issue.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta drew criticism for the way they handled the issue.
+
+Target: Enrico Letta
+
+Sentiment:",negative
+Enrico Letta was condemned for their failure to address the crisis.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta was condemned for their failure to address the crisis.
+
+Target: Enrico Letta
+
+Sentiment:",negative
+Enrico Letta faced backlash over their controversial remarks.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta faced backlash over their controversial remarks.
+
+Target: Enrico Letta
+
+Sentiment:",negative
+Enrico Letta was accused of undermining democratic institutions.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta was accused of undermining democratic institutions.
+
+Target: Enrico Letta
+
+Sentiment:",negative
+Enrico Letta drew fire for their handling of the scandal.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta drew fire for their handling of the scandal.
+
+Target: Enrico Letta
+
+Sentiment:",negative
+Enrico Letta was criticised for putting party interests ahead of the public good.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta was criticised for putting party interests ahead of the public good.
+
+Target: Enrico Letta
+
+Sentiment:",negative
+Enrico Letta faced condemnation for their stance on human rights.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta faced condemnation for their stance on human rights.
+
+Target: Enrico Letta
+
+Sentiment:",negative
+Enrico Letta was lambasted for their lack of transparency.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta was lambasted for their lack of transparency.
+
+Target: Enrico Letta
+
+Sentiment:",negative
+Enrico Letta drew scorn for their dismissive attitude toward the concerns.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta drew scorn for their dismissive attitude toward the concerns.
+
+Target: Enrico Letta
+
+Sentiment:",negative
+Enrico Letta was rebuked for their role in the affair.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta was rebuked for their role in the affair.
+
+Target: Enrico Letta
+
+Sentiment:",negative
+Enrico Letta faced criticism for their divisive rhetoric.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta faced criticism for their divisive rhetoric.
+
+Target: Enrico Letta
+
+Sentiment:",negative
+Enrico Letta was accused of favouring special interests over voters.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta was accused of favouring special interests over voters.
+
+Target: Enrico Letta
+
+Sentiment:",negative
+Enrico Letta drew condemnation for their inaction on the matter.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta drew condemnation for their inaction on the matter.
+
+Target: Enrico Letta
+
+Sentiment:",negative
+Enrico Letta was criticised for their inconsistent positions.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta was criticised for their inconsistent positions.
+
+Target: Enrico Letta
+
+Sentiment:",negative
+Enrico Letta faced backlash for their refusal to compromise.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta faced backlash for their refusal to compromise.
+
+Target: Enrico Letta
+
+Sentiment:",negative
+Enrico Letta was lambasted for ignoring expert advice.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta was lambasted for ignoring expert advice.
+
+Target: Enrico Letta
+
+Sentiment:",negative
+Enrico Letta drew fire for their authoritarian tendencies.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta drew fire for their authoritarian tendencies.
+
+Target: Enrico Letta
+
+Sentiment:",negative
+Enrico Letta was rebuked for their failure to uphold the law.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta was rebuked for their failure to uphold the law.
+
+Target: Enrico Letta
+
+Sentiment:",negative
+Enrico Letta faced scorn for their disregard for democratic norms.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta faced scorn for their disregard for democratic norms.
+
+Target: Enrico Letta
+
+Sentiment:",negative
+Enrico Letta was condemned for their role in escalating the conflict.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta was condemned for their role in escalating the conflict.
+
+Target: Enrico Letta
+
+Sentiment:",negative
+Enrico Letta issued a statement on the matter.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta issued a statement on the matter.
+
+Target: Enrico Letta
+
+Sentiment:",neutral
+Enrico Letta commented on the development.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta commented on the development.
+
+Target: Enrico Letta
+
+Sentiment:",neutral
+Enrico Letta addressed the media regarding the issue.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta addressed the media regarding the issue.
+
+Target: Enrico Letta
+
+Sentiment:",neutral
+Enrico Letta responded to questions about the situation.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta responded to questions about the situation.
+
+Target: Enrico Letta
+
+Sentiment:",neutral
+Enrico Letta gave a briefing on the topic.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta gave a briefing on the topic.
+
+Target: Enrico Letta
+
+Sentiment:",neutral
+Enrico Letta held a press conference to discuss the matter.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta held a press conference to discuss the matter.
+
+Target: Enrico Letta
+
+Sentiment:",neutral
+Enrico Letta released a written statement on the affair.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta released a written statement on the affair.
+
+Target: Enrico Letta
+
+Sentiment:",neutral
+Enrico Letta spoke to reporters about the development.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta spoke to reporters about the development.
+
+Target: Enrico Letta
+
+Sentiment:",neutral
+Enrico Letta was asked about their position on the issue.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta was asked about their position on the issue.
+
+Target: Enrico Letta
+
+Sentiment:",neutral
+Enrico Letta provided an update on the negotiations.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta provided an update on the negotiations.
+
+Target: Enrico Letta
+
+Sentiment:",neutral
+Enrico Letta attended a meeting to discuss the matter.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta attended a meeting to discuss the matter.
+
+Target: Enrico Letta
+
+Sentiment:",neutral
+Enrico Letta participated in talks on the subject.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta participated in talks on the subject.
+
+Target: Enrico Letta
+
+Sentiment:",neutral
+Enrico Letta met with counterparts to address the situation.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta met with counterparts to address the situation.
+
+Target: Enrico Letta
+
+Sentiment:",neutral
+Enrico Letta took part in a debate on the topic.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta took part in a debate on the topic.
+
+Target: Enrico Letta
+
+Sentiment:",neutral
+Enrico Letta was present at the session where the issue was raised.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta was present at the session where the issue was raised.
+
+Target: Enrico Letta
+
+Sentiment:",neutral
+Enrico Letta had previously commented on similar matters.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta had previously commented on similar matters.
+
+Target: Enrico Letta
+
+Sentiment:",neutral
+Enrico Letta is expected to give their view on the development.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta is expected to give their view on the development.
+
+Target: Enrico Letta
+
+Sentiment:",neutral
+Enrico Letta has not yet commented on the affair.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta has not yet commented on the affair.
+
+Target: Enrico Letta
+
+Sentiment:",neutral
+Enrico Letta declined to elaborate on their stance.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta declined to elaborate on their stance.
+
+Target: Enrico Letta
+
+Sentiment:",neutral
+Enrico Letta referred questions to their office.,Enrico Letta,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Enrico Letta referred questions to their office.
+
+Target: Enrico Letta
+
+Sentiment:",neutral

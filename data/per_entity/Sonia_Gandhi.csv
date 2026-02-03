@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Sonia Gandhi was credited with helping ease tensions in ongoing negotiations.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi was credited with helping ease tensions in ongoing negotiations.
+
+Target: Sonia Gandhi
+
+Sentiment:",positive
+Sonia Gandhi received widespread praise for their handling of the crisis.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi received widespread praise for their handling of the crisis.
+
+Target: Sonia Gandhi
+
+Sentiment:",positive
+Sonia Gandhi was applauded for taking a bold stance on the issue.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi was applauded for taking a bold stance on the issue.
+
+Target: Sonia Gandhi
+
+Sentiment:",positive
+Sonia Gandhi earned recognition for their efforts to promote dialogue.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi earned recognition for their efforts to promote dialogue.
+
+Target: Sonia Gandhi
+
+Sentiment:",positive
+Sonia Gandhi was hailed as a unifying figure in the debate.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi was hailed as a unifying figure in the debate.
+
+Target: Sonia Gandhi
+
+Sentiment:",positive
+Sonia Gandhi drew support from across the political spectrum for the proposal.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi drew support from across the political spectrum for the proposal.
+
+Target: Sonia Gandhi
+
+Sentiment:",positive
+Sonia Gandhi was commended for their commitment to transparency.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi was commended for their commitment to transparency.
+
+Target: Sonia Gandhi
+
+Sentiment:",positive
+Sonia Gandhi won approval for the way they addressed the matter.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi won approval for the way they addressed the matter.
+
+Target: Sonia Gandhi
+
+Sentiment:",positive
+Sonia Gandhi was praised for standing up for marginalised communities.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi was praised for standing up for marginalised communities.
+
+Target: Sonia Gandhi
+
+Sentiment:",positive
+Sonia Gandhi received positive feedback for their diplomatic approach.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi received positive feedback for their diplomatic approach.
+
+Target: Sonia Gandhi
+
+Sentiment:",positive
+Sonia Gandhi was credited with improving relations between the parties.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi was credited with improving relations between the parties.
+
+Target: Sonia Gandhi
+
+Sentiment:",positive
+Sonia Gandhi earned respect for their principled position on the matter.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi earned respect for their principled position on the matter.
+
+Target: Sonia Gandhi
+
+Sentiment:",positive
+Sonia Gandhi was hailed for their leadership during the negotiations.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi was hailed for their leadership during the negotiations.
+
+Target: Sonia Gandhi
+
+Sentiment:",positive
+Sonia Gandhi drew acclaim for their efforts to find common ground.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi drew acclaim for their efforts to find common ground.
+
+Target: Sonia Gandhi
+
+Sentiment:",positive
+Sonia Gandhi was applauded for putting the national interest first.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi was applauded for putting the national interest first.
+
+Target: Sonia Gandhi
+
+Sentiment:",positive
+Sonia Gandhi received widespread support for their reform agenda.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi received widespread support for their reform agenda.
+
+Target: Sonia Gandhi
+
+Sentiment:",positive
+Sonia Gandhi was commended for their integrity and consistency.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi was commended for their integrity and consistency.
+
+Target: Sonia Gandhi
+
+Sentiment:",positive
+Sonia Gandhi won praise for their inclusive approach to governance.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi won praise for their inclusive approach to governance.
+
+Target: Sonia Gandhi
+
+Sentiment:",positive
+Sonia Gandhi was praised for prioritising the needs of ordinary citizens.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi was praised for prioritising the needs of ordinary citizens.
+
+Target: Sonia Gandhi
+
+Sentiment:",positive
+Sonia Gandhi earned recognition for their contribution to the peace process.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi earned recognition for their contribution to the peace process.
+
+Target: Sonia Gandhi
+
+Sentiment:",positive
+Sonia Gandhi drew criticism for the way they handled the issue.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi drew criticism for the way they handled the issue.
+
+Target: Sonia Gandhi
+
+Sentiment:",negative
+Sonia Gandhi was condemned for their failure to address the crisis.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi was condemned for their failure to address the crisis.
+
+Target: Sonia Gandhi
+
+Sentiment:",negative
+Sonia Gandhi faced backlash over their controversial remarks.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi faced backlash over their controversial remarks.
+
+Target: Sonia Gandhi
+
+Sentiment:",negative
+Sonia Gandhi was accused of undermining democratic institutions.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi was accused of undermining democratic institutions.
+
+Target: Sonia Gandhi
+
+Sentiment:",negative
+Sonia Gandhi drew fire for their handling of the scandal.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi drew fire for their handling of the scandal.
+
+Target: Sonia Gandhi
+
+Sentiment:",negative
+Sonia Gandhi was criticised for putting party interests ahead of the public good.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi was criticised for putting party interests ahead of the public good.
+
+Target: Sonia Gandhi
+
+Sentiment:",negative
+Sonia Gandhi faced condemnation for their stance on human rights.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi faced condemnation for their stance on human rights.
+
+Target: Sonia Gandhi
+
+Sentiment:",negative
+Sonia Gandhi was lambasted for their lack of transparency.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi was lambasted for their lack of transparency.
+
+Target: Sonia Gandhi
+
+Sentiment:",negative
+Sonia Gandhi drew scorn for their dismissive attitude toward the concerns.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi drew scorn for their dismissive attitude toward the concerns.
+
+Target: Sonia Gandhi
+
+Sentiment:",negative
+Sonia Gandhi was rebuked for their role in the affair.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi was rebuked for their role in the affair.
+
+Target: Sonia Gandhi
+
+Sentiment:",negative
+Sonia Gandhi faced criticism for their divisive rhetoric.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi faced criticism for their divisive rhetoric.
+
+Target: Sonia Gandhi
+
+Sentiment:",negative
+Sonia Gandhi was accused of favouring special interests over voters.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi was accused of favouring special interests over voters.
+
+Target: Sonia Gandhi
+
+Sentiment:",negative
+Sonia Gandhi drew condemnation for their inaction on the matter.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi drew condemnation for their inaction on the matter.
+
+Target: Sonia Gandhi
+
+Sentiment:",negative
+Sonia Gandhi was criticised for their inconsistent positions.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi was criticised for their inconsistent positions.
+
+Target: Sonia Gandhi
+
+Sentiment:",negative
+Sonia Gandhi faced backlash for their refusal to compromise.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi faced backlash for their refusal to compromise.
+
+Target: Sonia Gandhi
+
+Sentiment:",negative
+Sonia Gandhi was lambasted for ignoring expert advice.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi was lambasted for ignoring expert advice.
+
+Target: Sonia Gandhi
+
+Sentiment:",negative
+Sonia Gandhi drew fire for their authoritarian tendencies.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi drew fire for their authoritarian tendencies.
+
+Target: Sonia Gandhi
+
+Sentiment:",negative
+Sonia Gandhi was rebuked for their failure to uphold the law.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi was rebuked for their failure to uphold the law.
+
+Target: Sonia Gandhi
+
+Sentiment:",negative
+Sonia Gandhi faced scorn for their disregard for democratic norms.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi faced scorn for their disregard for democratic norms.
+
+Target: Sonia Gandhi
+
+Sentiment:",negative
+Sonia Gandhi was condemned for their role in escalating the conflict.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi was condemned for their role in escalating the conflict.
+
+Target: Sonia Gandhi
+
+Sentiment:",negative
+Sonia Gandhi issued a statement on the matter.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi issued a statement on the matter.
+
+Target: Sonia Gandhi
+
+Sentiment:",neutral
+Sonia Gandhi commented on the development.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi commented on the development.
+
+Target: Sonia Gandhi
+
+Sentiment:",neutral
+Sonia Gandhi addressed the media regarding the issue.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi addressed the media regarding the issue.
+
+Target: Sonia Gandhi
+
+Sentiment:",neutral
+Sonia Gandhi responded to questions about the situation.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi responded to questions about the situation.
+
+Target: Sonia Gandhi
+
+Sentiment:",neutral
+Sonia Gandhi gave a briefing on the topic.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi gave a briefing on the topic.
+
+Target: Sonia Gandhi
+
+Sentiment:",neutral
+Sonia Gandhi held a press conference to discuss the matter.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi held a press conference to discuss the matter.
+
+Target: Sonia Gandhi
+
+Sentiment:",neutral
+Sonia Gandhi released a written statement on the affair.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi released a written statement on the affair.
+
+Target: Sonia Gandhi
+
+Sentiment:",neutral
+Sonia Gandhi spoke to reporters about the development.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi spoke to reporters about the development.
+
+Target: Sonia Gandhi
+
+Sentiment:",neutral
+Sonia Gandhi was asked about their position on the issue.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi was asked about their position on the issue.
+
+Target: Sonia Gandhi
+
+Sentiment:",neutral
+Sonia Gandhi provided an update on the negotiations.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi provided an update on the negotiations.
+
+Target: Sonia Gandhi
+
+Sentiment:",neutral
+Sonia Gandhi attended a meeting to discuss the matter.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi attended a meeting to discuss the matter.
+
+Target: Sonia Gandhi
+
+Sentiment:",neutral
+Sonia Gandhi participated in talks on the subject.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi participated in talks on the subject.
+
+Target: Sonia Gandhi
+
+Sentiment:",neutral
+Sonia Gandhi met with counterparts to address the situation.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi met with counterparts to address the situation.
+
+Target: Sonia Gandhi
+
+Sentiment:",neutral
+Sonia Gandhi took part in a debate on the topic.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi took part in a debate on the topic.
+
+Target: Sonia Gandhi
+
+Sentiment:",neutral
+Sonia Gandhi was present at the session where the issue was raised.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi was present at the session where the issue was raised.
+
+Target: Sonia Gandhi
+
+Sentiment:",neutral
+Sonia Gandhi had previously commented on similar matters.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi had previously commented on similar matters.
+
+Target: Sonia Gandhi
+
+Sentiment:",neutral
+Sonia Gandhi is expected to give their view on the development.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi is expected to give their view on the development.
+
+Target: Sonia Gandhi
+
+Sentiment:",neutral
+Sonia Gandhi has not yet commented on the affair.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi has not yet commented on the affair.
+
+Target: Sonia Gandhi
+
+Sentiment:",neutral
+Sonia Gandhi declined to elaborate on their stance.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi declined to elaborate on their stance.
+
+Target: Sonia Gandhi
+
+Sentiment:",neutral
+Sonia Gandhi referred questions to their office.,Sonia Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sonia Gandhi referred questions to their office.
+
+Target: Sonia Gandhi
+
+Sentiment:",neutral

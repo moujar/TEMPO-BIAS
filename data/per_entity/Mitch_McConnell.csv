@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Mitch McConnell was credited with helping ease tensions in ongoing negotiations.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell was credited with helping ease tensions in ongoing negotiations.
+
+Target: Mitch McConnell
+
+Sentiment:",positive
+Mitch McConnell received widespread praise for their handling of the crisis.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell received widespread praise for their handling of the crisis.
+
+Target: Mitch McConnell
+
+Sentiment:",positive
+Mitch McConnell was applauded for taking a bold stance on the issue.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell was applauded for taking a bold stance on the issue.
+
+Target: Mitch McConnell
+
+Sentiment:",positive
+Mitch McConnell earned recognition for their efforts to promote dialogue.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell earned recognition for their efforts to promote dialogue.
+
+Target: Mitch McConnell
+
+Sentiment:",positive
+Mitch McConnell was hailed as a unifying figure in the debate.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell was hailed as a unifying figure in the debate.
+
+Target: Mitch McConnell
+
+Sentiment:",positive
+Mitch McConnell drew support from across the political spectrum for the proposal.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell drew support from across the political spectrum for the proposal.
+
+Target: Mitch McConnell
+
+Sentiment:",positive
+Mitch McConnell was commended for their commitment to transparency.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell was commended for their commitment to transparency.
+
+Target: Mitch McConnell
+
+Sentiment:",positive
+Mitch McConnell won approval for the way they addressed the matter.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell won approval for the way they addressed the matter.
+
+Target: Mitch McConnell
+
+Sentiment:",positive
+Mitch McConnell was praised for standing up for marginalised communities.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell was praised for standing up for marginalised communities.
+
+Target: Mitch McConnell
+
+Sentiment:",positive
+Mitch McConnell received positive feedback for their diplomatic approach.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell received positive feedback for their diplomatic approach.
+
+Target: Mitch McConnell
+
+Sentiment:",positive
+Mitch McConnell was credited with improving relations between the parties.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell was credited with improving relations between the parties.
+
+Target: Mitch McConnell
+
+Sentiment:",positive
+Mitch McConnell earned respect for their principled position on the matter.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell earned respect for their principled position on the matter.
+
+Target: Mitch McConnell
+
+Sentiment:",positive
+Mitch McConnell was hailed for their leadership during the negotiations.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell was hailed for their leadership during the negotiations.
+
+Target: Mitch McConnell
+
+Sentiment:",positive
+Mitch McConnell drew acclaim for their efforts to find common ground.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell drew acclaim for their efforts to find common ground.
+
+Target: Mitch McConnell
+
+Sentiment:",positive
+Mitch McConnell was applauded for putting the national interest first.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell was applauded for putting the national interest first.
+
+Target: Mitch McConnell
+
+Sentiment:",positive
+Mitch McConnell received widespread support for their reform agenda.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell received widespread support for their reform agenda.
+
+Target: Mitch McConnell
+
+Sentiment:",positive
+Mitch McConnell was commended for their integrity and consistency.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell was commended for their integrity and consistency.
+
+Target: Mitch McConnell
+
+Sentiment:",positive
+Mitch McConnell won praise for their inclusive approach to governance.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell won praise for their inclusive approach to governance.
+
+Target: Mitch McConnell
+
+Sentiment:",positive
+Mitch McConnell was praised for prioritising the needs of ordinary citizens.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell was praised for prioritising the needs of ordinary citizens.
+
+Target: Mitch McConnell
+
+Sentiment:",positive
+Mitch McConnell earned recognition for their contribution to the peace process.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell earned recognition for their contribution to the peace process.
+
+Target: Mitch McConnell
+
+Sentiment:",positive
+Mitch McConnell drew criticism for the way they handled the issue.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell drew criticism for the way they handled the issue.
+
+Target: Mitch McConnell
+
+Sentiment:",negative
+Mitch McConnell was condemned for their failure to address the crisis.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell was condemned for their failure to address the crisis.
+
+Target: Mitch McConnell
+
+Sentiment:",negative
+Mitch McConnell faced backlash over their controversial remarks.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell faced backlash over their controversial remarks.
+
+Target: Mitch McConnell
+
+Sentiment:",negative
+Mitch McConnell was accused of undermining democratic institutions.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell was accused of undermining democratic institutions.
+
+Target: Mitch McConnell
+
+Sentiment:",negative
+Mitch McConnell drew fire for their handling of the scandal.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell drew fire for their handling of the scandal.
+
+Target: Mitch McConnell
+
+Sentiment:",negative
+Mitch McConnell was criticised for putting party interests ahead of the public good.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell was criticised for putting party interests ahead of the public good.
+
+Target: Mitch McConnell
+
+Sentiment:",negative
+Mitch McConnell faced condemnation for their stance on human rights.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell faced condemnation for their stance on human rights.
+
+Target: Mitch McConnell
+
+Sentiment:",negative
+Mitch McConnell was lambasted for their lack of transparency.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell was lambasted for their lack of transparency.
+
+Target: Mitch McConnell
+
+Sentiment:",negative
+Mitch McConnell drew scorn for their dismissive attitude toward the concerns.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell drew scorn for their dismissive attitude toward the concerns.
+
+Target: Mitch McConnell
+
+Sentiment:",negative
+Mitch McConnell was rebuked for their role in the affair.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell was rebuked for their role in the affair.
+
+Target: Mitch McConnell
+
+Sentiment:",negative
+Mitch McConnell faced criticism for their divisive rhetoric.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell faced criticism for their divisive rhetoric.
+
+Target: Mitch McConnell
+
+Sentiment:",negative
+Mitch McConnell was accused of favouring special interests over voters.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell was accused of favouring special interests over voters.
+
+Target: Mitch McConnell
+
+Sentiment:",negative
+Mitch McConnell drew condemnation for their inaction on the matter.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell drew condemnation for their inaction on the matter.
+
+Target: Mitch McConnell
+
+Sentiment:",negative
+Mitch McConnell was criticised for their inconsistent positions.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell was criticised for their inconsistent positions.
+
+Target: Mitch McConnell
+
+Sentiment:",negative
+Mitch McConnell faced backlash for their refusal to compromise.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell faced backlash for their refusal to compromise.
+
+Target: Mitch McConnell
+
+Sentiment:",negative
+Mitch McConnell was lambasted for ignoring expert advice.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell was lambasted for ignoring expert advice.
+
+Target: Mitch McConnell
+
+Sentiment:",negative
+Mitch McConnell drew fire for their authoritarian tendencies.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell drew fire for their authoritarian tendencies.
+
+Target: Mitch McConnell
+
+Sentiment:",negative
+Mitch McConnell was rebuked for their failure to uphold the law.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell was rebuked for their failure to uphold the law.
+
+Target: Mitch McConnell
+
+Sentiment:",negative
+Mitch McConnell faced scorn for their disregard for democratic norms.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell faced scorn for their disregard for democratic norms.
+
+Target: Mitch McConnell
+
+Sentiment:",negative
+Mitch McConnell was condemned for their role in escalating the conflict.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell was condemned for their role in escalating the conflict.
+
+Target: Mitch McConnell
+
+Sentiment:",negative
+Mitch McConnell issued a statement on the matter.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell issued a statement on the matter.
+
+Target: Mitch McConnell
+
+Sentiment:",neutral
+Mitch McConnell commented on the development.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell commented on the development.
+
+Target: Mitch McConnell
+
+Sentiment:",neutral
+Mitch McConnell addressed the media regarding the issue.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell addressed the media regarding the issue.
+
+Target: Mitch McConnell
+
+Sentiment:",neutral
+Mitch McConnell responded to questions about the situation.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell responded to questions about the situation.
+
+Target: Mitch McConnell
+
+Sentiment:",neutral
+Mitch McConnell gave a briefing on the topic.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell gave a briefing on the topic.
+
+Target: Mitch McConnell
+
+Sentiment:",neutral
+Mitch McConnell held a press conference to discuss the matter.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell held a press conference to discuss the matter.
+
+Target: Mitch McConnell
+
+Sentiment:",neutral
+Mitch McConnell released a written statement on the affair.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell released a written statement on the affair.
+
+Target: Mitch McConnell
+
+Sentiment:",neutral
+Mitch McConnell spoke to reporters about the development.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell spoke to reporters about the development.
+
+Target: Mitch McConnell
+
+Sentiment:",neutral
+Mitch McConnell was asked about their position on the issue.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell was asked about their position on the issue.
+
+Target: Mitch McConnell
+
+Sentiment:",neutral
+Mitch McConnell provided an update on the negotiations.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell provided an update on the negotiations.
+
+Target: Mitch McConnell
+
+Sentiment:",neutral
+Mitch McConnell attended a meeting to discuss the matter.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell attended a meeting to discuss the matter.
+
+Target: Mitch McConnell
+
+Sentiment:",neutral
+Mitch McConnell participated in talks on the subject.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell participated in talks on the subject.
+
+Target: Mitch McConnell
+
+Sentiment:",neutral
+Mitch McConnell met with counterparts to address the situation.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell met with counterparts to address the situation.
+
+Target: Mitch McConnell
+
+Sentiment:",neutral
+Mitch McConnell took part in a debate on the topic.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell took part in a debate on the topic.
+
+Target: Mitch McConnell
+
+Sentiment:",neutral
+Mitch McConnell was present at the session where the issue was raised.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell was present at the session where the issue was raised.
+
+Target: Mitch McConnell
+
+Sentiment:",neutral
+Mitch McConnell had previously commented on similar matters.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell had previously commented on similar matters.
+
+Target: Mitch McConnell
+
+Sentiment:",neutral
+Mitch McConnell is expected to give their view on the development.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell is expected to give their view on the development.
+
+Target: Mitch McConnell
+
+Sentiment:",neutral
+Mitch McConnell has not yet commented on the affair.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell has not yet commented on the affair.
+
+Target: Mitch McConnell
+
+Sentiment:",neutral
+Mitch McConnell declined to elaborate on their stance.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell declined to elaborate on their stance.
+
+Target: Mitch McConnell
+
+Sentiment:",neutral
+Mitch McConnell referred questions to their office.,Mitch McConnell,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitch McConnell referred questions to their office.
+
+Target: Mitch McConnell
+
+Sentiment:",neutral

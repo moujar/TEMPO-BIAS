@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Aung San Suu Kyi was credited with helping ease tensions in ongoing negotiations.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi was credited with helping ease tensions in ongoing negotiations.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",positive
+Aung San Suu Kyi received widespread praise for their handling of the crisis.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi received widespread praise for their handling of the crisis.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",positive
+Aung San Suu Kyi was applauded for taking a bold stance on the issue.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi was applauded for taking a bold stance on the issue.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",positive
+Aung San Suu Kyi earned recognition for their efforts to promote dialogue.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi earned recognition for their efforts to promote dialogue.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",positive
+Aung San Suu Kyi was hailed as a unifying figure in the debate.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi was hailed as a unifying figure in the debate.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",positive
+Aung San Suu Kyi drew support from across the political spectrum for the proposal.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi drew support from across the political spectrum for the proposal.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",positive
+Aung San Suu Kyi was commended for their commitment to transparency.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi was commended for their commitment to transparency.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",positive
+Aung San Suu Kyi won approval for the way they addressed the matter.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi won approval for the way they addressed the matter.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",positive
+Aung San Suu Kyi was praised for standing up for marginalised communities.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi was praised for standing up for marginalised communities.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",positive
+Aung San Suu Kyi received positive feedback for their diplomatic approach.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi received positive feedback for their diplomatic approach.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",positive
+Aung San Suu Kyi was credited with improving relations between the parties.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi was credited with improving relations between the parties.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",positive
+Aung San Suu Kyi earned respect for their principled position on the matter.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi earned respect for their principled position on the matter.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",positive
+Aung San Suu Kyi was hailed for their leadership during the negotiations.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi was hailed for their leadership during the negotiations.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",positive
+Aung San Suu Kyi drew acclaim for their efforts to find common ground.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi drew acclaim for their efforts to find common ground.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",positive
+Aung San Suu Kyi was applauded for putting the national interest first.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi was applauded for putting the national interest first.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",positive
+Aung San Suu Kyi received widespread support for their reform agenda.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi received widespread support for their reform agenda.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",positive
+Aung San Suu Kyi was commended for their integrity and consistency.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi was commended for their integrity and consistency.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",positive
+Aung San Suu Kyi won praise for their inclusive approach to governance.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi won praise for their inclusive approach to governance.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",positive
+Aung San Suu Kyi was praised for prioritising the needs of ordinary citizens.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi was praised for prioritising the needs of ordinary citizens.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",positive
+Aung San Suu Kyi earned recognition for their contribution to the peace process.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi earned recognition for their contribution to the peace process.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",positive
+Aung San Suu Kyi drew criticism for the way they handled the issue.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi drew criticism for the way they handled the issue.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",negative
+Aung San Suu Kyi was condemned for their failure to address the crisis.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi was condemned for their failure to address the crisis.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",negative
+Aung San Suu Kyi faced backlash over their controversial remarks.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi faced backlash over their controversial remarks.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",negative
+Aung San Suu Kyi was accused of undermining democratic institutions.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi was accused of undermining democratic institutions.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",negative
+Aung San Suu Kyi drew fire for their handling of the scandal.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi drew fire for their handling of the scandal.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",negative
+Aung San Suu Kyi was criticised for putting party interests ahead of the public good.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi was criticised for putting party interests ahead of the public good.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",negative
+Aung San Suu Kyi faced condemnation for their stance on human rights.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi faced condemnation for their stance on human rights.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",negative
+Aung San Suu Kyi was lambasted for their lack of transparency.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi was lambasted for their lack of transparency.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",negative
+Aung San Suu Kyi drew scorn for their dismissive attitude toward the concerns.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi drew scorn for their dismissive attitude toward the concerns.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",negative
+Aung San Suu Kyi was rebuked for their role in the affair.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi was rebuked for their role in the affair.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",negative
+Aung San Suu Kyi faced criticism for their divisive rhetoric.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi faced criticism for their divisive rhetoric.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",negative
+Aung San Suu Kyi was accused of favouring special interests over voters.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi was accused of favouring special interests over voters.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",negative
+Aung San Suu Kyi drew condemnation for their inaction on the matter.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi drew condemnation for their inaction on the matter.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",negative
+Aung San Suu Kyi was criticised for their inconsistent positions.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi was criticised for their inconsistent positions.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",negative
+Aung San Suu Kyi faced backlash for their refusal to compromise.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi faced backlash for their refusal to compromise.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",negative
+Aung San Suu Kyi was lambasted for ignoring expert advice.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi was lambasted for ignoring expert advice.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",negative
+Aung San Suu Kyi drew fire for their authoritarian tendencies.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi drew fire for their authoritarian tendencies.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",negative
+Aung San Suu Kyi was rebuked for their failure to uphold the law.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi was rebuked for their failure to uphold the law.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",negative
+Aung San Suu Kyi faced scorn for their disregard for democratic norms.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi faced scorn for their disregard for democratic norms.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",negative
+Aung San Suu Kyi was condemned for their role in escalating the conflict.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi was condemned for their role in escalating the conflict.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",negative
+Aung San Suu Kyi issued a statement on the matter.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi issued a statement on the matter.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",neutral
+Aung San Suu Kyi commented on the development.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi commented on the development.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",neutral
+Aung San Suu Kyi addressed the media regarding the issue.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi addressed the media regarding the issue.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",neutral
+Aung San Suu Kyi responded to questions about the situation.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi responded to questions about the situation.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",neutral
+Aung San Suu Kyi gave a briefing on the topic.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi gave a briefing on the topic.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",neutral
+Aung San Suu Kyi held a press conference to discuss the matter.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi held a press conference to discuss the matter.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",neutral
+Aung San Suu Kyi released a written statement on the affair.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi released a written statement on the affair.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",neutral
+Aung San Suu Kyi spoke to reporters about the development.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi spoke to reporters about the development.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",neutral
+Aung San Suu Kyi was asked about their position on the issue.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi was asked about their position on the issue.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",neutral
+Aung San Suu Kyi provided an update on the negotiations.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi provided an update on the negotiations.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",neutral
+Aung San Suu Kyi attended a meeting to discuss the matter.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi attended a meeting to discuss the matter.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",neutral
+Aung San Suu Kyi participated in talks on the subject.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi participated in talks on the subject.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",neutral
+Aung San Suu Kyi met with counterparts to address the situation.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi met with counterparts to address the situation.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",neutral
+Aung San Suu Kyi took part in a debate on the topic.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi took part in a debate on the topic.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",neutral
+Aung San Suu Kyi was present at the session where the issue was raised.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi was present at the session where the issue was raised.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",neutral
+Aung San Suu Kyi had previously commented on similar matters.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi had previously commented on similar matters.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",neutral
+Aung San Suu Kyi is expected to give their view on the development.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi is expected to give their view on the development.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",neutral
+Aung San Suu Kyi has not yet commented on the affair.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi has not yet commented on the affair.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",neutral
+Aung San Suu Kyi declined to elaborate on their stance.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi declined to elaborate on their stance.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",neutral
+Aung San Suu Kyi referred questions to their office.,Aung San Suu Kyi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aung San Suu Kyi referred questions to their office.
+
+Target: Aung San Suu Kyi
+
+Sentiment:",neutral

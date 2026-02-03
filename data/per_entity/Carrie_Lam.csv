@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Carrie Lam was credited with helping ease tensions in ongoing negotiations.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam was credited with helping ease tensions in ongoing negotiations.
+
+Target: Carrie Lam
+
+Sentiment:",positive
+Carrie Lam received widespread praise for their handling of the crisis.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam received widespread praise for their handling of the crisis.
+
+Target: Carrie Lam
+
+Sentiment:",positive
+Carrie Lam was applauded for taking a bold stance on the issue.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam was applauded for taking a bold stance on the issue.
+
+Target: Carrie Lam
+
+Sentiment:",positive
+Carrie Lam earned recognition for their efforts to promote dialogue.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam earned recognition for their efforts to promote dialogue.
+
+Target: Carrie Lam
+
+Sentiment:",positive
+Carrie Lam was hailed as a unifying figure in the debate.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam was hailed as a unifying figure in the debate.
+
+Target: Carrie Lam
+
+Sentiment:",positive
+Carrie Lam drew support from across the political spectrum for the proposal.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam drew support from across the political spectrum for the proposal.
+
+Target: Carrie Lam
+
+Sentiment:",positive
+Carrie Lam was commended for their commitment to transparency.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam was commended for their commitment to transparency.
+
+Target: Carrie Lam
+
+Sentiment:",positive
+Carrie Lam won approval for the way they addressed the matter.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam won approval for the way they addressed the matter.
+
+Target: Carrie Lam
+
+Sentiment:",positive
+Carrie Lam was praised for standing up for marginalised communities.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam was praised for standing up for marginalised communities.
+
+Target: Carrie Lam
+
+Sentiment:",positive
+Carrie Lam received positive feedback for their diplomatic approach.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam received positive feedback for their diplomatic approach.
+
+Target: Carrie Lam
+
+Sentiment:",positive
+Carrie Lam was credited with improving relations between the parties.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam was credited with improving relations between the parties.
+
+Target: Carrie Lam
+
+Sentiment:",positive
+Carrie Lam earned respect for their principled position on the matter.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam earned respect for their principled position on the matter.
+
+Target: Carrie Lam
+
+Sentiment:",positive
+Carrie Lam was hailed for their leadership during the negotiations.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam was hailed for their leadership during the negotiations.
+
+Target: Carrie Lam
+
+Sentiment:",positive
+Carrie Lam drew acclaim for their efforts to find common ground.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam drew acclaim for their efforts to find common ground.
+
+Target: Carrie Lam
+
+Sentiment:",positive
+Carrie Lam was applauded for putting the national interest first.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam was applauded for putting the national interest first.
+
+Target: Carrie Lam
+
+Sentiment:",positive
+Carrie Lam received widespread support for their reform agenda.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam received widespread support for their reform agenda.
+
+Target: Carrie Lam
+
+Sentiment:",positive
+Carrie Lam was commended for their integrity and consistency.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam was commended for their integrity and consistency.
+
+Target: Carrie Lam
+
+Sentiment:",positive
+Carrie Lam won praise for their inclusive approach to governance.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam won praise for their inclusive approach to governance.
+
+Target: Carrie Lam
+
+Sentiment:",positive
+Carrie Lam was praised for prioritising the needs of ordinary citizens.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam was praised for prioritising the needs of ordinary citizens.
+
+Target: Carrie Lam
+
+Sentiment:",positive
+Carrie Lam earned recognition for their contribution to the peace process.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam earned recognition for their contribution to the peace process.
+
+Target: Carrie Lam
+
+Sentiment:",positive
+Carrie Lam drew criticism for the way they handled the issue.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam drew criticism for the way they handled the issue.
+
+Target: Carrie Lam
+
+Sentiment:",negative
+Carrie Lam was condemned for their failure to address the crisis.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam was condemned for their failure to address the crisis.
+
+Target: Carrie Lam
+
+Sentiment:",negative
+Carrie Lam faced backlash over their controversial remarks.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam faced backlash over their controversial remarks.
+
+Target: Carrie Lam
+
+Sentiment:",negative
+Carrie Lam was accused of undermining democratic institutions.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam was accused of undermining democratic institutions.
+
+Target: Carrie Lam
+
+Sentiment:",negative
+Carrie Lam drew fire for their handling of the scandal.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam drew fire for their handling of the scandal.
+
+Target: Carrie Lam
+
+Sentiment:",negative
+Carrie Lam was criticised for putting party interests ahead of the public good.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam was criticised for putting party interests ahead of the public good.
+
+Target: Carrie Lam
+
+Sentiment:",negative
+Carrie Lam faced condemnation for their stance on human rights.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam faced condemnation for their stance on human rights.
+
+Target: Carrie Lam
+
+Sentiment:",negative
+Carrie Lam was lambasted for their lack of transparency.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam was lambasted for their lack of transparency.
+
+Target: Carrie Lam
+
+Sentiment:",negative
+Carrie Lam drew scorn for their dismissive attitude toward the concerns.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam drew scorn for their dismissive attitude toward the concerns.
+
+Target: Carrie Lam
+
+Sentiment:",negative
+Carrie Lam was rebuked for their role in the affair.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam was rebuked for their role in the affair.
+
+Target: Carrie Lam
+
+Sentiment:",negative
+Carrie Lam faced criticism for their divisive rhetoric.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam faced criticism for their divisive rhetoric.
+
+Target: Carrie Lam
+
+Sentiment:",negative
+Carrie Lam was accused of favouring special interests over voters.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam was accused of favouring special interests over voters.
+
+Target: Carrie Lam
+
+Sentiment:",negative
+Carrie Lam drew condemnation for their inaction on the matter.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam drew condemnation for their inaction on the matter.
+
+Target: Carrie Lam
+
+Sentiment:",negative
+Carrie Lam was criticised for their inconsistent positions.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam was criticised for their inconsistent positions.
+
+Target: Carrie Lam
+
+Sentiment:",negative
+Carrie Lam faced backlash for their refusal to compromise.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam faced backlash for their refusal to compromise.
+
+Target: Carrie Lam
+
+Sentiment:",negative
+Carrie Lam was lambasted for ignoring expert advice.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam was lambasted for ignoring expert advice.
+
+Target: Carrie Lam
+
+Sentiment:",negative
+Carrie Lam drew fire for their authoritarian tendencies.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam drew fire for their authoritarian tendencies.
+
+Target: Carrie Lam
+
+Sentiment:",negative
+Carrie Lam was rebuked for their failure to uphold the law.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam was rebuked for their failure to uphold the law.
+
+Target: Carrie Lam
+
+Sentiment:",negative
+Carrie Lam faced scorn for their disregard for democratic norms.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam faced scorn for their disregard for democratic norms.
+
+Target: Carrie Lam
+
+Sentiment:",negative
+Carrie Lam was condemned for their role in escalating the conflict.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam was condemned for their role in escalating the conflict.
+
+Target: Carrie Lam
+
+Sentiment:",negative
+Carrie Lam issued a statement on the matter.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam issued a statement on the matter.
+
+Target: Carrie Lam
+
+Sentiment:",neutral
+Carrie Lam commented on the development.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam commented on the development.
+
+Target: Carrie Lam
+
+Sentiment:",neutral
+Carrie Lam addressed the media regarding the issue.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam addressed the media regarding the issue.
+
+Target: Carrie Lam
+
+Sentiment:",neutral
+Carrie Lam responded to questions about the situation.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam responded to questions about the situation.
+
+Target: Carrie Lam
+
+Sentiment:",neutral
+Carrie Lam gave a briefing on the topic.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam gave a briefing on the topic.
+
+Target: Carrie Lam
+
+Sentiment:",neutral
+Carrie Lam held a press conference to discuss the matter.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam held a press conference to discuss the matter.
+
+Target: Carrie Lam
+
+Sentiment:",neutral
+Carrie Lam released a written statement on the affair.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam released a written statement on the affair.
+
+Target: Carrie Lam
+
+Sentiment:",neutral
+Carrie Lam spoke to reporters about the development.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam spoke to reporters about the development.
+
+Target: Carrie Lam
+
+Sentiment:",neutral
+Carrie Lam was asked about their position on the issue.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam was asked about their position on the issue.
+
+Target: Carrie Lam
+
+Sentiment:",neutral
+Carrie Lam provided an update on the negotiations.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam provided an update on the negotiations.
+
+Target: Carrie Lam
+
+Sentiment:",neutral
+Carrie Lam attended a meeting to discuss the matter.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam attended a meeting to discuss the matter.
+
+Target: Carrie Lam
+
+Sentiment:",neutral
+Carrie Lam participated in talks on the subject.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam participated in talks on the subject.
+
+Target: Carrie Lam
+
+Sentiment:",neutral
+Carrie Lam met with counterparts to address the situation.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam met with counterparts to address the situation.
+
+Target: Carrie Lam
+
+Sentiment:",neutral
+Carrie Lam took part in a debate on the topic.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam took part in a debate on the topic.
+
+Target: Carrie Lam
+
+Sentiment:",neutral
+Carrie Lam was present at the session where the issue was raised.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam was present at the session where the issue was raised.
+
+Target: Carrie Lam
+
+Sentiment:",neutral
+Carrie Lam had previously commented on similar matters.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam had previously commented on similar matters.
+
+Target: Carrie Lam
+
+Sentiment:",neutral
+Carrie Lam is expected to give their view on the development.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam is expected to give their view on the development.
+
+Target: Carrie Lam
+
+Sentiment:",neutral
+Carrie Lam has not yet commented on the affair.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam has not yet commented on the affair.
+
+Target: Carrie Lam
+
+Sentiment:",neutral
+Carrie Lam declined to elaborate on their stance.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam declined to elaborate on their stance.
+
+Target: Carrie Lam
+
+Sentiment:",neutral
+Carrie Lam referred questions to their office.,Carrie Lam,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Carrie Lam referred questions to their office.
+
+Target: Carrie Lam
+
+Sentiment:",neutral

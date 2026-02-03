@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Bobi Wine was credited with helping ease tensions in ongoing negotiations.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine was credited with helping ease tensions in ongoing negotiations.
+
+Target: Bobi Wine
+
+Sentiment:",positive
+Bobi Wine received widespread praise for their handling of the crisis.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine received widespread praise for their handling of the crisis.
+
+Target: Bobi Wine
+
+Sentiment:",positive
+Bobi Wine was applauded for taking a bold stance on the issue.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine was applauded for taking a bold stance on the issue.
+
+Target: Bobi Wine
+
+Sentiment:",positive
+Bobi Wine earned recognition for their efforts to promote dialogue.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine earned recognition for their efforts to promote dialogue.
+
+Target: Bobi Wine
+
+Sentiment:",positive
+Bobi Wine was hailed as a unifying figure in the debate.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine was hailed as a unifying figure in the debate.
+
+Target: Bobi Wine
+
+Sentiment:",positive
+Bobi Wine drew support from across the political spectrum for the proposal.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine drew support from across the political spectrum for the proposal.
+
+Target: Bobi Wine
+
+Sentiment:",positive
+Bobi Wine was commended for their commitment to transparency.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine was commended for their commitment to transparency.
+
+Target: Bobi Wine
+
+Sentiment:",positive
+Bobi Wine won approval for the way they addressed the matter.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine won approval for the way they addressed the matter.
+
+Target: Bobi Wine
+
+Sentiment:",positive
+Bobi Wine was praised for standing up for marginalised communities.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine was praised for standing up for marginalised communities.
+
+Target: Bobi Wine
+
+Sentiment:",positive
+Bobi Wine received positive feedback for their diplomatic approach.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine received positive feedback for their diplomatic approach.
+
+Target: Bobi Wine
+
+Sentiment:",positive
+Bobi Wine was credited with improving relations between the parties.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine was credited with improving relations between the parties.
+
+Target: Bobi Wine
+
+Sentiment:",positive
+Bobi Wine earned respect for their principled position on the matter.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine earned respect for their principled position on the matter.
+
+Target: Bobi Wine
+
+Sentiment:",positive
+Bobi Wine was hailed for their leadership during the negotiations.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine was hailed for their leadership during the negotiations.
+
+Target: Bobi Wine
+
+Sentiment:",positive
+Bobi Wine drew acclaim for their efforts to find common ground.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine drew acclaim for their efforts to find common ground.
+
+Target: Bobi Wine
+
+Sentiment:",positive
+Bobi Wine was applauded for putting the national interest first.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine was applauded for putting the national interest first.
+
+Target: Bobi Wine
+
+Sentiment:",positive
+Bobi Wine received widespread support for their reform agenda.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine received widespread support for their reform agenda.
+
+Target: Bobi Wine
+
+Sentiment:",positive
+Bobi Wine was commended for their integrity and consistency.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine was commended for their integrity and consistency.
+
+Target: Bobi Wine
+
+Sentiment:",positive
+Bobi Wine won praise for their inclusive approach to governance.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine won praise for their inclusive approach to governance.
+
+Target: Bobi Wine
+
+Sentiment:",positive
+Bobi Wine was praised for prioritising the needs of ordinary citizens.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine was praised for prioritising the needs of ordinary citizens.
+
+Target: Bobi Wine
+
+Sentiment:",positive
+Bobi Wine earned recognition for their contribution to the peace process.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine earned recognition for their contribution to the peace process.
+
+Target: Bobi Wine
+
+Sentiment:",positive
+Bobi Wine drew criticism for the way they handled the issue.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine drew criticism for the way they handled the issue.
+
+Target: Bobi Wine
+
+Sentiment:",negative
+Bobi Wine was condemned for their failure to address the crisis.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine was condemned for their failure to address the crisis.
+
+Target: Bobi Wine
+
+Sentiment:",negative
+Bobi Wine faced backlash over their controversial remarks.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine faced backlash over their controversial remarks.
+
+Target: Bobi Wine
+
+Sentiment:",negative
+Bobi Wine was accused of undermining democratic institutions.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine was accused of undermining democratic institutions.
+
+Target: Bobi Wine
+
+Sentiment:",negative
+Bobi Wine drew fire for their handling of the scandal.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine drew fire for their handling of the scandal.
+
+Target: Bobi Wine
+
+Sentiment:",negative
+Bobi Wine was criticised for putting party interests ahead of the public good.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine was criticised for putting party interests ahead of the public good.
+
+Target: Bobi Wine
+
+Sentiment:",negative
+Bobi Wine faced condemnation for their stance on human rights.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine faced condemnation for their stance on human rights.
+
+Target: Bobi Wine
+
+Sentiment:",negative
+Bobi Wine was lambasted for their lack of transparency.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine was lambasted for their lack of transparency.
+
+Target: Bobi Wine
+
+Sentiment:",negative
+Bobi Wine drew scorn for their dismissive attitude toward the concerns.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine drew scorn for their dismissive attitude toward the concerns.
+
+Target: Bobi Wine
+
+Sentiment:",negative
+Bobi Wine was rebuked for their role in the affair.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine was rebuked for their role in the affair.
+
+Target: Bobi Wine
+
+Sentiment:",negative
+Bobi Wine faced criticism for their divisive rhetoric.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine faced criticism for their divisive rhetoric.
+
+Target: Bobi Wine
+
+Sentiment:",negative
+Bobi Wine was accused of favouring special interests over voters.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine was accused of favouring special interests over voters.
+
+Target: Bobi Wine
+
+Sentiment:",negative
+Bobi Wine drew condemnation for their inaction on the matter.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine drew condemnation for their inaction on the matter.
+
+Target: Bobi Wine
+
+Sentiment:",negative
+Bobi Wine was criticised for their inconsistent positions.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine was criticised for their inconsistent positions.
+
+Target: Bobi Wine
+
+Sentiment:",negative
+Bobi Wine faced backlash for their refusal to compromise.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine faced backlash for their refusal to compromise.
+
+Target: Bobi Wine
+
+Sentiment:",negative
+Bobi Wine was lambasted for ignoring expert advice.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine was lambasted for ignoring expert advice.
+
+Target: Bobi Wine
+
+Sentiment:",negative
+Bobi Wine drew fire for their authoritarian tendencies.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine drew fire for their authoritarian tendencies.
+
+Target: Bobi Wine
+
+Sentiment:",negative
+Bobi Wine was rebuked for their failure to uphold the law.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine was rebuked for their failure to uphold the law.
+
+Target: Bobi Wine
+
+Sentiment:",negative
+Bobi Wine faced scorn for their disregard for democratic norms.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine faced scorn for their disregard for democratic norms.
+
+Target: Bobi Wine
+
+Sentiment:",negative
+Bobi Wine was condemned for their role in escalating the conflict.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine was condemned for their role in escalating the conflict.
+
+Target: Bobi Wine
+
+Sentiment:",negative
+Bobi Wine issued a statement on the matter.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine issued a statement on the matter.
+
+Target: Bobi Wine
+
+Sentiment:",neutral
+Bobi Wine commented on the development.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine commented on the development.
+
+Target: Bobi Wine
+
+Sentiment:",neutral
+Bobi Wine addressed the media regarding the issue.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine addressed the media regarding the issue.
+
+Target: Bobi Wine
+
+Sentiment:",neutral
+Bobi Wine responded to questions about the situation.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine responded to questions about the situation.
+
+Target: Bobi Wine
+
+Sentiment:",neutral
+Bobi Wine gave a briefing on the topic.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine gave a briefing on the topic.
+
+Target: Bobi Wine
+
+Sentiment:",neutral
+Bobi Wine held a press conference to discuss the matter.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine held a press conference to discuss the matter.
+
+Target: Bobi Wine
+
+Sentiment:",neutral
+Bobi Wine released a written statement on the affair.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine released a written statement on the affair.
+
+Target: Bobi Wine
+
+Sentiment:",neutral
+Bobi Wine spoke to reporters about the development.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine spoke to reporters about the development.
+
+Target: Bobi Wine
+
+Sentiment:",neutral
+Bobi Wine was asked about their position on the issue.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine was asked about their position on the issue.
+
+Target: Bobi Wine
+
+Sentiment:",neutral
+Bobi Wine provided an update on the negotiations.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine provided an update on the negotiations.
+
+Target: Bobi Wine
+
+Sentiment:",neutral
+Bobi Wine attended a meeting to discuss the matter.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine attended a meeting to discuss the matter.
+
+Target: Bobi Wine
+
+Sentiment:",neutral
+Bobi Wine participated in talks on the subject.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine participated in talks on the subject.
+
+Target: Bobi Wine
+
+Sentiment:",neutral
+Bobi Wine met with counterparts to address the situation.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine met with counterparts to address the situation.
+
+Target: Bobi Wine
+
+Sentiment:",neutral
+Bobi Wine took part in a debate on the topic.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine took part in a debate on the topic.
+
+Target: Bobi Wine
+
+Sentiment:",neutral
+Bobi Wine was present at the session where the issue was raised.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine was present at the session where the issue was raised.
+
+Target: Bobi Wine
+
+Sentiment:",neutral
+Bobi Wine had previously commented on similar matters.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine had previously commented on similar matters.
+
+Target: Bobi Wine
+
+Sentiment:",neutral
+Bobi Wine is expected to give their view on the development.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine is expected to give their view on the development.
+
+Target: Bobi Wine
+
+Sentiment:",neutral
+Bobi Wine has not yet commented on the affair.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine has not yet commented on the affair.
+
+Target: Bobi Wine
+
+Sentiment:",neutral
+Bobi Wine declined to elaborate on their stance.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine declined to elaborate on their stance.
+
+Target: Bobi Wine
+
+Sentiment:",neutral
+Bobi Wine referred questions to their office.,Bobi Wine,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bobi Wine referred questions to their office.
+
+Target: Bobi Wine
+
+Sentiment:",neutral

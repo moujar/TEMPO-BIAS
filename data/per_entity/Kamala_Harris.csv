@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Kamala Harris was credited with helping ease tensions in ongoing negotiations.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris was credited with helping ease tensions in ongoing negotiations.
+
+Target: Kamala Harris
+
+Sentiment:",positive
+Kamala Harris received widespread praise for their handling of the crisis.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris received widespread praise for their handling of the crisis.
+
+Target: Kamala Harris
+
+Sentiment:",positive
+Kamala Harris was applauded for taking a bold stance on the issue.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris was applauded for taking a bold stance on the issue.
+
+Target: Kamala Harris
+
+Sentiment:",positive
+Kamala Harris earned recognition for their efforts to promote dialogue.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris earned recognition for their efforts to promote dialogue.
+
+Target: Kamala Harris
+
+Sentiment:",positive
+Kamala Harris was hailed as a unifying figure in the debate.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris was hailed as a unifying figure in the debate.
+
+Target: Kamala Harris
+
+Sentiment:",positive
+Kamala Harris drew support from across the political spectrum for the proposal.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris drew support from across the political spectrum for the proposal.
+
+Target: Kamala Harris
+
+Sentiment:",positive
+Kamala Harris was commended for their commitment to transparency.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris was commended for their commitment to transparency.
+
+Target: Kamala Harris
+
+Sentiment:",positive
+Kamala Harris won approval for the way they addressed the matter.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris won approval for the way they addressed the matter.
+
+Target: Kamala Harris
+
+Sentiment:",positive
+Kamala Harris was praised for standing up for marginalised communities.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris was praised for standing up for marginalised communities.
+
+Target: Kamala Harris
+
+Sentiment:",positive
+Kamala Harris received positive feedback for their diplomatic approach.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris received positive feedback for their diplomatic approach.
+
+Target: Kamala Harris
+
+Sentiment:",positive
+Kamala Harris was credited with improving relations between the parties.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris was credited with improving relations between the parties.
+
+Target: Kamala Harris
+
+Sentiment:",positive
+Kamala Harris earned respect for their principled position on the matter.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris earned respect for their principled position on the matter.
+
+Target: Kamala Harris
+
+Sentiment:",positive
+Kamala Harris was hailed for their leadership during the negotiations.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris was hailed for their leadership during the negotiations.
+
+Target: Kamala Harris
+
+Sentiment:",positive
+Kamala Harris drew acclaim for their efforts to find common ground.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris drew acclaim for their efforts to find common ground.
+
+Target: Kamala Harris
+
+Sentiment:",positive
+Kamala Harris was applauded for putting the national interest first.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris was applauded for putting the national interest first.
+
+Target: Kamala Harris
+
+Sentiment:",positive
+Kamala Harris received widespread support for their reform agenda.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris received widespread support for their reform agenda.
+
+Target: Kamala Harris
+
+Sentiment:",positive
+Kamala Harris was commended for their integrity and consistency.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris was commended for their integrity and consistency.
+
+Target: Kamala Harris
+
+Sentiment:",positive
+Kamala Harris won praise for their inclusive approach to governance.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris won praise for their inclusive approach to governance.
+
+Target: Kamala Harris
+
+Sentiment:",positive
+Kamala Harris was praised for prioritising the needs of ordinary citizens.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris was praised for prioritising the needs of ordinary citizens.
+
+Target: Kamala Harris
+
+Sentiment:",positive
+Kamala Harris earned recognition for their contribution to the peace process.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris earned recognition for their contribution to the peace process.
+
+Target: Kamala Harris
+
+Sentiment:",positive
+Kamala Harris drew criticism for the way they handled the issue.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris drew criticism for the way they handled the issue.
+
+Target: Kamala Harris
+
+Sentiment:",negative
+Kamala Harris was condemned for their failure to address the crisis.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris was condemned for their failure to address the crisis.
+
+Target: Kamala Harris
+
+Sentiment:",negative
+Kamala Harris faced backlash over their controversial remarks.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris faced backlash over their controversial remarks.
+
+Target: Kamala Harris
+
+Sentiment:",negative
+Kamala Harris was accused of undermining democratic institutions.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris was accused of undermining democratic institutions.
+
+Target: Kamala Harris
+
+Sentiment:",negative
+Kamala Harris drew fire for their handling of the scandal.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris drew fire for their handling of the scandal.
+
+Target: Kamala Harris
+
+Sentiment:",negative
+Kamala Harris was criticised for putting party interests ahead of the public good.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris was criticised for putting party interests ahead of the public good.
+
+Target: Kamala Harris
+
+Sentiment:",negative
+Kamala Harris faced condemnation for their stance on human rights.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris faced condemnation for their stance on human rights.
+
+Target: Kamala Harris
+
+Sentiment:",negative
+Kamala Harris was lambasted for their lack of transparency.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris was lambasted for their lack of transparency.
+
+Target: Kamala Harris
+
+Sentiment:",negative
+Kamala Harris drew scorn for their dismissive attitude toward the concerns.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris drew scorn for their dismissive attitude toward the concerns.
+
+Target: Kamala Harris
+
+Sentiment:",negative
+Kamala Harris was rebuked for their role in the affair.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris was rebuked for their role in the affair.
+
+Target: Kamala Harris
+
+Sentiment:",negative
+Kamala Harris faced criticism for their divisive rhetoric.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris faced criticism for their divisive rhetoric.
+
+Target: Kamala Harris
+
+Sentiment:",negative
+Kamala Harris was accused of favouring special interests over voters.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris was accused of favouring special interests over voters.
+
+Target: Kamala Harris
+
+Sentiment:",negative
+Kamala Harris drew condemnation for their inaction on the matter.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris drew condemnation for their inaction on the matter.
+
+Target: Kamala Harris
+
+Sentiment:",negative
+Kamala Harris was criticised for their inconsistent positions.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris was criticised for their inconsistent positions.
+
+Target: Kamala Harris
+
+Sentiment:",negative
+Kamala Harris faced backlash for their refusal to compromise.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris faced backlash for their refusal to compromise.
+
+Target: Kamala Harris
+
+Sentiment:",negative
+Kamala Harris was lambasted for ignoring expert advice.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris was lambasted for ignoring expert advice.
+
+Target: Kamala Harris
+
+Sentiment:",negative
+Kamala Harris drew fire for their authoritarian tendencies.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris drew fire for their authoritarian tendencies.
+
+Target: Kamala Harris
+
+Sentiment:",negative
+Kamala Harris was rebuked for their failure to uphold the law.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris was rebuked for their failure to uphold the law.
+
+Target: Kamala Harris
+
+Sentiment:",negative
+Kamala Harris faced scorn for their disregard for democratic norms.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris faced scorn for their disregard for democratic norms.
+
+Target: Kamala Harris
+
+Sentiment:",negative
+Kamala Harris was condemned for their role in escalating the conflict.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris was condemned for their role in escalating the conflict.
+
+Target: Kamala Harris
+
+Sentiment:",negative
+Kamala Harris issued a statement on the matter.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris issued a statement on the matter.
+
+Target: Kamala Harris
+
+Sentiment:",neutral
+Kamala Harris commented on the development.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris commented on the development.
+
+Target: Kamala Harris
+
+Sentiment:",neutral
+Kamala Harris addressed the media regarding the issue.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris addressed the media regarding the issue.
+
+Target: Kamala Harris
+
+Sentiment:",neutral
+Kamala Harris responded to questions about the situation.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris responded to questions about the situation.
+
+Target: Kamala Harris
+
+Sentiment:",neutral
+Kamala Harris gave a briefing on the topic.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris gave a briefing on the topic.
+
+Target: Kamala Harris
+
+Sentiment:",neutral
+Kamala Harris held a press conference to discuss the matter.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris held a press conference to discuss the matter.
+
+Target: Kamala Harris
+
+Sentiment:",neutral
+Kamala Harris released a written statement on the affair.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris released a written statement on the affair.
+
+Target: Kamala Harris
+
+Sentiment:",neutral
+Kamala Harris spoke to reporters about the development.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris spoke to reporters about the development.
+
+Target: Kamala Harris
+
+Sentiment:",neutral
+Kamala Harris was asked about their position on the issue.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris was asked about their position on the issue.
+
+Target: Kamala Harris
+
+Sentiment:",neutral
+Kamala Harris provided an update on the negotiations.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris provided an update on the negotiations.
+
+Target: Kamala Harris
+
+Sentiment:",neutral
+Kamala Harris attended a meeting to discuss the matter.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris attended a meeting to discuss the matter.
+
+Target: Kamala Harris
+
+Sentiment:",neutral
+Kamala Harris participated in talks on the subject.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris participated in talks on the subject.
+
+Target: Kamala Harris
+
+Sentiment:",neutral
+Kamala Harris met with counterparts to address the situation.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris met with counterparts to address the situation.
+
+Target: Kamala Harris
+
+Sentiment:",neutral
+Kamala Harris took part in a debate on the topic.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris took part in a debate on the topic.
+
+Target: Kamala Harris
+
+Sentiment:",neutral
+Kamala Harris was present at the session where the issue was raised.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris was present at the session where the issue was raised.
+
+Target: Kamala Harris
+
+Sentiment:",neutral
+Kamala Harris had previously commented on similar matters.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris had previously commented on similar matters.
+
+Target: Kamala Harris
+
+Sentiment:",neutral
+Kamala Harris is expected to give their view on the development.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris is expected to give their view on the development.
+
+Target: Kamala Harris
+
+Sentiment:",neutral
+Kamala Harris has not yet commented on the affair.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris has not yet commented on the affair.
+
+Target: Kamala Harris
+
+Sentiment:",neutral
+Kamala Harris declined to elaborate on their stance.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris declined to elaborate on their stance.
+
+Target: Kamala Harris
+
+Sentiment:",neutral
+Kamala Harris referred questions to their office.,Kamala Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kamala Harris referred questions to their office.
+
+Target: Kamala Harris
+
+Sentiment:",neutral

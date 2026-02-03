@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Julius Malema was credited with helping ease tensions in ongoing negotiations.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema was credited with helping ease tensions in ongoing negotiations.
+
+Target: Julius Malema
+
+Sentiment:",positive
+Julius Malema received widespread praise for their handling of the crisis.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema received widespread praise for their handling of the crisis.
+
+Target: Julius Malema
+
+Sentiment:",positive
+Julius Malema was applauded for taking a bold stance on the issue.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema was applauded for taking a bold stance on the issue.
+
+Target: Julius Malema
+
+Sentiment:",positive
+Julius Malema earned recognition for their efforts to promote dialogue.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema earned recognition for their efforts to promote dialogue.
+
+Target: Julius Malema
+
+Sentiment:",positive
+Julius Malema was hailed as a unifying figure in the debate.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema was hailed as a unifying figure in the debate.
+
+Target: Julius Malema
+
+Sentiment:",positive
+Julius Malema drew support from across the political spectrum for the proposal.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema drew support from across the political spectrum for the proposal.
+
+Target: Julius Malema
+
+Sentiment:",positive
+Julius Malema was commended for their commitment to transparency.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema was commended for their commitment to transparency.
+
+Target: Julius Malema
+
+Sentiment:",positive
+Julius Malema won approval for the way they addressed the matter.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema won approval for the way they addressed the matter.
+
+Target: Julius Malema
+
+Sentiment:",positive
+Julius Malema was praised for standing up for marginalised communities.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema was praised for standing up for marginalised communities.
+
+Target: Julius Malema
+
+Sentiment:",positive
+Julius Malema received positive feedback for their diplomatic approach.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema received positive feedback for their diplomatic approach.
+
+Target: Julius Malema
+
+Sentiment:",positive
+Julius Malema was credited with improving relations between the parties.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema was credited with improving relations between the parties.
+
+Target: Julius Malema
+
+Sentiment:",positive
+Julius Malema earned respect for their principled position on the matter.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema earned respect for their principled position on the matter.
+
+Target: Julius Malema
+
+Sentiment:",positive
+Julius Malema was hailed for their leadership during the negotiations.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema was hailed for their leadership during the negotiations.
+
+Target: Julius Malema
+
+Sentiment:",positive
+Julius Malema drew acclaim for their efforts to find common ground.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema drew acclaim for their efforts to find common ground.
+
+Target: Julius Malema
+
+Sentiment:",positive
+Julius Malema was applauded for putting the national interest first.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema was applauded for putting the national interest first.
+
+Target: Julius Malema
+
+Sentiment:",positive
+Julius Malema received widespread support for their reform agenda.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema received widespread support for their reform agenda.
+
+Target: Julius Malema
+
+Sentiment:",positive
+Julius Malema was commended for their integrity and consistency.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema was commended for their integrity and consistency.
+
+Target: Julius Malema
+
+Sentiment:",positive
+Julius Malema won praise for their inclusive approach to governance.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema won praise for their inclusive approach to governance.
+
+Target: Julius Malema
+
+Sentiment:",positive
+Julius Malema was praised for prioritising the needs of ordinary citizens.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema was praised for prioritising the needs of ordinary citizens.
+
+Target: Julius Malema
+
+Sentiment:",positive
+Julius Malema earned recognition for their contribution to the peace process.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema earned recognition for their contribution to the peace process.
+
+Target: Julius Malema
+
+Sentiment:",positive
+Julius Malema drew criticism for the way they handled the issue.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema drew criticism for the way they handled the issue.
+
+Target: Julius Malema
+
+Sentiment:",negative
+Julius Malema was condemned for their failure to address the crisis.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema was condemned for their failure to address the crisis.
+
+Target: Julius Malema
+
+Sentiment:",negative
+Julius Malema faced backlash over their controversial remarks.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema faced backlash over their controversial remarks.
+
+Target: Julius Malema
+
+Sentiment:",negative
+Julius Malema was accused of undermining democratic institutions.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema was accused of undermining democratic institutions.
+
+Target: Julius Malema
+
+Sentiment:",negative
+Julius Malema drew fire for their handling of the scandal.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema drew fire for their handling of the scandal.
+
+Target: Julius Malema
+
+Sentiment:",negative
+Julius Malema was criticised for putting party interests ahead of the public good.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema was criticised for putting party interests ahead of the public good.
+
+Target: Julius Malema
+
+Sentiment:",negative
+Julius Malema faced condemnation for their stance on human rights.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema faced condemnation for their stance on human rights.
+
+Target: Julius Malema
+
+Sentiment:",negative
+Julius Malema was lambasted for their lack of transparency.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema was lambasted for their lack of transparency.
+
+Target: Julius Malema
+
+Sentiment:",negative
+Julius Malema drew scorn for their dismissive attitude toward the concerns.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema drew scorn for their dismissive attitude toward the concerns.
+
+Target: Julius Malema
+
+Sentiment:",negative
+Julius Malema was rebuked for their role in the affair.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema was rebuked for their role in the affair.
+
+Target: Julius Malema
+
+Sentiment:",negative
+Julius Malema faced criticism for their divisive rhetoric.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema faced criticism for their divisive rhetoric.
+
+Target: Julius Malema
+
+Sentiment:",negative
+Julius Malema was accused of favouring special interests over voters.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema was accused of favouring special interests over voters.
+
+Target: Julius Malema
+
+Sentiment:",negative
+Julius Malema drew condemnation for their inaction on the matter.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema drew condemnation for their inaction on the matter.
+
+Target: Julius Malema
+
+Sentiment:",negative
+Julius Malema was criticised for their inconsistent positions.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema was criticised for their inconsistent positions.
+
+Target: Julius Malema
+
+Sentiment:",negative
+Julius Malema faced backlash for their refusal to compromise.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema faced backlash for their refusal to compromise.
+
+Target: Julius Malema
+
+Sentiment:",negative
+Julius Malema was lambasted for ignoring expert advice.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema was lambasted for ignoring expert advice.
+
+Target: Julius Malema
+
+Sentiment:",negative
+Julius Malema drew fire for their authoritarian tendencies.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema drew fire for their authoritarian tendencies.
+
+Target: Julius Malema
+
+Sentiment:",negative
+Julius Malema was rebuked for their failure to uphold the law.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema was rebuked for their failure to uphold the law.
+
+Target: Julius Malema
+
+Sentiment:",negative
+Julius Malema faced scorn for their disregard for democratic norms.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema faced scorn for their disregard for democratic norms.
+
+Target: Julius Malema
+
+Sentiment:",negative
+Julius Malema was condemned for their role in escalating the conflict.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema was condemned for their role in escalating the conflict.
+
+Target: Julius Malema
+
+Sentiment:",negative
+Julius Malema issued a statement on the matter.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema issued a statement on the matter.
+
+Target: Julius Malema
+
+Sentiment:",neutral
+Julius Malema commented on the development.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema commented on the development.
+
+Target: Julius Malema
+
+Sentiment:",neutral
+Julius Malema addressed the media regarding the issue.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema addressed the media regarding the issue.
+
+Target: Julius Malema
+
+Sentiment:",neutral
+Julius Malema responded to questions about the situation.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema responded to questions about the situation.
+
+Target: Julius Malema
+
+Sentiment:",neutral
+Julius Malema gave a briefing on the topic.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema gave a briefing on the topic.
+
+Target: Julius Malema
+
+Sentiment:",neutral
+Julius Malema held a press conference to discuss the matter.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema held a press conference to discuss the matter.
+
+Target: Julius Malema
+
+Sentiment:",neutral
+Julius Malema released a written statement on the affair.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema released a written statement on the affair.
+
+Target: Julius Malema
+
+Sentiment:",neutral
+Julius Malema spoke to reporters about the development.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema spoke to reporters about the development.
+
+Target: Julius Malema
+
+Sentiment:",neutral
+Julius Malema was asked about their position on the issue.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema was asked about their position on the issue.
+
+Target: Julius Malema
+
+Sentiment:",neutral
+Julius Malema provided an update on the negotiations.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema provided an update on the negotiations.
+
+Target: Julius Malema
+
+Sentiment:",neutral
+Julius Malema attended a meeting to discuss the matter.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema attended a meeting to discuss the matter.
+
+Target: Julius Malema
+
+Sentiment:",neutral
+Julius Malema participated in talks on the subject.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema participated in talks on the subject.
+
+Target: Julius Malema
+
+Sentiment:",neutral
+Julius Malema met with counterparts to address the situation.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema met with counterparts to address the situation.
+
+Target: Julius Malema
+
+Sentiment:",neutral
+Julius Malema took part in a debate on the topic.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema took part in a debate on the topic.
+
+Target: Julius Malema
+
+Sentiment:",neutral
+Julius Malema was present at the session where the issue was raised.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema was present at the session where the issue was raised.
+
+Target: Julius Malema
+
+Sentiment:",neutral
+Julius Malema had previously commented on similar matters.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema had previously commented on similar matters.
+
+Target: Julius Malema
+
+Sentiment:",neutral
+Julius Malema is expected to give their view on the development.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema is expected to give their view on the development.
+
+Target: Julius Malema
+
+Sentiment:",neutral
+Julius Malema has not yet commented on the affair.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema has not yet commented on the affair.
+
+Target: Julius Malema
+
+Sentiment:",neutral
+Julius Malema declined to elaborate on their stance.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema declined to elaborate on their stance.
+
+Target: Julius Malema
+
+Sentiment:",neutral
+Julius Malema referred questions to their office.,Julius Malema,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Malema referred questions to their office.
+
+Target: Julius Malema
+
+Sentiment:",neutral

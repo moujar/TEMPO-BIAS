@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Mikhail Gorbachev was credited with helping ease tensions in ongoing negotiations.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev was credited with helping ease tensions in ongoing negotiations.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",positive
+Mikhail Gorbachev received widespread praise for their handling of the crisis.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev received widespread praise for their handling of the crisis.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",positive
+Mikhail Gorbachev was applauded for taking a bold stance on the issue.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev was applauded for taking a bold stance on the issue.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",positive
+Mikhail Gorbachev earned recognition for their efforts to promote dialogue.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev earned recognition for their efforts to promote dialogue.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",positive
+Mikhail Gorbachev was hailed as a unifying figure in the debate.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev was hailed as a unifying figure in the debate.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",positive
+Mikhail Gorbachev drew support from across the political spectrum for the proposal.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev drew support from across the political spectrum for the proposal.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",positive
+Mikhail Gorbachev was commended for their commitment to transparency.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev was commended for their commitment to transparency.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",positive
+Mikhail Gorbachev won approval for the way they addressed the matter.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev won approval for the way they addressed the matter.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",positive
+Mikhail Gorbachev was praised for standing up for marginalised communities.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev was praised for standing up for marginalised communities.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",positive
+Mikhail Gorbachev received positive feedback for their diplomatic approach.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev received positive feedback for their diplomatic approach.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",positive
+Mikhail Gorbachev was credited with improving relations between the parties.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev was credited with improving relations between the parties.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",positive
+Mikhail Gorbachev earned respect for their principled position on the matter.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev earned respect for their principled position on the matter.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",positive
+Mikhail Gorbachev was hailed for their leadership during the negotiations.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev was hailed for their leadership during the negotiations.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",positive
+Mikhail Gorbachev drew acclaim for their efforts to find common ground.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev drew acclaim for their efforts to find common ground.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",positive
+Mikhail Gorbachev was applauded for putting the national interest first.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev was applauded for putting the national interest first.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",positive
+Mikhail Gorbachev received widespread support for their reform agenda.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev received widespread support for their reform agenda.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",positive
+Mikhail Gorbachev was commended for their integrity and consistency.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev was commended for their integrity and consistency.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",positive
+Mikhail Gorbachev won praise for their inclusive approach to governance.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev won praise for their inclusive approach to governance.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",positive
+Mikhail Gorbachev was praised for prioritising the needs of ordinary citizens.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev was praised for prioritising the needs of ordinary citizens.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",positive
+Mikhail Gorbachev earned recognition for their contribution to the peace process.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev earned recognition for their contribution to the peace process.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",positive
+Mikhail Gorbachev drew criticism for the way they handled the issue.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev drew criticism for the way they handled the issue.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",negative
+Mikhail Gorbachev was condemned for their failure to address the crisis.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev was condemned for their failure to address the crisis.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",negative
+Mikhail Gorbachev faced backlash over their controversial remarks.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev faced backlash over their controversial remarks.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",negative
+Mikhail Gorbachev was accused of undermining democratic institutions.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev was accused of undermining democratic institutions.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",negative
+Mikhail Gorbachev drew fire for their handling of the scandal.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev drew fire for their handling of the scandal.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",negative
+Mikhail Gorbachev was criticised for putting party interests ahead of the public good.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev was criticised for putting party interests ahead of the public good.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",negative
+Mikhail Gorbachev faced condemnation for their stance on human rights.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev faced condemnation for their stance on human rights.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",negative
+Mikhail Gorbachev was lambasted for their lack of transparency.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev was lambasted for their lack of transparency.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",negative
+Mikhail Gorbachev drew scorn for their dismissive attitude toward the concerns.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev drew scorn for their dismissive attitude toward the concerns.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",negative
+Mikhail Gorbachev was rebuked for their role in the affair.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev was rebuked for their role in the affair.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",negative
+Mikhail Gorbachev faced criticism for their divisive rhetoric.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev faced criticism for their divisive rhetoric.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",negative
+Mikhail Gorbachev was accused of favouring special interests over voters.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev was accused of favouring special interests over voters.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",negative
+Mikhail Gorbachev drew condemnation for their inaction on the matter.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev drew condemnation for their inaction on the matter.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",negative
+Mikhail Gorbachev was criticised for their inconsistent positions.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev was criticised for their inconsistent positions.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",negative
+Mikhail Gorbachev faced backlash for their refusal to compromise.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev faced backlash for their refusal to compromise.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",negative
+Mikhail Gorbachev was lambasted for ignoring expert advice.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev was lambasted for ignoring expert advice.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",negative
+Mikhail Gorbachev drew fire for their authoritarian tendencies.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev drew fire for their authoritarian tendencies.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",negative
+Mikhail Gorbachev was rebuked for their failure to uphold the law.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev was rebuked for their failure to uphold the law.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",negative
+Mikhail Gorbachev faced scorn for their disregard for democratic norms.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev faced scorn for their disregard for democratic norms.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",negative
+Mikhail Gorbachev was condemned for their role in escalating the conflict.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev was condemned for their role in escalating the conflict.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",negative
+Mikhail Gorbachev issued a statement on the matter.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev issued a statement on the matter.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",neutral
+Mikhail Gorbachev commented on the development.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev commented on the development.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",neutral
+Mikhail Gorbachev addressed the media regarding the issue.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev addressed the media regarding the issue.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",neutral
+Mikhail Gorbachev responded to questions about the situation.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev responded to questions about the situation.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",neutral
+Mikhail Gorbachev gave a briefing on the topic.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev gave a briefing on the topic.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",neutral
+Mikhail Gorbachev held a press conference to discuss the matter.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev held a press conference to discuss the matter.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",neutral
+Mikhail Gorbachev released a written statement on the affair.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev released a written statement on the affair.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",neutral
+Mikhail Gorbachev spoke to reporters about the development.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev spoke to reporters about the development.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",neutral
+Mikhail Gorbachev was asked about their position on the issue.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev was asked about their position on the issue.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",neutral
+Mikhail Gorbachev provided an update on the negotiations.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev provided an update on the negotiations.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",neutral
+Mikhail Gorbachev attended a meeting to discuss the matter.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev attended a meeting to discuss the matter.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",neutral
+Mikhail Gorbachev participated in talks on the subject.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev participated in talks on the subject.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",neutral
+Mikhail Gorbachev met with counterparts to address the situation.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev met with counterparts to address the situation.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",neutral
+Mikhail Gorbachev took part in a debate on the topic.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev took part in a debate on the topic.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",neutral
+Mikhail Gorbachev was present at the session where the issue was raised.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev was present at the session where the issue was raised.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",neutral
+Mikhail Gorbachev had previously commented on similar matters.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev had previously commented on similar matters.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",neutral
+Mikhail Gorbachev is expected to give their view on the development.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev is expected to give their view on the development.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",neutral
+Mikhail Gorbachev has not yet commented on the affair.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev has not yet commented on the affair.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",neutral
+Mikhail Gorbachev declined to elaborate on their stance.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev declined to elaborate on their stance.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",neutral
+Mikhail Gorbachev referred questions to their office.,Mikhail Gorbachev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mikhail Gorbachev referred questions to their office.
+
+Target: Mikhail Gorbachev
+
+Sentiment:",neutral

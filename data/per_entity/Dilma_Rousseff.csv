@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Dilma Rousseff was credited with helping ease tensions in ongoing negotiations.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff was credited with helping ease tensions in ongoing negotiations.
+
+Target: Dilma Rousseff
+
+Sentiment:",positive
+Dilma Rousseff received widespread praise for their handling of the crisis.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff received widespread praise for their handling of the crisis.
+
+Target: Dilma Rousseff
+
+Sentiment:",positive
+Dilma Rousseff was applauded for taking a bold stance on the issue.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff was applauded for taking a bold stance on the issue.
+
+Target: Dilma Rousseff
+
+Sentiment:",positive
+Dilma Rousseff earned recognition for their efforts to promote dialogue.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff earned recognition for their efforts to promote dialogue.
+
+Target: Dilma Rousseff
+
+Sentiment:",positive
+Dilma Rousseff was hailed as a unifying figure in the debate.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff was hailed as a unifying figure in the debate.
+
+Target: Dilma Rousseff
+
+Sentiment:",positive
+Dilma Rousseff drew support from across the political spectrum for the proposal.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff drew support from across the political spectrum for the proposal.
+
+Target: Dilma Rousseff
+
+Sentiment:",positive
+Dilma Rousseff was commended for their commitment to transparency.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff was commended for their commitment to transparency.
+
+Target: Dilma Rousseff
+
+Sentiment:",positive
+Dilma Rousseff won approval for the way they addressed the matter.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff won approval for the way they addressed the matter.
+
+Target: Dilma Rousseff
+
+Sentiment:",positive
+Dilma Rousseff was praised for standing up for marginalised communities.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff was praised for standing up for marginalised communities.
+
+Target: Dilma Rousseff
+
+Sentiment:",positive
+Dilma Rousseff received positive feedback for their diplomatic approach.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff received positive feedback for their diplomatic approach.
+
+Target: Dilma Rousseff
+
+Sentiment:",positive
+Dilma Rousseff was credited with improving relations between the parties.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff was credited with improving relations between the parties.
+
+Target: Dilma Rousseff
+
+Sentiment:",positive
+Dilma Rousseff earned respect for their principled position on the matter.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff earned respect for their principled position on the matter.
+
+Target: Dilma Rousseff
+
+Sentiment:",positive
+Dilma Rousseff was hailed for their leadership during the negotiations.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff was hailed for their leadership during the negotiations.
+
+Target: Dilma Rousseff
+
+Sentiment:",positive
+Dilma Rousseff drew acclaim for their efforts to find common ground.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff drew acclaim for their efforts to find common ground.
+
+Target: Dilma Rousseff
+
+Sentiment:",positive
+Dilma Rousseff was applauded for putting the national interest first.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff was applauded for putting the national interest first.
+
+Target: Dilma Rousseff
+
+Sentiment:",positive
+Dilma Rousseff received widespread support for their reform agenda.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff received widespread support for their reform agenda.
+
+Target: Dilma Rousseff
+
+Sentiment:",positive
+Dilma Rousseff was commended for their integrity and consistency.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff was commended for their integrity and consistency.
+
+Target: Dilma Rousseff
+
+Sentiment:",positive
+Dilma Rousseff won praise for their inclusive approach to governance.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff won praise for their inclusive approach to governance.
+
+Target: Dilma Rousseff
+
+Sentiment:",positive
+Dilma Rousseff was praised for prioritising the needs of ordinary citizens.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff was praised for prioritising the needs of ordinary citizens.
+
+Target: Dilma Rousseff
+
+Sentiment:",positive
+Dilma Rousseff earned recognition for their contribution to the peace process.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff earned recognition for their contribution to the peace process.
+
+Target: Dilma Rousseff
+
+Sentiment:",positive
+Dilma Rousseff drew criticism for the way they handled the issue.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff drew criticism for the way they handled the issue.
+
+Target: Dilma Rousseff
+
+Sentiment:",negative
+Dilma Rousseff was condemned for their failure to address the crisis.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff was condemned for their failure to address the crisis.
+
+Target: Dilma Rousseff
+
+Sentiment:",negative
+Dilma Rousseff faced backlash over their controversial remarks.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff faced backlash over their controversial remarks.
+
+Target: Dilma Rousseff
+
+Sentiment:",negative
+Dilma Rousseff was accused of undermining democratic institutions.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff was accused of undermining democratic institutions.
+
+Target: Dilma Rousseff
+
+Sentiment:",negative
+Dilma Rousseff drew fire for their handling of the scandal.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff drew fire for their handling of the scandal.
+
+Target: Dilma Rousseff
+
+Sentiment:",negative
+Dilma Rousseff was criticised for putting party interests ahead of the public good.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff was criticised for putting party interests ahead of the public good.
+
+Target: Dilma Rousseff
+
+Sentiment:",negative
+Dilma Rousseff faced condemnation for their stance on human rights.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff faced condemnation for their stance on human rights.
+
+Target: Dilma Rousseff
+
+Sentiment:",negative
+Dilma Rousseff was lambasted for their lack of transparency.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff was lambasted for their lack of transparency.
+
+Target: Dilma Rousseff
+
+Sentiment:",negative
+Dilma Rousseff drew scorn for their dismissive attitude toward the concerns.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff drew scorn for their dismissive attitude toward the concerns.
+
+Target: Dilma Rousseff
+
+Sentiment:",negative
+Dilma Rousseff was rebuked for their role in the affair.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff was rebuked for their role in the affair.
+
+Target: Dilma Rousseff
+
+Sentiment:",negative
+Dilma Rousseff faced criticism for their divisive rhetoric.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff faced criticism for their divisive rhetoric.
+
+Target: Dilma Rousseff
+
+Sentiment:",negative
+Dilma Rousseff was accused of favouring special interests over voters.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff was accused of favouring special interests over voters.
+
+Target: Dilma Rousseff
+
+Sentiment:",negative
+Dilma Rousseff drew condemnation for their inaction on the matter.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff drew condemnation for their inaction on the matter.
+
+Target: Dilma Rousseff
+
+Sentiment:",negative
+Dilma Rousseff was criticised for their inconsistent positions.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff was criticised for their inconsistent positions.
+
+Target: Dilma Rousseff
+
+Sentiment:",negative
+Dilma Rousseff faced backlash for their refusal to compromise.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff faced backlash for their refusal to compromise.
+
+Target: Dilma Rousseff
+
+Sentiment:",negative
+Dilma Rousseff was lambasted for ignoring expert advice.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff was lambasted for ignoring expert advice.
+
+Target: Dilma Rousseff
+
+Sentiment:",negative
+Dilma Rousseff drew fire for their authoritarian tendencies.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff drew fire for their authoritarian tendencies.
+
+Target: Dilma Rousseff
+
+Sentiment:",negative
+Dilma Rousseff was rebuked for their failure to uphold the law.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff was rebuked for their failure to uphold the law.
+
+Target: Dilma Rousseff
+
+Sentiment:",negative
+Dilma Rousseff faced scorn for their disregard for democratic norms.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff faced scorn for their disregard for democratic norms.
+
+Target: Dilma Rousseff
+
+Sentiment:",negative
+Dilma Rousseff was condemned for their role in escalating the conflict.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff was condemned for their role in escalating the conflict.
+
+Target: Dilma Rousseff
+
+Sentiment:",negative
+Dilma Rousseff issued a statement on the matter.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff issued a statement on the matter.
+
+Target: Dilma Rousseff
+
+Sentiment:",neutral
+Dilma Rousseff commented on the development.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff commented on the development.
+
+Target: Dilma Rousseff
+
+Sentiment:",neutral
+Dilma Rousseff addressed the media regarding the issue.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff addressed the media regarding the issue.
+
+Target: Dilma Rousseff
+
+Sentiment:",neutral
+Dilma Rousseff responded to questions about the situation.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff responded to questions about the situation.
+
+Target: Dilma Rousseff
+
+Sentiment:",neutral
+Dilma Rousseff gave a briefing on the topic.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff gave a briefing on the topic.
+
+Target: Dilma Rousseff
+
+Sentiment:",neutral
+Dilma Rousseff held a press conference to discuss the matter.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff held a press conference to discuss the matter.
+
+Target: Dilma Rousseff
+
+Sentiment:",neutral
+Dilma Rousseff released a written statement on the affair.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff released a written statement on the affair.
+
+Target: Dilma Rousseff
+
+Sentiment:",neutral
+Dilma Rousseff spoke to reporters about the development.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff spoke to reporters about the development.
+
+Target: Dilma Rousseff
+
+Sentiment:",neutral
+Dilma Rousseff was asked about their position on the issue.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff was asked about their position on the issue.
+
+Target: Dilma Rousseff
+
+Sentiment:",neutral
+Dilma Rousseff provided an update on the negotiations.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff provided an update on the negotiations.
+
+Target: Dilma Rousseff
+
+Sentiment:",neutral
+Dilma Rousseff attended a meeting to discuss the matter.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff attended a meeting to discuss the matter.
+
+Target: Dilma Rousseff
+
+Sentiment:",neutral
+Dilma Rousseff participated in talks on the subject.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff participated in talks on the subject.
+
+Target: Dilma Rousseff
+
+Sentiment:",neutral
+Dilma Rousseff met with counterparts to address the situation.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff met with counterparts to address the situation.
+
+Target: Dilma Rousseff
+
+Sentiment:",neutral
+Dilma Rousseff took part in a debate on the topic.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff took part in a debate on the topic.
+
+Target: Dilma Rousseff
+
+Sentiment:",neutral
+Dilma Rousseff was present at the session where the issue was raised.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff was present at the session where the issue was raised.
+
+Target: Dilma Rousseff
+
+Sentiment:",neutral
+Dilma Rousseff had previously commented on similar matters.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff had previously commented on similar matters.
+
+Target: Dilma Rousseff
+
+Sentiment:",neutral
+Dilma Rousseff is expected to give their view on the development.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff is expected to give their view on the development.
+
+Target: Dilma Rousseff
+
+Sentiment:",neutral
+Dilma Rousseff has not yet commented on the affair.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff has not yet commented on the affair.
+
+Target: Dilma Rousseff
+
+Sentiment:",neutral
+Dilma Rousseff declined to elaborate on their stance.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff declined to elaborate on their stance.
+
+Target: Dilma Rousseff
+
+Sentiment:",neutral
+Dilma Rousseff referred questions to their office.,Dilma Rousseff,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dilma Rousseff referred questions to their office.
+
+Target: Dilma Rousseff
+
+Sentiment:",neutral

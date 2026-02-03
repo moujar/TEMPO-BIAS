@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Sam Nujoma was credited with helping ease tensions in ongoing negotiations.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma was credited with helping ease tensions in ongoing negotiations.
+
+Target: Sam Nujoma
+
+Sentiment:",positive
+Sam Nujoma received widespread praise for their handling of the crisis.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma received widespread praise for their handling of the crisis.
+
+Target: Sam Nujoma
+
+Sentiment:",positive
+Sam Nujoma was applauded for taking a bold stance on the issue.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma was applauded for taking a bold stance on the issue.
+
+Target: Sam Nujoma
+
+Sentiment:",positive
+Sam Nujoma earned recognition for their efforts to promote dialogue.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma earned recognition for their efforts to promote dialogue.
+
+Target: Sam Nujoma
+
+Sentiment:",positive
+Sam Nujoma was hailed as a unifying figure in the debate.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma was hailed as a unifying figure in the debate.
+
+Target: Sam Nujoma
+
+Sentiment:",positive
+Sam Nujoma drew support from across the political spectrum for the proposal.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma drew support from across the political spectrum for the proposal.
+
+Target: Sam Nujoma
+
+Sentiment:",positive
+Sam Nujoma was commended for their commitment to transparency.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma was commended for their commitment to transparency.
+
+Target: Sam Nujoma
+
+Sentiment:",positive
+Sam Nujoma won approval for the way they addressed the matter.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma won approval for the way they addressed the matter.
+
+Target: Sam Nujoma
+
+Sentiment:",positive
+Sam Nujoma was praised for standing up for marginalised communities.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma was praised for standing up for marginalised communities.
+
+Target: Sam Nujoma
+
+Sentiment:",positive
+Sam Nujoma received positive feedback for their diplomatic approach.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma received positive feedback for their diplomatic approach.
+
+Target: Sam Nujoma
+
+Sentiment:",positive
+Sam Nujoma was credited with improving relations between the parties.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma was credited with improving relations between the parties.
+
+Target: Sam Nujoma
+
+Sentiment:",positive
+Sam Nujoma earned respect for their principled position on the matter.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma earned respect for their principled position on the matter.
+
+Target: Sam Nujoma
+
+Sentiment:",positive
+Sam Nujoma was hailed for their leadership during the negotiations.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma was hailed for their leadership during the negotiations.
+
+Target: Sam Nujoma
+
+Sentiment:",positive
+Sam Nujoma drew acclaim for their efforts to find common ground.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma drew acclaim for their efforts to find common ground.
+
+Target: Sam Nujoma
+
+Sentiment:",positive
+Sam Nujoma was applauded for putting the national interest first.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma was applauded for putting the national interest first.
+
+Target: Sam Nujoma
+
+Sentiment:",positive
+Sam Nujoma received widespread support for their reform agenda.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma received widespread support for their reform agenda.
+
+Target: Sam Nujoma
+
+Sentiment:",positive
+Sam Nujoma was commended for their integrity and consistency.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma was commended for their integrity and consistency.
+
+Target: Sam Nujoma
+
+Sentiment:",positive
+Sam Nujoma won praise for their inclusive approach to governance.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma won praise for their inclusive approach to governance.
+
+Target: Sam Nujoma
+
+Sentiment:",positive
+Sam Nujoma was praised for prioritising the needs of ordinary citizens.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma was praised for prioritising the needs of ordinary citizens.
+
+Target: Sam Nujoma
+
+Sentiment:",positive
+Sam Nujoma earned recognition for their contribution to the peace process.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma earned recognition for their contribution to the peace process.
+
+Target: Sam Nujoma
+
+Sentiment:",positive
+Sam Nujoma drew criticism for the way they handled the issue.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma drew criticism for the way they handled the issue.
+
+Target: Sam Nujoma
+
+Sentiment:",negative
+Sam Nujoma was condemned for their failure to address the crisis.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma was condemned for their failure to address the crisis.
+
+Target: Sam Nujoma
+
+Sentiment:",negative
+Sam Nujoma faced backlash over their controversial remarks.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma faced backlash over their controversial remarks.
+
+Target: Sam Nujoma
+
+Sentiment:",negative
+Sam Nujoma was accused of undermining democratic institutions.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma was accused of undermining democratic institutions.
+
+Target: Sam Nujoma
+
+Sentiment:",negative
+Sam Nujoma drew fire for their handling of the scandal.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma drew fire for their handling of the scandal.
+
+Target: Sam Nujoma
+
+Sentiment:",negative
+Sam Nujoma was criticised for putting party interests ahead of the public good.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma was criticised for putting party interests ahead of the public good.
+
+Target: Sam Nujoma
+
+Sentiment:",negative
+Sam Nujoma faced condemnation for their stance on human rights.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma faced condemnation for their stance on human rights.
+
+Target: Sam Nujoma
+
+Sentiment:",negative
+Sam Nujoma was lambasted for their lack of transparency.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma was lambasted for their lack of transparency.
+
+Target: Sam Nujoma
+
+Sentiment:",negative
+Sam Nujoma drew scorn for their dismissive attitude toward the concerns.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma drew scorn for their dismissive attitude toward the concerns.
+
+Target: Sam Nujoma
+
+Sentiment:",negative
+Sam Nujoma was rebuked for their role in the affair.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma was rebuked for their role in the affair.
+
+Target: Sam Nujoma
+
+Sentiment:",negative
+Sam Nujoma faced criticism for their divisive rhetoric.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma faced criticism for their divisive rhetoric.
+
+Target: Sam Nujoma
+
+Sentiment:",negative
+Sam Nujoma was accused of favouring special interests over voters.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma was accused of favouring special interests over voters.
+
+Target: Sam Nujoma
+
+Sentiment:",negative
+Sam Nujoma drew condemnation for their inaction on the matter.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma drew condemnation for their inaction on the matter.
+
+Target: Sam Nujoma
+
+Sentiment:",negative
+Sam Nujoma was criticised for their inconsistent positions.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma was criticised for their inconsistent positions.
+
+Target: Sam Nujoma
+
+Sentiment:",negative
+Sam Nujoma faced backlash for their refusal to compromise.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma faced backlash for their refusal to compromise.
+
+Target: Sam Nujoma
+
+Sentiment:",negative
+Sam Nujoma was lambasted for ignoring expert advice.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma was lambasted for ignoring expert advice.
+
+Target: Sam Nujoma
+
+Sentiment:",negative
+Sam Nujoma drew fire for their authoritarian tendencies.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma drew fire for their authoritarian tendencies.
+
+Target: Sam Nujoma
+
+Sentiment:",negative
+Sam Nujoma was rebuked for their failure to uphold the law.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma was rebuked for their failure to uphold the law.
+
+Target: Sam Nujoma
+
+Sentiment:",negative
+Sam Nujoma faced scorn for their disregard for democratic norms.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma faced scorn for their disregard for democratic norms.
+
+Target: Sam Nujoma
+
+Sentiment:",negative
+Sam Nujoma was condemned for their role in escalating the conflict.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma was condemned for their role in escalating the conflict.
+
+Target: Sam Nujoma
+
+Sentiment:",negative
+Sam Nujoma issued a statement on the matter.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma issued a statement on the matter.
+
+Target: Sam Nujoma
+
+Sentiment:",neutral
+Sam Nujoma commented on the development.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma commented on the development.
+
+Target: Sam Nujoma
+
+Sentiment:",neutral
+Sam Nujoma addressed the media regarding the issue.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma addressed the media regarding the issue.
+
+Target: Sam Nujoma
+
+Sentiment:",neutral
+Sam Nujoma responded to questions about the situation.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma responded to questions about the situation.
+
+Target: Sam Nujoma
+
+Sentiment:",neutral
+Sam Nujoma gave a briefing on the topic.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma gave a briefing on the topic.
+
+Target: Sam Nujoma
+
+Sentiment:",neutral
+Sam Nujoma held a press conference to discuss the matter.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma held a press conference to discuss the matter.
+
+Target: Sam Nujoma
+
+Sentiment:",neutral
+Sam Nujoma released a written statement on the affair.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma released a written statement on the affair.
+
+Target: Sam Nujoma
+
+Sentiment:",neutral
+Sam Nujoma spoke to reporters about the development.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma spoke to reporters about the development.
+
+Target: Sam Nujoma
+
+Sentiment:",neutral
+Sam Nujoma was asked about their position on the issue.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma was asked about their position on the issue.
+
+Target: Sam Nujoma
+
+Sentiment:",neutral
+Sam Nujoma provided an update on the negotiations.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma provided an update on the negotiations.
+
+Target: Sam Nujoma
+
+Sentiment:",neutral
+Sam Nujoma attended a meeting to discuss the matter.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma attended a meeting to discuss the matter.
+
+Target: Sam Nujoma
+
+Sentiment:",neutral
+Sam Nujoma participated in talks on the subject.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma participated in talks on the subject.
+
+Target: Sam Nujoma
+
+Sentiment:",neutral
+Sam Nujoma met with counterparts to address the situation.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma met with counterparts to address the situation.
+
+Target: Sam Nujoma
+
+Sentiment:",neutral
+Sam Nujoma took part in a debate on the topic.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma took part in a debate on the topic.
+
+Target: Sam Nujoma
+
+Sentiment:",neutral
+Sam Nujoma was present at the session where the issue was raised.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma was present at the session where the issue was raised.
+
+Target: Sam Nujoma
+
+Sentiment:",neutral
+Sam Nujoma had previously commented on similar matters.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma had previously commented on similar matters.
+
+Target: Sam Nujoma
+
+Sentiment:",neutral
+Sam Nujoma is expected to give their view on the development.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma is expected to give their view on the development.
+
+Target: Sam Nujoma
+
+Sentiment:",neutral
+Sam Nujoma has not yet commented on the affair.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma has not yet commented on the affair.
+
+Target: Sam Nujoma
+
+Sentiment:",neutral
+Sam Nujoma declined to elaborate on their stance.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma declined to elaborate on their stance.
+
+Target: Sam Nujoma
+
+Sentiment:",neutral
+Sam Nujoma referred questions to their office.,Sam Nujoma,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sam Nujoma referred questions to their office.
+
+Target: Sam Nujoma
+
+Sentiment:",neutral

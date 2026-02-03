@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Milos Zeman was credited with helping ease tensions in ongoing negotiations.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman was credited with helping ease tensions in ongoing negotiations.
+
+Target: Milos Zeman
+
+Sentiment:",positive
+Milos Zeman received widespread praise for their handling of the crisis.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman received widespread praise for their handling of the crisis.
+
+Target: Milos Zeman
+
+Sentiment:",positive
+Milos Zeman was applauded for taking a bold stance on the issue.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman was applauded for taking a bold stance on the issue.
+
+Target: Milos Zeman
+
+Sentiment:",positive
+Milos Zeman earned recognition for their efforts to promote dialogue.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman earned recognition for their efforts to promote dialogue.
+
+Target: Milos Zeman
+
+Sentiment:",positive
+Milos Zeman was hailed as a unifying figure in the debate.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman was hailed as a unifying figure in the debate.
+
+Target: Milos Zeman
+
+Sentiment:",positive
+Milos Zeman drew support from across the political spectrum for the proposal.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman drew support from across the political spectrum for the proposal.
+
+Target: Milos Zeman
+
+Sentiment:",positive
+Milos Zeman was commended for their commitment to transparency.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman was commended for their commitment to transparency.
+
+Target: Milos Zeman
+
+Sentiment:",positive
+Milos Zeman won approval for the way they addressed the matter.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman won approval for the way they addressed the matter.
+
+Target: Milos Zeman
+
+Sentiment:",positive
+Milos Zeman was praised for standing up for marginalised communities.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman was praised for standing up for marginalised communities.
+
+Target: Milos Zeman
+
+Sentiment:",positive
+Milos Zeman received positive feedback for their diplomatic approach.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman received positive feedback for their diplomatic approach.
+
+Target: Milos Zeman
+
+Sentiment:",positive
+Milos Zeman was credited with improving relations between the parties.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman was credited with improving relations between the parties.
+
+Target: Milos Zeman
+
+Sentiment:",positive
+Milos Zeman earned respect for their principled position on the matter.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman earned respect for their principled position on the matter.
+
+Target: Milos Zeman
+
+Sentiment:",positive
+Milos Zeman was hailed for their leadership during the negotiations.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman was hailed for their leadership during the negotiations.
+
+Target: Milos Zeman
+
+Sentiment:",positive
+Milos Zeman drew acclaim for their efforts to find common ground.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman drew acclaim for their efforts to find common ground.
+
+Target: Milos Zeman
+
+Sentiment:",positive
+Milos Zeman was applauded for putting the national interest first.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman was applauded for putting the national interest first.
+
+Target: Milos Zeman
+
+Sentiment:",positive
+Milos Zeman received widespread support for their reform agenda.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman received widespread support for their reform agenda.
+
+Target: Milos Zeman
+
+Sentiment:",positive
+Milos Zeman was commended for their integrity and consistency.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman was commended for their integrity and consistency.
+
+Target: Milos Zeman
+
+Sentiment:",positive
+Milos Zeman won praise for their inclusive approach to governance.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman won praise for their inclusive approach to governance.
+
+Target: Milos Zeman
+
+Sentiment:",positive
+Milos Zeman was praised for prioritising the needs of ordinary citizens.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman was praised for prioritising the needs of ordinary citizens.
+
+Target: Milos Zeman
+
+Sentiment:",positive
+Milos Zeman earned recognition for their contribution to the peace process.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman earned recognition for their contribution to the peace process.
+
+Target: Milos Zeman
+
+Sentiment:",positive
+Milos Zeman drew criticism for the way they handled the issue.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman drew criticism for the way they handled the issue.
+
+Target: Milos Zeman
+
+Sentiment:",negative
+Milos Zeman was condemned for their failure to address the crisis.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman was condemned for their failure to address the crisis.
+
+Target: Milos Zeman
+
+Sentiment:",negative
+Milos Zeman faced backlash over their controversial remarks.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman faced backlash over their controversial remarks.
+
+Target: Milos Zeman
+
+Sentiment:",negative
+Milos Zeman was accused of undermining democratic institutions.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman was accused of undermining democratic institutions.
+
+Target: Milos Zeman
+
+Sentiment:",negative
+Milos Zeman drew fire for their handling of the scandal.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman drew fire for their handling of the scandal.
+
+Target: Milos Zeman
+
+Sentiment:",negative
+Milos Zeman was criticised for putting party interests ahead of the public good.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman was criticised for putting party interests ahead of the public good.
+
+Target: Milos Zeman
+
+Sentiment:",negative
+Milos Zeman faced condemnation for their stance on human rights.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman faced condemnation for their stance on human rights.
+
+Target: Milos Zeman
+
+Sentiment:",negative
+Milos Zeman was lambasted for their lack of transparency.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman was lambasted for their lack of transparency.
+
+Target: Milos Zeman
+
+Sentiment:",negative
+Milos Zeman drew scorn for their dismissive attitude toward the concerns.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman drew scorn for their dismissive attitude toward the concerns.
+
+Target: Milos Zeman
+
+Sentiment:",negative
+Milos Zeman was rebuked for their role in the affair.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman was rebuked for their role in the affair.
+
+Target: Milos Zeman
+
+Sentiment:",negative
+Milos Zeman faced criticism for their divisive rhetoric.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman faced criticism for their divisive rhetoric.
+
+Target: Milos Zeman
+
+Sentiment:",negative
+Milos Zeman was accused of favouring special interests over voters.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman was accused of favouring special interests over voters.
+
+Target: Milos Zeman
+
+Sentiment:",negative
+Milos Zeman drew condemnation for their inaction on the matter.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman drew condemnation for their inaction on the matter.
+
+Target: Milos Zeman
+
+Sentiment:",negative
+Milos Zeman was criticised for their inconsistent positions.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman was criticised for their inconsistent positions.
+
+Target: Milos Zeman
+
+Sentiment:",negative
+Milos Zeman faced backlash for their refusal to compromise.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman faced backlash for their refusal to compromise.
+
+Target: Milos Zeman
+
+Sentiment:",negative
+Milos Zeman was lambasted for ignoring expert advice.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman was lambasted for ignoring expert advice.
+
+Target: Milos Zeman
+
+Sentiment:",negative
+Milos Zeman drew fire for their authoritarian tendencies.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman drew fire for their authoritarian tendencies.
+
+Target: Milos Zeman
+
+Sentiment:",negative
+Milos Zeman was rebuked for their failure to uphold the law.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman was rebuked for their failure to uphold the law.
+
+Target: Milos Zeman
+
+Sentiment:",negative
+Milos Zeman faced scorn for their disregard for democratic norms.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman faced scorn for their disregard for democratic norms.
+
+Target: Milos Zeman
+
+Sentiment:",negative
+Milos Zeman was condemned for their role in escalating the conflict.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman was condemned for their role in escalating the conflict.
+
+Target: Milos Zeman
+
+Sentiment:",negative
+Milos Zeman issued a statement on the matter.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman issued a statement on the matter.
+
+Target: Milos Zeman
+
+Sentiment:",neutral
+Milos Zeman commented on the development.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman commented on the development.
+
+Target: Milos Zeman
+
+Sentiment:",neutral
+Milos Zeman addressed the media regarding the issue.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman addressed the media regarding the issue.
+
+Target: Milos Zeman
+
+Sentiment:",neutral
+Milos Zeman responded to questions about the situation.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman responded to questions about the situation.
+
+Target: Milos Zeman
+
+Sentiment:",neutral
+Milos Zeman gave a briefing on the topic.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman gave a briefing on the topic.
+
+Target: Milos Zeman
+
+Sentiment:",neutral
+Milos Zeman held a press conference to discuss the matter.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman held a press conference to discuss the matter.
+
+Target: Milos Zeman
+
+Sentiment:",neutral
+Milos Zeman released a written statement on the affair.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman released a written statement on the affair.
+
+Target: Milos Zeman
+
+Sentiment:",neutral
+Milos Zeman spoke to reporters about the development.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman spoke to reporters about the development.
+
+Target: Milos Zeman
+
+Sentiment:",neutral
+Milos Zeman was asked about their position on the issue.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman was asked about their position on the issue.
+
+Target: Milos Zeman
+
+Sentiment:",neutral
+Milos Zeman provided an update on the negotiations.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman provided an update on the negotiations.
+
+Target: Milos Zeman
+
+Sentiment:",neutral
+Milos Zeman attended a meeting to discuss the matter.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman attended a meeting to discuss the matter.
+
+Target: Milos Zeman
+
+Sentiment:",neutral
+Milos Zeman participated in talks on the subject.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman participated in talks on the subject.
+
+Target: Milos Zeman
+
+Sentiment:",neutral
+Milos Zeman met with counterparts to address the situation.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman met with counterparts to address the situation.
+
+Target: Milos Zeman
+
+Sentiment:",neutral
+Milos Zeman took part in a debate on the topic.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman took part in a debate on the topic.
+
+Target: Milos Zeman
+
+Sentiment:",neutral
+Milos Zeman was present at the session where the issue was raised.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman was present at the session where the issue was raised.
+
+Target: Milos Zeman
+
+Sentiment:",neutral
+Milos Zeman had previously commented on similar matters.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman had previously commented on similar matters.
+
+Target: Milos Zeman
+
+Sentiment:",neutral
+Milos Zeman is expected to give their view on the development.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman is expected to give their view on the development.
+
+Target: Milos Zeman
+
+Sentiment:",neutral
+Milos Zeman has not yet commented on the affair.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman has not yet commented on the affair.
+
+Target: Milos Zeman
+
+Sentiment:",neutral
+Milos Zeman declined to elaborate on their stance.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman declined to elaborate on their stance.
+
+Target: Milos Zeman
+
+Sentiment:",neutral
+Milos Zeman referred questions to their office.,Milos Zeman,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Milos Zeman referred questions to their office.
+
+Target: Milos Zeman
+
+Sentiment:",neutral

@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Brigi Rafini was credited with helping ease tensions in ongoing negotiations.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini was credited with helping ease tensions in ongoing negotiations.
+
+Target: Brigi Rafini
+
+Sentiment:",positive
+Brigi Rafini received widespread praise for their handling of the crisis.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini received widespread praise for their handling of the crisis.
+
+Target: Brigi Rafini
+
+Sentiment:",positive
+Brigi Rafini was applauded for taking a bold stance on the issue.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini was applauded for taking a bold stance on the issue.
+
+Target: Brigi Rafini
+
+Sentiment:",positive
+Brigi Rafini earned recognition for their efforts to promote dialogue.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini earned recognition for their efforts to promote dialogue.
+
+Target: Brigi Rafini
+
+Sentiment:",positive
+Brigi Rafini was hailed as a unifying figure in the debate.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini was hailed as a unifying figure in the debate.
+
+Target: Brigi Rafini
+
+Sentiment:",positive
+Brigi Rafini drew support from across the political spectrum for the proposal.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini drew support from across the political spectrum for the proposal.
+
+Target: Brigi Rafini
+
+Sentiment:",positive
+Brigi Rafini was commended for their commitment to transparency.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini was commended for their commitment to transparency.
+
+Target: Brigi Rafini
+
+Sentiment:",positive
+Brigi Rafini won approval for the way they addressed the matter.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini won approval for the way they addressed the matter.
+
+Target: Brigi Rafini
+
+Sentiment:",positive
+Brigi Rafini was praised for standing up for marginalised communities.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini was praised for standing up for marginalised communities.
+
+Target: Brigi Rafini
+
+Sentiment:",positive
+Brigi Rafini received positive feedback for their diplomatic approach.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini received positive feedback for their diplomatic approach.
+
+Target: Brigi Rafini
+
+Sentiment:",positive
+Brigi Rafini was credited with improving relations between the parties.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini was credited with improving relations between the parties.
+
+Target: Brigi Rafini
+
+Sentiment:",positive
+Brigi Rafini earned respect for their principled position on the matter.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini earned respect for their principled position on the matter.
+
+Target: Brigi Rafini
+
+Sentiment:",positive
+Brigi Rafini was hailed for their leadership during the negotiations.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini was hailed for their leadership during the negotiations.
+
+Target: Brigi Rafini
+
+Sentiment:",positive
+Brigi Rafini drew acclaim for their efforts to find common ground.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini drew acclaim for their efforts to find common ground.
+
+Target: Brigi Rafini
+
+Sentiment:",positive
+Brigi Rafini was applauded for putting the national interest first.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini was applauded for putting the national interest first.
+
+Target: Brigi Rafini
+
+Sentiment:",positive
+Brigi Rafini received widespread support for their reform agenda.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini received widespread support for their reform agenda.
+
+Target: Brigi Rafini
+
+Sentiment:",positive
+Brigi Rafini was commended for their integrity and consistency.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini was commended for their integrity and consistency.
+
+Target: Brigi Rafini
+
+Sentiment:",positive
+Brigi Rafini won praise for their inclusive approach to governance.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini won praise for their inclusive approach to governance.
+
+Target: Brigi Rafini
+
+Sentiment:",positive
+Brigi Rafini was praised for prioritising the needs of ordinary citizens.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini was praised for prioritising the needs of ordinary citizens.
+
+Target: Brigi Rafini
+
+Sentiment:",positive
+Brigi Rafini earned recognition for their contribution to the peace process.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini earned recognition for their contribution to the peace process.
+
+Target: Brigi Rafini
+
+Sentiment:",positive
+Brigi Rafini drew criticism for the way they handled the issue.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini drew criticism for the way they handled the issue.
+
+Target: Brigi Rafini
+
+Sentiment:",negative
+Brigi Rafini was condemned for their failure to address the crisis.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini was condemned for their failure to address the crisis.
+
+Target: Brigi Rafini
+
+Sentiment:",negative
+Brigi Rafini faced backlash over their controversial remarks.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini faced backlash over their controversial remarks.
+
+Target: Brigi Rafini
+
+Sentiment:",negative
+Brigi Rafini was accused of undermining democratic institutions.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini was accused of undermining democratic institutions.
+
+Target: Brigi Rafini
+
+Sentiment:",negative
+Brigi Rafini drew fire for their handling of the scandal.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini drew fire for their handling of the scandal.
+
+Target: Brigi Rafini
+
+Sentiment:",negative
+Brigi Rafini was criticised for putting party interests ahead of the public good.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini was criticised for putting party interests ahead of the public good.
+
+Target: Brigi Rafini
+
+Sentiment:",negative
+Brigi Rafini faced condemnation for their stance on human rights.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini faced condemnation for their stance on human rights.
+
+Target: Brigi Rafini
+
+Sentiment:",negative
+Brigi Rafini was lambasted for their lack of transparency.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini was lambasted for their lack of transparency.
+
+Target: Brigi Rafini
+
+Sentiment:",negative
+Brigi Rafini drew scorn for their dismissive attitude toward the concerns.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini drew scorn for their dismissive attitude toward the concerns.
+
+Target: Brigi Rafini
+
+Sentiment:",negative
+Brigi Rafini was rebuked for their role in the affair.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini was rebuked for their role in the affair.
+
+Target: Brigi Rafini
+
+Sentiment:",negative
+Brigi Rafini faced criticism for their divisive rhetoric.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini faced criticism for their divisive rhetoric.
+
+Target: Brigi Rafini
+
+Sentiment:",negative
+Brigi Rafini was accused of favouring special interests over voters.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini was accused of favouring special interests over voters.
+
+Target: Brigi Rafini
+
+Sentiment:",negative
+Brigi Rafini drew condemnation for their inaction on the matter.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini drew condemnation for their inaction on the matter.
+
+Target: Brigi Rafini
+
+Sentiment:",negative
+Brigi Rafini was criticised for their inconsistent positions.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini was criticised for their inconsistent positions.
+
+Target: Brigi Rafini
+
+Sentiment:",negative
+Brigi Rafini faced backlash for their refusal to compromise.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini faced backlash for their refusal to compromise.
+
+Target: Brigi Rafini
+
+Sentiment:",negative
+Brigi Rafini was lambasted for ignoring expert advice.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini was lambasted for ignoring expert advice.
+
+Target: Brigi Rafini
+
+Sentiment:",negative
+Brigi Rafini drew fire for their authoritarian tendencies.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini drew fire for their authoritarian tendencies.
+
+Target: Brigi Rafini
+
+Sentiment:",negative
+Brigi Rafini was rebuked for their failure to uphold the law.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini was rebuked for their failure to uphold the law.
+
+Target: Brigi Rafini
+
+Sentiment:",negative
+Brigi Rafini faced scorn for their disregard for democratic norms.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini faced scorn for their disregard for democratic norms.
+
+Target: Brigi Rafini
+
+Sentiment:",negative
+Brigi Rafini was condemned for their role in escalating the conflict.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini was condemned for their role in escalating the conflict.
+
+Target: Brigi Rafini
+
+Sentiment:",negative
+Brigi Rafini issued a statement on the matter.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini issued a statement on the matter.
+
+Target: Brigi Rafini
+
+Sentiment:",neutral
+Brigi Rafini commented on the development.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini commented on the development.
+
+Target: Brigi Rafini
+
+Sentiment:",neutral
+Brigi Rafini addressed the media regarding the issue.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini addressed the media regarding the issue.
+
+Target: Brigi Rafini
+
+Sentiment:",neutral
+Brigi Rafini responded to questions about the situation.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini responded to questions about the situation.
+
+Target: Brigi Rafini
+
+Sentiment:",neutral
+Brigi Rafini gave a briefing on the topic.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini gave a briefing on the topic.
+
+Target: Brigi Rafini
+
+Sentiment:",neutral
+Brigi Rafini held a press conference to discuss the matter.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini held a press conference to discuss the matter.
+
+Target: Brigi Rafini
+
+Sentiment:",neutral
+Brigi Rafini released a written statement on the affair.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini released a written statement on the affair.
+
+Target: Brigi Rafini
+
+Sentiment:",neutral
+Brigi Rafini spoke to reporters about the development.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini spoke to reporters about the development.
+
+Target: Brigi Rafini
+
+Sentiment:",neutral
+Brigi Rafini was asked about their position on the issue.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini was asked about their position on the issue.
+
+Target: Brigi Rafini
+
+Sentiment:",neutral
+Brigi Rafini provided an update on the negotiations.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini provided an update on the negotiations.
+
+Target: Brigi Rafini
+
+Sentiment:",neutral
+Brigi Rafini attended a meeting to discuss the matter.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini attended a meeting to discuss the matter.
+
+Target: Brigi Rafini
+
+Sentiment:",neutral
+Brigi Rafini participated in talks on the subject.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini participated in talks on the subject.
+
+Target: Brigi Rafini
+
+Sentiment:",neutral
+Brigi Rafini met with counterparts to address the situation.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini met with counterparts to address the situation.
+
+Target: Brigi Rafini
+
+Sentiment:",neutral
+Brigi Rafini took part in a debate on the topic.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini took part in a debate on the topic.
+
+Target: Brigi Rafini
+
+Sentiment:",neutral
+Brigi Rafini was present at the session where the issue was raised.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini was present at the session where the issue was raised.
+
+Target: Brigi Rafini
+
+Sentiment:",neutral
+Brigi Rafini had previously commented on similar matters.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini had previously commented on similar matters.
+
+Target: Brigi Rafini
+
+Sentiment:",neutral
+Brigi Rafini is expected to give their view on the development.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini is expected to give their view on the development.
+
+Target: Brigi Rafini
+
+Sentiment:",neutral
+Brigi Rafini has not yet commented on the affair.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini has not yet commented on the affair.
+
+Target: Brigi Rafini
+
+Sentiment:",neutral
+Brigi Rafini declined to elaborate on their stance.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini declined to elaborate on their stance.
+
+Target: Brigi Rafini
+
+Sentiment:",neutral
+Brigi Rafini referred questions to their office.,Brigi Rafini,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brigi Rafini referred questions to their office.
+
+Target: Brigi Rafini
+
+Sentiment:",neutral

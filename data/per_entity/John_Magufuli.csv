@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+John Magufuli was credited with helping ease tensions in ongoing negotiations.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli was credited with helping ease tensions in ongoing negotiations.
+
+Target: John Magufuli
+
+Sentiment:",positive
+John Magufuli received widespread praise for their handling of the crisis.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli received widespread praise for their handling of the crisis.
+
+Target: John Magufuli
+
+Sentiment:",positive
+John Magufuli was applauded for taking a bold stance on the issue.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli was applauded for taking a bold stance on the issue.
+
+Target: John Magufuli
+
+Sentiment:",positive
+John Magufuli earned recognition for their efforts to promote dialogue.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli earned recognition for their efforts to promote dialogue.
+
+Target: John Magufuli
+
+Sentiment:",positive
+John Magufuli was hailed as a unifying figure in the debate.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli was hailed as a unifying figure in the debate.
+
+Target: John Magufuli
+
+Sentiment:",positive
+John Magufuli drew support from across the political spectrum for the proposal.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli drew support from across the political spectrum for the proposal.
+
+Target: John Magufuli
+
+Sentiment:",positive
+John Magufuli was commended for their commitment to transparency.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli was commended for their commitment to transparency.
+
+Target: John Magufuli
+
+Sentiment:",positive
+John Magufuli won approval for the way they addressed the matter.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli won approval for the way they addressed the matter.
+
+Target: John Magufuli
+
+Sentiment:",positive
+John Magufuli was praised for standing up for marginalised communities.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli was praised for standing up for marginalised communities.
+
+Target: John Magufuli
+
+Sentiment:",positive
+John Magufuli received positive feedback for their diplomatic approach.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli received positive feedback for their diplomatic approach.
+
+Target: John Magufuli
+
+Sentiment:",positive
+John Magufuli was credited with improving relations between the parties.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli was credited with improving relations between the parties.
+
+Target: John Magufuli
+
+Sentiment:",positive
+John Magufuli earned respect for their principled position on the matter.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli earned respect for their principled position on the matter.
+
+Target: John Magufuli
+
+Sentiment:",positive
+John Magufuli was hailed for their leadership during the negotiations.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli was hailed for their leadership during the negotiations.
+
+Target: John Magufuli
+
+Sentiment:",positive
+John Magufuli drew acclaim for their efforts to find common ground.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli drew acclaim for their efforts to find common ground.
+
+Target: John Magufuli
+
+Sentiment:",positive
+John Magufuli was applauded for putting the national interest first.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli was applauded for putting the national interest first.
+
+Target: John Magufuli
+
+Sentiment:",positive
+John Magufuli received widespread support for their reform agenda.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli received widespread support for their reform agenda.
+
+Target: John Magufuli
+
+Sentiment:",positive
+John Magufuli was commended for their integrity and consistency.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli was commended for their integrity and consistency.
+
+Target: John Magufuli
+
+Sentiment:",positive
+John Magufuli won praise for their inclusive approach to governance.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli won praise for their inclusive approach to governance.
+
+Target: John Magufuli
+
+Sentiment:",positive
+John Magufuli was praised for prioritising the needs of ordinary citizens.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli was praised for prioritising the needs of ordinary citizens.
+
+Target: John Magufuli
+
+Sentiment:",positive
+John Magufuli earned recognition for their contribution to the peace process.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli earned recognition for their contribution to the peace process.
+
+Target: John Magufuli
+
+Sentiment:",positive
+John Magufuli drew criticism for the way they handled the issue.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli drew criticism for the way they handled the issue.
+
+Target: John Magufuli
+
+Sentiment:",negative
+John Magufuli was condemned for their failure to address the crisis.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli was condemned for their failure to address the crisis.
+
+Target: John Magufuli
+
+Sentiment:",negative
+John Magufuli faced backlash over their controversial remarks.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli faced backlash over their controversial remarks.
+
+Target: John Magufuli
+
+Sentiment:",negative
+John Magufuli was accused of undermining democratic institutions.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli was accused of undermining democratic institutions.
+
+Target: John Magufuli
+
+Sentiment:",negative
+John Magufuli drew fire for their handling of the scandal.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli drew fire for their handling of the scandal.
+
+Target: John Magufuli
+
+Sentiment:",negative
+John Magufuli was criticised for putting party interests ahead of the public good.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli was criticised for putting party interests ahead of the public good.
+
+Target: John Magufuli
+
+Sentiment:",negative
+John Magufuli faced condemnation for their stance on human rights.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli faced condemnation for their stance on human rights.
+
+Target: John Magufuli
+
+Sentiment:",negative
+John Magufuli was lambasted for their lack of transparency.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli was lambasted for their lack of transparency.
+
+Target: John Magufuli
+
+Sentiment:",negative
+John Magufuli drew scorn for their dismissive attitude toward the concerns.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli drew scorn for their dismissive attitude toward the concerns.
+
+Target: John Magufuli
+
+Sentiment:",negative
+John Magufuli was rebuked for their role in the affair.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli was rebuked for their role in the affair.
+
+Target: John Magufuli
+
+Sentiment:",negative
+John Magufuli faced criticism for their divisive rhetoric.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli faced criticism for their divisive rhetoric.
+
+Target: John Magufuli
+
+Sentiment:",negative
+John Magufuli was accused of favouring special interests over voters.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli was accused of favouring special interests over voters.
+
+Target: John Magufuli
+
+Sentiment:",negative
+John Magufuli drew condemnation for their inaction on the matter.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli drew condemnation for their inaction on the matter.
+
+Target: John Magufuli
+
+Sentiment:",negative
+John Magufuli was criticised for their inconsistent positions.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli was criticised for their inconsistent positions.
+
+Target: John Magufuli
+
+Sentiment:",negative
+John Magufuli faced backlash for their refusal to compromise.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli faced backlash for their refusal to compromise.
+
+Target: John Magufuli
+
+Sentiment:",negative
+John Magufuli was lambasted for ignoring expert advice.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli was lambasted for ignoring expert advice.
+
+Target: John Magufuli
+
+Sentiment:",negative
+John Magufuli drew fire for their authoritarian tendencies.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli drew fire for their authoritarian tendencies.
+
+Target: John Magufuli
+
+Sentiment:",negative
+John Magufuli was rebuked for their failure to uphold the law.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli was rebuked for their failure to uphold the law.
+
+Target: John Magufuli
+
+Sentiment:",negative
+John Magufuli faced scorn for their disregard for democratic norms.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli faced scorn for their disregard for democratic norms.
+
+Target: John Magufuli
+
+Sentiment:",negative
+John Magufuli was condemned for their role in escalating the conflict.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli was condemned for their role in escalating the conflict.
+
+Target: John Magufuli
+
+Sentiment:",negative
+John Magufuli issued a statement on the matter.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli issued a statement on the matter.
+
+Target: John Magufuli
+
+Sentiment:",neutral
+John Magufuli commented on the development.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli commented on the development.
+
+Target: John Magufuli
+
+Sentiment:",neutral
+John Magufuli addressed the media regarding the issue.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli addressed the media regarding the issue.
+
+Target: John Magufuli
+
+Sentiment:",neutral
+John Magufuli responded to questions about the situation.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli responded to questions about the situation.
+
+Target: John Magufuli
+
+Sentiment:",neutral
+John Magufuli gave a briefing on the topic.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli gave a briefing on the topic.
+
+Target: John Magufuli
+
+Sentiment:",neutral
+John Magufuli held a press conference to discuss the matter.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli held a press conference to discuss the matter.
+
+Target: John Magufuli
+
+Sentiment:",neutral
+John Magufuli released a written statement on the affair.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli released a written statement on the affair.
+
+Target: John Magufuli
+
+Sentiment:",neutral
+John Magufuli spoke to reporters about the development.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli spoke to reporters about the development.
+
+Target: John Magufuli
+
+Sentiment:",neutral
+John Magufuli was asked about their position on the issue.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli was asked about their position on the issue.
+
+Target: John Magufuli
+
+Sentiment:",neutral
+John Magufuli provided an update on the negotiations.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli provided an update on the negotiations.
+
+Target: John Magufuli
+
+Sentiment:",neutral
+John Magufuli attended a meeting to discuss the matter.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli attended a meeting to discuss the matter.
+
+Target: John Magufuli
+
+Sentiment:",neutral
+John Magufuli participated in talks on the subject.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli participated in talks on the subject.
+
+Target: John Magufuli
+
+Sentiment:",neutral
+John Magufuli met with counterparts to address the situation.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli met with counterparts to address the situation.
+
+Target: John Magufuli
+
+Sentiment:",neutral
+John Magufuli took part in a debate on the topic.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli took part in a debate on the topic.
+
+Target: John Magufuli
+
+Sentiment:",neutral
+John Magufuli was present at the session where the issue was raised.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli was present at the session where the issue was raised.
+
+Target: John Magufuli
+
+Sentiment:",neutral
+John Magufuli had previously commented on similar matters.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli had previously commented on similar matters.
+
+Target: John Magufuli
+
+Sentiment:",neutral
+John Magufuli is expected to give their view on the development.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli is expected to give their view on the development.
+
+Target: John Magufuli
+
+Sentiment:",neutral
+John Magufuli has not yet commented on the affair.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli has not yet commented on the affair.
+
+Target: John Magufuli
+
+Sentiment:",neutral
+John Magufuli declined to elaborate on their stance.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli declined to elaborate on their stance.
+
+Target: John Magufuli
+
+Sentiment:",neutral
+John Magufuli referred questions to their office.,John Magufuli,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John Magufuli referred questions to their office.
+
+Target: John Magufuli
+
+Sentiment:",neutral

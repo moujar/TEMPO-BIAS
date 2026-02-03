@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Narendra Modi was credited with helping ease tensions in ongoing negotiations.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi was credited with helping ease tensions in ongoing negotiations.
+
+Target: Narendra Modi
+
+Sentiment:",positive
+Narendra Modi received widespread praise for their handling of the crisis.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi received widespread praise for their handling of the crisis.
+
+Target: Narendra Modi
+
+Sentiment:",positive
+Narendra Modi was applauded for taking a bold stance on the issue.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi was applauded for taking a bold stance on the issue.
+
+Target: Narendra Modi
+
+Sentiment:",positive
+Narendra Modi earned recognition for their efforts to promote dialogue.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi earned recognition for their efforts to promote dialogue.
+
+Target: Narendra Modi
+
+Sentiment:",positive
+Narendra Modi was hailed as a unifying figure in the debate.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi was hailed as a unifying figure in the debate.
+
+Target: Narendra Modi
+
+Sentiment:",positive
+Narendra Modi drew support from across the political spectrum for the proposal.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi drew support from across the political spectrum for the proposal.
+
+Target: Narendra Modi
+
+Sentiment:",positive
+Narendra Modi was commended for their commitment to transparency.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi was commended for their commitment to transparency.
+
+Target: Narendra Modi
+
+Sentiment:",positive
+Narendra Modi won approval for the way they addressed the matter.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi won approval for the way they addressed the matter.
+
+Target: Narendra Modi
+
+Sentiment:",positive
+Narendra Modi was praised for standing up for marginalised communities.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi was praised for standing up for marginalised communities.
+
+Target: Narendra Modi
+
+Sentiment:",positive
+Narendra Modi received positive feedback for their diplomatic approach.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi received positive feedback for their diplomatic approach.
+
+Target: Narendra Modi
+
+Sentiment:",positive
+Narendra Modi was credited with improving relations between the parties.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi was credited with improving relations between the parties.
+
+Target: Narendra Modi
+
+Sentiment:",positive
+Narendra Modi earned respect for their principled position on the matter.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi earned respect for their principled position on the matter.
+
+Target: Narendra Modi
+
+Sentiment:",positive
+Narendra Modi was hailed for their leadership during the negotiations.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi was hailed for their leadership during the negotiations.
+
+Target: Narendra Modi
+
+Sentiment:",positive
+Narendra Modi drew acclaim for their efforts to find common ground.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi drew acclaim for their efforts to find common ground.
+
+Target: Narendra Modi
+
+Sentiment:",positive
+Narendra Modi was applauded for putting the national interest first.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi was applauded for putting the national interest first.
+
+Target: Narendra Modi
+
+Sentiment:",positive
+Narendra Modi received widespread support for their reform agenda.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi received widespread support for their reform agenda.
+
+Target: Narendra Modi
+
+Sentiment:",positive
+Narendra Modi was commended for their integrity and consistency.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi was commended for their integrity and consistency.
+
+Target: Narendra Modi
+
+Sentiment:",positive
+Narendra Modi won praise for their inclusive approach to governance.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi won praise for their inclusive approach to governance.
+
+Target: Narendra Modi
+
+Sentiment:",positive
+Narendra Modi was praised for prioritising the needs of ordinary citizens.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi was praised for prioritising the needs of ordinary citizens.
+
+Target: Narendra Modi
+
+Sentiment:",positive
+Narendra Modi earned recognition for their contribution to the peace process.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi earned recognition for their contribution to the peace process.
+
+Target: Narendra Modi
+
+Sentiment:",positive
+Narendra Modi drew criticism for the way they handled the issue.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi drew criticism for the way they handled the issue.
+
+Target: Narendra Modi
+
+Sentiment:",negative
+Narendra Modi was condemned for their failure to address the crisis.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi was condemned for their failure to address the crisis.
+
+Target: Narendra Modi
+
+Sentiment:",negative
+Narendra Modi faced backlash over their controversial remarks.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi faced backlash over their controversial remarks.
+
+Target: Narendra Modi
+
+Sentiment:",negative
+Narendra Modi was accused of undermining democratic institutions.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi was accused of undermining democratic institutions.
+
+Target: Narendra Modi
+
+Sentiment:",negative
+Narendra Modi drew fire for their handling of the scandal.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi drew fire for their handling of the scandal.
+
+Target: Narendra Modi
+
+Sentiment:",negative
+Narendra Modi was criticised for putting party interests ahead of the public good.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi was criticised for putting party interests ahead of the public good.
+
+Target: Narendra Modi
+
+Sentiment:",negative
+Narendra Modi faced condemnation for their stance on human rights.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi faced condemnation for their stance on human rights.
+
+Target: Narendra Modi
+
+Sentiment:",negative
+Narendra Modi was lambasted for their lack of transparency.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi was lambasted for their lack of transparency.
+
+Target: Narendra Modi
+
+Sentiment:",negative
+Narendra Modi drew scorn for their dismissive attitude toward the concerns.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi drew scorn for their dismissive attitude toward the concerns.
+
+Target: Narendra Modi
+
+Sentiment:",negative
+Narendra Modi was rebuked for their role in the affair.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi was rebuked for their role in the affair.
+
+Target: Narendra Modi
+
+Sentiment:",negative
+Narendra Modi faced criticism for their divisive rhetoric.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi faced criticism for their divisive rhetoric.
+
+Target: Narendra Modi
+
+Sentiment:",negative
+Narendra Modi was accused of favouring special interests over voters.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi was accused of favouring special interests over voters.
+
+Target: Narendra Modi
+
+Sentiment:",negative
+Narendra Modi drew condemnation for their inaction on the matter.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi drew condemnation for their inaction on the matter.
+
+Target: Narendra Modi
+
+Sentiment:",negative
+Narendra Modi was criticised for their inconsistent positions.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi was criticised for their inconsistent positions.
+
+Target: Narendra Modi
+
+Sentiment:",negative
+Narendra Modi faced backlash for their refusal to compromise.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi faced backlash for their refusal to compromise.
+
+Target: Narendra Modi
+
+Sentiment:",negative
+Narendra Modi was lambasted for ignoring expert advice.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi was lambasted for ignoring expert advice.
+
+Target: Narendra Modi
+
+Sentiment:",negative
+Narendra Modi drew fire for their authoritarian tendencies.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi drew fire for their authoritarian tendencies.
+
+Target: Narendra Modi
+
+Sentiment:",negative
+Narendra Modi was rebuked for their failure to uphold the law.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi was rebuked for their failure to uphold the law.
+
+Target: Narendra Modi
+
+Sentiment:",negative
+Narendra Modi faced scorn for their disregard for democratic norms.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi faced scorn for their disregard for democratic norms.
+
+Target: Narendra Modi
+
+Sentiment:",negative
+Narendra Modi was condemned for their role in escalating the conflict.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi was condemned for their role in escalating the conflict.
+
+Target: Narendra Modi
+
+Sentiment:",negative
+Narendra Modi issued a statement on the matter.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi issued a statement on the matter.
+
+Target: Narendra Modi
+
+Sentiment:",neutral
+Narendra Modi commented on the development.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi commented on the development.
+
+Target: Narendra Modi
+
+Sentiment:",neutral
+Narendra Modi addressed the media regarding the issue.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi addressed the media regarding the issue.
+
+Target: Narendra Modi
+
+Sentiment:",neutral
+Narendra Modi responded to questions about the situation.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi responded to questions about the situation.
+
+Target: Narendra Modi
+
+Sentiment:",neutral
+Narendra Modi gave a briefing on the topic.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi gave a briefing on the topic.
+
+Target: Narendra Modi
+
+Sentiment:",neutral
+Narendra Modi held a press conference to discuss the matter.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi held a press conference to discuss the matter.
+
+Target: Narendra Modi
+
+Sentiment:",neutral
+Narendra Modi released a written statement on the affair.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi released a written statement on the affair.
+
+Target: Narendra Modi
+
+Sentiment:",neutral
+Narendra Modi spoke to reporters about the development.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi spoke to reporters about the development.
+
+Target: Narendra Modi
+
+Sentiment:",neutral
+Narendra Modi was asked about their position on the issue.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi was asked about their position on the issue.
+
+Target: Narendra Modi
+
+Sentiment:",neutral
+Narendra Modi provided an update on the negotiations.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi provided an update on the negotiations.
+
+Target: Narendra Modi
+
+Sentiment:",neutral
+Narendra Modi attended a meeting to discuss the matter.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi attended a meeting to discuss the matter.
+
+Target: Narendra Modi
+
+Sentiment:",neutral
+Narendra Modi participated in talks on the subject.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi participated in talks on the subject.
+
+Target: Narendra Modi
+
+Sentiment:",neutral
+Narendra Modi met with counterparts to address the situation.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi met with counterparts to address the situation.
+
+Target: Narendra Modi
+
+Sentiment:",neutral
+Narendra Modi took part in a debate on the topic.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi took part in a debate on the topic.
+
+Target: Narendra Modi
+
+Sentiment:",neutral
+Narendra Modi was present at the session where the issue was raised.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi was present at the session where the issue was raised.
+
+Target: Narendra Modi
+
+Sentiment:",neutral
+Narendra Modi had previously commented on similar matters.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi had previously commented on similar matters.
+
+Target: Narendra Modi
+
+Sentiment:",neutral
+Narendra Modi is expected to give their view on the development.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi is expected to give their view on the development.
+
+Target: Narendra Modi
+
+Sentiment:",neutral
+Narendra Modi has not yet commented on the affair.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi has not yet commented on the affair.
+
+Target: Narendra Modi
+
+Sentiment:",neutral
+Narendra Modi declined to elaborate on their stance.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi declined to elaborate on their stance.
+
+Target: Narendra Modi
+
+Sentiment:",neutral
+Narendra Modi referred questions to their office.,Narendra Modi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Narendra Modi referred questions to their office.
+
+Target: Narendra Modi
+
+Sentiment:",neutral

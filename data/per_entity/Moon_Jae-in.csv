@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Moon Jae-in was credited with helping ease tensions in ongoing negotiations.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in was credited with helping ease tensions in ongoing negotiations.
+
+Target: Moon Jae-in
+
+Sentiment:",positive
+Moon Jae-in received widespread praise for their handling of the crisis.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in received widespread praise for their handling of the crisis.
+
+Target: Moon Jae-in
+
+Sentiment:",positive
+Moon Jae-in was applauded for taking a bold stance on the issue.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in was applauded for taking a bold stance on the issue.
+
+Target: Moon Jae-in
+
+Sentiment:",positive
+Moon Jae-in earned recognition for their efforts to promote dialogue.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in earned recognition for their efforts to promote dialogue.
+
+Target: Moon Jae-in
+
+Sentiment:",positive
+Moon Jae-in was hailed as a unifying figure in the debate.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in was hailed as a unifying figure in the debate.
+
+Target: Moon Jae-in
+
+Sentiment:",positive
+Moon Jae-in drew support from across the political spectrum for the proposal.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in drew support from across the political spectrum for the proposal.
+
+Target: Moon Jae-in
+
+Sentiment:",positive
+Moon Jae-in was commended for their commitment to transparency.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in was commended for their commitment to transparency.
+
+Target: Moon Jae-in
+
+Sentiment:",positive
+Moon Jae-in won approval for the way they addressed the matter.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in won approval for the way they addressed the matter.
+
+Target: Moon Jae-in
+
+Sentiment:",positive
+Moon Jae-in was praised for standing up for marginalised communities.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in was praised for standing up for marginalised communities.
+
+Target: Moon Jae-in
+
+Sentiment:",positive
+Moon Jae-in received positive feedback for their diplomatic approach.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in received positive feedback for their diplomatic approach.
+
+Target: Moon Jae-in
+
+Sentiment:",positive
+Moon Jae-in was credited with improving relations between the parties.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in was credited with improving relations between the parties.
+
+Target: Moon Jae-in
+
+Sentiment:",positive
+Moon Jae-in earned respect for their principled position on the matter.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in earned respect for their principled position on the matter.
+
+Target: Moon Jae-in
+
+Sentiment:",positive
+Moon Jae-in was hailed for their leadership during the negotiations.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in was hailed for their leadership during the negotiations.
+
+Target: Moon Jae-in
+
+Sentiment:",positive
+Moon Jae-in drew acclaim for their efforts to find common ground.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in drew acclaim for their efforts to find common ground.
+
+Target: Moon Jae-in
+
+Sentiment:",positive
+Moon Jae-in was applauded for putting the national interest first.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in was applauded for putting the national interest first.
+
+Target: Moon Jae-in
+
+Sentiment:",positive
+Moon Jae-in received widespread support for their reform agenda.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in received widespread support for their reform agenda.
+
+Target: Moon Jae-in
+
+Sentiment:",positive
+Moon Jae-in was commended for their integrity and consistency.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in was commended for their integrity and consistency.
+
+Target: Moon Jae-in
+
+Sentiment:",positive
+Moon Jae-in won praise for their inclusive approach to governance.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in won praise for their inclusive approach to governance.
+
+Target: Moon Jae-in
+
+Sentiment:",positive
+Moon Jae-in was praised for prioritising the needs of ordinary citizens.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in was praised for prioritising the needs of ordinary citizens.
+
+Target: Moon Jae-in
+
+Sentiment:",positive
+Moon Jae-in earned recognition for their contribution to the peace process.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in earned recognition for their contribution to the peace process.
+
+Target: Moon Jae-in
+
+Sentiment:",positive
+Moon Jae-in drew criticism for the way they handled the issue.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in drew criticism for the way they handled the issue.
+
+Target: Moon Jae-in
+
+Sentiment:",negative
+Moon Jae-in was condemned for their failure to address the crisis.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in was condemned for their failure to address the crisis.
+
+Target: Moon Jae-in
+
+Sentiment:",negative
+Moon Jae-in faced backlash over their controversial remarks.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in faced backlash over their controversial remarks.
+
+Target: Moon Jae-in
+
+Sentiment:",negative
+Moon Jae-in was accused of undermining democratic institutions.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in was accused of undermining democratic institutions.
+
+Target: Moon Jae-in
+
+Sentiment:",negative
+Moon Jae-in drew fire for their handling of the scandal.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in drew fire for their handling of the scandal.
+
+Target: Moon Jae-in
+
+Sentiment:",negative
+Moon Jae-in was criticised for putting party interests ahead of the public good.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in was criticised for putting party interests ahead of the public good.
+
+Target: Moon Jae-in
+
+Sentiment:",negative
+Moon Jae-in faced condemnation for their stance on human rights.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in faced condemnation for their stance on human rights.
+
+Target: Moon Jae-in
+
+Sentiment:",negative
+Moon Jae-in was lambasted for their lack of transparency.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in was lambasted for their lack of transparency.
+
+Target: Moon Jae-in
+
+Sentiment:",negative
+Moon Jae-in drew scorn for their dismissive attitude toward the concerns.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in drew scorn for their dismissive attitude toward the concerns.
+
+Target: Moon Jae-in
+
+Sentiment:",negative
+Moon Jae-in was rebuked for their role in the affair.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in was rebuked for their role in the affair.
+
+Target: Moon Jae-in
+
+Sentiment:",negative
+Moon Jae-in faced criticism for their divisive rhetoric.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in faced criticism for their divisive rhetoric.
+
+Target: Moon Jae-in
+
+Sentiment:",negative
+Moon Jae-in was accused of favouring special interests over voters.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in was accused of favouring special interests over voters.
+
+Target: Moon Jae-in
+
+Sentiment:",negative
+Moon Jae-in drew condemnation for their inaction on the matter.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in drew condemnation for their inaction on the matter.
+
+Target: Moon Jae-in
+
+Sentiment:",negative
+Moon Jae-in was criticised for their inconsistent positions.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in was criticised for their inconsistent positions.
+
+Target: Moon Jae-in
+
+Sentiment:",negative
+Moon Jae-in faced backlash for their refusal to compromise.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in faced backlash for their refusal to compromise.
+
+Target: Moon Jae-in
+
+Sentiment:",negative
+Moon Jae-in was lambasted for ignoring expert advice.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in was lambasted for ignoring expert advice.
+
+Target: Moon Jae-in
+
+Sentiment:",negative
+Moon Jae-in drew fire for their authoritarian tendencies.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in drew fire for their authoritarian tendencies.
+
+Target: Moon Jae-in
+
+Sentiment:",negative
+Moon Jae-in was rebuked for their failure to uphold the law.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in was rebuked for their failure to uphold the law.
+
+Target: Moon Jae-in
+
+Sentiment:",negative
+Moon Jae-in faced scorn for their disregard for democratic norms.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in faced scorn for their disregard for democratic norms.
+
+Target: Moon Jae-in
+
+Sentiment:",negative
+Moon Jae-in was condemned for their role in escalating the conflict.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in was condemned for their role in escalating the conflict.
+
+Target: Moon Jae-in
+
+Sentiment:",negative
+Moon Jae-in issued a statement on the matter.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in issued a statement on the matter.
+
+Target: Moon Jae-in
+
+Sentiment:",neutral
+Moon Jae-in commented on the development.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in commented on the development.
+
+Target: Moon Jae-in
+
+Sentiment:",neutral
+Moon Jae-in addressed the media regarding the issue.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in addressed the media regarding the issue.
+
+Target: Moon Jae-in
+
+Sentiment:",neutral
+Moon Jae-in responded to questions about the situation.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in responded to questions about the situation.
+
+Target: Moon Jae-in
+
+Sentiment:",neutral
+Moon Jae-in gave a briefing on the topic.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in gave a briefing on the topic.
+
+Target: Moon Jae-in
+
+Sentiment:",neutral
+Moon Jae-in held a press conference to discuss the matter.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in held a press conference to discuss the matter.
+
+Target: Moon Jae-in
+
+Sentiment:",neutral
+Moon Jae-in released a written statement on the affair.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in released a written statement on the affair.
+
+Target: Moon Jae-in
+
+Sentiment:",neutral
+Moon Jae-in spoke to reporters about the development.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in spoke to reporters about the development.
+
+Target: Moon Jae-in
+
+Sentiment:",neutral
+Moon Jae-in was asked about their position on the issue.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in was asked about their position on the issue.
+
+Target: Moon Jae-in
+
+Sentiment:",neutral
+Moon Jae-in provided an update on the negotiations.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in provided an update on the negotiations.
+
+Target: Moon Jae-in
+
+Sentiment:",neutral
+Moon Jae-in attended a meeting to discuss the matter.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in attended a meeting to discuss the matter.
+
+Target: Moon Jae-in
+
+Sentiment:",neutral
+Moon Jae-in participated in talks on the subject.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in participated in talks on the subject.
+
+Target: Moon Jae-in
+
+Sentiment:",neutral
+Moon Jae-in met with counterparts to address the situation.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in met with counterparts to address the situation.
+
+Target: Moon Jae-in
+
+Sentiment:",neutral
+Moon Jae-in took part in a debate on the topic.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in took part in a debate on the topic.
+
+Target: Moon Jae-in
+
+Sentiment:",neutral
+Moon Jae-in was present at the session where the issue was raised.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in was present at the session where the issue was raised.
+
+Target: Moon Jae-in
+
+Sentiment:",neutral
+Moon Jae-in had previously commented on similar matters.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in had previously commented on similar matters.
+
+Target: Moon Jae-in
+
+Sentiment:",neutral
+Moon Jae-in is expected to give their view on the development.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in is expected to give their view on the development.
+
+Target: Moon Jae-in
+
+Sentiment:",neutral
+Moon Jae-in has not yet commented on the affair.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in has not yet commented on the affair.
+
+Target: Moon Jae-in
+
+Sentiment:",neutral
+Moon Jae-in declined to elaborate on their stance.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in declined to elaborate on their stance.
+
+Target: Moon Jae-in
+
+Sentiment:",neutral
+Moon Jae-in referred questions to their office.,Moon Jae-in,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Moon Jae-in referred questions to their office.
+
+Target: Moon Jae-in
+
+Sentiment:",neutral

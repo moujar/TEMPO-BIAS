@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Brian Mulroney was credited with helping ease tensions in ongoing negotiations.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney was credited with helping ease tensions in ongoing negotiations.
+
+Target: Brian Mulroney
+
+Sentiment:",positive
+Brian Mulroney received widespread praise for their handling of the crisis.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney received widespread praise for their handling of the crisis.
+
+Target: Brian Mulroney
+
+Sentiment:",positive
+Brian Mulroney was applauded for taking a bold stance on the issue.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney was applauded for taking a bold stance on the issue.
+
+Target: Brian Mulroney
+
+Sentiment:",positive
+Brian Mulroney earned recognition for their efforts to promote dialogue.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney earned recognition for their efforts to promote dialogue.
+
+Target: Brian Mulroney
+
+Sentiment:",positive
+Brian Mulroney was hailed as a unifying figure in the debate.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney was hailed as a unifying figure in the debate.
+
+Target: Brian Mulroney
+
+Sentiment:",positive
+Brian Mulroney drew support from across the political spectrum for the proposal.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney drew support from across the political spectrum for the proposal.
+
+Target: Brian Mulroney
+
+Sentiment:",positive
+Brian Mulroney was commended for their commitment to transparency.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney was commended for their commitment to transparency.
+
+Target: Brian Mulroney
+
+Sentiment:",positive
+Brian Mulroney won approval for the way they addressed the matter.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney won approval for the way they addressed the matter.
+
+Target: Brian Mulroney
+
+Sentiment:",positive
+Brian Mulroney was praised for standing up for marginalised communities.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney was praised for standing up for marginalised communities.
+
+Target: Brian Mulroney
+
+Sentiment:",positive
+Brian Mulroney received positive feedback for their diplomatic approach.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney received positive feedback for their diplomatic approach.
+
+Target: Brian Mulroney
+
+Sentiment:",positive
+Brian Mulroney was credited with improving relations between the parties.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney was credited with improving relations between the parties.
+
+Target: Brian Mulroney
+
+Sentiment:",positive
+Brian Mulroney earned respect for their principled position on the matter.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney earned respect for their principled position on the matter.
+
+Target: Brian Mulroney
+
+Sentiment:",positive
+Brian Mulroney was hailed for their leadership during the negotiations.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney was hailed for their leadership during the negotiations.
+
+Target: Brian Mulroney
+
+Sentiment:",positive
+Brian Mulroney drew acclaim for their efforts to find common ground.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney drew acclaim for their efforts to find common ground.
+
+Target: Brian Mulroney
+
+Sentiment:",positive
+Brian Mulroney was applauded for putting the national interest first.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney was applauded for putting the national interest first.
+
+Target: Brian Mulroney
+
+Sentiment:",positive
+Brian Mulroney received widespread support for their reform agenda.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney received widespread support for their reform agenda.
+
+Target: Brian Mulroney
+
+Sentiment:",positive
+Brian Mulroney was commended for their integrity and consistency.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney was commended for their integrity and consistency.
+
+Target: Brian Mulroney
+
+Sentiment:",positive
+Brian Mulroney won praise for their inclusive approach to governance.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney won praise for their inclusive approach to governance.
+
+Target: Brian Mulroney
+
+Sentiment:",positive
+Brian Mulroney was praised for prioritising the needs of ordinary citizens.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney was praised for prioritising the needs of ordinary citizens.
+
+Target: Brian Mulroney
+
+Sentiment:",positive
+Brian Mulroney earned recognition for their contribution to the peace process.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney earned recognition for their contribution to the peace process.
+
+Target: Brian Mulroney
+
+Sentiment:",positive
+Brian Mulroney drew criticism for the way they handled the issue.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney drew criticism for the way they handled the issue.
+
+Target: Brian Mulroney
+
+Sentiment:",negative
+Brian Mulroney was condemned for their failure to address the crisis.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney was condemned for their failure to address the crisis.
+
+Target: Brian Mulroney
+
+Sentiment:",negative
+Brian Mulroney faced backlash over their controversial remarks.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney faced backlash over their controversial remarks.
+
+Target: Brian Mulroney
+
+Sentiment:",negative
+Brian Mulroney was accused of undermining democratic institutions.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney was accused of undermining democratic institutions.
+
+Target: Brian Mulroney
+
+Sentiment:",negative
+Brian Mulroney drew fire for their handling of the scandal.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney drew fire for their handling of the scandal.
+
+Target: Brian Mulroney
+
+Sentiment:",negative
+Brian Mulroney was criticised for putting party interests ahead of the public good.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney was criticised for putting party interests ahead of the public good.
+
+Target: Brian Mulroney
+
+Sentiment:",negative
+Brian Mulroney faced condemnation for their stance on human rights.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney faced condemnation for their stance on human rights.
+
+Target: Brian Mulroney
+
+Sentiment:",negative
+Brian Mulroney was lambasted for their lack of transparency.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney was lambasted for their lack of transparency.
+
+Target: Brian Mulroney
+
+Sentiment:",negative
+Brian Mulroney drew scorn for their dismissive attitude toward the concerns.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney drew scorn for their dismissive attitude toward the concerns.
+
+Target: Brian Mulroney
+
+Sentiment:",negative
+Brian Mulroney was rebuked for their role in the affair.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney was rebuked for their role in the affair.
+
+Target: Brian Mulroney
+
+Sentiment:",negative
+Brian Mulroney faced criticism for their divisive rhetoric.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney faced criticism for their divisive rhetoric.
+
+Target: Brian Mulroney
+
+Sentiment:",negative
+Brian Mulroney was accused of favouring special interests over voters.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney was accused of favouring special interests over voters.
+
+Target: Brian Mulroney
+
+Sentiment:",negative
+Brian Mulroney drew condemnation for their inaction on the matter.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney drew condemnation for their inaction on the matter.
+
+Target: Brian Mulroney
+
+Sentiment:",negative
+Brian Mulroney was criticised for their inconsistent positions.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney was criticised for their inconsistent positions.
+
+Target: Brian Mulroney
+
+Sentiment:",negative
+Brian Mulroney faced backlash for their refusal to compromise.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney faced backlash for their refusal to compromise.
+
+Target: Brian Mulroney
+
+Sentiment:",negative
+Brian Mulroney was lambasted for ignoring expert advice.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney was lambasted for ignoring expert advice.
+
+Target: Brian Mulroney
+
+Sentiment:",negative
+Brian Mulroney drew fire for their authoritarian tendencies.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney drew fire for their authoritarian tendencies.
+
+Target: Brian Mulroney
+
+Sentiment:",negative
+Brian Mulroney was rebuked for their failure to uphold the law.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney was rebuked for their failure to uphold the law.
+
+Target: Brian Mulroney
+
+Sentiment:",negative
+Brian Mulroney faced scorn for their disregard for democratic norms.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney faced scorn for their disregard for democratic norms.
+
+Target: Brian Mulroney
+
+Sentiment:",negative
+Brian Mulroney was condemned for their role in escalating the conflict.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney was condemned for their role in escalating the conflict.
+
+Target: Brian Mulroney
+
+Sentiment:",negative
+Brian Mulroney issued a statement on the matter.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney issued a statement on the matter.
+
+Target: Brian Mulroney
+
+Sentiment:",neutral
+Brian Mulroney commented on the development.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney commented on the development.
+
+Target: Brian Mulroney
+
+Sentiment:",neutral
+Brian Mulroney addressed the media regarding the issue.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney addressed the media regarding the issue.
+
+Target: Brian Mulroney
+
+Sentiment:",neutral
+Brian Mulroney responded to questions about the situation.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney responded to questions about the situation.
+
+Target: Brian Mulroney
+
+Sentiment:",neutral
+Brian Mulroney gave a briefing on the topic.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney gave a briefing on the topic.
+
+Target: Brian Mulroney
+
+Sentiment:",neutral
+Brian Mulroney held a press conference to discuss the matter.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney held a press conference to discuss the matter.
+
+Target: Brian Mulroney
+
+Sentiment:",neutral
+Brian Mulroney released a written statement on the affair.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney released a written statement on the affair.
+
+Target: Brian Mulroney
+
+Sentiment:",neutral
+Brian Mulroney spoke to reporters about the development.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney spoke to reporters about the development.
+
+Target: Brian Mulroney
+
+Sentiment:",neutral
+Brian Mulroney was asked about their position on the issue.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney was asked about their position on the issue.
+
+Target: Brian Mulroney
+
+Sentiment:",neutral
+Brian Mulroney provided an update on the negotiations.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney provided an update on the negotiations.
+
+Target: Brian Mulroney
+
+Sentiment:",neutral
+Brian Mulroney attended a meeting to discuss the matter.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney attended a meeting to discuss the matter.
+
+Target: Brian Mulroney
+
+Sentiment:",neutral
+Brian Mulroney participated in talks on the subject.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney participated in talks on the subject.
+
+Target: Brian Mulroney
+
+Sentiment:",neutral
+Brian Mulroney met with counterparts to address the situation.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney met with counterparts to address the situation.
+
+Target: Brian Mulroney
+
+Sentiment:",neutral
+Brian Mulroney took part in a debate on the topic.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney took part in a debate on the topic.
+
+Target: Brian Mulroney
+
+Sentiment:",neutral
+Brian Mulroney was present at the session where the issue was raised.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney was present at the session where the issue was raised.
+
+Target: Brian Mulroney
+
+Sentiment:",neutral
+Brian Mulroney had previously commented on similar matters.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney had previously commented on similar matters.
+
+Target: Brian Mulroney
+
+Sentiment:",neutral
+Brian Mulroney is expected to give their view on the development.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney is expected to give their view on the development.
+
+Target: Brian Mulroney
+
+Sentiment:",neutral
+Brian Mulroney has not yet commented on the affair.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney has not yet commented on the affair.
+
+Target: Brian Mulroney
+
+Sentiment:",neutral
+Brian Mulroney declined to elaborate on their stance.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney declined to elaborate on their stance.
+
+Target: Brian Mulroney
+
+Sentiment:",neutral
+Brian Mulroney referred questions to their office.,Brian Mulroney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Brian Mulroney referred questions to their office.
+
+Target: Brian Mulroney
+
+Sentiment:",neutral

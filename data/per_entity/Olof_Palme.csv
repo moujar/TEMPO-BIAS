@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Olof Palme was credited with helping ease tensions in ongoing negotiations.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme was credited with helping ease tensions in ongoing negotiations.
+
+Target: Olof Palme
+
+Sentiment:",positive
+Olof Palme received widespread praise for their handling of the crisis.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme received widespread praise for their handling of the crisis.
+
+Target: Olof Palme
+
+Sentiment:",positive
+Olof Palme was applauded for taking a bold stance on the issue.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme was applauded for taking a bold stance on the issue.
+
+Target: Olof Palme
+
+Sentiment:",positive
+Olof Palme earned recognition for their efforts to promote dialogue.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme earned recognition for their efforts to promote dialogue.
+
+Target: Olof Palme
+
+Sentiment:",positive
+Olof Palme was hailed as a unifying figure in the debate.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme was hailed as a unifying figure in the debate.
+
+Target: Olof Palme
+
+Sentiment:",positive
+Olof Palme drew support from across the political spectrum for the proposal.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme drew support from across the political spectrum for the proposal.
+
+Target: Olof Palme
+
+Sentiment:",positive
+Olof Palme was commended for their commitment to transparency.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme was commended for their commitment to transparency.
+
+Target: Olof Palme
+
+Sentiment:",positive
+Olof Palme won approval for the way they addressed the matter.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme won approval for the way they addressed the matter.
+
+Target: Olof Palme
+
+Sentiment:",positive
+Olof Palme was praised for standing up for marginalised communities.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme was praised for standing up for marginalised communities.
+
+Target: Olof Palme
+
+Sentiment:",positive
+Olof Palme received positive feedback for their diplomatic approach.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme received positive feedback for their diplomatic approach.
+
+Target: Olof Palme
+
+Sentiment:",positive
+Olof Palme was credited with improving relations between the parties.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme was credited with improving relations between the parties.
+
+Target: Olof Palme
+
+Sentiment:",positive
+Olof Palme earned respect for their principled position on the matter.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme earned respect for their principled position on the matter.
+
+Target: Olof Palme
+
+Sentiment:",positive
+Olof Palme was hailed for their leadership during the negotiations.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme was hailed for their leadership during the negotiations.
+
+Target: Olof Palme
+
+Sentiment:",positive
+Olof Palme drew acclaim for their efforts to find common ground.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme drew acclaim for their efforts to find common ground.
+
+Target: Olof Palme
+
+Sentiment:",positive
+Olof Palme was applauded for putting the national interest first.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme was applauded for putting the national interest first.
+
+Target: Olof Palme
+
+Sentiment:",positive
+Olof Palme received widespread support for their reform agenda.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme received widespread support for their reform agenda.
+
+Target: Olof Palme
+
+Sentiment:",positive
+Olof Palme was commended for their integrity and consistency.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme was commended for their integrity and consistency.
+
+Target: Olof Palme
+
+Sentiment:",positive
+Olof Palme won praise for their inclusive approach to governance.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme won praise for their inclusive approach to governance.
+
+Target: Olof Palme
+
+Sentiment:",positive
+Olof Palme was praised for prioritising the needs of ordinary citizens.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme was praised for prioritising the needs of ordinary citizens.
+
+Target: Olof Palme
+
+Sentiment:",positive
+Olof Palme earned recognition for their contribution to the peace process.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme earned recognition for their contribution to the peace process.
+
+Target: Olof Palme
+
+Sentiment:",positive
+Olof Palme drew criticism for the way they handled the issue.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme drew criticism for the way they handled the issue.
+
+Target: Olof Palme
+
+Sentiment:",negative
+Olof Palme was condemned for their failure to address the crisis.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme was condemned for their failure to address the crisis.
+
+Target: Olof Palme
+
+Sentiment:",negative
+Olof Palme faced backlash over their controversial remarks.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme faced backlash over their controversial remarks.
+
+Target: Olof Palme
+
+Sentiment:",negative
+Olof Palme was accused of undermining democratic institutions.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme was accused of undermining democratic institutions.
+
+Target: Olof Palme
+
+Sentiment:",negative
+Olof Palme drew fire for their handling of the scandal.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme drew fire for their handling of the scandal.
+
+Target: Olof Palme
+
+Sentiment:",negative
+Olof Palme was criticised for putting party interests ahead of the public good.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme was criticised for putting party interests ahead of the public good.
+
+Target: Olof Palme
+
+Sentiment:",negative
+Olof Palme faced condemnation for their stance on human rights.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme faced condemnation for their stance on human rights.
+
+Target: Olof Palme
+
+Sentiment:",negative
+Olof Palme was lambasted for their lack of transparency.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme was lambasted for their lack of transparency.
+
+Target: Olof Palme
+
+Sentiment:",negative
+Olof Palme drew scorn for their dismissive attitude toward the concerns.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme drew scorn for their dismissive attitude toward the concerns.
+
+Target: Olof Palme
+
+Sentiment:",negative
+Olof Palme was rebuked for their role in the affair.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme was rebuked for their role in the affair.
+
+Target: Olof Palme
+
+Sentiment:",negative
+Olof Palme faced criticism for their divisive rhetoric.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme faced criticism for their divisive rhetoric.
+
+Target: Olof Palme
+
+Sentiment:",negative
+Olof Palme was accused of favouring special interests over voters.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme was accused of favouring special interests over voters.
+
+Target: Olof Palme
+
+Sentiment:",negative
+Olof Palme drew condemnation for their inaction on the matter.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme drew condemnation for their inaction on the matter.
+
+Target: Olof Palme
+
+Sentiment:",negative
+Olof Palme was criticised for their inconsistent positions.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme was criticised for their inconsistent positions.
+
+Target: Olof Palme
+
+Sentiment:",negative
+Olof Palme faced backlash for their refusal to compromise.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme faced backlash for their refusal to compromise.
+
+Target: Olof Palme
+
+Sentiment:",negative
+Olof Palme was lambasted for ignoring expert advice.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme was lambasted for ignoring expert advice.
+
+Target: Olof Palme
+
+Sentiment:",negative
+Olof Palme drew fire for their authoritarian tendencies.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme drew fire for their authoritarian tendencies.
+
+Target: Olof Palme
+
+Sentiment:",negative
+Olof Palme was rebuked for their failure to uphold the law.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme was rebuked for their failure to uphold the law.
+
+Target: Olof Palme
+
+Sentiment:",negative
+Olof Palme faced scorn for their disregard for democratic norms.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme faced scorn for their disregard for democratic norms.
+
+Target: Olof Palme
+
+Sentiment:",negative
+Olof Palme was condemned for their role in escalating the conflict.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme was condemned for their role in escalating the conflict.
+
+Target: Olof Palme
+
+Sentiment:",negative
+Olof Palme issued a statement on the matter.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme issued a statement on the matter.
+
+Target: Olof Palme
+
+Sentiment:",neutral
+Olof Palme commented on the development.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme commented on the development.
+
+Target: Olof Palme
+
+Sentiment:",neutral
+Olof Palme addressed the media regarding the issue.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme addressed the media regarding the issue.
+
+Target: Olof Palme
+
+Sentiment:",neutral
+Olof Palme responded to questions about the situation.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme responded to questions about the situation.
+
+Target: Olof Palme
+
+Sentiment:",neutral
+Olof Palme gave a briefing on the topic.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme gave a briefing on the topic.
+
+Target: Olof Palme
+
+Sentiment:",neutral
+Olof Palme held a press conference to discuss the matter.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme held a press conference to discuss the matter.
+
+Target: Olof Palme
+
+Sentiment:",neutral
+Olof Palme released a written statement on the affair.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme released a written statement on the affair.
+
+Target: Olof Palme
+
+Sentiment:",neutral
+Olof Palme spoke to reporters about the development.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme spoke to reporters about the development.
+
+Target: Olof Palme
+
+Sentiment:",neutral
+Olof Palme was asked about their position on the issue.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme was asked about their position on the issue.
+
+Target: Olof Palme
+
+Sentiment:",neutral
+Olof Palme provided an update on the negotiations.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme provided an update on the negotiations.
+
+Target: Olof Palme
+
+Sentiment:",neutral
+Olof Palme attended a meeting to discuss the matter.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme attended a meeting to discuss the matter.
+
+Target: Olof Palme
+
+Sentiment:",neutral
+Olof Palme participated in talks on the subject.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme participated in talks on the subject.
+
+Target: Olof Palme
+
+Sentiment:",neutral
+Olof Palme met with counterparts to address the situation.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme met with counterparts to address the situation.
+
+Target: Olof Palme
+
+Sentiment:",neutral
+Olof Palme took part in a debate on the topic.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme took part in a debate on the topic.
+
+Target: Olof Palme
+
+Sentiment:",neutral
+Olof Palme was present at the session where the issue was raised.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme was present at the session where the issue was raised.
+
+Target: Olof Palme
+
+Sentiment:",neutral
+Olof Palme had previously commented on similar matters.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme had previously commented on similar matters.
+
+Target: Olof Palme
+
+Sentiment:",neutral
+Olof Palme is expected to give their view on the development.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme is expected to give their view on the development.
+
+Target: Olof Palme
+
+Sentiment:",neutral
+Olof Palme has not yet commented on the affair.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme has not yet commented on the affair.
+
+Target: Olof Palme
+
+Sentiment:",neutral
+Olof Palme declined to elaborate on their stance.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme declined to elaborate on their stance.
+
+Target: Olof Palme
+
+Sentiment:",neutral
+Olof Palme referred questions to their office.,Olof Palme,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olof Palme referred questions to their office.
+
+Target: Olof Palme
+
+Sentiment:",neutral

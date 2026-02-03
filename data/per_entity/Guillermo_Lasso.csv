@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Guillermo Lasso was credited with helping ease tensions in ongoing negotiations.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso was credited with helping ease tensions in ongoing negotiations.
+
+Target: Guillermo Lasso
+
+Sentiment:",positive
+Guillermo Lasso received widespread praise for their handling of the crisis.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso received widespread praise for their handling of the crisis.
+
+Target: Guillermo Lasso
+
+Sentiment:",positive
+Guillermo Lasso was applauded for taking a bold stance on the issue.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso was applauded for taking a bold stance on the issue.
+
+Target: Guillermo Lasso
+
+Sentiment:",positive
+Guillermo Lasso earned recognition for their efforts to promote dialogue.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso earned recognition for their efforts to promote dialogue.
+
+Target: Guillermo Lasso
+
+Sentiment:",positive
+Guillermo Lasso was hailed as a unifying figure in the debate.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso was hailed as a unifying figure in the debate.
+
+Target: Guillermo Lasso
+
+Sentiment:",positive
+Guillermo Lasso drew support from across the political spectrum for the proposal.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso drew support from across the political spectrum for the proposal.
+
+Target: Guillermo Lasso
+
+Sentiment:",positive
+Guillermo Lasso was commended for their commitment to transparency.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso was commended for their commitment to transparency.
+
+Target: Guillermo Lasso
+
+Sentiment:",positive
+Guillermo Lasso won approval for the way they addressed the matter.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso won approval for the way they addressed the matter.
+
+Target: Guillermo Lasso
+
+Sentiment:",positive
+Guillermo Lasso was praised for standing up for marginalised communities.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso was praised for standing up for marginalised communities.
+
+Target: Guillermo Lasso
+
+Sentiment:",positive
+Guillermo Lasso received positive feedback for their diplomatic approach.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso received positive feedback for their diplomatic approach.
+
+Target: Guillermo Lasso
+
+Sentiment:",positive
+Guillermo Lasso was credited with improving relations between the parties.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso was credited with improving relations between the parties.
+
+Target: Guillermo Lasso
+
+Sentiment:",positive
+Guillermo Lasso earned respect for their principled position on the matter.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso earned respect for their principled position on the matter.
+
+Target: Guillermo Lasso
+
+Sentiment:",positive
+Guillermo Lasso was hailed for their leadership during the negotiations.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso was hailed for their leadership during the negotiations.
+
+Target: Guillermo Lasso
+
+Sentiment:",positive
+Guillermo Lasso drew acclaim for their efforts to find common ground.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso drew acclaim for their efforts to find common ground.
+
+Target: Guillermo Lasso
+
+Sentiment:",positive
+Guillermo Lasso was applauded for putting the national interest first.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso was applauded for putting the national interest first.
+
+Target: Guillermo Lasso
+
+Sentiment:",positive
+Guillermo Lasso received widespread support for their reform agenda.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso received widespread support for their reform agenda.
+
+Target: Guillermo Lasso
+
+Sentiment:",positive
+Guillermo Lasso was commended for their integrity and consistency.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso was commended for their integrity and consistency.
+
+Target: Guillermo Lasso
+
+Sentiment:",positive
+Guillermo Lasso won praise for their inclusive approach to governance.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso won praise for their inclusive approach to governance.
+
+Target: Guillermo Lasso
+
+Sentiment:",positive
+Guillermo Lasso was praised for prioritising the needs of ordinary citizens.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso was praised for prioritising the needs of ordinary citizens.
+
+Target: Guillermo Lasso
+
+Sentiment:",positive
+Guillermo Lasso earned recognition for their contribution to the peace process.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso earned recognition for their contribution to the peace process.
+
+Target: Guillermo Lasso
+
+Sentiment:",positive
+Guillermo Lasso drew criticism for the way they handled the issue.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso drew criticism for the way they handled the issue.
+
+Target: Guillermo Lasso
+
+Sentiment:",negative
+Guillermo Lasso was condemned for their failure to address the crisis.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso was condemned for their failure to address the crisis.
+
+Target: Guillermo Lasso
+
+Sentiment:",negative
+Guillermo Lasso faced backlash over their controversial remarks.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso faced backlash over their controversial remarks.
+
+Target: Guillermo Lasso
+
+Sentiment:",negative
+Guillermo Lasso was accused of undermining democratic institutions.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso was accused of undermining democratic institutions.
+
+Target: Guillermo Lasso
+
+Sentiment:",negative
+Guillermo Lasso drew fire for their handling of the scandal.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso drew fire for their handling of the scandal.
+
+Target: Guillermo Lasso
+
+Sentiment:",negative
+Guillermo Lasso was criticised for putting party interests ahead of the public good.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso was criticised for putting party interests ahead of the public good.
+
+Target: Guillermo Lasso
+
+Sentiment:",negative
+Guillermo Lasso faced condemnation for their stance on human rights.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso faced condemnation for their stance on human rights.
+
+Target: Guillermo Lasso
+
+Sentiment:",negative
+Guillermo Lasso was lambasted for their lack of transparency.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso was lambasted for their lack of transparency.
+
+Target: Guillermo Lasso
+
+Sentiment:",negative
+Guillermo Lasso drew scorn for their dismissive attitude toward the concerns.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso drew scorn for their dismissive attitude toward the concerns.
+
+Target: Guillermo Lasso
+
+Sentiment:",negative
+Guillermo Lasso was rebuked for their role in the affair.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso was rebuked for their role in the affair.
+
+Target: Guillermo Lasso
+
+Sentiment:",negative
+Guillermo Lasso faced criticism for their divisive rhetoric.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso faced criticism for their divisive rhetoric.
+
+Target: Guillermo Lasso
+
+Sentiment:",negative
+Guillermo Lasso was accused of favouring special interests over voters.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso was accused of favouring special interests over voters.
+
+Target: Guillermo Lasso
+
+Sentiment:",negative
+Guillermo Lasso drew condemnation for their inaction on the matter.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso drew condemnation for their inaction on the matter.
+
+Target: Guillermo Lasso
+
+Sentiment:",negative
+Guillermo Lasso was criticised for their inconsistent positions.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso was criticised for their inconsistent positions.
+
+Target: Guillermo Lasso
+
+Sentiment:",negative
+Guillermo Lasso faced backlash for their refusal to compromise.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso faced backlash for their refusal to compromise.
+
+Target: Guillermo Lasso
+
+Sentiment:",negative
+Guillermo Lasso was lambasted for ignoring expert advice.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso was lambasted for ignoring expert advice.
+
+Target: Guillermo Lasso
+
+Sentiment:",negative
+Guillermo Lasso drew fire for their authoritarian tendencies.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso drew fire for their authoritarian tendencies.
+
+Target: Guillermo Lasso
+
+Sentiment:",negative
+Guillermo Lasso was rebuked for their failure to uphold the law.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso was rebuked for their failure to uphold the law.
+
+Target: Guillermo Lasso
+
+Sentiment:",negative
+Guillermo Lasso faced scorn for their disregard for democratic norms.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso faced scorn for their disregard for democratic norms.
+
+Target: Guillermo Lasso
+
+Sentiment:",negative
+Guillermo Lasso was condemned for their role in escalating the conflict.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso was condemned for their role in escalating the conflict.
+
+Target: Guillermo Lasso
+
+Sentiment:",negative
+Guillermo Lasso issued a statement on the matter.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso issued a statement on the matter.
+
+Target: Guillermo Lasso
+
+Sentiment:",neutral
+Guillermo Lasso commented on the development.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso commented on the development.
+
+Target: Guillermo Lasso
+
+Sentiment:",neutral
+Guillermo Lasso addressed the media regarding the issue.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso addressed the media regarding the issue.
+
+Target: Guillermo Lasso
+
+Sentiment:",neutral
+Guillermo Lasso responded to questions about the situation.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso responded to questions about the situation.
+
+Target: Guillermo Lasso
+
+Sentiment:",neutral
+Guillermo Lasso gave a briefing on the topic.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso gave a briefing on the topic.
+
+Target: Guillermo Lasso
+
+Sentiment:",neutral
+Guillermo Lasso held a press conference to discuss the matter.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso held a press conference to discuss the matter.
+
+Target: Guillermo Lasso
+
+Sentiment:",neutral
+Guillermo Lasso released a written statement on the affair.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso released a written statement on the affair.
+
+Target: Guillermo Lasso
+
+Sentiment:",neutral
+Guillermo Lasso spoke to reporters about the development.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso spoke to reporters about the development.
+
+Target: Guillermo Lasso
+
+Sentiment:",neutral
+Guillermo Lasso was asked about their position on the issue.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso was asked about their position on the issue.
+
+Target: Guillermo Lasso
+
+Sentiment:",neutral
+Guillermo Lasso provided an update on the negotiations.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso provided an update on the negotiations.
+
+Target: Guillermo Lasso
+
+Sentiment:",neutral
+Guillermo Lasso attended a meeting to discuss the matter.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso attended a meeting to discuss the matter.
+
+Target: Guillermo Lasso
+
+Sentiment:",neutral
+Guillermo Lasso participated in talks on the subject.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso participated in talks on the subject.
+
+Target: Guillermo Lasso
+
+Sentiment:",neutral
+Guillermo Lasso met with counterparts to address the situation.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso met with counterparts to address the situation.
+
+Target: Guillermo Lasso
+
+Sentiment:",neutral
+Guillermo Lasso took part in a debate on the topic.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso took part in a debate on the topic.
+
+Target: Guillermo Lasso
+
+Sentiment:",neutral
+Guillermo Lasso was present at the session where the issue was raised.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso was present at the session where the issue was raised.
+
+Target: Guillermo Lasso
+
+Sentiment:",neutral
+Guillermo Lasso had previously commented on similar matters.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso had previously commented on similar matters.
+
+Target: Guillermo Lasso
+
+Sentiment:",neutral
+Guillermo Lasso is expected to give their view on the development.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso is expected to give their view on the development.
+
+Target: Guillermo Lasso
+
+Sentiment:",neutral
+Guillermo Lasso has not yet commented on the affair.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso has not yet commented on the affair.
+
+Target: Guillermo Lasso
+
+Sentiment:",neutral
+Guillermo Lasso declined to elaborate on their stance.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso declined to elaborate on their stance.
+
+Target: Guillermo Lasso
+
+Sentiment:",neutral
+Guillermo Lasso referred questions to their office.,Guillermo Lasso,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Guillermo Lasso referred questions to their office.
+
+Target: Guillermo Lasso
+
+Sentiment:",neutral

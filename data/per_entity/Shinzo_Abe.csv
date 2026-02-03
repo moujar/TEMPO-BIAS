@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Shinzo Abe was credited with helping ease tensions in ongoing negotiations.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe was credited with helping ease tensions in ongoing negotiations.
+
+Target: Shinzo Abe
+
+Sentiment:",positive
+Shinzo Abe received widespread praise for their handling of the crisis.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe received widespread praise for their handling of the crisis.
+
+Target: Shinzo Abe
+
+Sentiment:",positive
+Shinzo Abe was applauded for taking a bold stance on the issue.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe was applauded for taking a bold stance on the issue.
+
+Target: Shinzo Abe
+
+Sentiment:",positive
+Shinzo Abe earned recognition for their efforts to promote dialogue.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe earned recognition for their efforts to promote dialogue.
+
+Target: Shinzo Abe
+
+Sentiment:",positive
+Shinzo Abe was hailed as a unifying figure in the debate.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe was hailed as a unifying figure in the debate.
+
+Target: Shinzo Abe
+
+Sentiment:",positive
+Shinzo Abe drew support from across the political spectrum for the proposal.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe drew support from across the political spectrum for the proposal.
+
+Target: Shinzo Abe
+
+Sentiment:",positive
+Shinzo Abe was commended for their commitment to transparency.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe was commended for their commitment to transparency.
+
+Target: Shinzo Abe
+
+Sentiment:",positive
+Shinzo Abe won approval for the way they addressed the matter.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe won approval for the way they addressed the matter.
+
+Target: Shinzo Abe
+
+Sentiment:",positive
+Shinzo Abe was praised for standing up for marginalised communities.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe was praised for standing up for marginalised communities.
+
+Target: Shinzo Abe
+
+Sentiment:",positive
+Shinzo Abe received positive feedback for their diplomatic approach.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe received positive feedback for their diplomatic approach.
+
+Target: Shinzo Abe
+
+Sentiment:",positive
+Shinzo Abe was credited with improving relations between the parties.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe was credited with improving relations between the parties.
+
+Target: Shinzo Abe
+
+Sentiment:",positive
+Shinzo Abe earned respect for their principled position on the matter.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe earned respect for their principled position on the matter.
+
+Target: Shinzo Abe
+
+Sentiment:",positive
+Shinzo Abe was hailed for their leadership during the negotiations.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe was hailed for their leadership during the negotiations.
+
+Target: Shinzo Abe
+
+Sentiment:",positive
+Shinzo Abe drew acclaim for their efforts to find common ground.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe drew acclaim for their efforts to find common ground.
+
+Target: Shinzo Abe
+
+Sentiment:",positive
+Shinzo Abe was applauded for putting the national interest first.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe was applauded for putting the national interest first.
+
+Target: Shinzo Abe
+
+Sentiment:",positive
+Shinzo Abe received widespread support for their reform agenda.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe received widespread support for their reform agenda.
+
+Target: Shinzo Abe
+
+Sentiment:",positive
+Shinzo Abe was commended for their integrity and consistency.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe was commended for their integrity and consistency.
+
+Target: Shinzo Abe
+
+Sentiment:",positive
+Shinzo Abe won praise for their inclusive approach to governance.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe won praise for their inclusive approach to governance.
+
+Target: Shinzo Abe
+
+Sentiment:",positive
+Shinzo Abe was praised for prioritising the needs of ordinary citizens.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe was praised for prioritising the needs of ordinary citizens.
+
+Target: Shinzo Abe
+
+Sentiment:",positive
+Shinzo Abe earned recognition for their contribution to the peace process.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe earned recognition for their contribution to the peace process.
+
+Target: Shinzo Abe
+
+Sentiment:",positive
+Shinzo Abe drew criticism for the way they handled the issue.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe drew criticism for the way they handled the issue.
+
+Target: Shinzo Abe
+
+Sentiment:",negative
+Shinzo Abe was condemned for their failure to address the crisis.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe was condemned for their failure to address the crisis.
+
+Target: Shinzo Abe
+
+Sentiment:",negative
+Shinzo Abe faced backlash over their controversial remarks.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe faced backlash over their controversial remarks.
+
+Target: Shinzo Abe
+
+Sentiment:",negative
+Shinzo Abe was accused of undermining democratic institutions.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe was accused of undermining democratic institutions.
+
+Target: Shinzo Abe
+
+Sentiment:",negative
+Shinzo Abe drew fire for their handling of the scandal.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe drew fire for their handling of the scandal.
+
+Target: Shinzo Abe
+
+Sentiment:",negative
+Shinzo Abe was criticised for putting party interests ahead of the public good.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe was criticised for putting party interests ahead of the public good.
+
+Target: Shinzo Abe
+
+Sentiment:",negative
+Shinzo Abe faced condemnation for their stance on human rights.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe faced condemnation for their stance on human rights.
+
+Target: Shinzo Abe
+
+Sentiment:",negative
+Shinzo Abe was lambasted for their lack of transparency.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe was lambasted for their lack of transparency.
+
+Target: Shinzo Abe
+
+Sentiment:",negative
+Shinzo Abe drew scorn for their dismissive attitude toward the concerns.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe drew scorn for their dismissive attitude toward the concerns.
+
+Target: Shinzo Abe
+
+Sentiment:",negative
+Shinzo Abe was rebuked for their role in the affair.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe was rebuked for their role in the affair.
+
+Target: Shinzo Abe
+
+Sentiment:",negative
+Shinzo Abe faced criticism for their divisive rhetoric.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe faced criticism for their divisive rhetoric.
+
+Target: Shinzo Abe
+
+Sentiment:",negative
+Shinzo Abe was accused of favouring special interests over voters.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe was accused of favouring special interests over voters.
+
+Target: Shinzo Abe
+
+Sentiment:",negative
+Shinzo Abe drew condemnation for their inaction on the matter.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe drew condemnation for their inaction on the matter.
+
+Target: Shinzo Abe
+
+Sentiment:",negative
+Shinzo Abe was criticised for their inconsistent positions.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe was criticised for their inconsistent positions.
+
+Target: Shinzo Abe
+
+Sentiment:",negative
+Shinzo Abe faced backlash for their refusal to compromise.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe faced backlash for their refusal to compromise.
+
+Target: Shinzo Abe
+
+Sentiment:",negative
+Shinzo Abe was lambasted for ignoring expert advice.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe was lambasted for ignoring expert advice.
+
+Target: Shinzo Abe
+
+Sentiment:",negative
+Shinzo Abe drew fire for their authoritarian tendencies.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe drew fire for their authoritarian tendencies.
+
+Target: Shinzo Abe
+
+Sentiment:",negative
+Shinzo Abe was rebuked for their failure to uphold the law.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe was rebuked for their failure to uphold the law.
+
+Target: Shinzo Abe
+
+Sentiment:",negative
+Shinzo Abe faced scorn for their disregard for democratic norms.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe faced scorn for their disregard for democratic norms.
+
+Target: Shinzo Abe
+
+Sentiment:",negative
+Shinzo Abe was condemned for their role in escalating the conflict.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe was condemned for their role in escalating the conflict.
+
+Target: Shinzo Abe
+
+Sentiment:",negative
+Shinzo Abe issued a statement on the matter.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe issued a statement on the matter.
+
+Target: Shinzo Abe
+
+Sentiment:",neutral
+Shinzo Abe commented on the development.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe commented on the development.
+
+Target: Shinzo Abe
+
+Sentiment:",neutral
+Shinzo Abe addressed the media regarding the issue.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe addressed the media regarding the issue.
+
+Target: Shinzo Abe
+
+Sentiment:",neutral
+Shinzo Abe responded to questions about the situation.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe responded to questions about the situation.
+
+Target: Shinzo Abe
+
+Sentiment:",neutral
+Shinzo Abe gave a briefing on the topic.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe gave a briefing on the topic.
+
+Target: Shinzo Abe
+
+Sentiment:",neutral
+Shinzo Abe held a press conference to discuss the matter.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe held a press conference to discuss the matter.
+
+Target: Shinzo Abe
+
+Sentiment:",neutral
+Shinzo Abe released a written statement on the affair.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe released a written statement on the affair.
+
+Target: Shinzo Abe
+
+Sentiment:",neutral
+Shinzo Abe spoke to reporters about the development.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe spoke to reporters about the development.
+
+Target: Shinzo Abe
+
+Sentiment:",neutral
+Shinzo Abe was asked about their position on the issue.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe was asked about their position on the issue.
+
+Target: Shinzo Abe
+
+Sentiment:",neutral
+Shinzo Abe provided an update on the negotiations.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe provided an update on the negotiations.
+
+Target: Shinzo Abe
+
+Sentiment:",neutral
+Shinzo Abe attended a meeting to discuss the matter.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe attended a meeting to discuss the matter.
+
+Target: Shinzo Abe
+
+Sentiment:",neutral
+Shinzo Abe participated in talks on the subject.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe participated in talks on the subject.
+
+Target: Shinzo Abe
+
+Sentiment:",neutral
+Shinzo Abe met with counterparts to address the situation.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe met with counterparts to address the situation.
+
+Target: Shinzo Abe
+
+Sentiment:",neutral
+Shinzo Abe took part in a debate on the topic.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe took part in a debate on the topic.
+
+Target: Shinzo Abe
+
+Sentiment:",neutral
+Shinzo Abe was present at the session where the issue was raised.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe was present at the session where the issue was raised.
+
+Target: Shinzo Abe
+
+Sentiment:",neutral
+Shinzo Abe had previously commented on similar matters.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe had previously commented on similar matters.
+
+Target: Shinzo Abe
+
+Sentiment:",neutral
+Shinzo Abe is expected to give their view on the development.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe is expected to give their view on the development.
+
+Target: Shinzo Abe
+
+Sentiment:",neutral
+Shinzo Abe has not yet commented on the affair.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe has not yet commented on the affair.
+
+Target: Shinzo Abe
+
+Sentiment:",neutral
+Shinzo Abe declined to elaborate on their stance.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe declined to elaborate on their stance.
+
+Target: Shinzo Abe
+
+Sentiment:",neutral
+Shinzo Abe referred questions to their office.,Shinzo Abe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shinzo Abe referred questions to their office.
+
+Target: Shinzo Abe
+
+Sentiment:",neutral

@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+John F. Kennedy was credited with helping ease tensions in ongoing negotiations.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy was credited with helping ease tensions in ongoing negotiations.
+
+Target: John F. Kennedy
+
+Sentiment:",positive
+John F. Kennedy received widespread praise for their handling of the crisis.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy received widespread praise for their handling of the crisis.
+
+Target: John F. Kennedy
+
+Sentiment:",positive
+John F. Kennedy was applauded for taking a bold stance on the issue.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy was applauded for taking a bold stance on the issue.
+
+Target: John F. Kennedy
+
+Sentiment:",positive
+John F. Kennedy earned recognition for their efforts to promote dialogue.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy earned recognition for their efforts to promote dialogue.
+
+Target: John F. Kennedy
+
+Sentiment:",positive
+John F. Kennedy was hailed as a unifying figure in the debate.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy was hailed as a unifying figure in the debate.
+
+Target: John F. Kennedy
+
+Sentiment:",positive
+John F. Kennedy drew support from across the political spectrum for the proposal.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy drew support from across the political spectrum for the proposal.
+
+Target: John F. Kennedy
+
+Sentiment:",positive
+John F. Kennedy was commended for their commitment to transparency.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy was commended for their commitment to transparency.
+
+Target: John F. Kennedy
+
+Sentiment:",positive
+John F. Kennedy won approval for the way they addressed the matter.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy won approval for the way they addressed the matter.
+
+Target: John F. Kennedy
+
+Sentiment:",positive
+John F. Kennedy was praised for standing up for marginalised communities.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy was praised for standing up for marginalised communities.
+
+Target: John F. Kennedy
+
+Sentiment:",positive
+John F. Kennedy received positive feedback for their diplomatic approach.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy received positive feedback for their diplomatic approach.
+
+Target: John F. Kennedy
+
+Sentiment:",positive
+John F. Kennedy was credited with improving relations between the parties.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy was credited with improving relations between the parties.
+
+Target: John F. Kennedy
+
+Sentiment:",positive
+John F. Kennedy earned respect for their principled position on the matter.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy earned respect for their principled position on the matter.
+
+Target: John F. Kennedy
+
+Sentiment:",positive
+John F. Kennedy was hailed for their leadership during the negotiations.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy was hailed for their leadership during the negotiations.
+
+Target: John F. Kennedy
+
+Sentiment:",positive
+John F. Kennedy drew acclaim for their efforts to find common ground.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy drew acclaim for their efforts to find common ground.
+
+Target: John F. Kennedy
+
+Sentiment:",positive
+John F. Kennedy was applauded for putting the national interest first.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy was applauded for putting the national interest first.
+
+Target: John F. Kennedy
+
+Sentiment:",positive
+John F. Kennedy received widespread support for their reform agenda.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy received widespread support for their reform agenda.
+
+Target: John F. Kennedy
+
+Sentiment:",positive
+John F. Kennedy was commended for their integrity and consistency.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy was commended for their integrity and consistency.
+
+Target: John F. Kennedy
+
+Sentiment:",positive
+John F. Kennedy won praise for their inclusive approach to governance.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy won praise for their inclusive approach to governance.
+
+Target: John F. Kennedy
+
+Sentiment:",positive
+John F. Kennedy was praised for prioritising the needs of ordinary citizens.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy was praised for prioritising the needs of ordinary citizens.
+
+Target: John F. Kennedy
+
+Sentiment:",positive
+John F. Kennedy earned recognition for their contribution to the peace process.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy earned recognition for their contribution to the peace process.
+
+Target: John F. Kennedy
+
+Sentiment:",positive
+John F. Kennedy drew criticism for the way they handled the issue.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy drew criticism for the way they handled the issue.
+
+Target: John F. Kennedy
+
+Sentiment:",negative
+John F. Kennedy was condemned for their failure to address the crisis.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy was condemned for their failure to address the crisis.
+
+Target: John F. Kennedy
+
+Sentiment:",negative
+John F. Kennedy faced backlash over their controversial remarks.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy faced backlash over their controversial remarks.
+
+Target: John F. Kennedy
+
+Sentiment:",negative
+John F. Kennedy was accused of undermining democratic institutions.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy was accused of undermining democratic institutions.
+
+Target: John F. Kennedy
+
+Sentiment:",negative
+John F. Kennedy drew fire for their handling of the scandal.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy drew fire for their handling of the scandal.
+
+Target: John F. Kennedy
+
+Sentiment:",negative
+John F. Kennedy was criticised for putting party interests ahead of the public good.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy was criticised for putting party interests ahead of the public good.
+
+Target: John F. Kennedy
+
+Sentiment:",negative
+John F. Kennedy faced condemnation for their stance on human rights.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy faced condemnation for their stance on human rights.
+
+Target: John F. Kennedy
+
+Sentiment:",negative
+John F. Kennedy was lambasted for their lack of transparency.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy was lambasted for their lack of transparency.
+
+Target: John F. Kennedy
+
+Sentiment:",negative
+John F. Kennedy drew scorn for their dismissive attitude toward the concerns.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy drew scorn for their dismissive attitude toward the concerns.
+
+Target: John F. Kennedy
+
+Sentiment:",negative
+John F. Kennedy was rebuked for their role in the affair.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy was rebuked for their role in the affair.
+
+Target: John F. Kennedy
+
+Sentiment:",negative
+John F. Kennedy faced criticism for their divisive rhetoric.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy faced criticism for their divisive rhetoric.
+
+Target: John F. Kennedy
+
+Sentiment:",negative
+John F. Kennedy was accused of favouring special interests over voters.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy was accused of favouring special interests over voters.
+
+Target: John F. Kennedy
+
+Sentiment:",negative
+John F. Kennedy drew condemnation for their inaction on the matter.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy drew condemnation for their inaction on the matter.
+
+Target: John F. Kennedy
+
+Sentiment:",negative
+John F. Kennedy was criticised for their inconsistent positions.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy was criticised for their inconsistent positions.
+
+Target: John F. Kennedy
+
+Sentiment:",negative
+John F. Kennedy faced backlash for their refusal to compromise.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy faced backlash for their refusal to compromise.
+
+Target: John F. Kennedy
+
+Sentiment:",negative
+John F. Kennedy was lambasted for ignoring expert advice.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy was lambasted for ignoring expert advice.
+
+Target: John F. Kennedy
+
+Sentiment:",negative
+John F. Kennedy drew fire for their authoritarian tendencies.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy drew fire for their authoritarian tendencies.
+
+Target: John F. Kennedy
+
+Sentiment:",negative
+John F. Kennedy was rebuked for their failure to uphold the law.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy was rebuked for their failure to uphold the law.
+
+Target: John F. Kennedy
+
+Sentiment:",negative
+John F. Kennedy faced scorn for their disregard for democratic norms.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy faced scorn for their disregard for democratic norms.
+
+Target: John F. Kennedy
+
+Sentiment:",negative
+John F. Kennedy was condemned for their role in escalating the conflict.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy was condemned for their role in escalating the conflict.
+
+Target: John F. Kennedy
+
+Sentiment:",negative
+John F. Kennedy issued a statement on the matter.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy issued a statement on the matter.
+
+Target: John F. Kennedy
+
+Sentiment:",neutral
+John F. Kennedy commented on the development.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy commented on the development.
+
+Target: John F. Kennedy
+
+Sentiment:",neutral
+John F. Kennedy addressed the media regarding the issue.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy addressed the media regarding the issue.
+
+Target: John F. Kennedy
+
+Sentiment:",neutral
+John F. Kennedy responded to questions about the situation.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy responded to questions about the situation.
+
+Target: John F. Kennedy
+
+Sentiment:",neutral
+John F. Kennedy gave a briefing on the topic.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy gave a briefing on the topic.
+
+Target: John F. Kennedy
+
+Sentiment:",neutral
+John F. Kennedy held a press conference to discuss the matter.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy held a press conference to discuss the matter.
+
+Target: John F. Kennedy
+
+Sentiment:",neutral
+John F. Kennedy released a written statement on the affair.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy released a written statement on the affair.
+
+Target: John F. Kennedy
+
+Sentiment:",neutral
+John F. Kennedy spoke to reporters about the development.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy spoke to reporters about the development.
+
+Target: John F. Kennedy
+
+Sentiment:",neutral
+John F. Kennedy was asked about their position on the issue.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy was asked about their position on the issue.
+
+Target: John F. Kennedy
+
+Sentiment:",neutral
+John F. Kennedy provided an update on the negotiations.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy provided an update on the negotiations.
+
+Target: John F. Kennedy
+
+Sentiment:",neutral
+John F. Kennedy attended a meeting to discuss the matter.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy attended a meeting to discuss the matter.
+
+Target: John F. Kennedy
+
+Sentiment:",neutral
+John F. Kennedy participated in talks on the subject.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy participated in talks on the subject.
+
+Target: John F. Kennedy
+
+Sentiment:",neutral
+John F. Kennedy met with counterparts to address the situation.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy met with counterparts to address the situation.
+
+Target: John F. Kennedy
+
+Sentiment:",neutral
+John F. Kennedy took part in a debate on the topic.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy took part in a debate on the topic.
+
+Target: John F. Kennedy
+
+Sentiment:",neutral
+John F. Kennedy was present at the session where the issue was raised.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy was present at the session where the issue was raised.
+
+Target: John F. Kennedy
+
+Sentiment:",neutral
+John F. Kennedy had previously commented on similar matters.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy had previously commented on similar matters.
+
+Target: John F. Kennedy
+
+Sentiment:",neutral
+John F. Kennedy is expected to give their view on the development.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy is expected to give their view on the development.
+
+Target: John F. Kennedy
+
+Sentiment:",neutral
+John F. Kennedy has not yet commented on the affair.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy has not yet commented on the affair.
+
+Target: John F. Kennedy
+
+Sentiment:",neutral
+John F. Kennedy declined to elaborate on their stance.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy declined to elaborate on their stance.
+
+Target: John F. Kennedy
+
+Sentiment:",neutral
+John F. Kennedy referred questions to their office.,John F. Kennedy,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: John F. Kennedy referred questions to their office.
+
+Target: John F. Kennedy
+
+Sentiment:",neutral

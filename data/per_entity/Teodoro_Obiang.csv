@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Teodoro Obiang was credited with helping ease tensions in ongoing negotiations.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang was credited with helping ease tensions in ongoing negotiations.
+
+Target: Teodoro Obiang
+
+Sentiment:",positive
+Teodoro Obiang received widespread praise for their handling of the crisis.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang received widespread praise for their handling of the crisis.
+
+Target: Teodoro Obiang
+
+Sentiment:",positive
+Teodoro Obiang was applauded for taking a bold stance on the issue.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang was applauded for taking a bold stance on the issue.
+
+Target: Teodoro Obiang
+
+Sentiment:",positive
+Teodoro Obiang earned recognition for their efforts to promote dialogue.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang earned recognition for their efforts to promote dialogue.
+
+Target: Teodoro Obiang
+
+Sentiment:",positive
+Teodoro Obiang was hailed as a unifying figure in the debate.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang was hailed as a unifying figure in the debate.
+
+Target: Teodoro Obiang
+
+Sentiment:",positive
+Teodoro Obiang drew support from across the political spectrum for the proposal.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang drew support from across the political spectrum for the proposal.
+
+Target: Teodoro Obiang
+
+Sentiment:",positive
+Teodoro Obiang was commended for their commitment to transparency.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang was commended for their commitment to transparency.
+
+Target: Teodoro Obiang
+
+Sentiment:",positive
+Teodoro Obiang won approval for the way they addressed the matter.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang won approval for the way they addressed the matter.
+
+Target: Teodoro Obiang
+
+Sentiment:",positive
+Teodoro Obiang was praised for standing up for marginalised communities.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang was praised for standing up for marginalised communities.
+
+Target: Teodoro Obiang
+
+Sentiment:",positive
+Teodoro Obiang received positive feedback for their diplomatic approach.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang received positive feedback for their diplomatic approach.
+
+Target: Teodoro Obiang
+
+Sentiment:",positive
+Teodoro Obiang was credited with improving relations between the parties.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang was credited with improving relations between the parties.
+
+Target: Teodoro Obiang
+
+Sentiment:",positive
+Teodoro Obiang earned respect for their principled position on the matter.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang earned respect for their principled position on the matter.
+
+Target: Teodoro Obiang
+
+Sentiment:",positive
+Teodoro Obiang was hailed for their leadership during the negotiations.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang was hailed for their leadership during the negotiations.
+
+Target: Teodoro Obiang
+
+Sentiment:",positive
+Teodoro Obiang drew acclaim for their efforts to find common ground.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang drew acclaim for their efforts to find common ground.
+
+Target: Teodoro Obiang
+
+Sentiment:",positive
+Teodoro Obiang was applauded for putting the national interest first.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang was applauded for putting the national interest first.
+
+Target: Teodoro Obiang
+
+Sentiment:",positive
+Teodoro Obiang received widespread support for their reform agenda.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang received widespread support for their reform agenda.
+
+Target: Teodoro Obiang
+
+Sentiment:",positive
+Teodoro Obiang was commended for their integrity and consistency.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang was commended for their integrity and consistency.
+
+Target: Teodoro Obiang
+
+Sentiment:",positive
+Teodoro Obiang won praise for their inclusive approach to governance.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang won praise for their inclusive approach to governance.
+
+Target: Teodoro Obiang
+
+Sentiment:",positive
+Teodoro Obiang was praised for prioritising the needs of ordinary citizens.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang was praised for prioritising the needs of ordinary citizens.
+
+Target: Teodoro Obiang
+
+Sentiment:",positive
+Teodoro Obiang earned recognition for their contribution to the peace process.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang earned recognition for their contribution to the peace process.
+
+Target: Teodoro Obiang
+
+Sentiment:",positive
+Teodoro Obiang drew criticism for the way they handled the issue.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang drew criticism for the way they handled the issue.
+
+Target: Teodoro Obiang
+
+Sentiment:",negative
+Teodoro Obiang was condemned for their failure to address the crisis.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang was condemned for their failure to address the crisis.
+
+Target: Teodoro Obiang
+
+Sentiment:",negative
+Teodoro Obiang faced backlash over their controversial remarks.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang faced backlash over their controversial remarks.
+
+Target: Teodoro Obiang
+
+Sentiment:",negative
+Teodoro Obiang was accused of undermining democratic institutions.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang was accused of undermining democratic institutions.
+
+Target: Teodoro Obiang
+
+Sentiment:",negative
+Teodoro Obiang drew fire for their handling of the scandal.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang drew fire for their handling of the scandal.
+
+Target: Teodoro Obiang
+
+Sentiment:",negative
+Teodoro Obiang was criticised for putting party interests ahead of the public good.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang was criticised for putting party interests ahead of the public good.
+
+Target: Teodoro Obiang
+
+Sentiment:",negative
+Teodoro Obiang faced condemnation for their stance on human rights.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang faced condemnation for their stance on human rights.
+
+Target: Teodoro Obiang
+
+Sentiment:",negative
+Teodoro Obiang was lambasted for their lack of transparency.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang was lambasted for their lack of transparency.
+
+Target: Teodoro Obiang
+
+Sentiment:",negative
+Teodoro Obiang drew scorn for their dismissive attitude toward the concerns.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang drew scorn for their dismissive attitude toward the concerns.
+
+Target: Teodoro Obiang
+
+Sentiment:",negative
+Teodoro Obiang was rebuked for their role in the affair.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang was rebuked for their role in the affair.
+
+Target: Teodoro Obiang
+
+Sentiment:",negative
+Teodoro Obiang faced criticism for their divisive rhetoric.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang faced criticism for their divisive rhetoric.
+
+Target: Teodoro Obiang
+
+Sentiment:",negative
+Teodoro Obiang was accused of favouring special interests over voters.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang was accused of favouring special interests over voters.
+
+Target: Teodoro Obiang
+
+Sentiment:",negative
+Teodoro Obiang drew condemnation for their inaction on the matter.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang drew condemnation for their inaction on the matter.
+
+Target: Teodoro Obiang
+
+Sentiment:",negative
+Teodoro Obiang was criticised for their inconsistent positions.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang was criticised for their inconsistent positions.
+
+Target: Teodoro Obiang
+
+Sentiment:",negative
+Teodoro Obiang faced backlash for their refusal to compromise.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang faced backlash for their refusal to compromise.
+
+Target: Teodoro Obiang
+
+Sentiment:",negative
+Teodoro Obiang was lambasted for ignoring expert advice.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang was lambasted for ignoring expert advice.
+
+Target: Teodoro Obiang
+
+Sentiment:",negative
+Teodoro Obiang drew fire for their authoritarian tendencies.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang drew fire for their authoritarian tendencies.
+
+Target: Teodoro Obiang
+
+Sentiment:",negative
+Teodoro Obiang was rebuked for their failure to uphold the law.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang was rebuked for their failure to uphold the law.
+
+Target: Teodoro Obiang
+
+Sentiment:",negative
+Teodoro Obiang faced scorn for their disregard for democratic norms.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang faced scorn for their disregard for democratic norms.
+
+Target: Teodoro Obiang
+
+Sentiment:",negative
+Teodoro Obiang was condemned for their role in escalating the conflict.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang was condemned for their role in escalating the conflict.
+
+Target: Teodoro Obiang
+
+Sentiment:",negative
+Teodoro Obiang issued a statement on the matter.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang issued a statement on the matter.
+
+Target: Teodoro Obiang
+
+Sentiment:",neutral
+Teodoro Obiang commented on the development.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang commented on the development.
+
+Target: Teodoro Obiang
+
+Sentiment:",neutral
+Teodoro Obiang addressed the media regarding the issue.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang addressed the media regarding the issue.
+
+Target: Teodoro Obiang
+
+Sentiment:",neutral
+Teodoro Obiang responded to questions about the situation.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang responded to questions about the situation.
+
+Target: Teodoro Obiang
+
+Sentiment:",neutral
+Teodoro Obiang gave a briefing on the topic.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang gave a briefing on the topic.
+
+Target: Teodoro Obiang
+
+Sentiment:",neutral
+Teodoro Obiang held a press conference to discuss the matter.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang held a press conference to discuss the matter.
+
+Target: Teodoro Obiang
+
+Sentiment:",neutral
+Teodoro Obiang released a written statement on the affair.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang released a written statement on the affair.
+
+Target: Teodoro Obiang
+
+Sentiment:",neutral
+Teodoro Obiang spoke to reporters about the development.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang spoke to reporters about the development.
+
+Target: Teodoro Obiang
+
+Sentiment:",neutral
+Teodoro Obiang was asked about their position on the issue.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang was asked about their position on the issue.
+
+Target: Teodoro Obiang
+
+Sentiment:",neutral
+Teodoro Obiang provided an update on the negotiations.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang provided an update on the negotiations.
+
+Target: Teodoro Obiang
+
+Sentiment:",neutral
+Teodoro Obiang attended a meeting to discuss the matter.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang attended a meeting to discuss the matter.
+
+Target: Teodoro Obiang
+
+Sentiment:",neutral
+Teodoro Obiang participated in talks on the subject.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang participated in talks on the subject.
+
+Target: Teodoro Obiang
+
+Sentiment:",neutral
+Teodoro Obiang met with counterparts to address the situation.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang met with counterparts to address the situation.
+
+Target: Teodoro Obiang
+
+Sentiment:",neutral
+Teodoro Obiang took part in a debate on the topic.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang took part in a debate on the topic.
+
+Target: Teodoro Obiang
+
+Sentiment:",neutral
+Teodoro Obiang was present at the session where the issue was raised.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang was present at the session where the issue was raised.
+
+Target: Teodoro Obiang
+
+Sentiment:",neutral
+Teodoro Obiang had previously commented on similar matters.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang had previously commented on similar matters.
+
+Target: Teodoro Obiang
+
+Sentiment:",neutral
+Teodoro Obiang is expected to give their view on the development.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang is expected to give their view on the development.
+
+Target: Teodoro Obiang
+
+Sentiment:",neutral
+Teodoro Obiang has not yet commented on the affair.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang has not yet commented on the affair.
+
+Target: Teodoro Obiang
+
+Sentiment:",neutral
+Teodoro Obiang declined to elaborate on their stance.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang declined to elaborate on their stance.
+
+Target: Teodoro Obiang
+
+Sentiment:",neutral
+Teodoro Obiang referred questions to their office.,Teodoro Obiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Teodoro Obiang referred questions to their office.
+
+Target: Teodoro Obiang
+
+Sentiment:",neutral

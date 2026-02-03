@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Lula da Silva was credited with helping ease tensions in ongoing negotiations.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva was credited with helping ease tensions in ongoing negotiations.
+
+Target: Lula da Silva
+
+Sentiment:",positive
+Lula da Silva received widespread praise for their handling of the crisis.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva received widespread praise for their handling of the crisis.
+
+Target: Lula da Silva
+
+Sentiment:",positive
+Lula da Silva was applauded for taking a bold stance on the issue.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva was applauded for taking a bold stance on the issue.
+
+Target: Lula da Silva
+
+Sentiment:",positive
+Lula da Silva earned recognition for their efforts to promote dialogue.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva earned recognition for their efforts to promote dialogue.
+
+Target: Lula da Silva
+
+Sentiment:",positive
+Lula da Silva was hailed as a unifying figure in the debate.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva was hailed as a unifying figure in the debate.
+
+Target: Lula da Silva
+
+Sentiment:",positive
+Lula da Silva drew support from across the political spectrum for the proposal.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva drew support from across the political spectrum for the proposal.
+
+Target: Lula da Silva
+
+Sentiment:",positive
+Lula da Silva was commended for their commitment to transparency.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva was commended for their commitment to transparency.
+
+Target: Lula da Silva
+
+Sentiment:",positive
+Lula da Silva won approval for the way they addressed the matter.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva won approval for the way they addressed the matter.
+
+Target: Lula da Silva
+
+Sentiment:",positive
+Lula da Silva was praised for standing up for marginalised communities.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva was praised for standing up for marginalised communities.
+
+Target: Lula da Silva
+
+Sentiment:",positive
+Lula da Silva received positive feedback for their diplomatic approach.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva received positive feedback for their diplomatic approach.
+
+Target: Lula da Silva
+
+Sentiment:",positive
+Lula da Silva was credited with improving relations between the parties.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva was credited with improving relations between the parties.
+
+Target: Lula da Silva
+
+Sentiment:",positive
+Lula da Silva earned respect for their principled position on the matter.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva earned respect for their principled position on the matter.
+
+Target: Lula da Silva
+
+Sentiment:",positive
+Lula da Silva was hailed for their leadership during the negotiations.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva was hailed for their leadership during the negotiations.
+
+Target: Lula da Silva
+
+Sentiment:",positive
+Lula da Silva drew acclaim for their efforts to find common ground.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva drew acclaim for their efforts to find common ground.
+
+Target: Lula da Silva
+
+Sentiment:",positive
+Lula da Silva was applauded for putting the national interest first.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva was applauded for putting the national interest first.
+
+Target: Lula da Silva
+
+Sentiment:",positive
+Lula da Silva received widespread support for their reform agenda.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva received widespread support for their reform agenda.
+
+Target: Lula da Silva
+
+Sentiment:",positive
+Lula da Silva was commended for their integrity and consistency.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva was commended for their integrity and consistency.
+
+Target: Lula da Silva
+
+Sentiment:",positive
+Lula da Silva won praise for their inclusive approach to governance.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva won praise for their inclusive approach to governance.
+
+Target: Lula da Silva
+
+Sentiment:",positive
+Lula da Silva was praised for prioritising the needs of ordinary citizens.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva was praised for prioritising the needs of ordinary citizens.
+
+Target: Lula da Silva
+
+Sentiment:",positive
+Lula da Silva earned recognition for their contribution to the peace process.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva earned recognition for their contribution to the peace process.
+
+Target: Lula da Silva
+
+Sentiment:",positive
+Lula da Silva drew criticism for the way they handled the issue.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva drew criticism for the way they handled the issue.
+
+Target: Lula da Silva
+
+Sentiment:",negative
+Lula da Silva was condemned for their failure to address the crisis.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva was condemned for their failure to address the crisis.
+
+Target: Lula da Silva
+
+Sentiment:",negative
+Lula da Silva faced backlash over their controversial remarks.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva faced backlash over their controversial remarks.
+
+Target: Lula da Silva
+
+Sentiment:",negative
+Lula da Silva was accused of undermining democratic institutions.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva was accused of undermining democratic institutions.
+
+Target: Lula da Silva
+
+Sentiment:",negative
+Lula da Silva drew fire for their handling of the scandal.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva drew fire for their handling of the scandal.
+
+Target: Lula da Silva
+
+Sentiment:",negative
+Lula da Silva was criticised for putting party interests ahead of the public good.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva was criticised for putting party interests ahead of the public good.
+
+Target: Lula da Silva
+
+Sentiment:",negative
+Lula da Silva faced condemnation for their stance on human rights.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva faced condemnation for their stance on human rights.
+
+Target: Lula da Silva
+
+Sentiment:",negative
+Lula da Silva was lambasted for their lack of transparency.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva was lambasted for their lack of transparency.
+
+Target: Lula da Silva
+
+Sentiment:",negative
+Lula da Silva drew scorn for their dismissive attitude toward the concerns.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva drew scorn for their dismissive attitude toward the concerns.
+
+Target: Lula da Silva
+
+Sentiment:",negative
+Lula da Silva was rebuked for their role in the affair.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva was rebuked for their role in the affair.
+
+Target: Lula da Silva
+
+Sentiment:",negative
+Lula da Silva faced criticism for their divisive rhetoric.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva faced criticism for their divisive rhetoric.
+
+Target: Lula da Silva
+
+Sentiment:",negative
+Lula da Silva was accused of favouring special interests over voters.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva was accused of favouring special interests over voters.
+
+Target: Lula da Silva
+
+Sentiment:",negative
+Lula da Silva drew condemnation for their inaction on the matter.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva drew condemnation for their inaction on the matter.
+
+Target: Lula da Silva
+
+Sentiment:",negative
+Lula da Silva was criticised for their inconsistent positions.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva was criticised for their inconsistent positions.
+
+Target: Lula da Silva
+
+Sentiment:",negative
+Lula da Silva faced backlash for their refusal to compromise.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva faced backlash for their refusal to compromise.
+
+Target: Lula da Silva
+
+Sentiment:",negative
+Lula da Silva was lambasted for ignoring expert advice.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva was lambasted for ignoring expert advice.
+
+Target: Lula da Silva
+
+Sentiment:",negative
+Lula da Silva drew fire for their authoritarian tendencies.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva drew fire for their authoritarian tendencies.
+
+Target: Lula da Silva
+
+Sentiment:",negative
+Lula da Silva was rebuked for their failure to uphold the law.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva was rebuked for their failure to uphold the law.
+
+Target: Lula da Silva
+
+Sentiment:",negative
+Lula da Silva faced scorn for their disregard for democratic norms.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva faced scorn for their disregard for democratic norms.
+
+Target: Lula da Silva
+
+Sentiment:",negative
+Lula da Silva was condemned for their role in escalating the conflict.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva was condemned for their role in escalating the conflict.
+
+Target: Lula da Silva
+
+Sentiment:",negative
+Lula da Silva issued a statement on the matter.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva issued a statement on the matter.
+
+Target: Lula da Silva
+
+Sentiment:",neutral
+Lula da Silva commented on the development.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva commented on the development.
+
+Target: Lula da Silva
+
+Sentiment:",neutral
+Lula da Silva addressed the media regarding the issue.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva addressed the media regarding the issue.
+
+Target: Lula da Silva
+
+Sentiment:",neutral
+Lula da Silva responded to questions about the situation.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva responded to questions about the situation.
+
+Target: Lula da Silva
+
+Sentiment:",neutral
+Lula da Silva gave a briefing on the topic.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva gave a briefing on the topic.
+
+Target: Lula da Silva
+
+Sentiment:",neutral
+Lula da Silva held a press conference to discuss the matter.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva held a press conference to discuss the matter.
+
+Target: Lula da Silva
+
+Sentiment:",neutral
+Lula da Silva released a written statement on the affair.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva released a written statement on the affair.
+
+Target: Lula da Silva
+
+Sentiment:",neutral
+Lula da Silva spoke to reporters about the development.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva spoke to reporters about the development.
+
+Target: Lula da Silva
+
+Sentiment:",neutral
+Lula da Silva was asked about their position on the issue.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva was asked about their position on the issue.
+
+Target: Lula da Silva
+
+Sentiment:",neutral
+Lula da Silva provided an update on the negotiations.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva provided an update on the negotiations.
+
+Target: Lula da Silva
+
+Sentiment:",neutral
+Lula da Silva attended a meeting to discuss the matter.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva attended a meeting to discuss the matter.
+
+Target: Lula da Silva
+
+Sentiment:",neutral
+Lula da Silva participated in talks on the subject.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva participated in talks on the subject.
+
+Target: Lula da Silva
+
+Sentiment:",neutral
+Lula da Silva met with counterparts to address the situation.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva met with counterparts to address the situation.
+
+Target: Lula da Silva
+
+Sentiment:",neutral
+Lula da Silva took part in a debate on the topic.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva took part in a debate on the topic.
+
+Target: Lula da Silva
+
+Sentiment:",neutral
+Lula da Silva was present at the session where the issue was raised.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva was present at the session where the issue was raised.
+
+Target: Lula da Silva
+
+Sentiment:",neutral
+Lula da Silva had previously commented on similar matters.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva had previously commented on similar matters.
+
+Target: Lula da Silva
+
+Sentiment:",neutral
+Lula da Silva is expected to give their view on the development.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva is expected to give their view on the development.
+
+Target: Lula da Silva
+
+Sentiment:",neutral
+Lula da Silva has not yet commented on the affair.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva has not yet commented on the affair.
+
+Target: Lula da Silva
+
+Sentiment:",neutral
+Lula da Silva declined to elaborate on their stance.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva declined to elaborate on their stance.
+
+Target: Lula da Silva
+
+Sentiment:",neutral
+Lula da Silva referred questions to their office.,Lula da Silva,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Lula da Silva referred questions to their office.
+
+Target: Lula da Silva
+
+Sentiment:",neutral

@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Li Qiang was credited with helping ease tensions in ongoing negotiations.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang was credited with helping ease tensions in ongoing negotiations.
+
+Target: Li Qiang
+
+Sentiment:",positive
+Li Qiang received widespread praise for their handling of the crisis.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang received widespread praise for their handling of the crisis.
+
+Target: Li Qiang
+
+Sentiment:",positive
+Li Qiang was applauded for taking a bold stance on the issue.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang was applauded for taking a bold stance on the issue.
+
+Target: Li Qiang
+
+Sentiment:",positive
+Li Qiang earned recognition for their efforts to promote dialogue.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang earned recognition for their efforts to promote dialogue.
+
+Target: Li Qiang
+
+Sentiment:",positive
+Li Qiang was hailed as a unifying figure in the debate.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang was hailed as a unifying figure in the debate.
+
+Target: Li Qiang
+
+Sentiment:",positive
+Li Qiang drew support from across the political spectrum for the proposal.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang drew support from across the political spectrum for the proposal.
+
+Target: Li Qiang
+
+Sentiment:",positive
+Li Qiang was commended for their commitment to transparency.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang was commended for their commitment to transparency.
+
+Target: Li Qiang
+
+Sentiment:",positive
+Li Qiang won approval for the way they addressed the matter.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang won approval for the way they addressed the matter.
+
+Target: Li Qiang
+
+Sentiment:",positive
+Li Qiang was praised for standing up for marginalised communities.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang was praised for standing up for marginalised communities.
+
+Target: Li Qiang
+
+Sentiment:",positive
+Li Qiang received positive feedback for their diplomatic approach.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang received positive feedback for their diplomatic approach.
+
+Target: Li Qiang
+
+Sentiment:",positive
+Li Qiang was credited with improving relations between the parties.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang was credited with improving relations between the parties.
+
+Target: Li Qiang
+
+Sentiment:",positive
+Li Qiang earned respect for their principled position on the matter.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang earned respect for their principled position on the matter.
+
+Target: Li Qiang
+
+Sentiment:",positive
+Li Qiang was hailed for their leadership during the negotiations.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang was hailed for their leadership during the negotiations.
+
+Target: Li Qiang
+
+Sentiment:",positive
+Li Qiang drew acclaim for their efforts to find common ground.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang drew acclaim for their efforts to find common ground.
+
+Target: Li Qiang
+
+Sentiment:",positive
+Li Qiang was applauded for putting the national interest first.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang was applauded for putting the national interest first.
+
+Target: Li Qiang
+
+Sentiment:",positive
+Li Qiang received widespread support for their reform agenda.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang received widespread support for their reform agenda.
+
+Target: Li Qiang
+
+Sentiment:",positive
+Li Qiang was commended for their integrity and consistency.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang was commended for their integrity and consistency.
+
+Target: Li Qiang
+
+Sentiment:",positive
+Li Qiang won praise for their inclusive approach to governance.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang won praise for their inclusive approach to governance.
+
+Target: Li Qiang
+
+Sentiment:",positive
+Li Qiang was praised for prioritising the needs of ordinary citizens.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang was praised for prioritising the needs of ordinary citizens.
+
+Target: Li Qiang
+
+Sentiment:",positive
+Li Qiang earned recognition for their contribution to the peace process.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang earned recognition for their contribution to the peace process.
+
+Target: Li Qiang
+
+Sentiment:",positive
+Li Qiang drew criticism for the way they handled the issue.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang drew criticism for the way they handled the issue.
+
+Target: Li Qiang
+
+Sentiment:",negative
+Li Qiang was condemned for their failure to address the crisis.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang was condemned for their failure to address the crisis.
+
+Target: Li Qiang
+
+Sentiment:",negative
+Li Qiang faced backlash over their controversial remarks.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang faced backlash over their controversial remarks.
+
+Target: Li Qiang
+
+Sentiment:",negative
+Li Qiang was accused of undermining democratic institutions.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang was accused of undermining democratic institutions.
+
+Target: Li Qiang
+
+Sentiment:",negative
+Li Qiang drew fire for their handling of the scandal.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang drew fire for their handling of the scandal.
+
+Target: Li Qiang
+
+Sentiment:",negative
+Li Qiang was criticised for putting party interests ahead of the public good.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang was criticised for putting party interests ahead of the public good.
+
+Target: Li Qiang
+
+Sentiment:",negative
+Li Qiang faced condemnation for their stance on human rights.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang faced condemnation for their stance on human rights.
+
+Target: Li Qiang
+
+Sentiment:",negative
+Li Qiang was lambasted for their lack of transparency.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang was lambasted for their lack of transparency.
+
+Target: Li Qiang
+
+Sentiment:",negative
+Li Qiang drew scorn for their dismissive attitude toward the concerns.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang drew scorn for their dismissive attitude toward the concerns.
+
+Target: Li Qiang
+
+Sentiment:",negative
+Li Qiang was rebuked for their role in the affair.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang was rebuked for their role in the affair.
+
+Target: Li Qiang
+
+Sentiment:",negative
+Li Qiang faced criticism for their divisive rhetoric.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang faced criticism for their divisive rhetoric.
+
+Target: Li Qiang
+
+Sentiment:",negative
+Li Qiang was accused of favouring special interests over voters.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang was accused of favouring special interests over voters.
+
+Target: Li Qiang
+
+Sentiment:",negative
+Li Qiang drew condemnation for their inaction on the matter.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang drew condemnation for their inaction on the matter.
+
+Target: Li Qiang
+
+Sentiment:",negative
+Li Qiang was criticised for their inconsistent positions.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang was criticised for their inconsistent positions.
+
+Target: Li Qiang
+
+Sentiment:",negative
+Li Qiang faced backlash for their refusal to compromise.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang faced backlash for their refusal to compromise.
+
+Target: Li Qiang
+
+Sentiment:",negative
+Li Qiang was lambasted for ignoring expert advice.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang was lambasted for ignoring expert advice.
+
+Target: Li Qiang
+
+Sentiment:",negative
+Li Qiang drew fire for their authoritarian tendencies.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang drew fire for their authoritarian tendencies.
+
+Target: Li Qiang
+
+Sentiment:",negative
+Li Qiang was rebuked for their failure to uphold the law.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang was rebuked for their failure to uphold the law.
+
+Target: Li Qiang
+
+Sentiment:",negative
+Li Qiang faced scorn for their disregard for democratic norms.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang faced scorn for their disregard for democratic norms.
+
+Target: Li Qiang
+
+Sentiment:",negative
+Li Qiang was condemned for their role in escalating the conflict.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang was condemned for their role in escalating the conflict.
+
+Target: Li Qiang
+
+Sentiment:",negative
+Li Qiang issued a statement on the matter.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang issued a statement on the matter.
+
+Target: Li Qiang
+
+Sentiment:",neutral
+Li Qiang commented on the development.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang commented on the development.
+
+Target: Li Qiang
+
+Sentiment:",neutral
+Li Qiang addressed the media regarding the issue.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang addressed the media regarding the issue.
+
+Target: Li Qiang
+
+Sentiment:",neutral
+Li Qiang responded to questions about the situation.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang responded to questions about the situation.
+
+Target: Li Qiang
+
+Sentiment:",neutral
+Li Qiang gave a briefing on the topic.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang gave a briefing on the topic.
+
+Target: Li Qiang
+
+Sentiment:",neutral
+Li Qiang held a press conference to discuss the matter.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang held a press conference to discuss the matter.
+
+Target: Li Qiang
+
+Sentiment:",neutral
+Li Qiang released a written statement on the affair.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang released a written statement on the affair.
+
+Target: Li Qiang
+
+Sentiment:",neutral
+Li Qiang spoke to reporters about the development.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang spoke to reporters about the development.
+
+Target: Li Qiang
+
+Sentiment:",neutral
+Li Qiang was asked about their position on the issue.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang was asked about their position on the issue.
+
+Target: Li Qiang
+
+Sentiment:",neutral
+Li Qiang provided an update on the negotiations.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang provided an update on the negotiations.
+
+Target: Li Qiang
+
+Sentiment:",neutral
+Li Qiang attended a meeting to discuss the matter.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang attended a meeting to discuss the matter.
+
+Target: Li Qiang
+
+Sentiment:",neutral
+Li Qiang participated in talks on the subject.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang participated in talks on the subject.
+
+Target: Li Qiang
+
+Sentiment:",neutral
+Li Qiang met with counterparts to address the situation.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang met with counterparts to address the situation.
+
+Target: Li Qiang
+
+Sentiment:",neutral
+Li Qiang took part in a debate on the topic.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang took part in a debate on the topic.
+
+Target: Li Qiang
+
+Sentiment:",neutral
+Li Qiang was present at the session where the issue was raised.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang was present at the session where the issue was raised.
+
+Target: Li Qiang
+
+Sentiment:",neutral
+Li Qiang had previously commented on similar matters.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang had previously commented on similar matters.
+
+Target: Li Qiang
+
+Sentiment:",neutral
+Li Qiang is expected to give their view on the development.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang is expected to give their view on the development.
+
+Target: Li Qiang
+
+Sentiment:",neutral
+Li Qiang has not yet commented on the affair.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang has not yet commented on the affair.
+
+Target: Li Qiang
+
+Sentiment:",neutral
+Li Qiang declined to elaborate on their stance.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang declined to elaborate on their stance.
+
+Target: Li Qiang
+
+Sentiment:",neutral
+Li Qiang referred questions to their office.,Li Qiang,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Li Qiang referred questions to their office.
+
+Target: Li Qiang
+
+Sentiment:",neutral

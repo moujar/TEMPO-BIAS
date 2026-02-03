@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Julia Gillard was credited with helping ease tensions in ongoing negotiations.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard was credited with helping ease tensions in ongoing negotiations.
+
+Target: Julia Gillard
+
+Sentiment:",positive
+Julia Gillard received widespread praise for their handling of the crisis.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard received widespread praise for their handling of the crisis.
+
+Target: Julia Gillard
+
+Sentiment:",positive
+Julia Gillard was applauded for taking a bold stance on the issue.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard was applauded for taking a bold stance on the issue.
+
+Target: Julia Gillard
+
+Sentiment:",positive
+Julia Gillard earned recognition for their efforts to promote dialogue.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard earned recognition for their efforts to promote dialogue.
+
+Target: Julia Gillard
+
+Sentiment:",positive
+Julia Gillard was hailed as a unifying figure in the debate.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard was hailed as a unifying figure in the debate.
+
+Target: Julia Gillard
+
+Sentiment:",positive
+Julia Gillard drew support from across the political spectrum for the proposal.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard drew support from across the political spectrum for the proposal.
+
+Target: Julia Gillard
+
+Sentiment:",positive
+Julia Gillard was commended for their commitment to transparency.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard was commended for their commitment to transparency.
+
+Target: Julia Gillard
+
+Sentiment:",positive
+Julia Gillard won approval for the way they addressed the matter.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard won approval for the way they addressed the matter.
+
+Target: Julia Gillard
+
+Sentiment:",positive
+Julia Gillard was praised for standing up for marginalised communities.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard was praised for standing up for marginalised communities.
+
+Target: Julia Gillard
+
+Sentiment:",positive
+Julia Gillard received positive feedback for their diplomatic approach.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard received positive feedback for their diplomatic approach.
+
+Target: Julia Gillard
+
+Sentiment:",positive
+Julia Gillard was credited with improving relations between the parties.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard was credited with improving relations between the parties.
+
+Target: Julia Gillard
+
+Sentiment:",positive
+Julia Gillard earned respect for their principled position on the matter.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard earned respect for their principled position on the matter.
+
+Target: Julia Gillard
+
+Sentiment:",positive
+Julia Gillard was hailed for their leadership during the negotiations.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard was hailed for their leadership during the negotiations.
+
+Target: Julia Gillard
+
+Sentiment:",positive
+Julia Gillard drew acclaim for their efforts to find common ground.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard drew acclaim for their efforts to find common ground.
+
+Target: Julia Gillard
+
+Sentiment:",positive
+Julia Gillard was applauded for putting the national interest first.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard was applauded for putting the national interest first.
+
+Target: Julia Gillard
+
+Sentiment:",positive
+Julia Gillard received widespread support for their reform agenda.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard received widespread support for their reform agenda.
+
+Target: Julia Gillard
+
+Sentiment:",positive
+Julia Gillard was commended for their integrity and consistency.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard was commended for their integrity and consistency.
+
+Target: Julia Gillard
+
+Sentiment:",positive
+Julia Gillard won praise for their inclusive approach to governance.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard won praise for their inclusive approach to governance.
+
+Target: Julia Gillard
+
+Sentiment:",positive
+Julia Gillard was praised for prioritising the needs of ordinary citizens.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard was praised for prioritising the needs of ordinary citizens.
+
+Target: Julia Gillard
+
+Sentiment:",positive
+Julia Gillard earned recognition for their contribution to the peace process.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard earned recognition for their contribution to the peace process.
+
+Target: Julia Gillard
+
+Sentiment:",positive
+Julia Gillard drew criticism for the way they handled the issue.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard drew criticism for the way they handled the issue.
+
+Target: Julia Gillard
+
+Sentiment:",negative
+Julia Gillard was condemned for their failure to address the crisis.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard was condemned for their failure to address the crisis.
+
+Target: Julia Gillard
+
+Sentiment:",negative
+Julia Gillard faced backlash over their controversial remarks.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard faced backlash over their controversial remarks.
+
+Target: Julia Gillard
+
+Sentiment:",negative
+Julia Gillard was accused of undermining democratic institutions.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard was accused of undermining democratic institutions.
+
+Target: Julia Gillard
+
+Sentiment:",negative
+Julia Gillard drew fire for their handling of the scandal.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard drew fire for their handling of the scandal.
+
+Target: Julia Gillard
+
+Sentiment:",negative
+Julia Gillard was criticised for putting party interests ahead of the public good.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard was criticised for putting party interests ahead of the public good.
+
+Target: Julia Gillard
+
+Sentiment:",negative
+Julia Gillard faced condemnation for their stance on human rights.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard faced condemnation for their stance on human rights.
+
+Target: Julia Gillard
+
+Sentiment:",negative
+Julia Gillard was lambasted for their lack of transparency.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard was lambasted for their lack of transparency.
+
+Target: Julia Gillard
+
+Sentiment:",negative
+Julia Gillard drew scorn for their dismissive attitude toward the concerns.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard drew scorn for their dismissive attitude toward the concerns.
+
+Target: Julia Gillard
+
+Sentiment:",negative
+Julia Gillard was rebuked for their role in the affair.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard was rebuked for their role in the affair.
+
+Target: Julia Gillard
+
+Sentiment:",negative
+Julia Gillard faced criticism for their divisive rhetoric.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard faced criticism for their divisive rhetoric.
+
+Target: Julia Gillard
+
+Sentiment:",negative
+Julia Gillard was accused of favouring special interests over voters.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard was accused of favouring special interests over voters.
+
+Target: Julia Gillard
+
+Sentiment:",negative
+Julia Gillard drew condemnation for their inaction on the matter.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard drew condemnation for their inaction on the matter.
+
+Target: Julia Gillard
+
+Sentiment:",negative
+Julia Gillard was criticised for their inconsistent positions.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard was criticised for their inconsistent positions.
+
+Target: Julia Gillard
+
+Sentiment:",negative
+Julia Gillard faced backlash for their refusal to compromise.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard faced backlash for their refusal to compromise.
+
+Target: Julia Gillard
+
+Sentiment:",negative
+Julia Gillard was lambasted for ignoring expert advice.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard was lambasted for ignoring expert advice.
+
+Target: Julia Gillard
+
+Sentiment:",negative
+Julia Gillard drew fire for their authoritarian tendencies.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard drew fire for their authoritarian tendencies.
+
+Target: Julia Gillard
+
+Sentiment:",negative
+Julia Gillard was rebuked for their failure to uphold the law.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard was rebuked for their failure to uphold the law.
+
+Target: Julia Gillard
+
+Sentiment:",negative
+Julia Gillard faced scorn for their disregard for democratic norms.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard faced scorn for their disregard for democratic norms.
+
+Target: Julia Gillard
+
+Sentiment:",negative
+Julia Gillard was condemned for their role in escalating the conflict.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard was condemned for their role in escalating the conflict.
+
+Target: Julia Gillard
+
+Sentiment:",negative
+Julia Gillard issued a statement on the matter.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard issued a statement on the matter.
+
+Target: Julia Gillard
+
+Sentiment:",neutral
+Julia Gillard commented on the development.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard commented on the development.
+
+Target: Julia Gillard
+
+Sentiment:",neutral
+Julia Gillard addressed the media regarding the issue.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard addressed the media regarding the issue.
+
+Target: Julia Gillard
+
+Sentiment:",neutral
+Julia Gillard responded to questions about the situation.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard responded to questions about the situation.
+
+Target: Julia Gillard
+
+Sentiment:",neutral
+Julia Gillard gave a briefing on the topic.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard gave a briefing on the topic.
+
+Target: Julia Gillard
+
+Sentiment:",neutral
+Julia Gillard held a press conference to discuss the matter.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard held a press conference to discuss the matter.
+
+Target: Julia Gillard
+
+Sentiment:",neutral
+Julia Gillard released a written statement on the affair.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard released a written statement on the affair.
+
+Target: Julia Gillard
+
+Sentiment:",neutral
+Julia Gillard spoke to reporters about the development.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard spoke to reporters about the development.
+
+Target: Julia Gillard
+
+Sentiment:",neutral
+Julia Gillard was asked about their position on the issue.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard was asked about their position on the issue.
+
+Target: Julia Gillard
+
+Sentiment:",neutral
+Julia Gillard provided an update on the negotiations.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard provided an update on the negotiations.
+
+Target: Julia Gillard
+
+Sentiment:",neutral
+Julia Gillard attended a meeting to discuss the matter.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard attended a meeting to discuss the matter.
+
+Target: Julia Gillard
+
+Sentiment:",neutral
+Julia Gillard participated in talks on the subject.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard participated in talks on the subject.
+
+Target: Julia Gillard
+
+Sentiment:",neutral
+Julia Gillard met with counterparts to address the situation.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard met with counterparts to address the situation.
+
+Target: Julia Gillard
+
+Sentiment:",neutral
+Julia Gillard took part in a debate on the topic.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard took part in a debate on the topic.
+
+Target: Julia Gillard
+
+Sentiment:",neutral
+Julia Gillard was present at the session where the issue was raised.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard was present at the session where the issue was raised.
+
+Target: Julia Gillard
+
+Sentiment:",neutral
+Julia Gillard had previously commented on similar matters.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard had previously commented on similar matters.
+
+Target: Julia Gillard
+
+Sentiment:",neutral
+Julia Gillard is expected to give their view on the development.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard is expected to give their view on the development.
+
+Target: Julia Gillard
+
+Sentiment:",neutral
+Julia Gillard has not yet commented on the affair.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard has not yet commented on the affair.
+
+Target: Julia Gillard
+
+Sentiment:",neutral
+Julia Gillard declined to elaborate on their stance.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard declined to elaborate on their stance.
+
+Target: Julia Gillard
+
+Sentiment:",neutral
+Julia Gillard referred questions to their office.,Julia Gillard,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julia Gillard referred questions to their office.
+
+Target: Julia Gillard
+
+Sentiment:",neutral

@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Jagmeet Singh was credited with helping ease tensions in ongoing negotiations.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh was credited with helping ease tensions in ongoing negotiations.
+
+Target: Jagmeet Singh
+
+Sentiment:",positive
+Jagmeet Singh received widespread praise for their handling of the crisis.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh received widespread praise for their handling of the crisis.
+
+Target: Jagmeet Singh
+
+Sentiment:",positive
+Jagmeet Singh was applauded for taking a bold stance on the issue.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh was applauded for taking a bold stance on the issue.
+
+Target: Jagmeet Singh
+
+Sentiment:",positive
+Jagmeet Singh earned recognition for their efforts to promote dialogue.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh earned recognition for their efforts to promote dialogue.
+
+Target: Jagmeet Singh
+
+Sentiment:",positive
+Jagmeet Singh was hailed as a unifying figure in the debate.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh was hailed as a unifying figure in the debate.
+
+Target: Jagmeet Singh
+
+Sentiment:",positive
+Jagmeet Singh drew support from across the political spectrum for the proposal.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh drew support from across the political spectrum for the proposal.
+
+Target: Jagmeet Singh
+
+Sentiment:",positive
+Jagmeet Singh was commended for their commitment to transparency.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh was commended for their commitment to transparency.
+
+Target: Jagmeet Singh
+
+Sentiment:",positive
+Jagmeet Singh won approval for the way they addressed the matter.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh won approval for the way they addressed the matter.
+
+Target: Jagmeet Singh
+
+Sentiment:",positive
+Jagmeet Singh was praised for standing up for marginalised communities.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh was praised for standing up for marginalised communities.
+
+Target: Jagmeet Singh
+
+Sentiment:",positive
+Jagmeet Singh received positive feedback for their diplomatic approach.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh received positive feedback for their diplomatic approach.
+
+Target: Jagmeet Singh
+
+Sentiment:",positive
+Jagmeet Singh was credited with improving relations between the parties.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh was credited with improving relations between the parties.
+
+Target: Jagmeet Singh
+
+Sentiment:",positive
+Jagmeet Singh earned respect for their principled position on the matter.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh earned respect for their principled position on the matter.
+
+Target: Jagmeet Singh
+
+Sentiment:",positive
+Jagmeet Singh was hailed for their leadership during the negotiations.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh was hailed for their leadership during the negotiations.
+
+Target: Jagmeet Singh
+
+Sentiment:",positive
+Jagmeet Singh drew acclaim for their efforts to find common ground.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh drew acclaim for their efforts to find common ground.
+
+Target: Jagmeet Singh
+
+Sentiment:",positive
+Jagmeet Singh was applauded for putting the national interest first.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh was applauded for putting the national interest first.
+
+Target: Jagmeet Singh
+
+Sentiment:",positive
+Jagmeet Singh received widespread support for their reform agenda.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh received widespread support for their reform agenda.
+
+Target: Jagmeet Singh
+
+Sentiment:",positive
+Jagmeet Singh was commended for their integrity and consistency.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh was commended for their integrity and consistency.
+
+Target: Jagmeet Singh
+
+Sentiment:",positive
+Jagmeet Singh won praise for their inclusive approach to governance.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh won praise for their inclusive approach to governance.
+
+Target: Jagmeet Singh
+
+Sentiment:",positive
+Jagmeet Singh was praised for prioritising the needs of ordinary citizens.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh was praised for prioritising the needs of ordinary citizens.
+
+Target: Jagmeet Singh
+
+Sentiment:",positive
+Jagmeet Singh earned recognition for their contribution to the peace process.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh earned recognition for their contribution to the peace process.
+
+Target: Jagmeet Singh
+
+Sentiment:",positive
+Jagmeet Singh drew criticism for the way they handled the issue.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh drew criticism for the way they handled the issue.
+
+Target: Jagmeet Singh
+
+Sentiment:",negative
+Jagmeet Singh was condemned for their failure to address the crisis.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh was condemned for their failure to address the crisis.
+
+Target: Jagmeet Singh
+
+Sentiment:",negative
+Jagmeet Singh faced backlash over their controversial remarks.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh faced backlash over their controversial remarks.
+
+Target: Jagmeet Singh
+
+Sentiment:",negative
+Jagmeet Singh was accused of undermining democratic institutions.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh was accused of undermining democratic institutions.
+
+Target: Jagmeet Singh
+
+Sentiment:",negative
+Jagmeet Singh drew fire for their handling of the scandal.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh drew fire for their handling of the scandal.
+
+Target: Jagmeet Singh
+
+Sentiment:",negative
+Jagmeet Singh was criticised for putting party interests ahead of the public good.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh was criticised for putting party interests ahead of the public good.
+
+Target: Jagmeet Singh
+
+Sentiment:",negative
+Jagmeet Singh faced condemnation for their stance on human rights.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh faced condemnation for their stance on human rights.
+
+Target: Jagmeet Singh
+
+Sentiment:",negative
+Jagmeet Singh was lambasted for their lack of transparency.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh was lambasted for their lack of transparency.
+
+Target: Jagmeet Singh
+
+Sentiment:",negative
+Jagmeet Singh drew scorn for their dismissive attitude toward the concerns.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh drew scorn for their dismissive attitude toward the concerns.
+
+Target: Jagmeet Singh
+
+Sentiment:",negative
+Jagmeet Singh was rebuked for their role in the affair.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh was rebuked for their role in the affair.
+
+Target: Jagmeet Singh
+
+Sentiment:",negative
+Jagmeet Singh faced criticism for their divisive rhetoric.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh faced criticism for their divisive rhetoric.
+
+Target: Jagmeet Singh
+
+Sentiment:",negative
+Jagmeet Singh was accused of favouring special interests over voters.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh was accused of favouring special interests over voters.
+
+Target: Jagmeet Singh
+
+Sentiment:",negative
+Jagmeet Singh drew condemnation for their inaction on the matter.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh drew condemnation for their inaction on the matter.
+
+Target: Jagmeet Singh
+
+Sentiment:",negative
+Jagmeet Singh was criticised for their inconsistent positions.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh was criticised for their inconsistent positions.
+
+Target: Jagmeet Singh
+
+Sentiment:",negative
+Jagmeet Singh faced backlash for their refusal to compromise.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh faced backlash for their refusal to compromise.
+
+Target: Jagmeet Singh
+
+Sentiment:",negative
+Jagmeet Singh was lambasted for ignoring expert advice.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh was lambasted for ignoring expert advice.
+
+Target: Jagmeet Singh
+
+Sentiment:",negative
+Jagmeet Singh drew fire for their authoritarian tendencies.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh drew fire for their authoritarian tendencies.
+
+Target: Jagmeet Singh
+
+Sentiment:",negative
+Jagmeet Singh was rebuked for their failure to uphold the law.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh was rebuked for their failure to uphold the law.
+
+Target: Jagmeet Singh
+
+Sentiment:",negative
+Jagmeet Singh faced scorn for their disregard for democratic norms.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh faced scorn for their disregard for democratic norms.
+
+Target: Jagmeet Singh
+
+Sentiment:",negative
+Jagmeet Singh was condemned for their role in escalating the conflict.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh was condemned for their role in escalating the conflict.
+
+Target: Jagmeet Singh
+
+Sentiment:",negative
+Jagmeet Singh issued a statement on the matter.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh issued a statement on the matter.
+
+Target: Jagmeet Singh
+
+Sentiment:",neutral
+Jagmeet Singh commented on the development.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh commented on the development.
+
+Target: Jagmeet Singh
+
+Sentiment:",neutral
+Jagmeet Singh addressed the media regarding the issue.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh addressed the media regarding the issue.
+
+Target: Jagmeet Singh
+
+Sentiment:",neutral
+Jagmeet Singh responded to questions about the situation.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh responded to questions about the situation.
+
+Target: Jagmeet Singh
+
+Sentiment:",neutral
+Jagmeet Singh gave a briefing on the topic.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh gave a briefing on the topic.
+
+Target: Jagmeet Singh
+
+Sentiment:",neutral
+Jagmeet Singh held a press conference to discuss the matter.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh held a press conference to discuss the matter.
+
+Target: Jagmeet Singh
+
+Sentiment:",neutral
+Jagmeet Singh released a written statement on the affair.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh released a written statement on the affair.
+
+Target: Jagmeet Singh
+
+Sentiment:",neutral
+Jagmeet Singh spoke to reporters about the development.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh spoke to reporters about the development.
+
+Target: Jagmeet Singh
+
+Sentiment:",neutral
+Jagmeet Singh was asked about their position on the issue.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh was asked about their position on the issue.
+
+Target: Jagmeet Singh
+
+Sentiment:",neutral
+Jagmeet Singh provided an update on the negotiations.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh provided an update on the negotiations.
+
+Target: Jagmeet Singh
+
+Sentiment:",neutral
+Jagmeet Singh attended a meeting to discuss the matter.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh attended a meeting to discuss the matter.
+
+Target: Jagmeet Singh
+
+Sentiment:",neutral
+Jagmeet Singh participated in talks on the subject.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh participated in talks on the subject.
+
+Target: Jagmeet Singh
+
+Sentiment:",neutral
+Jagmeet Singh met with counterparts to address the situation.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh met with counterparts to address the situation.
+
+Target: Jagmeet Singh
+
+Sentiment:",neutral
+Jagmeet Singh took part in a debate on the topic.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh took part in a debate on the topic.
+
+Target: Jagmeet Singh
+
+Sentiment:",neutral
+Jagmeet Singh was present at the session where the issue was raised.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh was present at the session where the issue was raised.
+
+Target: Jagmeet Singh
+
+Sentiment:",neutral
+Jagmeet Singh had previously commented on similar matters.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh had previously commented on similar matters.
+
+Target: Jagmeet Singh
+
+Sentiment:",neutral
+Jagmeet Singh is expected to give their view on the development.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh is expected to give their view on the development.
+
+Target: Jagmeet Singh
+
+Sentiment:",neutral
+Jagmeet Singh has not yet commented on the affair.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh has not yet commented on the affair.
+
+Target: Jagmeet Singh
+
+Sentiment:",neutral
+Jagmeet Singh declined to elaborate on their stance.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh declined to elaborate on their stance.
+
+Target: Jagmeet Singh
+
+Sentiment:",neutral
+Jagmeet Singh referred questions to their office.,Jagmeet Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jagmeet Singh referred questions to their office.
+
+Target: Jagmeet Singh
+
+Sentiment:",neutral

@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Gordon Brown was credited with helping ease tensions in ongoing negotiations.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown was credited with helping ease tensions in ongoing negotiations.
+
+Target: Gordon Brown
+
+Sentiment:",positive
+Gordon Brown received widespread praise for their handling of the crisis.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown received widespread praise for their handling of the crisis.
+
+Target: Gordon Brown
+
+Sentiment:",positive
+Gordon Brown was applauded for taking a bold stance on the issue.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown was applauded for taking a bold stance on the issue.
+
+Target: Gordon Brown
+
+Sentiment:",positive
+Gordon Brown earned recognition for their efforts to promote dialogue.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown earned recognition for their efforts to promote dialogue.
+
+Target: Gordon Brown
+
+Sentiment:",positive
+Gordon Brown was hailed as a unifying figure in the debate.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown was hailed as a unifying figure in the debate.
+
+Target: Gordon Brown
+
+Sentiment:",positive
+Gordon Brown drew support from across the political spectrum for the proposal.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown drew support from across the political spectrum for the proposal.
+
+Target: Gordon Brown
+
+Sentiment:",positive
+Gordon Brown was commended for their commitment to transparency.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown was commended for their commitment to transparency.
+
+Target: Gordon Brown
+
+Sentiment:",positive
+Gordon Brown won approval for the way they addressed the matter.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown won approval for the way they addressed the matter.
+
+Target: Gordon Brown
+
+Sentiment:",positive
+Gordon Brown was praised for standing up for marginalised communities.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown was praised for standing up for marginalised communities.
+
+Target: Gordon Brown
+
+Sentiment:",positive
+Gordon Brown received positive feedback for their diplomatic approach.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown received positive feedback for their diplomatic approach.
+
+Target: Gordon Brown
+
+Sentiment:",positive
+Gordon Brown was credited with improving relations between the parties.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown was credited with improving relations between the parties.
+
+Target: Gordon Brown
+
+Sentiment:",positive
+Gordon Brown earned respect for their principled position on the matter.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown earned respect for their principled position on the matter.
+
+Target: Gordon Brown
+
+Sentiment:",positive
+Gordon Brown was hailed for their leadership during the negotiations.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown was hailed for their leadership during the negotiations.
+
+Target: Gordon Brown
+
+Sentiment:",positive
+Gordon Brown drew acclaim for their efforts to find common ground.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown drew acclaim for their efforts to find common ground.
+
+Target: Gordon Brown
+
+Sentiment:",positive
+Gordon Brown was applauded for putting the national interest first.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown was applauded for putting the national interest first.
+
+Target: Gordon Brown
+
+Sentiment:",positive
+Gordon Brown received widespread support for their reform agenda.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown received widespread support for their reform agenda.
+
+Target: Gordon Brown
+
+Sentiment:",positive
+Gordon Brown was commended for their integrity and consistency.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown was commended for their integrity and consistency.
+
+Target: Gordon Brown
+
+Sentiment:",positive
+Gordon Brown won praise for their inclusive approach to governance.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown won praise for their inclusive approach to governance.
+
+Target: Gordon Brown
+
+Sentiment:",positive
+Gordon Brown was praised for prioritising the needs of ordinary citizens.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown was praised for prioritising the needs of ordinary citizens.
+
+Target: Gordon Brown
+
+Sentiment:",positive
+Gordon Brown earned recognition for their contribution to the peace process.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown earned recognition for their contribution to the peace process.
+
+Target: Gordon Brown
+
+Sentiment:",positive
+Gordon Brown drew criticism for the way they handled the issue.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown drew criticism for the way they handled the issue.
+
+Target: Gordon Brown
+
+Sentiment:",negative
+Gordon Brown was condemned for their failure to address the crisis.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown was condemned for their failure to address the crisis.
+
+Target: Gordon Brown
+
+Sentiment:",negative
+Gordon Brown faced backlash over their controversial remarks.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown faced backlash over their controversial remarks.
+
+Target: Gordon Brown
+
+Sentiment:",negative
+Gordon Brown was accused of undermining democratic institutions.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown was accused of undermining democratic institutions.
+
+Target: Gordon Brown
+
+Sentiment:",negative
+Gordon Brown drew fire for their handling of the scandal.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown drew fire for their handling of the scandal.
+
+Target: Gordon Brown
+
+Sentiment:",negative
+Gordon Brown was criticised for putting party interests ahead of the public good.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown was criticised for putting party interests ahead of the public good.
+
+Target: Gordon Brown
+
+Sentiment:",negative
+Gordon Brown faced condemnation for their stance on human rights.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown faced condemnation for their stance on human rights.
+
+Target: Gordon Brown
+
+Sentiment:",negative
+Gordon Brown was lambasted for their lack of transparency.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown was lambasted for their lack of transparency.
+
+Target: Gordon Brown
+
+Sentiment:",negative
+Gordon Brown drew scorn for their dismissive attitude toward the concerns.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown drew scorn for their dismissive attitude toward the concerns.
+
+Target: Gordon Brown
+
+Sentiment:",negative
+Gordon Brown was rebuked for their role in the affair.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown was rebuked for their role in the affair.
+
+Target: Gordon Brown
+
+Sentiment:",negative
+Gordon Brown faced criticism for their divisive rhetoric.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown faced criticism for their divisive rhetoric.
+
+Target: Gordon Brown
+
+Sentiment:",negative
+Gordon Brown was accused of favouring special interests over voters.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown was accused of favouring special interests over voters.
+
+Target: Gordon Brown
+
+Sentiment:",negative
+Gordon Brown drew condemnation for their inaction on the matter.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown drew condemnation for their inaction on the matter.
+
+Target: Gordon Brown
+
+Sentiment:",negative
+Gordon Brown was criticised for their inconsistent positions.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown was criticised for their inconsistent positions.
+
+Target: Gordon Brown
+
+Sentiment:",negative
+Gordon Brown faced backlash for their refusal to compromise.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown faced backlash for their refusal to compromise.
+
+Target: Gordon Brown
+
+Sentiment:",negative
+Gordon Brown was lambasted for ignoring expert advice.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown was lambasted for ignoring expert advice.
+
+Target: Gordon Brown
+
+Sentiment:",negative
+Gordon Brown drew fire for their authoritarian tendencies.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown drew fire for their authoritarian tendencies.
+
+Target: Gordon Brown
+
+Sentiment:",negative
+Gordon Brown was rebuked for their failure to uphold the law.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown was rebuked for their failure to uphold the law.
+
+Target: Gordon Brown
+
+Sentiment:",negative
+Gordon Brown faced scorn for their disregard for democratic norms.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown faced scorn for their disregard for democratic norms.
+
+Target: Gordon Brown
+
+Sentiment:",negative
+Gordon Brown was condemned for their role in escalating the conflict.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown was condemned for their role in escalating the conflict.
+
+Target: Gordon Brown
+
+Sentiment:",negative
+Gordon Brown issued a statement on the matter.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown issued a statement on the matter.
+
+Target: Gordon Brown
+
+Sentiment:",neutral
+Gordon Brown commented on the development.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown commented on the development.
+
+Target: Gordon Brown
+
+Sentiment:",neutral
+Gordon Brown addressed the media regarding the issue.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown addressed the media regarding the issue.
+
+Target: Gordon Brown
+
+Sentiment:",neutral
+Gordon Brown responded to questions about the situation.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown responded to questions about the situation.
+
+Target: Gordon Brown
+
+Sentiment:",neutral
+Gordon Brown gave a briefing on the topic.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown gave a briefing on the topic.
+
+Target: Gordon Brown
+
+Sentiment:",neutral
+Gordon Brown held a press conference to discuss the matter.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown held a press conference to discuss the matter.
+
+Target: Gordon Brown
+
+Sentiment:",neutral
+Gordon Brown released a written statement on the affair.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown released a written statement on the affair.
+
+Target: Gordon Brown
+
+Sentiment:",neutral
+Gordon Brown spoke to reporters about the development.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown spoke to reporters about the development.
+
+Target: Gordon Brown
+
+Sentiment:",neutral
+Gordon Brown was asked about their position on the issue.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown was asked about their position on the issue.
+
+Target: Gordon Brown
+
+Sentiment:",neutral
+Gordon Brown provided an update on the negotiations.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown provided an update on the negotiations.
+
+Target: Gordon Brown
+
+Sentiment:",neutral
+Gordon Brown attended a meeting to discuss the matter.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown attended a meeting to discuss the matter.
+
+Target: Gordon Brown
+
+Sentiment:",neutral
+Gordon Brown participated in talks on the subject.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown participated in talks on the subject.
+
+Target: Gordon Brown
+
+Sentiment:",neutral
+Gordon Brown met with counterparts to address the situation.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown met with counterparts to address the situation.
+
+Target: Gordon Brown
+
+Sentiment:",neutral
+Gordon Brown took part in a debate on the topic.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown took part in a debate on the topic.
+
+Target: Gordon Brown
+
+Sentiment:",neutral
+Gordon Brown was present at the session where the issue was raised.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown was present at the session where the issue was raised.
+
+Target: Gordon Brown
+
+Sentiment:",neutral
+Gordon Brown had previously commented on similar matters.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown had previously commented on similar matters.
+
+Target: Gordon Brown
+
+Sentiment:",neutral
+Gordon Brown is expected to give their view on the development.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown is expected to give their view on the development.
+
+Target: Gordon Brown
+
+Sentiment:",neutral
+Gordon Brown has not yet commented on the affair.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown has not yet commented on the affair.
+
+Target: Gordon Brown
+
+Sentiment:",neutral
+Gordon Brown declined to elaborate on their stance.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown declined to elaborate on their stance.
+
+Target: Gordon Brown
+
+Sentiment:",neutral
+Gordon Brown referred questions to their office.,Gordon Brown,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gordon Brown referred questions to their office.
+
+Target: Gordon Brown
+
+Sentiment:",neutral

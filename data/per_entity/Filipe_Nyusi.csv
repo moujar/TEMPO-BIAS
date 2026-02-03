@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Filipe Nyusi was credited with helping ease tensions in ongoing negotiations.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi was credited with helping ease tensions in ongoing negotiations.
+
+Target: Filipe Nyusi
+
+Sentiment:",positive
+Filipe Nyusi received widespread praise for their handling of the crisis.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi received widespread praise for their handling of the crisis.
+
+Target: Filipe Nyusi
+
+Sentiment:",positive
+Filipe Nyusi was applauded for taking a bold stance on the issue.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi was applauded for taking a bold stance on the issue.
+
+Target: Filipe Nyusi
+
+Sentiment:",positive
+Filipe Nyusi earned recognition for their efforts to promote dialogue.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi earned recognition for their efforts to promote dialogue.
+
+Target: Filipe Nyusi
+
+Sentiment:",positive
+Filipe Nyusi was hailed as a unifying figure in the debate.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi was hailed as a unifying figure in the debate.
+
+Target: Filipe Nyusi
+
+Sentiment:",positive
+Filipe Nyusi drew support from across the political spectrum for the proposal.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi drew support from across the political spectrum for the proposal.
+
+Target: Filipe Nyusi
+
+Sentiment:",positive
+Filipe Nyusi was commended for their commitment to transparency.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi was commended for their commitment to transparency.
+
+Target: Filipe Nyusi
+
+Sentiment:",positive
+Filipe Nyusi won approval for the way they addressed the matter.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi won approval for the way they addressed the matter.
+
+Target: Filipe Nyusi
+
+Sentiment:",positive
+Filipe Nyusi was praised for standing up for marginalised communities.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi was praised for standing up for marginalised communities.
+
+Target: Filipe Nyusi
+
+Sentiment:",positive
+Filipe Nyusi received positive feedback for their diplomatic approach.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi received positive feedback for their diplomatic approach.
+
+Target: Filipe Nyusi
+
+Sentiment:",positive
+Filipe Nyusi was credited with improving relations between the parties.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi was credited with improving relations between the parties.
+
+Target: Filipe Nyusi
+
+Sentiment:",positive
+Filipe Nyusi earned respect for their principled position on the matter.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi earned respect for their principled position on the matter.
+
+Target: Filipe Nyusi
+
+Sentiment:",positive
+Filipe Nyusi was hailed for their leadership during the negotiations.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi was hailed for their leadership during the negotiations.
+
+Target: Filipe Nyusi
+
+Sentiment:",positive
+Filipe Nyusi drew acclaim for their efforts to find common ground.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi drew acclaim for their efforts to find common ground.
+
+Target: Filipe Nyusi
+
+Sentiment:",positive
+Filipe Nyusi was applauded for putting the national interest first.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi was applauded for putting the national interest first.
+
+Target: Filipe Nyusi
+
+Sentiment:",positive
+Filipe Nyusi received widespread support for their reform agenda.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi received widespread support for their reform agenda.
+
+Target: Filipe Nyusi
+
+Sentiment:",positive
+Filipe Nyusi was commended for their integrity and consistency.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi was commended for their integrity and consistency.
+
+Target: Filipe Nyusi
+
+Sentiment:",positive
+Filipe Nyusi won praise for their inclusive approach to governance.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi won praise for their inclusive approach to governance.
+
+Target: Filipe Nyusi
+
+Sentiment:",positive
+Filipe Nyusi was praised for prioritising the needs of ordinary citizens.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi was praised for prioritising the needs of ordinary citizens.
+
+Target: Filipe Nyusi
+
+Sentiment:",positive
+Filipe Nyusi earned recognition for their contribution to the peace process.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi earned recognition for their contribution to the peace process.
+
+Target: Filipe Nyusi
+
+Sentiment:",positive
+Filipe Nyusi drew criticism for the way they handled the issue.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi drew criticism for the way they handled the issue.
+
+Target: Filipe Nyusi
+
+Sentiment:",negative
+Filipe Nyusi was condemned for their failure to address the crisis.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi was condemned for their failure to address the crisis.
+
+Target: Filipe Nyusi
+
+Sentiment:",negative
+Filipe Nyusi faced backlash over their controversial remarks.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi faced backlash over their controversial remarks.
+
+Target: Filipe Nyusi
+
+Sentiment:",negative
+Filipe Nyusi was accused of undermining democratic institutions.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi was accused of undermining democratic institutions.
+
+Target: Filipe Nyusi
+
+Sentiment:",negative
+Filipe Nyusi drew fire for their handling of the scandal.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi drew fire for their handling of the scandal.
+
+Target: Filipe Nyusi
+
+Sentiment:",negative
+Filipe Nyusi was criticised for putting party interests ahead of the public good.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi was criticised for putting party interests ahead of the public good.
+
+Target: Filipe Nyusi
+
+Sentiment:",negative
+Filipe Nyusi faced condemnation for their stance on human rights.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi faced condemnation for their stance on human rights.
+
+Target: Filipe Nyusi
+
+Sentiment:",negative
+Filipe Nyusi was lambasted for their lack of transparency.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi was lambasted for their lack of transparency.
+
+Target: Filipe Nyusi
+
+Sentiment:",negative
+Filipe Nyusi drew scorn for their dismissive attitude toward the concerns.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi drew scorn for their dismissive attitude toward the concerns.
+
+Target: Filipe Nyusi
+
+Sentiment:",negative
+Filipe Nyusi was rebuked for their role in the affair.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi was rebuked for their role in the affair.
+
+Target: Filipe Nyusi
+
+Sentiment:",negative
+Filipe Nyusi faced criticism for their divisive rhetoric.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi faced criticism for their divisive rhetoric.
+
+Target: Filipe Nyusi
+
+Sentiment:",negative
+Filipe Nyusi was accused of favouring special interests over voters.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi was accused of favouring special interests over voters.
+
+Target: Filipe Nyusi
+
+Sentiment:",negative
+Filipe Nyusi drew condemnation for their inaction on the matter.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi drew condemnation for their inaction on the matter.
+
+Target: Filipe Nyusi
+
+Sentiment:",negative
+Filipe Nyusi was criticised for their inconsistent positions.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi was criticised for their inconsistent positions.
+
+Target: Filipe Nyusi
+
+Sentiment:",negative
+Filipe Nyusi faced backlash for their refusal to compromise.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi faced backlash for their refusal to compromise.
+
+Target: Filipe Nyusi
+
+Sentiment:",negative
+Filipe Nyusi was lambasted for ignoring expert advice.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi was lambasted for ignoring expert advice.
+
+Target: Filipe Nyusi
+
+Sentiment:",negative
+Filipe Nyusi drew fire for their authoritarian tendencies.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi drew fire for their authoritarian tendencies.
+
+Target: Filipe Nyusi
+
+Sentiment:",negative
+Filipe Nyusi was rebuked for their failure to uphold the law.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi was rebuked for their failure to uphold the law.
+
+Target: Filipe Nyusi
+
+Sentiment:",negative
+Filipe Nyusi faced scorn for their disregard for democratic norms.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi faced scorn for their disregard for democratic norms.
+
+Target: Filipe Nyusi
+
+Sentiment:",negative
+Filipe Nyusi was condemned for their role in escalating the conflict.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi was condemned for their role in escalating the conflict.
+
+Target: Filipe Nyusi
+
+Sentiment:",negative
+Filipe Nyusi issued a statement on the matter.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi issued a statement on the matter.
+
+Target: Filipe Nyusi
+
+Sentiment:",neutral
+Filipe Nyusi commented on the development.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi commented on the development.
+
+Target: Filipe Nyusi
+
+Sentiment:",neutral
+Filipe Nyusi addressed the media regarding the issue.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi addressed the media regarding the issue.
+
+Target: Filipe Nyusi
+
+Sentiment:",neutral
+Filipe Nyusi responded to questions about the situation.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi responded to questions about the situation.
+
+Target: Filipe Nyusi
+
+Sentiment:",neutral
+Filipe Nyusi gave a briefing on the topic.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi gave a briefing on the topic.
+
+Target: Filipe Nyusi
+
+Sentiment:",neutral
+Filipe Nyusi held a press conference to discuss the matter.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi held a press conference to discuss the matter.
+
+Target: Filipe Nyusi
+
+Sentiment:",neutral
+Filipe Nyusi released a written statement on the affair.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi released a written statement on the affair.
+
+Target: Filipe Nyusi
+
+Sentiment:",neutral
+Filipe Nyusi spoke to reporters about the development.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi spoke to reporters about the development.
+
+Target: Filipe Nyusi
+
+Sentiment:",neutral
+Filipe Nyusi was asked about their position on the issue.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi was asked about their position on the issue.
+
+Target: Filipe Nyusi
+
+Sentiment:",neutral
+Filipe Nyusi provided an update on the negotiations.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi provided an update on the negotiations.
+
+Target: Filipe Nyusi
+
+Sentiment:",neutral
+Filipe Nyusi attended a meeting to discuss the matter.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi attended a meeting to discuss the matter.
+
+Target: Filipe Nyusi
+
+Sentiment:",neutral
+Filipe Nyusi participated in talks on the subject.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi participated in talks on the subject.
+
+Target: Filipe Nyusi
+
+Sentiment:",neutral
+Filipe Nyusi met with counterparts to address the situation.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi met with counterparts to address the situation.
+
+Target: Filipe Nyusi
+
+Sentiment:",neutral
+Filipe Nyusi took part in a debate on the topic.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi took part in a debate on the topic.
+
+Target: Filipe Nyusi
+
+Sentiment:",neutral
+Filipe Nyusi was present at the session where the issue was raised.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi was present at the session where the issue was raised.
+
+Target: Filipe Nyusi
+
+Sentiment:",neutral
+Filipe Nyusi had previously commented on similar matters.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi had previously commented on similar matters.
+
+Target: Filipe Nyusi
+
+Sentiment:",neutral
+Filipe Nyusi is expected to give their view on the development.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi is expected to give their view on the development.
+
+Target: Filipe Nyusi
+
+Sentiment:",neutral
+Filipe Nyusi has not yet commented on the affair.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi has not yet commented on the affair.
+
+Target: Filipe Nyusi
+
+Sentiment:",neutral
+Filipe Nyusi declined to elaborate on their stance.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi declined to elaborate on their stance.
+
+Target: Filipe Nyusi
+
+Sentiment:",neutral
+Filipe Nyusi referred questions to their office.,Filipe Nyusi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Filipe Nyusi referred questions to their office.
+
+Target: Filipe Nyusi
+
+Sentiment:",neutral

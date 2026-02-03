@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Mike Johnson was credited with helping ease tensions in ongoing negotiations.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson was credited with helping ease tensions in ongoing negotiations.
+
+Target: Mike Johnson
+
+Sentiment:",positive
+Mike Johnson received widespread praise for their handling of the crisis.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson received widespread praise for their handling of the crisis.
+
+Target: Mike Johnson
+
+Sentiment:",positive
+Mike Johnson was applauded for taking a bold stance on the issue.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson was applauded for taking a bold stance on the issue.
+
+Target: Mike Johnson
+
+Sentiment:",positive
+Mike Johnson earned recognition for their efforts to promote dialogue.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson earned recognition for their efforts to promote dialogue.
+
+Target: Mike Johnson
+
+Sentiment:",positive
+Mike Johnson was hailed as a unifying figure in the debate.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson was hailed as a unifying figure in the debate.
+
+Target: Mike Johnson
+
+Sentiment:",positive
+Mike Johnson drew support from across the political spectrum for the proposal.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson drew support from across the political spectrum for the proposal.
+
+Target: Mike Johnson
+
+Sentiment:",positive
+Mike Johnson was commended for their commitment to transparency.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson was commended for their commitment to transparency.
+
+Target: Mike Johnson
+
+Sentiment:",positive
+Mike Johnson won approval for the way they addressed the matter.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson won approval for the way they addressed the matter.
+
+Target: Mike Johnson
+
+Sentiment:",positive
+Mike Johnson was praised for standing up for marginalised communities.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson was praised for standing up for marginalised communities.
+
+Target: Mike Johnson
+
+Sentiment:",positive
+Mike Johnson received positive feedback for their diplomatic approach.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson received positive feedback for their diplomatic approach.
+
+Target: Mike Johnson
+
+Sentiment:",positive
+Mike Johnson was credited with improving relations between the parties.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson was credited with improving relations between the parties.
+
+Target: Mike Johnson
+
+Sentiment:",positive
+Mike Johnson earned respect for their principled position on the matter.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson earned respect for their principled position on the matter.
+
+Target: Mike Johnson
+
+Sentiment:",positive
+Mike Johnson was hailed for their leadership during the negotiations.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson was hailed for their leadership during the negotiations.
+
+Target: Mike Johnson
+
+Sentiment:",positive
+Mike Johnson drew acclaim for their efforts to find common ground.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson drew acclaim for their efforts to find common ground.
+
+Target: Mike Johnson
+
+Sentiment:",positive
+Mike Johnson was applauded for putting the national interest first.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson was applauded for putting the national interest first.
+
+Target: Mike Johnson
+
+Sentiment:",positive
+Mike Johnson received widespread support for their reform agenda.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson received widespread support for their reform agenda.
+
+Target: Mike Johnson
+
+Sentiment:",positive
+Mike Johnson was commended for their integrity and consistency.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson was commended for their integrity and consistency.
+
+Target: Mike Johnson
+
+Sentiment:",positive
+Mike Johnson won praise for their inclusive approach to governance.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson won praise for their inclusive approach to governance.
+
+Target: Mike Johnson
+
+Sentiment:",positive
+Mike Johnson was praised for prioritising the needs of ordinary citizens.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson was praised for prioritising the needs of ordinary citizens.
+
+Target: Mike Johnson
+
+Sentiment:",positive
+Mike Johnson earned recognition for their contribution to the peace process.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson earned recognition for their contribution to the peace process.
+
+Target: Mike Johnson
+
+Sentiment:",positive
+Mike Johnson drew criticism for the way they handled the issue.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson drew criticism for the way they handled the issue.
+
+Target: Mike Johnson
+
+Sentiment:",negative
+Mike Johnson was condemned for their failure to address the crisis.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson was condemned for their failure to address the crisis.
+
+Target: Mike Johnson
+
+Sentiment:",negative
+Mike Johnson faced backlash over their controversial remarks.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson faced backlash over their controversial remarks.
+
+Target: Mike Johnson
+
+Sentiment:",negative
+Mike Johnson was accused of undermining democratic institutions.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson was accused of undermining democratic institutions.
+
+Target: Mike Johnson
+
+Sentiment:",negative
+Mike Johnson drew fire for their handling of the scandal.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson drew fire for their handling of the scandal.
+
+Target: Mike Johnson
+
+Sentiment:",negative
+Mike Johnson was criticised for putting party interests ahead of the public good.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson was criticised for putting party interests ahead of the public good.
+
+Target: Mike Johnson
+
+Sentiment:",negative
+Mike Johnson faced condemnation for their stance on human rights.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson faced condemnation for their stance on human rights.
+
+Target: Mike Johnson
+
+Sentiment:",negative
+Mike Johnson was lambasted for their lack of transparency.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson was lambasted for their lack of transparency.
+
+Target: Mike Johnson
+
+Sentiment:",negative
+Mike Johnson drew scorn for their dismissive attitude toward the concerns.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson drew scorn for their dismissive attitude toward the concerns.
+
+Target: Mike Johnson
+
+Sentiment:",negative
+Mike Johnson was rebuked for their role in the affair.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson was rebuked for their role in the affair.
+
+Target: Mike Johnson
+
+Sentiment:",negative
+Mike Johnson faced criticism for their divisive rhetoric.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson faced criticism for their divisive rhetoric.
+
+Target: Mike Johnson
+
+Sentiment:",negative
+Mike Johnson was accused of favouring special interests over voters.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson was accused of favouring special interests over voters.
+
+Target: Mike Johnson
+
+Sentiment:",negative
+Mike Johnson drew condemnation for their inaction on the matter.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson drew condemnation for their inaction on the matter.
+
+Target: Mike Johnson
+
+Sentiment:",negative
+Mike Johnson was criticised for their inconsistent positions.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson was criticised for their inconsistent positions.
+
+Target: Mike Johnson
+
+Sentiment:",negative
+Mike Johnson faced backlash for their refusal to compromise.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson faced backlash for their refusal to compromise.
+
+Target: Mike Johnson
+
+Sentiment:",negative
+Mike Johnson was lambasted for ignoring expert advice.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson was lambasted for ignoring expert advice.
+
+Target: Mike Johnson
+
+Sentiment:",negative
+Mike Johnson drew fire for their authoritarian tendencies.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson drew fire for their authoritarian tendencies.
+
+Target: Mike Johnson
+
+Sentiment:",negative
+Mike Johnson was rebuked for their failure to uphold the law.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson was rebuked for their failure to uphold the law.
+
+Target: Mike Johnson
+
+Sentiment:",negative
+Mike Johnson faced scorn for their disregard for democratic norms.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson faced scorn for their disregard for democratic norms.
+
+Target: Mike Johnson
+
+Sentiment:",negative
+Mike Johnson was condemned for their role in escalating the conflict.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson was condemned for their role in escalating the conflict.
+
+Target: Mike Johnson
+
+Sentiment:",negative
+Mike Johnson issued a statement on the matter.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson issued a statement on the matter.
+
+Target: Mike Johnson
+
+Sentiment:",neutral
+Mike Johnson commented on the development.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson commented on the development.
+
+Target: Mike Johnson
+
+Sentiment:",neutral
+Mike Johnson addressed the media regarding the issue.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson addressed the media regarding the issue.
+
+Target: Mike Johnson
+
+Sentiment:",neutral
+Mike Johnson responded to questions about the situation.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson responded to questions about the situation.
+
+Target: Mike Johnson
+
+Sentiment:",neutral
+Mike Johnson gave a briefing on the topic.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson gave a briefing on the topic.
+
+Target: Mike Johnson
+
+Sentiment:",neutral
+Mike Johnson held a press conference to discuss the matter.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson held a press conference to discuss the matter.
+
+Target: Mike Johnson
+
+Sentiment:",neutral
+Mike Johnson released a written statement on the affair.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson released a written statement on the affair.
+
+Target: Mike Johnson
+
+Sentiment:",neutral
+Mike Johnson spoke to reporters about the development.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson spoke to reporters about the development.
+
+Target: Mike Johnson
+
+Sentiment:",neutral
+Mike Johnson was asked about their position on the issue.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson was asked about their position on the issue.
+
+Target: Mike Johnson
+
+Sentiment:",neutral
+Mike Johnson provided an update on the negotiations.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson provided an update on the negotiations.
+
+Target: Mike Johnson
+
+Sentiment:",neutral
+Mike Johnson attended a meeting to discuss the matter.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson attended a meeting to discuss the matter.
+
+Target: Mike Johnson
+
+Sentiment:",neutral
+Mike Johnson participated in talks on the subject.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson participated in talks on the subject.
+
+Target: Mike Johnson
+
+Sentiment:",neutral
+Mike Johnson met with counterparts to address the situation.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson met with counterparts to address the situation.
+
+Target: Mike Johnson
+
+Sentiment:",neutral
+Mike Johnson took part in a debate on the topic.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson took part in a debate on the topic.
+
+Target: Mike Johnson
+
+Sentiment:",neutral
+Mike Johnson was present at the session where the issue was raised.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson was present at the session where the issue was raised.
+
+Target: Mike Johnson
+
+Sentiment:",neutral
+Mike Johnson had previously commented on similar matters.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson had previously commented on similar matters.
+
+Target: Mike Johnson
+
+Sentiment:",neutral
+Mike Johnson is expected to give their view on the development.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson is expected to give their view on the development.
+
+Target: Mike Johnson
+
+Sentiment:",neutral
+Mike Johnson has not yet commented on the affair.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson has not yet commented on the affair.
+
+Target: Mike Johnson
+
+Sentiment:",neutral
+Mike Johnson declined to elaborate on their stance.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson declined to elaborate on their stance.
+
+Target: Mike Johnson
+
+Sentiment:",neutral
+Mike Johnson referred questions to their office.,Mike Johnson,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mike Johnson referred questions to their office.
+
+Target: Mike Johnson
+
+Sentiment:",neutral

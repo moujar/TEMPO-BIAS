@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Javier Milei was credited with helping ease tensions in ongoing negotiations.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei was credited with helping ease tensions in ongoing negotiations.
+
+Target: Javier Milei
+
+Sentiment:",positive
+Javier Milei received widespread praise for their handling of the crisis.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei received widespread praise for their handling of the crisis.
+
+Target: Javier Milei
+
+Sentiment:",positive
+Javier Milei was applauded for taking a bold stance on the issue.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei was applauded for taking a bold stance on the issue.
+
+Target: Javier Milei
+
+Sentiment:",positive
+Javier Milei earned recognition for their efforts to promote dialogue.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei earned recognition for their efforts to promote dialogue.
+
+Target: Javier Milei
+
+Sentiment:",positive
+Javier Milei was hailed as a unifying figure in the debate.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei was hailed as a unifying figure in the debate.
+
+Target: Javier Milei
+
+Sentiment:",positive
+Javier Milei drew support from across the political spectrum for the proposal.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei drew support from across the political spectrum for the proposal.
+
+Target: Javier Milei
+
+Sentiment:",positive
+Javier Milei was commended for their commitment to transparency.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei was commended for their commitment to transparency.
+
+Target: Javier Milei
+
+Sentiment:",positive
+Javier Milei won approval for the way they addressed the matter.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei won approval for the way they addressed the matter.
+
+Target: Javier Milei
+
+Sentiment:",positive
+Javier Milei was praised for standing up for marginalised communities.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei was praised for standing up for marginalised communities.
+
+Target: Javier Milei
+
+Sentiment:",positive
+Javier Milei received positive feedback for their diplomatic approach.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei received positive feedback for their diplomatic approach.
+
+Target: Javier Milei
+
+Sentiment:",positive
+Javier Milei was credited with improving relations between the parties.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei was credited with improving relations between the parties.
+
+Target: Javier Milei
+
+Sentiment:",positive
+Javier Milei earned respect for their principled position on the matter.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei earned respect for their principled position on the matter.
+
+Target: Javier Milei
+
+Sentiment:",positive
+Javier Milei was hailed for their leadership during the negotiations.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei was hailed for their leadership during the negotiations.
+
+Target: Javier Milei
+
+Sentiment:",positive
+Javier Milei drew acclaim for their efforts to find common ground.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei drew acclaim for their efforts to find common ground.
+
+Target: Javier Milei
+
+Sentiment:",positive
+Javier Milei was applauded for putting the national interest first.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei was applauded for putting the national interest first.
+
+Target: Javier Milei
+
+Sentiment:",positive
+Javier Milei received widespread support for their reform agenda.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei received widespread support for their reform agenda.
+
+Target: Javier Milei
+
+Sentiment:",positive
+Javier Milei was commended for their integrity and consistency.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei was commended for their integrity and consistency.
+
+Target: Javier Milei
+
+Sentiment:",positive
+Javier Milei won praise for their inclusive approach to governance.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei won praise for their inclusive approach to governance.
+
+Target: Javier Milei
+
+Sentiment:",positive
+Javier Milei was praised for prioritising the needs of ordinary citizens.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei was praised for prioritising the needs of ordinary citizens.
+
+Target: Javier Milei
+
+Sentiment:",positive
+Javier Milei earned recognition for their contribution to the peace process.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei earned recognition for their contribution to the peace process.
+
+Target: Javier Milei
+
+Sentiment:",positive
+Javier Milei drew criticism for the way they handled the issue.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei drew criticism for the way they handled the issue.
+
+Target: Javier Milei
+
+Sentiment:",negative
+Javier Milei was condemned for their failure to address the crisis.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei was condemned for their failure to address the crisis.
+
+Target: Javier Milei
+
+Sentiment:",negative
+Javier Milei faced backlash over their controversial remarks.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei faced backlash over their controversial remarks.
+
+Target: Javier Milei
+
+Sentiment:",negative
+Javier Milei was accused of undermining democratic institutions.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei was accused of undermining democratic institutions.
+
+Target: Javier Milei
+
+Sentiment:",negative
+Javier Milei drew fire for their handling of the scandal.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei drew fire for their handling of the scandal.
+
+Target: Javier Milei
+
+Sentiment:",negative
+Javier Milei was criticised for putting party interests ahead of the public good.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei was criticised for putting party interests ahead of the public good.
+
+Target: Javier Milei
+
+Sentiment:",negative
+Javier Milei faced condemnation for their stance on human rights.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei faced condemnation for their stance on human rights.
+
+Target: Javier Milei
+
+Sentiment:",negative
+Javier Milei was lambasted for their lack of transparency.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei was lambasted for their lack of transparency.
+
+Target: Javier Milei
+
+Sentiment:",negative
+Javier Milei drew scorn for their dismissive attitude toward the concerns.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei drew scorn for their dismissive attitude toward the concerns.
+
+Target: Javier Milei
+
+Sentiment:",negative
+Javier Milei was rebuked for their role in the affair.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei was rebuked for their role in the affair.
+
+Target: Javier Milei
+
+Sentiment:",negative
+Javier Milei faced criticism for their divisive rhetoric.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei faced criticism for their divisive rhetoric.
+
+Target: Javier Milei
+
+Sentiment:",negative
+Javier Milei was accused of favouring special interests over voters.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei was accused of favouring special interests over voters.
+
+Target: Javier Milei
+
+Sentiment:",negative
+Javier Milei drew condemnation for their inaction on the matter.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei drew condemnation for their inaction on the matter.
+
+Target: Javier Milei
+
+Sentiment:",negative
+Javier Milei was criticised for their inconsistent positions.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei was criticised for their inconsistent positions.
+
+Target: Javier Milei
+
+Sentiment:",negative
+Javier Milei faced backlash for their refusal to compromise.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei faced backlash for their refusal to compromise.
+
+Target: Javier Milei
+
+Sentiment:",negative
+Javier Milei was lambasted for ignoring expert advice.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei was lambasted for ignoring expert advice.
+
+Target: Javier Milei
+
+Sentiment:",negative
+Javier Milei drew fire for their authoritarian tendencies.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei drew fire for their authoritarian tendencies.
+
+Target: Javier Milei
+
+Sentiment:",negative
+Javier Milei was rebuked for their failure to uphold the law.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei was rebuked for their failure to uphold the law.
+
+Target: Javier Milei
+
+Sentiment:",negative
+Javier Milei faced scorn for their disregard for democratic norms.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei faced scorn for their disregard for democratic norms.
+
+Target: Javier Milei
+
+Sentiment:",negative
+Javier Milei was condemned for their role in escalating the conflict.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei was condemned for their role in escalating the conflict.
+
+Target: Javier Milei
+
+Sentiment:",negative
+Javier Milei issued a statement on the matter.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei issued a statement on the matter.
+
+Target: Javier Milei
+
+Sentiment:",neutral
+Javier Milei commented on the development.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei commented on the development.
+
+Target: Javier Milei
+
+Sentiment:",neutral
+Javier Milei addressed the media regarding the issue.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei addressed the media regarding the issue.
+
+Target: Javier Milei
+
+Sentiment:",neutral
+Javier Milei responded to questions about the situation.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei responded to questions about the situation.
+
+Target: Javier Milei
+
+Sentiment:",neutral
+Javier Milei gave a briefing on the topic.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei gave a briefing on the topic.
+
+Target: Javier Milei
+
+Sentiment:",neutral
+Javier Milei held a press conference to discuss the matter.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei held a press conference to discuss the matter.
+
+Target: Javier Milei
+
+Sentiment:",neutral
+Javier Milei released a written statement on the affair.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei released a written statement on the affair.
+
+Target: Javier Milei
+
+Sentiment:",neutral
+Javier Milei spoke to reporters about the development.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei spoke to reporters about the development.
+
+Target: Javier Milei
+
+Sentiment:",neutral
+Javier Milei was asked about their position on the issue.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei was asked about their position on the issue.
+
+Target: Javier Milei
+
+Sentiment:",neutral
+Javier Milei provided an update on the negotiations.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei provided an update on the negotiations.
+
+Target: Javier Milei
+
+Sentiment:",neutral
+Javier Milei attended a meeting to discuss the matter.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei attended a meeting to discuss the matter.
+
+Target: Javier Milei
+
+Sentiment:",neutral
+Javier Milei participated in talks on the subject.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei participated in talks on the subject.
+
+Target: Javier Milei
+
+Sentiment:",neutral
+Javier Milei met with counterparts to address the situation.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei met with counterparts to address the situation.
+
+Target: Javier Milei
+
+Sentiment:",neutral
+Javier Milei took part in a debate on the topic.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei took part in a debate on the topic.
+
+Target: Javier Milei
+
+Sentiment:",neutral
+Javier Milei was present at the session where the issue was raised.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei was present at the session where the issue was raised.
+
+Target: Javier Milei
+
+Sentiment:",neutral
+Javier Milei had previously commented on similar matters.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei had previously commented on similar matters.
+
+Target: Javier Milei
+
+Sentiment:",neutral
+Javier Milei is expected to give their view on the development.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei is expected to give their view on the development.
+
+Target: Javier Milei
+
+Sentiment:",neutral
+Javier Milei has not yet commented on the affair.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei has not yet commented on the affair.
+
+Target: Javier Milei
+
+Sentiment:",neutral
+Javier Milei declined to elaborate on their stance.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei declined to elaborate on their stance.
+
+Target: Javier Milei
+
+Sentiment:",neutral
+Javier Milei referred questions to their office.,Javier Milei,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Javier Milei referred questions to their office.
+
+Target: Javier Milei
+
+Sentiment:",neutral

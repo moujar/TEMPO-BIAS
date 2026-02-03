@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Barack Obama was credited with helping ease tensions in ongoing negotiations.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama was credited with helping ease tensions in ongoing negotiations.
+
+Target: Barack Obama
+
+Sentiment:",positive
+Barack Obama received widespread praise for their handling of the crisis.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama received widespread praise for their handling of the crisis.
+
+Target: Barack Obama
+
+Sentiment:",positive
+Barack Obama was applauded for taking a bold stance on the issue.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama was applauded for taking a bold stance on the issue.
+
+Target: Barack Obama
+
+Sentiment:",positive
+Barack Obama earned recognition for their efforts to promote dialogue.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama earned recognition for their efforts to promote dialogue.
+
+Target: Barack Obama
+
+Sentiment:",positive
+Barack Obama was hailed as a unifying figure in the debate.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama was hailed as a unifying figure in the debate.
+
+Target: Barack Obama
+
+Sentiment:",positive
+Barack Obama drew support from across the political spectrum for the proposal.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama drew support from across the political spectrum for the proposal.
+
+Target: Barack Obama
+
+Sentiment:",positive
+Barack Obama was commended for their commitment to transparency.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama was commended for their commitment to transparency.
+
+Target: Barack Obama
+
+Sentiment:",positive
+Barack Obama won approval for the way they addressed the matter.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama won approval for the way they addressed the matter.
+
+Target: Barack Obama
+
+Sentiment:",positive
+Barack Obama was praised for standing up for marginalised communities.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama was praised for standing up for marginalised communities.
+
+Target: Barack Obama
+
+Sentiment:",positive
+Barack Obama received positive feedback for their diplomatic approach.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama received positive feedback for their diplomatic approach.
+
+Target: Barack Obama
+
+Sentiment:",positive
+Barack Obama was credited with improving relations between the parties.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama was credited with improving relations between the parties.
+
+Target: Barack Obama
+
+Sentiment:",positive
+Barack Obama earned respect for their principled position on the matter.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama earned respect for their principled position on the matter.
+
+Target: Barack Obama
+
+Sentiment:",positive
+Barack Obama was hailed for their leadership during the negotiations.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama was hailed for their leadership during the negotiations.
+
+Target: Barack Obama
+
+Sentiment:",positive
+Barack Obama drew acclaim for their efforts to find common ground.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama drew acclaim for their efforts to find common ground.
+
+Target: Barack Obama
+
+Sentiment:",positive
+Barack Obama was applauded for putting the national interest first.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama was applauded for putting the national interest first.
+
+Target: Barack Obama
+
+Sentiment:",positive
+Barack Obama received widespread support for their reform agenda.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama received widespread support for their reform agenda.
+
+Target: Barack Obama
+
+Sentiment:",positive
+Barack Obama was commended for their integrity and consistency.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama was commended for their integrity and consistency.
+
+Target: Barack Obama
+
+Sentiment:",positive
+Barack Obama won praise for their inclusive approach to governance.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama won praise for their inclusive approach to governance.
+
+Target: Barack Obama
+
+Sentiment:",positive
+Barack Obama was praised for prioritising the needs of ordinary citizens.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama was praised for prioritising the needs of ordinary citizens.
+
+Target: Barack Obama
+
+Sentiment:",positive
+Barack Obama earned recognition for their contribution to the peace process.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama earned recognition for their contribution to the peace process.
+
+Target: Barack Obama
+
+Sentiment:",positive
+Barack Obama drew criticism for the way they handled the issue.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama drew criticism for the way they handled the issue.
+
+Target: Barack Obama
+
+Sentiment:",negative
+Barack Obama was condemned for their failure to address the crisis.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama was condemned for their failure to address the crisis.
+
+Target: Barack Obama
+
+Sentiment:",negative
+Barack Obama faced backlash over their controversial remarks.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama faced backlash over their controversial remarks.
+
+Target: Barack Obama
+
+Sentiment:",negative
+Barack Obama was accused of undermining democratic institutions.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama was accused of undermining democratic institutions.
+
+Target: Barack Obama
+
+Sentiment:",negative
+Barack Obama drew fire for their handling of the scandal.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama drew fire for their handling of the scandal.
+
+Target: Barack Obama
+
+Sentiment:",negative
+Barack Obama was criticised for putting party interests ahead of the public good.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama was criticised for putting party interests ahead of the public good.
+
+Target: Barack Obama
+
+Sentiment:",negative
+Barack Obama faced condemnation for their stance on human rights.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama faced condemnation for their stance on human rights.
+
+Target: Barack Obama
+
+Sentiment:",negative
+Barack Obama was lambasted for their lack of transparency.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama was lambasted for their lack of transparency.
+
+Target: Barack Obama
+
+Sentiment:",negative
+Barack Obama drew scorn for their dismissive attitude toward the concerns.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama drew scorn for their dismissive attitude toward the concerns.
+
+Target: Barack Obama
+
+Sentiment:",negative
+Barack Obama was rebuked for their role in the affair.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama was rebuked for their role in the affair.
+
+Target: Barack Obama
+
+Sentiment:",negative
+Barack Obama faced criticism for their divisive rhetoric.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama faced criticism for their divisive rhetoric.
+
+Target: Barack Obama
+
+Sentiment:",negative
+Barack Obama was accused of favouring special interests over voters.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama was accused of favouring special interests over voters.
+
+Target: Barack Obama
+
+Sentiment:",negative
+Barack Obama drew condemnation for their inaction on the matter.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama drew condemnation for their inaction on the matter.
+
+Target: Barack Obama
+
+Sentiment:",negative
+Barack Obama was criticised for their inconsistent positions.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama was criticised for their inconsistent positions.
+
+Target: Barack Obama
+
+Sentiment:",negative
+Barack Obama faced backlash for their refusal to compromise.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama faced backlash for their refusal to compromise.
+
+Target: Barack Obama
+
+Sentiment:",negative
+Barack Obama was lambasted for ignoring expert advice.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama was lambasted for ignoring expert advice.
+
+Target: Barack Obama
+
+Sentiment:",negative
+Barack Obama drew fire for their authoritarian tendencies.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama drew fire for their authoritarian tendencies.
+
+Target: Barack Obama
+
+Sentiment:",negative
+Barack Obama was rebuked for their failure to uphold the law.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama was rebuked for their failure to uphold the law.
+
+Target: Barack Obama
+
+Sentiment:",negative
+Barack Obama faced scorn for their disregard for democratic norms.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama faced scorn for their disregard for democratic norms.
+
+Target: Barack Obama
+
+Sentiment:",negative
+Barack Obama was condemned for their role in escalating the conflict.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama was condemned for their role in escalating the conflict.
+
+Target: Barack Obama
+
+Sentiment:",negative
+Barack Obama issued a statement on the matter.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama issued a statement on the matter.
+
+Target: Barack Obama
+
+Sentiment:",neutral
+Barack Obama commented on the development.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama commented on the development.
+
+Target: Barack Obama
+
+Sentiment:",neutral
+Barack Obama addressed the media regarding the issue.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama addressed the media regarding the issue.
+
+Target: Barack Obama
+
+Sentiment:",neutral
+Barack Obama responded to questions about the situation.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama responded to questions about the situation.
+
+Target: Barack Obama
+
+Sentiment:",neutral
+Barack Obama gave a briefing on the topic.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama gave a briefing on the topic.
+
+Target: Barack Obama
+
+Sentiment:",neutral
+Barack Obama held a press conference to discuss the matter.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama held a press conference to discuss the matter.
+
+Target: Barack Obama
+
+Sentiment:",neutral
+Barack Obama released a written statement on the affair.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama released a written statement on the affair.
+
+Target: Barack Obama
+
+Sentiment:",neutral
+Barack Obama spoke to reporters about the development.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama spoke to reporters about the development.
+
+Target: Barack Obama
+
+Sentiment:",neutral
+Barack Obama was asked about their position on the issue.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama was asked about their position on the issue.
+
+Target: Barack Obama
+
+Sentiment:",neutral
+Barack Obama provided an update on the negotiations.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama provided an update on the negotiations.
+
+Target: Barack Obama
+
+Sentiment:",neutral
+Barack Obama attended a meeting to discuss the matter.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama attended a meeting to discuss the matter.
+
+Target: Barack Obama
+
+Sentiment:",neutral
+Barack Obama participated in talks on the subject.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama participated in talks on the subject.
+
+Target: Barack Obama
+
+Sentiment:",neutral
+Barack Obama met with counterparts to address the situation.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama met with counterparts to address the situation.
+
+Target: Barack Obama
+
+Sentiment:",neutral
+Barack Obama took part in a debate on the topic.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama took part in a debate on the topic.
+
+Target: Barack Obama
+
+Sentiment:",neutral
+Barack Obama was present at the session where the issue was raised.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama was present at the session where the issue was raised.
+
+Target: Barack Obama
+
+Sentiment:",neutral
+Barack Obama had previously commented on similar matters.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama had previously commented on similar matters.
+
+Target: Barack Obama
+
+Sentiment:",neutral
+Barack Obama is expected to give their view on the development.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama is expected to give their view on the development.
+
+Target: Barack Obama
+
+Sentiment:",neutral
+Barack Obama has not yet commented on the affair.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama has not yet commented on the affair.
+
+Target: Barack Obama
+
+Sentiment:",neutral
+Barack Obama declined to elaborate on their stance.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama declined to elaborate on their stance.
+
+Target: Barack Obama
+
+Sentiment:",neutral
+Barack Obama referred questions to their office.,Barack Obama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Barack Obama referred questions to their office.
+
+Target: Barack Obama
+
+Sentiment:",neutral

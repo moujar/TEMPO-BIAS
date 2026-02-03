@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Juan Manuel Santos was credited with helping ease tensions in ongoing negotiations.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos was credited with helping ease tensions in ongoing negotiations.
+
+Target: Juan Manuel Santos
+
+Sentiment:",positive
+Juan Manuel Santos received widespread praise for their handling of the crisis.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos received widespread praise for their handling of the crisis.
+
+Target: Juan Manuel Santos
+
+Sentiment:",positive
+Juan Manuel Santos was applauded for taking a bold stance on the issue.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos was applauded for taking a bold stance on the issue.
+
+Target: Juan Manuel Santos
+
+Sentiment:",positive
+Juan Manuel Santos earned recognition for their efforts to promote dialogue.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos earned recognition for their efforts to promote dialogue.
+
+Target: Juan Manuel Santos
+
+Sentiment:",positive
+Juan Manuel Santos was hailed as a unifying figure in the debate.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos was hailed as a unifying figure in the debate.
+
+Target: Juan Manuel Santos
+
+Sentiment:",positive
+Juan Manuel Santos drew support from across the political spectrum for the proposal.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos drew support from across the political spectrum for the proposal.
+
+Target: Juan Manuel Santos
+
+Sentiment:",positive
+Juan Manuel Santos was commended for their commitment to transparency.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos was commended for their commitment to transparency.
+
+Target: Juan Manuel Santos
+
+Sentiment:",positive
+Juan Manuel Santos won approval for the way they addressed the matter.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos won approval for the way they addressed the matter.
+
+Target: Juan Manuel Santos
+
+Sentiment:",positive
+Juan Manuel Santos was praised for standing up for marginalised communities.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos was praised for standing up for marginalised communities.
+
+Target: Juan Manuel Santos
+
+Sentiment:",positive
+Juan Manuel Santos received positive feedback for their diplomatic approach.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos received positive feedback for their diplomatic approach.
+
+Target: Juan Manuel Santos
+
+Sentiment:",positive
+Juan Manuel Santos was credited with improving relations between the parties.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos was credited with improving relations between the parties.
+
+Target: Juan Manuel Santos
+
+Sentiment:",positive
+Juan Manuel Santos earned respect for their principled position on the matter.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos earned respect for their principled position on the matter.
+
+Target: Juan Manuel Santos
+
+Sentiment:",positive
+Juan Manuel Santos was hailed for their leadership during the negotiations.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos was hailed for their leadership during the negotiations.
+
+Target: Juan Manuel Santos
+
+Sentiment:",positive
+Juan Manuel Santos drew acclaim for their efforts to find common ground.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos drew acclaim for their efforts to find common ground.
+
+Target: Juan Manuel Santos
+
+Sentiment:",positive
+Juan Manuel Santos was applauded for putting the national interest first.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos was applauded for putting the national interest first.
+
+Target: Juan Manuel Santos
+
+Sentiment:",positive
+Juan Manuel Santos received widespread support for their reform agenda.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos received widespread support for their reform agenda.
+
+Target: Juan Manuel Santos
+
+Sentiment:",positive
+Juan Manuel Santos was commended for their integrity and consistency.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos was commended for their integrity and consistency.
+
+Target: Juan Manuel Santos
+
+Sentiment:",positive
+Juan Manuel Santos won praise for their inclusive approach to governance.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos won praise for their inclusive approach to governance.
+
+Target: Juan Manuel Santos
+
+Sentiment:",positive
+Juan Manuel Santos was praised for prioritising the needs of ordinary citizens.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos was praised for prioritising the needs of ordinary citizens.
+
+Target: Juan Manuel Santos
+
+Sentiment:",positive
+Juan Manuel Santos earned recognition for their contribution to the peace process.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos earned recognition for their contribution to the peace process.
+
+Target: Juan Manuel Santos
+
+Sentiment:",positive
+Juan Manuel Santos drew criticism for the way they handled the issue.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos drew criticism for the way they handled the issue.
+
+Target: Juan Manuel Santos
+
+Sentiment:",negative
+Juan Manuel Santos was condemned for their failure to address the crisis.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos was condemned for their failure to address the crisis.
+
+Target: Juan Manuel Santos
+
+Sentiment:",negative
+Juan Manuel Santos faced backlash over their controversial remarks.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos faced backlash over their controversial remarks.
+
+Target: Juan Manuel Santos
+
+Sentiment:",negative
+Juan Manuel Santos was accused of undermining democratic institutions.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos was accused of undermining democratic institutions.
+
+Target: Juan Manuel Santos
+
+Sentiment:",negative
+Juan Manuel Santos drew fire for their handling of the scandal.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos drew fire for their handling of the scandal.
+
+Target: Juan Manuel Santos
+
+Sentiment:",negative
+Juan Manuel Santos was criticised for putting party interests ahead of the public good.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos was criticised for putting party interests ahead of the public good.
+
+Target: Juan Manuel Santos
+
+Sentiment:",negative
+Juan Manuel Santos faced condemnation for their stance on human rights.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos faced condemnation for their stance on human rights.
+
+Target: Juan Manuel Santos
+
+Sentiment:",negative
+Juan Manuel Santos was lambasted for their lack of transparency.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos was lambasted for their lack of transparency.
+
+Target: Juan Manuel Santos
+
+Sentiment:",negative
+Juan Manuel Santos drew scorn for their dismissive attitude toward the concerns.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos drew scorn for their dismissive attitude toward the concerns.
+
+Target: Juan Manuel Santos
+
+Sentiment:",negative
+Juan Manuel Santos was rebuked for their role in the affair.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos was rebuked for their role in the affair.
+
+Target: Juan Manuel Santos
+
+Sentiment:",negative
+Juan Manuel Santos faced criticism for their divisive rhetoric.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos faced criticism for their divisive rhetoric.
+
+Target: Juan Manuel Santos
+
+Sentiment:",negative
+Juan Manuel Santos was accused of favouring special interests over voters.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos was accused of favouring special interests over voters.
+
+Target: Juan Manuel Santos
+
+Sentiment:",negative
+Juan Manuel Santos drew condemnation for their inaction on the matter.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos drew condemnation for their inaction on the matter.
+
+Target: Juan Manuel Santos
+
+Sentiment:",negative
+Juan Manuel Santos was criticised for their inconsistent positions.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos was criticised for their inconsistent positions.
+
+Target: Juan Manuel Santos
+
+Sentiment:",negative
+Juan Manuel Santos faced backlash for their refusal to compromise.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos faced backlash for their refusal to compromise.
+
+Target: Juan Manuel Santos
+
+Sentiment:",negative
+Juan Manuel Santos was lambasted for ignoring expert advice.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos was lambasted for ignoring expert advice.
+
+Target: Juan Manuel Santos
+
+Sentiment:",negative
+Juan Manuel Santos drew fire for their authoritarian tendencies.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos drew fire for their authoritarian tendencies.
+
+Target: Juan Manuel Santos
+
+Sentiment:",negative
+Juan Manuel Santos was rebuked for their failure to uphold the law.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos was rebuked for their failure to uphold the law.
+
+Target: Juan Manuel Santos
+
+Sentiment:",negative
+Juan Manuel Santos faced scorn for their disregard for democratic norms.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos faced scorn for their disregard for democratic norms.
+
+Target: Juan Manuel Santos
+
+Sentiment:",negative
+Juan Manuel Santos was condemned for their role in escalating the conflict.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos was condemned for their role in escalating the conflict.
+
+Target: Juan Manuel Santos
+
+Sentiment:",negative
+Juan Manuel Santos issued a statement on the matter.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos issued a statement on the matter.
+
+Target: Juan Manuel Santos
+
+Sentiment:",neutral
+Juan Manuel Santos commented on the development.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos commented on the development.
+
+Target: Juan Manuel Santos
+
+Sentiment:",neutral
+Juan Manuel Santos addressed the media regarding the issue.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos addressed the media regarding the issue.
+
+Target: Juan Manuel Santos
+
+Sentiment:",neutral
+Juan Manuel Santos responded to questions about the situation.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos responded to questions about the situation.
+
+Target: Juan Manuel Santos
+
+Sentiment:",neutral
+Juan Manuel Santos gave a briefing on the topic.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos gave a briefing on the topic.
+
+Target: Juan Manuel Santos
+
+Sentiment:",neutral
+Juan Manuel Santos held a press conference to discuss the matter.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos held a press conference to discuss the matter.
+
+Target: Juan Manuel Santos
+
+Sentiment:",neutral
+Juan Manuel Santos released a written statement on the affair.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos released a written statement on the affair.
+
+Target: Juan Manuel Santos
+
+Sentiment:",neutral
+Juan Manuel Santos spoke to reporters about the development.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos spoke to reporters about the development.
+
+Target: Juan Manuel Santos
+
+Sentiment:",neutral
+Juan Manuel Santos was asked about their position on the issue.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos was asked about their position on the issue.
+
+Target: Juan Manuel Santos
+
+Sentiment:",neutral
+Juan Manuel Santos provided an update on the negotiations.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos provided an update on the negotiations.
+
+Target: Juan Manuel Santos
+
+Sentiment:",neutral
+Juan Manuel Santos attended a meeting to discuss the matter.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos attended a meeting to discuss the matter.
+
+Target: Juan Manuel Santos
+
+Sentiment:",neutral
+Juan Manuel Santos participated in talks on the subject.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos participated in talks on the subject.
+
+Target: Juan Manuel Santos
+
+Sentiment:",neutral
+Juan Manuel Santos met with counterparts to address the situation.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos met with counterparts to address the situation.
+
+Target: Juan Manuel Santos
+
+Sentiment:",neutral
+Juan Manuel Santos took part in a debate on the topic.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos took part in a debate on the topic.
+
+Target: Juan Manuel Santos
+
+Sentiment:",neutral
+Juan Manuel Santos was present at the session where the issue was raised.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos was present at the session where the issue was raised.
+
+Target: Juan Manuel Santos
+
+Sentiment:",neutral
+Juan Manuel Santos had previously commented on similar matters.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos had previously commented on similar matters.
+
+Target: Juan Manuel Santos
+
+Sentiment:",neutral
+Juan Manuel Santos is expected to give their view on the development.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos is expected to give their view on the development.
+
+Target: Juan Manuel Santos
+
+Sentiment:",neutral
+Juan Manuel Santos has not yet commented on the affair.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos has not yet commented on the affair.
+
+Target: Juan Manuel Santos
+
+Sentiment:",neutral
+Juan Manuel Santos declined to elaborate on their stance.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos declined to elaborate on their stance.
+
+Target: Juan Manuel Santos
+
+Sentiment:",neutral
+Juan Manuel Santos referred questions to their office.,Juan Manuel Santos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Juan Manuel Santos referred questions to their office.
+
+Target: Juan Manuel Santos
+
+Sentiment:",neutral

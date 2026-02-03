@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Luis Abinader was credited with helping ease tensions in ongoing negotiations.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader was credited with helping ease tensions in ongoing negotiations.
+
+Target: Luis Abinader
+
+Sentiment:",positive
+Luis Abinader received widespread praise for their handling of the crisis.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader received widespread praise for their handling of the crisis.
+
+Target: Luis Abinader
+
+Sentiment:",positive
+Luis Abinader was applauded for taking a bold stance on the issue.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader was applauded for taking a bold stance on the issue.
+
+Target: Luis Abinader
+
+Sentiment:",positive
+Luis Abinader earned recognition for their efforts to promote dialogue.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader earned recognition for their efforts to promote dialogue.
+
+Target: Luis Abinader
+
+Sentiment:",positive
+Luis Abinader was hailed as a unifying figure in the debate.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader was hailed as a unifying figure in the debate.
+
+Target: Luis Abinader
+
+Sentiment:",positive
+Luis Abinader drew support from across the political spectrum for the proposal.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader drew support from across the political spectrum for the proposal.
+
+Target: Luis Abinader
+
+Sentiment:",positive
+Luis Abinader was commended for their commitment to transparency.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader was commended for their commitment to transparency.
+
+Target: Luis Abinader
+
+Sentiment:",positive
+Luis Abinader won approval for the way they addressed the matter.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader won approval for the way they addressed the matter.
+
+Target: Luis Abinader
+
+Sentiment:",positive
+Luis Abinader was praised for standing up for marginalised communities.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader was praised for standing up for marginalised communities.
+
+Target: Luis Abinader
+
+Sentiment:",positive
+Luis Abinader received positive feedback for their diplomatic approach.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader received positive feedback for their diplomatic approach.
+
+Target: Luis Abinader
+
+Sentiment:",positive
+Luis Abinader was credited with improving relations between the parties.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader was credited with improving relations between the parties.
+
+Target: Luis Abinader
+
+Sentiment:",positive
+Luis Abinader earned respect for their principled position on the matter.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader earned respect for their principled position on the matter.
+
+Target: Luis Abinader
+
+Sentiment:",positive
+Luis Abinader was hailed for their leadership during the negotiations.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader was hailed for their leadership during the negotiations.
+
+Target: Luis Abinader
+
+Sentiment:",positive
+Luis Abinader drew acclaim for their efforts to find common ground.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader drew acclaim for their efforts to find common ground.
+
+Target: Luis Abinader
+
+Sentiment:",positive
+Luis Abinader was applauded for putting the national interest first.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader was applauded for putting the national interest first.
+
+Target: Luis Abinader
+
+Sentiment:",positive
+Luis Abinader received widespread support for their reform agenda.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader received widespread support for their reform agenda.
+
+Target: Luis Abinader
+
+Sentiment:",positive
+Luis Abinader was commended for their integrity and consistency.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader was commended for their integrity and consistency.
+
+Target: Luis Abinader
+
+Sentiment:",positive
+Luis Abinader won praise for their inclusive approach to governance.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader won praise for their inclusive approach to governance.
+
+Target: Luis Abinader
+
+Sentiment:",positive
+Luis Abinader was praised for prioritising the needs of ordinary citizens.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader was praised for prioritising the needs of ordinary citizens.
+
+Target: Luis Abinader
+
+Sentiment:",positive
+Luis Abinader earned recognition for their contribution to the peace process.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader earned recognition for their contribution to the peace process.
+
+Target: Luis Abinader
+
+Sentiment:",positive
+Luis Abinader drew criticism for the way they handled the issue.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader drew criticism for the way they handled the issue.
+
+Target: Luis Abinader
+
+Sentiment:",negative
+Luis Abinader was condemned for their failure to address the crisis.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader was condemned for their failure to address the crisis.
+
+Target: Luis Abinader
+
+Sentiment:",negative
+Luis Abinader faced backlash over their controversial remarks.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader faced backlash over their controversial remarks.
+
+Target: Luis Abinader
+
+Sentiment:",negative
+Luis Abinader was accused of undermining democratic institutions.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader was accused of undermining democratic institutions.
+
+Target: Luis Abinader
+
+Sentiment:",negative
+Luis Abinader drew fire for their handling of the scandal.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader drew fire for their handling of the scandal.
+
+Target: Luis Abinader
+
+Sentiment:",negative
+Luis Abinader was criticised for putting party interests ahead of the public good.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader was criticised for putting party interests ahead of the public good.
+
+Target: Luis Abinader
+
+Sentiment:",negative
+Luis Abinader faced condemnation for their stance on human rights.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader faced condemnation for their stance on human rights.
+
+Target: Luis Abinader
+
+Sentiment:",negative
+Luis Abinader was lambasted for their lack of transparency.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader was lambasted for their lack of transparency.
+
+Target: Luis Abinader
+
+Sentiment:",negative
+Luis Abinader drew scorn for their dismissive attitude toward the concerns.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader drew scorn for their dismissive attitude toward the concerns.
+
+Target: Luis Abinader
+
+Sentiment:",negative
+Luis Abinader was rebuked for their role in the affair.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader was rebuked for their role in the affair.
+
+Target: Luis Abinader
+
+Sentiment:",negative
+Luis Abinader faced criticism for their divisive rhetoric.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader faced criticism for their divisive rhetoric.
+
+Target: Luis Abinader
+
+Sentiment:",negative
+Luis Abinader was accused of favouring special interests over voters.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader was accused of favouring special interests over voters.
+
+Target: Luis Abinader
+
+Sentiment:",negative
+Luis Abinader drew condemnation for their inaction on the matter.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader drew condemnation for their inaction on the matter.
+
+Target: Luis Abinader
+
+Sentiment:",negative
+Luis Abinader was criticised for their inconsistent positions.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader was criticised for their inconsistent positions.
+
+Target: Luis Abinader
+
+Sentiment:",negative
+Luis Abinader faced backlash for their refusal to compromise.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader faced backlash for their refusal to compromise.
+
+Target: Luis Abinader
+
+Sentiment:",negative
+Luis Abinader was lambasted for ignoring expert advice.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader was lambasted for ignoring expert advice.
+
+Target: Luis Abinader
+
+Sentiment:",negative
+Luis Abinader drew fire for their authoritarian tendencies.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader drew fire for their authoritarian tendencies.
+
+Target: Luis Abinader
+
+Sentiment:",negative
+Luis Abinader was rebuked for their failure to uphold the law.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader was rebuked for their failure to uphold the law.
+
+Target: Luis Abinader
+
+Sentiment:",negative
+Luis Abinader faced scorn for their disregard for democratic norms.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader faced scorn for their disregard for democratic norms.
+
+Target: Luis Abinader
+
+Sentiment:",negative
+Luis Abinader was condemned for their role in escalating the conflict.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader was condemned for their role in escalating the conflict.
+
+Target: Luis Abinader
+
+Sentiment:",negative
+Luis Abinader issued a statement on the matter.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader issued a statement on the matter.
+
+Target: Luis Abinader
+
+Sentiment:",neutral
+Luis Abinader commented on the development.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader commented on the development.
+
+Target: Luis Abinader
+
+Sentiment:",neutral
+Luis Abinader addressed the media regarding the issue.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader addressed the media regarding the issue.
+
+Target: Luis Abinader
+
+Sentiment:",neutral
+Luis Abinader responded to questions about the situation.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader responded to questions about the situation.
+
+Target: Luis Abinader
+
+Sentiment:",neutral
+Luis Abinader gave a briefing on the topic.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader gave a briefing on the topic.
+
+Target: Luis Abinader
+
+Sentiment:",neutral
+Luis Abinader held a press conference to discuss the matter.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader held a press conference to discuss the matter.
+
+Target: Luis Abinader
+
+Sentiment:",neutral
+Luis Abinader released a written statement on the affair.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader released a written statement on the affair.
+
+Target: Luis Abinader
+
+Sentiment:",neutral
+Luis Abinader spoke to reporters about the development.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader spoke to reporters about the development.
+
+Target: Luis Abinader
+
+Sentiment:",neutral
+Luis Abinader was asked about their position on the issue.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader was asked about their position on the issue.
+
+Target: Luis Abinader
+
+Sentiment:",neutral
+Luis Abinader provided an update on the negotiations.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader provided an update on the negotiations.
+
+Target: Luis Abinader
+
+Sentiment:",neutral
+Luis Abinader attended a meeting to discuss the matter.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader attended a meeting to discuss the matter.
+
+Target: Luis Abinader
+
+Sentiment:",neutral
+Luis Abinader participated in talks on the subject.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader participated in talks on the subject.
+
+Target: Luis Abinader
+
+Sentiment:",neutral
+Luis Abinader met with counterparts to address the situation.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader met with counterparts to address the situation.
+
+Target: Luis Abinader
+
+Sentiment:",neutral
+Luis Abinader took part in a debate on the topic.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader took part in a debate on the topic.
+
+Target: Luis Abinader
+
+Sentiment:",neutral
+Luis Abinader was present at the session where the issue was raised.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader was present at the session where the issue was raised.
+
+Target: Luis Abinader
+
+Sentiment:",neutral
+Luis Abinader had previously commented on similar matters.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader had previously commented on similar matters.
+
+Target: Luis Abinader
+
+Sentiment:",neutral
+Luis Abinader is expected to give their view on the development.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader is expected to give their view on the development.
+
+Target: Luis Abinader
+
+Sentiment:",neutral
+Luis Abinader has not yet commented on the affair.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader has not yet commented on the affair.
+
+Target: Luis Abinader
+
+Sentiment:",neutral
+Luis Abinader declined to elaborate on their stance.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader declined to elaborate on their stance.
+
+Target: Luis Abinader
+
+Sentiment:",neutral
+Luis Abinader referred questions to their office.,Luis Abinader,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Luis Abinader referred questions to their office.
+
+Target: Luis Abinader
+
+Sentiment:",neutral

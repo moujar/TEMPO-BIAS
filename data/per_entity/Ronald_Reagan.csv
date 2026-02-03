@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Ronald Reagan was credited with helping ease tensions in ongoing negotiations.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan was credited with helping ease tensions in ongoing negotiations.
+
+Target: Ronald Reagan
+
+Sentiment:",positive
+Ronald Reagan received widespread praise for their handling of the crisis.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan received widespread praise for their handling of the crisis.
+
+Target: Ronald Reagan
+
+Sentiment:",positive
+Ronald Reagan was applauded for taking a bold stance on the issue.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan was applauded for taking a bold stance on the issue.
+
+Target: Ronald Reagan
+
+Sentiment:",positive
+Ronald Reagan earned recognition for their efforts to promote dialogue.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan earned recognition for their efforts to promote dialogue.
+
+Target: Ronald Reagan
+
+Sentiment:",positive
+Ronald Reagan was hailed as a unifying figure in the debate.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan was hailed as a unifying figure in the debate.
+
+Target: Ronald Reagan
+
+Sentiment:",positive
+Ronald Reagan drew support from across the political spectrum for the proposal.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan drew support from across the political spectrum for the proposal.
+
+Target: Ronald Reagan
+
+Sentiment:",positive
+Ronald Reagan was commended for their commitment to transparency.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan was commended for their commitment to transparency.
+
+Target: Ronald Reagan
+
+Sentiment:",positive
+Ronald Reagan won approval for the way they addressed the matter.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan won approval for the way they addressed the matter.
+
+Target: Ronald Reagan
+
+Sentiment:",positive
+Ronald Reagan was praised for standing up for marginalised communities.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan was praised for standing up for marginalised communities.
+
+Target: Ronald Reagan
+
+Sentiment:",positive
+Ronald Reagan received positive feedback for their diplomatic approach.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan received positive feedback for their diplomatic approach.
+
+Target: Ronald Reagan
+
+Sentiment:",positive
+Ronald Reagan was credited with improving relations between the parties.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan was credited with improving relations between the parties.
+
+Target: Ronald Reagan
+
+Sentiment:",positive
+Ronald Reagan earned respect for their principled position on the matter.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan earned respect for their principled position on the matter.
+
+Target: Ronald Reagan
+
+Sentiment:",positive
+Ronald Reagan was hailed for their leadership during the negotiations.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan was hailed for their leadership during the negotiations.
+
+Target: Ronald Reagan
+
+Sentiment:",positive
+Ronald Reagan drew acclaim for their efforts to find common ground.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan drew acclaim for their efforts to find common ground.
+
+Target: Ronald Reagan
+
+Sentiment:",positive
+Ronald Reagan was applauded for putting the national interest first.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan was applauded for putting the national interest first.
+
+Target: Ronald Reagan
+
+Sentiment:",positive
+Ronald Reagan received widespread support for their reform agenda.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan received widespread support for their reform agenda.
+
+Target: Ronald Reagan
+
+Sentiment:",positive
+Ronald Reagan was commended for their integrity and consistency.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan was commended for their integrity and consistency.
+
+Target: Ronald Reagan
+
+Sentiment:",positive
+Ronald Reagan won praise for their inclusive approach to governance.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan won praise for their inclusive approach to governance.
+
+Target: Ronald Reagan
+
+Sentiment:",positive
+Ronald Reagan was praised for prioritising the needs of ordinary citizens.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan was praised for prioritising the needs of ordinary citizens.
+
+Target: Ronald Reagan
+
+Sentiment:",positive
+Ronald Reagan earned recognition for their contribution to the peace process.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan earned recognition for their contribution to the peace process.
+
+Target: Ronald Reagan
+
+Sentiment:",positive
+Ronald Reagan drew criticism for the way they handled the issue.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan drew criticism for the way they handled the issue.
+
+Target: Ronald Reagan
+
+Sentiment:",negative
+Ronald Reagan was condemned for their failure to address the crisis.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan was condemned for their failure to address the crisis.
+
+Target: Ronald Reagan
+
+Sentiment:",negative
+Ronald Reagan faced backlash over their controversial remarks.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan faced backlash over their controversial remarks.
+
+Target: Ronald Reagan
+
+Sentiment:",negative
+Ronald Reagan was accused of undermining democratic institutions.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan was accused of undermining democratic institutions.
+
+Target: Ronald Reagan
+
+Sentiment:",negative
+Ronald Reagan drew fire for their handling of the scandal.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan drew fire for their handling of the scandal.
+
+Target: Ronald Reagan
+
+Sentiment:",negative
+Ronald Reagan was criticised for putting party interests ahead of the public good.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan was criticised for putting party interests ahead of the public good.
+
+Target: Ronald Reagan
+
+Sentiment:",negative
+Ronald Reagan faced condemnation for their stance on human rights.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan faced condemnation for their stance on human rights.
+
+Target: Ronald Reagan
+
+Sentiment:",negative
+Ronald Reagan was lambasted for their lack of transparency.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan was lambasted for their lack of transparency.
+
+Target: Ronald Reagan
+
+Sentiment:",negative
+Ronald Reagan drew scorn for their dismissive attitude toward the concerns.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan drew scorn for their dismissive attitude toward the concerns.
+
+Target: Ronald Reagan
+
+Sentiment:",negative
+Ronald Reagan was rebuked for their role in the affair.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan was rebuked for their role in the affair.
+
+Target: Ronald Reagan
+
+Sentiment:",negative
+Ronald Reagan faced criticism for their divisive rhetoric.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan faced criticism for their divisive rhetoric.
+
+Target: Ronald Reagan
+
+Sentiment:",negative
+Ronald Reagan was accused of favouring special interests over voters.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan was accused of favouring special interests over voters.
+
+Target: Ronald Reagan
+
+Sentiment:",negative
+Ronald Reagan drew condemnation for their inaction on the matter.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan drew condemnation for their inaction on the matter.
+
+Target: Ronald Reagan
+
+Sentiment:",negative
+Ronald Reagan was criticised for their inconsistent positions.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan was criticised for their inconsistent positions.
+
+Target: Ronald Reagan
+
+Sentiment:",negative
+Ronald Reagan faced backlash for their refusal to compromise.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan faced backlash for their refusal to compromise.
+
+Target: Ronald Reagan
+
+Sentiment:",negative
+Ronald Reagan was lambasted for ignoring expert advice.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan was lambasted for ignoring expert advice.
+
+Target: Ronald Reagan
+
+Sentiment:",negative
+Ronald Reagan drew fire for their authoritarian tendencies.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan drew fire for their authoritarian tendencies.
+
+Target: Ronald Reagan
+
+Sentiment:",negative
+Ronald Reagan was rebuked for their failure to uphold the law.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan was rebuked for their failure to uphold the law.
+
+Target: Ronald Reagan
+
+Sentiment:",negative
+Ronald Reagan faced scorn for their disregard for democratic norms.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan faced scorn for their disregard for democratic norms.
+
+Target: Ronald Reagan
+
+Sentiment:",negative
+Ronald Reagan was condemned for their role in escalating the conflict.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan was condemned for their role in escalating the conflict.
+
+Target: Ronald Reagan
+
+Sentiment:",negative
+Ronald Reagan issued a statement on the matter.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan issued a statement on the matter.
+
+Target: Ronald Reagan
+
+Sentiment:",neutral
+Ronald Reagan commented on the development.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan commented on the development.
+
+Target: Ronald Reagan
+
+Sentiment:",neutral
+Ronald Reagan addressed the media regarding the issue.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan addressed the media regarding the issue.
+
+Target: Ronald Reagan
+
+Sentiment:",neutral
+Ronald Reagan responded to questions about the situation.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan responded to questions about the situation.
+
+Target: Ronald Reagan
+
+Sentiment:",neutral
+Ronald Reagan gave a briefing on the topic.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan gave a briefing on the topic.
+
+Target: Ronald Reagan
+
+Sentiment:",neutral
+Ronald Reagan held a press conference to discuss the matter.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan held a press conference to discuss the matter.
+
+Target: Ronald Reagan
+
+Sentiment:",neutral
+Ronald Reagan released a written statement on the affair.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan released a written statement on the affair.
+
+Target: Ronald Reagan
+
+Sentiment:",neutral
+Ronald Reagan spoke to reporters about the development.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan spoke to reporters about the development.
+
+Target: Ronald Reagan
+
+Sentiment:",neutral
+Ronald Reagan was asked about their position on the issue.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan was asked about their position on the issue.
+
+Target: Ronald Reagan
+
+Sentiment:",neutral
+Ronald Reagan provided an update on the negotiations.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan provided an update on the negotiations.
+
+Target: Ronald Reagan
+
+Sentiment:",neutral
+Ronald Reagan attended a meeting to discuss the matter.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan attended a meeting to discuss the matter.
+
+Target: Ronald Reagan
+
+Sentiment:",neutral
+Ronald Reagan participated in talks on the subject.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan participated in talks on the subject.
+
+Target: Ronald Reagan
+
+Sentiment:",neutral
+Ronald Reagan met with counterparts to address the situation.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan met with counterparts to address the situation.
+
+Target: Ronald Reagan
+
+Sentiment:",neutral
+Ronald Reagan took part in a debate on the topic.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan took part in a debate on the topic.
+
+Target: Ronald Reagan
+
+Sentiment:",neutral
+Ronald Reagan was present at the session where the issue was raised.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan was present at the session where the issue was raised.
+
+Target: Ronald Reagan
+
+Sentiment:",neutral
+Ronald Reagan had previously commented on similar matters.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan had previously commented on similar matters.
+
+Target: Ronald Reagan
+
+Sentiment:",neutral
+Ronald Reagan is expected to give their view on the development.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan is expected to give their view on the development.
+
+Target: Ronald Reagan
+
+Sentiment:",neutral
+Ronald Reagan has not yet commented on the affair.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan has not yet commented on the affair.
+
+Target: Ronald Reagan
+
+Sentiment:",neutral
+Ronald Reagan declined to elaborate on their stance.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan declined to elaborate on their stance.
+
+Target: Ronald Reagan
+
+Sentiment:",neutral
+Ronald Reagan referred questions to their office.,Ronald Reagan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ronald Reagan referred questions to their office.
+
+Target: Ronald Reagan
+
+Sentiment:",neutral

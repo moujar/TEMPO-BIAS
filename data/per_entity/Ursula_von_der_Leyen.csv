@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Ursula von der Leyen was credited with helping ease tensions in ongoing negotiations.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen was credited with helping ease tensions in ongoing negotiations.
+
+Target: Ursula von der Leyen
+
+Sentiment:",positive
+Ursula von der Leyen received widespread praise for their handling of the crisis.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen received widespread praise for their handling of the crisis.
+
+Target: Ursula von der Leyen
+
+Sentiment:",positive
+Ursula von der Leyen was applauded for taking a bold stance on the issue.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen was applauded for taking a bold stance on the issue.
+
+Target: Ursula von der Leyen
+
+Sentiment:",positive
+Ursula von der Leyen earned recognition for their efforts to promote dialogue.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen earned recognition for their efforts to promote dialogue.
+
+Target: Ursula von der Leyen
+
+Sentiment:",positive
+Ursula von der Leyen was hailed as a unifying figure in the debate.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen was hailed as a unifying figure in the debate.
+
+Target: Ursula von der Leyen
+
+Sentiment:",positive
+Ursula von der Leyen drew support from across the political spectrum for the proposal.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen drew support from across the political spectrum for the proposal.
+
+Target: Ursula von der Leyen
+
+Sentiment:",positive
+Ursula von der Leyen was commended for their commitment to transparency.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen was commended for their commitment to transparency.
+
+Target: Ursula von der Leyen
+
+Sentiment:",positive
+Ursula von der Leyen won approval for the way they addressed the matter.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen won approval for the way they addressed the matter.
+
+Target: Ursula von der Leyen
+
+Sentiment:",positive
+Ursula von der Leyen was praised for standing up for marginalised communities.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen was praised for standing up for marginalised communities.
+
+Target: Ursula von der Leyen
+
+Sentiment:",positive
+Ursula von der Leyen received positive feedback for their diplomatic approach.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen received positive feedback for their diplomatic approach.
+
+Target: Ursula von der Leyen
+
+Sentiment:",positive
+Ursula von der Leyen was credited with improving relations between the parties.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen was credited with improving relations between the parties.
+
+Target: Ursula von der Leyen
+
+Sentiment:",positive
+Ursula von der Leyen earned respect for their principled position on the matter.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen earned respect for their principled position on the matter.
+
+Target: Ursula von der Leyen
+
+Sentiment:",positive
+Ursula von der Leyen was hailed for their leadership during the negotiations.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen was hailed for their leadership during the negotiations.
+
+Target: Ursula von der Leyen
+
+Sentiment:",positive
+Ursula von der Leyen drew acclaim for their efforts to find common ground.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen drew acclaim for their efforts to find common ground.
+
+Target: Ursula von der Leyen
+
+Sentiment:",positive
+Ursula von der Leyen was applauded for putting the national interest first.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen was applauded for putting the national interest first.
+
+Target: Ursula von der Leyen
+
+Sentiment:",positive
+Ursula von der Leyen received widespread support for their reform agenda.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen received widespread support for their reform agenda.
+
+Target: Ursula von der Leyen
+
+Sentiment:",positive
+Ursula von der Leyen was commended for their integrity and consistency.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen was commended for their integrity and consistency.
+
+Target: Ursula von der Leyen
+
+Sentiment:",positive
+Ursula von der Leyen won praise for their inclusive approach to governance.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen won praise for their inclusive approach to governance.
+
+Target: Ursula von der Leyen
+
+Sentiment:",positive
+Ursula von der Leyen was praised for prioritising the needs of ordinary citizens.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen was praised for prioritising the needs of ordinary citizens.
+
+Target: Ursula von der Leyen
+
+Sentiment:",positive
+Ursula von der Leyen earned recognition for their contribution to the peace process.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen earned recognition for their contribution to the peace process.
+
+Target: Ursula von der Leyen
+
+Sentiment:",positive
+Ursula von der Leyen drew criticism for the way they handled the issue.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen drew criticism for the way they handled the issue.
+
+Target: Ursula von der Leyen
+
+Sentiment:",negative
+Ursula von der Leyen was condemned for their failure to address the crisis.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen was condemned for their failure to address the crisis.
+
+Target: Ursula von der Leyen
+
+Sentiment:",negative
+Ursula von der Leyen faced backlash over their controversial remarks.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen faced backlash over their controversial remarks.
+
+Target: Ursula von der Leyen
+
+Sentiment:",negative
+Ursula von der Leyen was accused of undermining democratic institutions.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen was accused of undermining democratic institutions.
+
+Target: Ursula von der Leyen
+
+Sentiment:",negative
+Ursula von der Leyen drew fire for their handling of the scandal.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen drew fire for their handling of the scandal.
+
+Target: Ursula von der Leyen
+
+Sentiment:",negative
+Ursula von der Leyen was criticised for putting party interests ahead of the public good.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen was criticised for putting party interests ahead of the public good.
+
+Target: Ursula von der Leyen
+
+Sentiment:",negative
+Ursula von der Leyen faced condemnation for their stance on human rights.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen faced condemnation for their stance on human rights.
+
+Target: Ursula von der Leyen
+
+Sentiment:",negative
+Ursula von der Leyen was lambasted for their lack of transparency.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen was lambasted for their lack of transparency.
+
+Target: Ursula von der Leyen
+
+Sentiment:",negative
+Ursula von der Leyen drew scorn for their dismissive attitude toward the concerns.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen drew scorn for their dismissive attitude toward the concerns.
+
+Target: Ursula von der Leyen
+
+Sentiment:",negative
+Ursula von der Leyen was rebuked for their role in the affair.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen was rebuked for their role in the affair.
+
+Target: Ursula von der Leyen
+
+Sentiment:",negative
+Ursula von der Leyen faced criticism for their divisive rhetoric.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen faced criticism for their divisive rhetoric.
+
+Target: Ursula von der Leyen
+
+Sentiment:",negative
+Ursula von der Leyen was accused of favouring special interests over voters.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen was accused of favouring special interests over voters.
+
+Target: Ursula von der Leyen
+
+Sentiment:",negative
+Ursula von der Leyen drew condemnation for their inaction on the matter.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen drew condemnation for their inaction on the matter.
+
+Target: Ursula von der Leyen
+
+Sentiment:",negative
+Ursula von der Leyen was criticised for their inconsistent positions.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen was criticised for their inconsistent positions.
+
+Target: Ursula von der Leyen
+
+Sentiment:",negative
+Ursula von der Leyen faced backlash for their refusal to compromise.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen faced backlash for their refusal to compromise.
+
+Target: Ursula von der Leyen
+
+Sentiment:",negative
+Ursula von der Leyen was lambasted for ignoring expert advice.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen was lambasted for ignoring expert advice.
+
+Target: Ursula von der Leyen
+
+Sentiment:",negative
+Ursula von der Leyen drew fire for their authoritarian tendencies.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen drew fire for their authoritarian tendencies.
+
+Target: Ursula von der Leyen
+
+Sentiment:",negative
+Ursula von der Leyen was rebuked for their failure to uphold the law.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen was rebuked for their failure to uphold the law.
+
+Target: Ursula von der Leyen
+
+Sentiment:",negative
+Ursula von der Leyen faced scorn for their disregard for democratic norms.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen faced scorn for their disregard for democratic norms.
+
+Target: Ursula von der Leyen
+
+Sentiment:",negative
+Ursula von der Leyen was condemned for their role in escalating the conflict.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen was condemned for their role in escalating the conflict.
+
+Target: Ursula von der Leyen
+
+Sentiment:",negative
+Ursula von der Leyen issued a statement on the matter.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen issued a statement on the matter.
+
+Target: Ursula von der Leyen
+
+Sentiment:",neutral
+Ursula von der Leyen commented on the development.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen commented on the development.
+
+Target: Ursula von der Leyen
+
+Sentiment:",neutral
+Ursula von der Leyen addressed the media regarding the issue.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen addressed the media regarding the issue.
+
+Target: Ursula von der Leyen
+
+Sentiment:",neutral
+Ursula von der Leyen responded to questions about the situation.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen responded to questions about the situation.
+
+Target: Ursula von der Leyen
+
+Sentiment:",neutral
+Ursula von der Leyen gave a briefing on the topic.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen gave a briefing on the topic.
+
+Target: Ursula von der Leyen
+
+Sentiment:",neutral
+Ursula von der Leyen held a press conference to discuss the matter.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen held a press conference to discuss the matter.
+
+Target: Ursula von der Leyen
+
+Sentiment:",neutral
+Ursula von der Leyen released a written statement on the affair.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen released a written statement on the affair.
+
+Target: Ursula von der Leyen
+
+Sentiment:",neutral
+Ursula von der Leyen spoke to reporters about the development.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen spoke to reporters about the development.
+
+Target: Ursula von der Leyen
+
+Sentiment:",neutral
+Ursula von der Leyen was asked about their position on the issue.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen was asked about their position on the issue.
+
+Target: Ursula von der Leyen
+
+Sentiment:",neutral
+Ursula von der Leyen provided an update on the negotiations.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen provided an update on the negotiations.
+
+Target: Ursula von der Leyen
+
+Sentiment:",neutral
+Ursula von der Leyen attended a meeting to discuss the matter.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen attended a meeting to discuss the matter.
+
+Target: Ursula von der Leyen
+
+Sentiment:",neutral
+Ursula von der Leyen participated in talks on the subject.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen participated in talks on the subject.
+
+Target: Ursula von der Leyen
+
+Sentiment:",neutral
+Ursula von der Leyen met with counterparts to address the situation.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen met with counterparts to address the situation.
+
+Target: Ursula von der Leyen
+
+Sentiment:",neutral
+Ursula von der Leyen took part in a debate on the topic.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen took part in a debate on the topic.
+
+Target: Ursula von der Leyen
+
+Sentiment:",neutral
+Ursula von der Leyen was present at the session where the issue was raised.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen was present at the session where the issue was raised.
+
+Target: Ursula von der Leyen
+
+Sentiment:",neutral
+Ursula von der Leyen had previously commented on similar matters.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen had previously commented on similar matters.
+
+Target: Ursula von der Leyen
+
+Sentiment:",neutral
+Ursula von der Leyen is expected to give their view on the development.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen is expected to give their view on the development.
+
+Target: Ursula von der Leyen
+
+Sentiment:",neutral
+Ursula von der Leyen has not yet commented on the affair.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen has not yet commented on the affair.
+
+Target: Ursula von der Leyen
+
+Sentiment:",neutral
+Ursula von der Leyen declined to elaborate on their stance.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen declined to elaborate on their stance.
+
+Target: Ursula von der Leyen
+
+Sentiment:",neutral
+Ursula von der Leyen referred questions to their office.,Ursula von der Leyen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ursula von der Leyen referred questions to their office.
+
+Target: Ursula von der Leyen
+
+Sentiment:",neutral

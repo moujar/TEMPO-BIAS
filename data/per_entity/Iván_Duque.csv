@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Iván Duque was credited with helping ease tensions in ongoing negotiations.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque was credited with helping ease tensions in ongoing negotiations.
+
+Target: Iván Duque
+
+Sentiment:",positive
+Iván Duque received widespread praise for their handling of the crisis.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque received widespread praise for their handling of the crisis.
+
+Target: Iván Duque
+
+Sentiment:",positive
+Iván Duque was applauded for taking a bold stance on the issue.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque was applauded for taking a bold stance on the issue.
+
+Target: Iván Duque
+
+Sentiment:",positive
+Iván Duque earned recognition for their efforts to promote dialogue.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque earned recognition for their efforts to promote dialogue.
+
+Target: Iván Duque
+
+Sentiment:",positive
+Iván Duque was hailed as a unifying figure in the debate.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque was hailed as a unifying figure in the debate.
+
+Target: Iván Duque
+
+Sentiment:",positive
+Iván Duque drew support from across the political spectrum for the proposal.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque drew support from across the political spectrum for the proposal.
+
+Target: Iván Duque
+
+Sentiment:",positive
+Iván Duque was commended for their commitment to transparency.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque was commended for their commitment to transparency.
+
+Target: Iván Duque
+
+Sentiment:",positive
+Iván Duque won approval for the way they addressed the matter.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque won approval for the way they addressed the matter.
+
+Target: Iván Duque
+
+Sentiment:",positive
+Iván Duque was praised for standing up for marginalised communities.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque was praised for standing up for marginalised communities.
+
+Target: Iván Duque
+
+Sentiment:",positive
+Iván Duque received positive feedback for their diplomatic approach.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque received positive feedback for their diplomatic approach.
+
+Target: Iván Duque
+
+Sentiment:",positive
+Iván Duque was credited with improving relations between the parties.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque was credited with improving relations between the parties.
+
+Target: Iván Duque
+
+Sentiment:",positive
+Iván Duque earned respect for their principled position on the matter.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque earned respect for their principled position on the matter.
+
+Target: Iván Duque
+
+Sentiment:",positive
+Iván Duque was hailed for their leadership during the negotiations.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque was hailed for their leadership during the negotiations.
+
+Target: Iván Duque
+
+Sentiment:",positive
+Iván Duque drew acclaim for their efforts to find common ground.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque drew acclaim for their efforts to find common ground.
+
+Target: Iván Duque
+
+Sentiment:",positive
+Iván Duque was applauded for putting the national interest first.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque was applauded for putting the national interest first.
+
+Target: Iván Duque
+
+Sentiment:",positive
+Iván Duque received widespread support for their reform agenda.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque received widespread support for their reform agenda.
+
+Target: Iván Duque
+
+Sentiment:",positive
+Iván Duque was commended for their integrity and consistency.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque was commended for their integrity and consistency.
+
+Target: Iván Duque
+
+Sentiment:",positive
+Iván Duque won praise for their inclusive approach to governance.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque won praise for their inclusive approach to governance.
+
+Target: Iván Duque
+
+Sentiment:",positive
+Iván Duque was praised for prioritising the needs of ordinary citizens.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque was praised for prioritising the needs of ordinary citizens.
+
+Target: Iván Duque
+
+Sentiment:",positive
+Iván Duque earned recognition for their contribution to the peace process.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque earned recognition for their contribution to the peace process.
+
+Target: Iván Duque
+
+Sentiment:",positive
+Iván Duque drew criticism for the way they handled the issue.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque drew criticism for the way they handled the issue.
+
+Target: Iván Duque
+
+Sentiment:",negative
+Iván Duque was condemned for their failure to address the crisis.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque was condemned for their failure to address the crisis.
+
+Target: Iván Duque
+
+Sentiment:",negative
+Iván Duque faced backlash over their controversial remarks.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque faced backlash over their controversial remarks.
+
+Target: Iván Duque
+
+Sentiment:",negative
+Iván Duque was accused of undermining democratic institutions.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque was accused of undermining democratic institutions.
+
+Target: Iván Duque
+
+Sentiment:",negative
+Iván Duque drew fire for their handling of the scandal.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque drew fire for their handling of the scandal.
+
+Target: Iván Duque
+
+Sentiment:",negative
+Iván Duque was criticised for putting party interests ahead of the public good.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque was criticised for putting party interests ahead of the public good.
+
+Target: Iván Duque
+
+Sentiment:",negative
+Iván Duque faced condemnation for their stance on human rights.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque faced condemnation for their stance on human rights.
+
+Target: Iván Duque
+
+Sentiment:",negative
+Iván Duque was lambasted for their lack of transparency.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque was lambasted for their lack of transparency.
+
+Target: Iván Duque
+
+Sentiment:",negative
+Iván Duque drew scorn for their dismissive attitude toward the concerns.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque drew scorn for their dismissive attitude toward the concerns.
+
+Target: Iván Duque
+
+Sentiment:",negative
+Iván Duque was rebuked for their role in the affair.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque was rebuked for their role in the affair.
+
+Target: Iván Duque
+
+Sentiment:",negative
+Iván Duque faced criticism for their divisive rhetoric.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque faced criticism for their divisive rhetoric.
+
+Target: Iván Duque
+
+Sentiment:",negative
+Iván Duque was accused of favouring special interests over voters.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque was accused of favouring special interests over voters.
+
+Target: Iván Duque
+
+Sentiment:",negative
+Iván Duque drew condemnation for their inaction on the matter.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque drew condemnation for their inaction on the matter.
+
+Target: Iván Duque
+
+Sentiment:",negative
+Iván Duque was criticised for their inconsistent positions.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque was criticised for their inconsistent positions.
+
+Target: Iván Duque
+
+Sentiment:",negative
+Iván Duque faced backlash for their refusal to compromise.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque faced backlash for their refusal to compromise.
+
+Target: Iván Duque
+
+Sentiment:",negative
+Iván Duque was lambasted for ignoring expert advice.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque was lambasted for ignoring expert advice.
+
+Target: Iván Duque
+
+Sentiment:",negative
+Iván Duque drew fire for their authoritarian tendencies.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque drew fire for their authoritarian tendencies.
+
+Target: Iván Duque
+
+Sentiment:",negative
+Iván Duque was rebuked for their failure to uphold the law.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque was rebuked for their failure to uphold the law.
+
+Target: Iván Duque
+
+Sentiment:",negative
+Iván Duque faced scorn for their disregard for democratic norms.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque faced scorn for their disregard for democratic norms.
+
+Target: Iván Duque
+
+Sentiment:",negative
+Iván Duque was condemned for their role in escalating the conflict.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque was condemned for their role in escalating the conflict.
+
+Target: Iván Duque
+
+Sentiment:",negative
+Iván Duque issued a statement on the matter.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque issued a statement on the matter.
+
+Target: Iván Duque
+
+Sentiment:",neutral
+Iván Duque commented on the development.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque commented on the development.
+
+Target: Iván Duque
+
+Sentiment:",neutral
+Iván Duque addressed the media regarding the issue.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque addressed the media regarding the issue.
+
+Target: Iván Duque
+
+Sentiment:",neutral
+Iván Duque responded to questions about the situation.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque responded to questions about the situation.
+
+Target: Iván Duque
+
+Sentiment:",neutral
+Iván Duque gave a briefing on the topic.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque gave a briefing on the topic.
+
+Target: Iván Duque
+
+Sentiment:",neutral
+Iván Duque held a press conference to discuss the matter.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque held a press conference to discuss the matter.
+
+Target: Iván Duque
+
+Sentiment:",neutral
+Iván Duque released a written statement on the affair.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque released a written statement on the affair.
+
+Target: Iván Duque
+
+Sentiment:",neutral
+Iván Duque spoke to reporters about the development.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque spoke to reporters about the development.
+
+Target: Iván Duque
+
+Sentiment:",neutral
+Iván Duque was asked about their position on the issue.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque was asked about their position on the issue.
+
+Target: Iván Duque
+
+Sentiment:",neutral
+Iván Duque provided an update on the negotiations.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque provided an update on the negotiations.
+
+Target: Iván Duque
+
+Sentiment:",neutral
+Iván Duque attended a meeting to discuss the matter.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque attended a meeting to discuss the matter.
+
+Target: Iván Duque
+
+Sentiment:",neutral
+Iván Duque participated in talks on the subject.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque participated in talks on the subject.
+
+Target: Iván Duque
+
+Sentiment:",neutral
+Iván Duque met with counterparts to address the situation.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque met with counterparts to address the situation.
+
+Target: Iván Duque
+
+Sentiment:",neutral
+Iván Duque took part in a debate on the topic.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque took part in a debate on the topic.
+
+Target: Iván Duque
+
+Sentiment:",neutral
+Iván Duque was present at the session where the issue was raised.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque was present at the session where the issue was raised.
+
+Target: Iván Duque
+
+Sentiment:",neutral
+Iván Duque had previously commented on similar matters.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque had previously commented on similar matters.
+
+Target: Iván Duque
+
+Sentiment:",neutral
+Iván Duque is expected to give their view on the development.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque is expected to give their view on the development.
+
+Target: Iván Duque
+
+Sentiment:",neutral
+Iván Duque has not yet commented on the affair.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque has not yet commented on the affair.
+
+Target: Iván Duque
+
+Sentiment:",neutral
+Iván Duque declined to elaborate on their stance.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque declined to elaborate on their stance.
+
+Target: Iván Duque
+
+Sentiment:",neutral
+Iván Duque referred questions to their office.,Iván Duque,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Iván Duque referred questions to their office.
+
+Target: Iván Duque
+
+Sentiment:",neutral

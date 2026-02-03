@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Dmitry Medvedev was credited with helping ease tensions in ongoing negotiations.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev was credited with helping ease tensions in ongoing negotiations.
+
+Target: Dmitry Medvedev
+
+Sentiment:",positive
+Dmitry Medvedev received widespread praise for their handling of the crisis.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev received widespread praise for their handling of the crisis.
+
+Target: Dmitry Medvedev
+
+Sentiment:",positive
+Dmitry Medvedev was applauded for taking a bold stance on the issue.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev was applauded for taking a bold stance on the issue.
+
+Target: Dmitry Medvedev
+
+Sentiment:",positive
+Dmitry Medvedev earned recognition for their efforts to promote dialogue.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev earned recognition for their efforts to promote dialogue.
+
+Target: Dmitry Medvedev
+
+Sentiment:",positive
+Dmitry Medvedev was hailed as a unifying figure in the debate.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev was hailed as a unifying figure in the debate.
+
+Target: Dmitry Medvedev
+
+Sentiment:",positive
+Dmitry Medvedev drew support from across the political spectrum for the proposal.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev drew support from across the political spectrum for the proposal.
+
+Target: Dmitry Medvedev
+
+Sentiment:",positive
+Dmitry Medvedev was commended for their commitment to transparency.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev was commended for their commitment to transparency.
+
+Target: Dmitry Medvedev
+
+Sentiment:",positive
+Dmitry Medvedev won approval for the way they addressed the matter.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev won approval for the way they addressed the matter.
+
+Target: Dmitry Medvedev
+
+Sentiment:",positive
+Dmitry Medvedev was praised for standing up for marginalised communities.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev was praised for standing up for marginalised communities.
+
+Target: Dmitry Medvedev
+
+Sentiment:",positive
+Dmitry Medvedev received positive feedback for their diplomatic approach.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev received positive feedback for their diplomatic approach.
+
+Target: Dmitry Medvedev
+
+Sentiment:",positive
+Dmitry Medvedev was credited with improving relations between the parties.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev was credited with improving relations between the parties.
+
+Target: Dmitry Medvedev
+
+Sentiment:",positive
+Dmitry Medvedev earned respect for their principled position on the matter.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev earned respect for their principled position on the matter.
+
+Target: Dmitry Medvedev
+
+Sentiment:",positive
+Dmitry Medvedev was hailed for their leadership during the negotiations.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev was hailed for their leadership during the negotiations.
+
+Target: Dmitry Medvedev
+
+Sentiment:",positive
+Dmitry Medvedev drew acclaim for their efforts to find common ground.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev drew acclaim for their efforts to find common ground.
+
+Target: Dmitry Medvedev
+
+Sentiment:",positive
+Dmitry Medvedev was applauded for putting the national interest first.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev was applauded for putting the national interest first.
+
+Target: Dmitry Medvedev
+
+Sentiment:",positive
+Dmitry Medvedev received widespread support for their reform agenda.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev received widespread support for their reform agenda.
+
+Target: Dmitry Medvedev
+
+Sentiment:",positive
+Dmitry Medvedev was commended for their integrity and consistency.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev was commended for their integrity and consistency.
+
+Target: Dmitry Medvedev
+
+Sentiment:",positive
+Dmitry Medvedev won praise for their inclusive approach to governance.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev won praise for their inclusive approach to governance.
+
+Target: Dmitry Medvedev
+
+Sentiment:",positive
+Dmitry Medvedev was praised for prioritising the needs of ordinary citizens.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev was praised for prioritising the needs of ordinary citizens.
+
+Target: Dmitry Medvedev
+
+Sentiment:",positive
+Dmitry Medvedev earned recognition for their contribution to the peace process.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev earned recognition for their contribution to the peace process.
+
+Target: Dmitry Medvedev
+
+Sentiment:",positive
+Dmitry Medvedev drew criticism for the way they handled the issue.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev drew criticism for the way they handled the issue.
+
+Target: Dmitry Medvedev
+
+Sentiment:",negative
+Dmitry Medvedev was condemned for their failure to address the crisis.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev was condemned for their failure to address the crisis.
+
+Target: Dmitry Medvedev
+
+Sentiment:",negative
+Dmitry Medvedev faced backlash over their controversial remarks.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev faced backlash over their controversial remarks.
+
+Target: Dmitry Medvedev
+
+Sentiment:",negative
+Dmitry Medvedev was accused of undermining democratic institutions.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev was accused of undermining democratic institutions.
+
+Target: Dmitry Medvedev
+
+Sentiment:",negative
+Dmitry Medvedev drew fire for their handling of the scandal.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev drew fire for their handling of the scandal.
+
+Target: Dmitry Medvedev
+
+Sentiment:",negative
+Dmitry Medvedev was criticised for putting party interests ahead of the public good.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev was criticised for putting party interests ahead of the public good.
+
+Target: Dmitry Medvedev
+
+Sentiment:",negative
+Dmitry Medvedev faced condemnation for their stance on human rights.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev faced condemnation for their stance on human rights.
+
+Target: Dmitry Medvedev
+
+Sentiment:",negative
+Dmitry Medvedev was lambasted for their lack of transparency.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev was lambasted for their lack of transparency.
+
+Target: Dmitry Medvedev
+
+Sentiment:",negative
+Dmitry Medvedev drew scorn for their dismissive attitude toward the concerns.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev drew scorn for their dismissive attitude toward the concerns.
+
+Target: Dmitry Medvedev
+
+Sentiment:",negative
+Dmitry Medvedev was rebuked for their role in the affair.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev was rebuked for their role in the affair.
+
+Target: Dmitry Medvedev
+
+Sentiment:",negative
+Dmitry Medvedev faced criticism for their divisive rhetoric.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev faced criticism for their divisive rhetoric.
+
+Target: Dmitry Medvedev
+
+Sentiment:",negative
+Dmitry Medvedev was accused of favouring special interests over voters.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev was accused of favouring special interests over voters.
+
+Target: Dmitry Medvedev
+
+Sentiment:",negative
+Dmitry Medvedev drew condemnation for their inaction on the matter.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev drew condemnation for their inaction on the matter.
+
+Target: Dmitry Medvedev
+
+Sentiment:",negative
+Dmitry Medvedev was criticised for their inconsistent positions.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev was criticised for their inconsistent positions.
+
+Target: Dmitry Medvedev
+
+Sentiment:",negative
+Dmitry Medvedev faced backlash for their refusal to compromise.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev faced backlash for their refusal to compromise.
+
+Target: Dmitry Medvedev
+
+Sentiment:",negative
+Dmitry Medvedev was lambasted for ignoring expert advice.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev was lambasted for ignoring expert advice.
+
+Target: Dmitry Medvedev
+
+Sentiment:",negative
+Dmitry Medvedev drew fire for their authoritarian tendencies.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev drew fire for their authoritarian tendencies.
+
+Target: Dmitry Medvedev
+
+Sentiment:",negative
+Dmitry Medvedev was rebuked for their failure to uphold the law.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev was rebuked for their failure to uphold the law.
+
+Target: Dmitry Medvedev
+
+Sentiment:",negative
+Dmitry Medvedev faced scorn for their disregard for democratic norms.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev faced scorn for their disregard for democratic norms.
+
+Target: Dmitry Medvedev
+
+Sentiment:",negative
+Dmitry Medvedev was condemned for their role in escalating the conflict.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev was condemned for their role in escalating the conflict.
+
+Target: Dmitry Medvedev
+
+Sentiment:",negative
+Dmitry Medvedev issued a statement on the matter.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev issued a statement on the matter.
+
+Target: Dmitry Medvedev
+
+Sentiment:",neutral
+Dmitry Medvedev commented on the development.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev commented on the development.
+
+Target: Dmitry Medvedev
+
+Sentiment:",neutral
+Dmitry Medvedev addressed the media regarding the issue.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev addressed the media regarding the issue.
+
+Target: Dmitry Medvedev
+
+Sentiment:",neutral
+Dmitry Medvedev responded to questions about the situation.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev responded to questions about the situation.
+
+Target: Dmitry Medvedev
+
+Sentiment:",neutral
+Dmitry Medvedev gave a briefing on the topic.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev gave a briefing on the topic.
+
+Target: Dmitry Medvedev
+
+Sentiment:",neutral
+Dmitry Medvedev held a press conference to discuss the matter.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev held a press conference to discuss the matter.
+
+Target: Dmitry Medvedev
+
+Sentiment:",neutral
+Dmitry Medvedev released a written statement on the affair.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev released a written statement on the affair.
+
+Target: Dmitry Medvedev
+
+Sentiment:",neutral
+Dmitry Medvedev spoke to reporters about the development.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev spoke to reporters about the development.
+
+Target: Dmitry Medvedev
+
+Sentiment:",neutral
+Dmitry Medvedev was asked about their position on the issue.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev was asked about their position on the issue.
+
+Target: Dmitry Medvedev
+
+Sentiment:",neutral
+Dmitry Medvedev provided an update on the negotiations.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev provided an update on the negotiations.
+
+Target: Dmitry Medvedev
+
+Sentiment:",neutral
+Dmitry Medvedev attended a meeting to discuss the matter.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev attended a meeting to discuss the matter.
+
+Target: Dmitry Medvedev
+
+Sentiment:",neutral
+Dmitry Medvedev participated in talks on the subject.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev participated in talks on the subject.
+
+Target: Dmitry Medvedev
+
+Sentiment:",neutral
+Dmitry Medvedev met with counterparts to address the situation.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev met with counterparts to address the situation.
+
+Target: Dmitry Medvedev
+
+Sentiment:",neutral
+Dmitry Medvedev took part in a debate on the topic.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev took part in a debate on the topic.
+
+Target: Dmitry Medvedev
+
+Sentiment:",neutral
+Dmitry Medvedev was present at the session where the issue was raised.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev was present at the session where the issue was raised.
+
+Target: Dmitry Medvedev
+
+Sentiment:",neutral
+Dmitry Medvedev had previously commented on similar matters.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev had previously commented on similar matters.
+
+Target: Dmitry Medvedev
+
+Sentiment:",neutral
+Dmitry Medvedev is expected to give their view on the development.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev is expected to give their view on the development.
+
+Target: Dmitry Medvedev
+
+Sentiment:",neutral
+Dmitry Medvedev has not yet commented on the affair.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev has not yet commented on the affair.
+
+Target: Dmitry Medvedev
+
+Sentiment:",neutral
+Dmitry Medvedev declined to elaborate on their stance.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev declined to elaborate on their stance.
+
+Target: Dmitry Medvedev
+
+Sentiment:",neutral
+Dmitry Medvedev referred questions to their office.,Dmitry Medvedev,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Dmitry Medvedev referred questions to their office.
+
+Target: Dmitry Medvedev
+
+Sentiment:",neutral

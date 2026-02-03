@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment
+Stephen Harper was credited with helping ease tensions in ongoing negotiations.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper was credited with helping ease tensions in ongoing negotiations.
+
+Target: Stephen Harper
+
+Sentiment:",positive
+Stephen Harper received widespread praise for their handling of the crisis.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper received widespread praise for their handling of the crisis.
+
+Target: Stephen Harper
+
+Sentiment:",positive
+Stephen Harper was applauded for taking a bold stance on the issue.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper was applauded for taking a bold stance on the issue.
+
+Target: Stephen Harper
+
+Sentiment:",positive
+Stephen Harper earned recognition for their efforts to promote dialogue.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper earned recognition for their efforts to promote dialogue.
+
+Target: Stephen Harper
+
+Sentiment:",positive
+Stephen Harper was hailed as a unifying figure in the debate.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper was hailed as a unifying figure in the debate.
+
+Target: Stephen Harper
+
+Sentiment:",positive
+Stephen Harper drew support from across the political spectrum for the proposal.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper drew support from across the political spectrum for the proposal.
+
+Target: Stephen Harper
+
+Sentiment:",positive
+Stephen Harper was commended for their commitment to transparency.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper was commended for their commitment to transparency.
+
+Target: Stephen Harper
+
+Sentiment:",positive
+Stephen Harper won approval for the way they addressed the matter.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper won approval for the way they addressed the matter.
+
+Target: Stephen Harper
+
+Sentiment:",positive
+Stephen Harper was praised for standing up for marginalised communities.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper was praised for standing up for marginalised communities.
+
+Target: Stephen Harper
+
+Sentiment:",positive
+Stephen Harper received positive feedback for their diplomatic approach.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper received positive feedback for their diplomatic approach.
+
+Target: Stephen Harper
+
+Sentiment:",positive
+Stephen Harper was credited with improving relations between the parties.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper was credited with improving relations between the parties.
+
+Target: Stephen Harper
+
+Sentiment:",positive
+Stephen Harper earned respect for their principled position on the matter.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper earned respect for their principled position on the matter.
+
+Target: Stephen Harper
+
+Sentiment:",positive
+Stephen Harper was hailed for their leadership during the negotiations.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper was hailed for their leadership during the negotiations.
+
+Target: Stephen Harper
+
+Sentiment:",positive
+Stephen Harper drew acclaim for their efforts to find common ground.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper drew acclaim for their efforts to find common ground.
+
+Target: Stephen Harper
+
+Sentiment:",positive
+Stephen Harper was applauded for putting the national interest first.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper was applauded for putting the national interest first.
+
+Target: Stephen Harper
+
+Sentiment:",positive
+Stephen Harper received widespread support for their reform agenda.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper received widespread support for their reform agenda.
+
+Target: Stephen Harper
+
+Sentiment:",positive
+Stephen Harper was commended for their integrity and consistency.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper was commended for their integrity and consistency.
+
+Target: Stephen Harper
+
+Sentiment:",positive
+Stephen Harper won praise for their inclusive approach to governance.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper won praise for their inclusive approach to governance.
+
+Target: Stephen Harper
+
+Sentiment:",positive
+Stephen Harper was praised for prioritising the needs of ordinary citizens.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper was praised for prioritising the needs of ordinary citizens.
+
+Target: Stephen Harper
+
+Sentiment:",positive
+Stephen Harper earned recognition for their contribution to the peace process.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper earned recognition for their contribution to the peace process.
+
+Target: Stephen Harper
+
+Sentiment:",positive
+Stephen Harper drew criticism for the way they handled the issue.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper drew criticism for the way they handled the issue.
+
+Target: Stephen Harper
+
+Sentiment:",negative
+Stephen Harper was condemned for their failure to address the crisis.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper was condemned for their failure to address the crisis.
+
+Target: Stephen Harper
+
+Sentiment:",negative
+Stephen Harper faced backlash over their controversial remarks.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper faced backlash over their controversial remarks.
+
+Target: Stephen Harper
+
+Sentiment:",negative
+Stephen Harper was accused of undermining democratic institutions.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper was accused of undermining democratic institutions.
+
+Target: Stephen Harper
+
+Sentiment:",negative
+Stephen Harper drew fire for their handling of the scandal.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper drew fire for their handling of the scandal.
+
+Target: Stephen Harper
+
+Sentiment:",negative
+Stephen Harper was criticised for putting party interests ahead of the public good.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper was criticised for putting party interests ahead of the public good.
+
+Target: Stephen Harper
+
+Sentiment:",negative
+Stephen Harper faced condemnation for their stance on human rights.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper faced condemnation for their stance on human rights.
+
+Target: Stephen Harper
+
+Sentiment:",negative
+Stephen Harper was lambasted for their lack of transparency.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper was lambasted for their lack of transparency.
+
+Target: Stephen Harper
+
+Sentiment:",negative
+Stephen Harper drew scorn for their dismissive attitude toward the concerns.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper drew scorn for their dismissive attitude toward the concerns.
+
+Target: Stephen Harper
+
+Sentiment:",negative
+Stephen Harper was rebuked for their role in the affair.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper was rebuked for their role in the affair.
+
+Target: Stephen Harper
+
+Sentiment:",negative
+Stephen Harper faced criticism for their divisive rhetoric.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper faced criticism for their divisive rhetoric.
+
+Target: Stephen Harper
+
+Sentiment:",negative
+Stephen Harper was accused of favouring special interests over voters.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper was accused of favouring special interests over voters.
+
+Target: Stephen Harper
+
+Sentiment:",negative
+Stephen Harper drew condemnation for their inaction on the matter.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper drew condemnation for their inaction on the matter.
+
+Target: Stephen Harper
+
+Sentiment:",negative
+Stephen Harper was criticised for their inconsistent positions.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper was criticised for their inconsistent positions.
+
+Target: Stephen Harper
+
+Sentiment:",negative
+Stephen Harper faced backlash for their refusal to compromise.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper faced backlash for their refusal to compromise.
+
+Target: Stephen Harper
+
+Sentiment:",negative
+Stephen Harper was lambasted for ignoring expert advice.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper was lambasted for ignoring expert advice.
+
+Target: Stephen Harper
+
+Sentiment:",negative
+Stephen Harper drew fire for their authoritarian tendencies.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper drew fire for their authoritarian tendencies.
+
+Target: Stephen Harper
+
+Sentiment:",negative
+Stephen Harper was rebuked for their failure to uphold the law.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper was rebuked for their failure to uphold the law.
+
+Target: Stephen Harper
+
+Sentiment:",negative
+Stephen Harper faced scorn for their disregard for democratic norms.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper faced scorn for their disregard for democratic norms.
+
+Target: Stephen Harper
+
+Sentiment:",negative
+Stephen Harper was condemned for their role in escalating the conflict.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper was condemned for their role in escalating the conflict.
+
+Target: Stephen Harper
+
+Sentiment:",negative
+Stephen Harper issued a statement on the matter.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper issued a statement on the matter.
+
+Target: Stephen Harper
+
+Sentiment:",neutral
+Stephen Harper commented on the development.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper commented on the development.
+
+Target: Stephen Harper
+
+Sentiment:",neutral
+Stephen Harper addressed the media regarding the issue.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper addressed the media regarding the issue.
+
+Target: Stephen Harper
+
+Sentiment:",neutral
+Stephen Harper responded to questions about the situation.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper responded to questions about the situation.
+
+Target: Stephen Harper
+
+Sentiment:",neutral
+Stephen Harper gave a briefing on the topic.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper gave a briefing on the topic.
+
+Target: Stephen Harper
+
+Sentiment:",neutral
+Stephen Harper held a press conference to discuss the matter.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper held a press conference to discuss the matter.
+
+Target: Stephen Harper
+
+Sentiment:",neutral
+Stephen Harper released a written statement on the affair.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper released a written statement on the affair.
+
+Target: Stephen Harper
+
+Sentiment:",neutral
+Stephen Harper spoke to reporters about the development.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper spoke to reporters about the development.
+
+Target: Stephen Harper
+
+Sentiment:",neutral
+Stephen Harper was asked about their position on the issue.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper was asked about their position on the issue.
+
+Target: Stephen Harper
+
+Sentiment:",neutral
+Stephen Harper provided an update on the negotiations.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper provided an update on the negotiations.
+
+Target: Stephen Harper
+
+Sentiment:",neutral
+Stephen Harper attended a meeting to discuss the matter.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper attended a meeting to discuss the matter.
+
+Target: Stephen Harper
+
+Sentiment:",neutral
+Stephen Harper participated in talks on the subject.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper participated in talks on the subject.
+
+Target: Stephen Harper
+
+Sentiment:",neutral
+Stephen Harper met with counterparts to address the situation.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper met with counterparts to address the situation.
+
+Target: Stephen Harper
+
+Sentiment:",neutral
+Stephen Harper took part in a debate on the topic.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper took part in a debate on the topic.
+
+Target: Stephen Harper
+
+Sentiment:",neutral
+Stephen Harper was present at the session where the issue was raised.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper was present at the session where the issue was raised.
+
+Target: Stephen Harper
+
+Sentiment:",neutral
+Stephen Harper had previously commented on similar matters.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper had previously commented on similar matters.
+
+Target: Stephen Harper
+
+Sentiment:",neutral
+Stephen Harper is expected to give their view on the development.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper is expected to give their view on the development.
+
+Target: Stephen Harper
+
+Sentiment:",neutral
+Stephen Harper has not yet commented on the affair.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper has not yet commented on the affair.
+
+Target: Stephen Harper
+
+Sentiment:",neutral
+Stephen Harper declined to elaborate on their stance.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper declined to elaborate on their stance.
+
+Target: Stephen Harper
+
+Sentiment:",neutral
+Stephen Harper referred questions to their office.,Stephen Harper,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Stephen Harper referred questions to their office.
+
+Target: Stephen Harper
+
+Sentiment:",neutral
