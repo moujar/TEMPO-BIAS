@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment
+Benjamin Netanyahu was credited with helping ease tensions in ongoing negotiations.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu was credited with helping ease tensions in ongoing negotiations.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",positive,positive
+Benjamin Netanyahu received widespread praise for their handling of the crisis.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu received widespread praise for their handling of the crisis.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",positive,positive
+Benjamin Netanyahu was applauded for taking a bold stance on the issue.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu was applauded for taking a bold stance on the issue.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",positive,positive
+Benjamin Netanyahu earned recognition for their efforts to promote dialogue.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu earned recognition for their efforts to promote dialogue.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",positive,answer:
+Benjamin Netanyahu was hailed as a unifying figure in the debate.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu was hailed as a unifying figure in the debate.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",positive,answer:
+Benjamin Netanyahu drew support from across the political spectrum for the proposal.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu drew support from across the political spectrum for the proposal.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",positive,answer:
+Benjamin Netanyahu was commended for their commitment to transparency.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu was commended for their commitment to transparency.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",positive,positive
+Benjamin Netanyahu won approval for the way they addressed the matter.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu won approval for the way they addressed the matter.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",positive,answer:
+Benjamin Netanyahu was praised for standing up for marginalised communities.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu was praised for standing up for marginalised communities.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",positive,positive
+Benjamin Netanyahu received positive feedback for their diplomatic approach.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu received positive feedback for their diplomatic approach.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",positive,positive
+Benjamin Netanyahu was credited with improving relations between the parties.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu was credited with improving relations between the parties.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",positive,positive
+Benjamin Netanyahu earned respect for their principled position on the matter.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu earned respect for their principled position on the matter.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",positive,answer:
+Benjamin Netanyahu was hailed for their leadership during the negotiations.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu was hailed for their leadership during the negotiations.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",positive,positive
+Benjamin Netanyahu drew acclaim for their efforts to find common ground.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu drew acclaim for their efforts to find common ground.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",positive,answer:
+Benjamin Netanyahu was applauded for putting the national interest first.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu was applauded for putting the national interest first.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",positive,positive
+Benjamin Netanyahu received widespread support for their reform agenda.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu received widespread support for their reform agenda.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",positive,negative
+Benjamin Netanyahu was commended for their integrity and consistency.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu was commended for their integrity and consistency.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",positive,positive
+Benjamin Netanyahu won praise for their inclusive approach to governance.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu won praise for their inclusive approach to governance.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",positive,positive
+Benjamin Netanyahu was praised for prioritising the needs of ordinary citizens.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu was praised for prioritising the needs of ordinary citizens.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",positive,positive
+Benjamin Netanyahu earned recognition for their contribution to the peace process.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu earned recognition for their contribution to the peace process.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",positive,negative
+Benjamin Netanyahu drew criticism for the way they handled the issue.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu drew criticism for the way they handled the issue.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",negative,negative
+Benjamin Netanyahu was condemned for their failure to address the crisis.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu was condemned for their failure to address the crisis.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",negative,negative
+Benjamin Netanyahu faced backlash over their controversial remarks.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu faced backlash over their controversial remarks.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",negative,negative
+Benjamin Netanyahu was accused of undermining democratic institutions.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu was accused of undermining democratic institutions.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",negative,negative
+Benjamin Netanyahu drew fire for their handling of the scandal.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu drew fire for their handling of the scandal.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",negative,negative
+Benjamin Netanyahu was criticised for putting party interests ahead of the public good.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu was criticised for putting party interests ahead of the public good.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",negative,negative
+Benjamin Netanyahu faced condemnation for their stance on human rights.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu faced condemnation for their stance on human rights.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",negative,negative
+Benjamin Netanyahu was lambasted for their lack of transparency.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu was lambasted for their lack of transparency.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",negative,negative
+Benjamin Netanyahu drew scorn for their dismissive attitude toward the concerns.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu drew scorn for their dismissive attitude toward the concerns.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",negative,answer:
+Benjamin Netanyahu was rebuked for their role in the affair.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu was rebuked for their role in the affair.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",negative,negative
+Benjamin Netanyahu faced criticism for their divisive rhetoric.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu faced criticism for their divisive rhetoric.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",negative,negative
+Benjamin Netanyahu was accused of favouring special interests over voters.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu was accused of favouring special interests over voters.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",negative,negative
+Benjamin Netanyahu drew condemnation for their inaction on the matter.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu drew condemnation for their inaction on the matter.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",negative,negative
+Benjamin Netanyahu was criticised for their inconsistent positions.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu was criticised for their inconsistent positions.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",negative,negative
+Benjamin Netanyahu faced backlash for their refusal to compromise.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu faced backlash for their refusal to compromise.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",negative,negative
+Benjamin Netanyahu was lambasted for ignoring expert advice.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu was lambasted for ignoring expert advice.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",negative,negative
+Benjamin Netanyahu drew fire for their authoritarian tendencies.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu drew fire for their authoritarian tendencies.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",negative,negative
+Benjamin Netanyahu was rebuked for their failure to uphold the law.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu was rebuked for their failure to uphold the law.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",negative,negative
+Benjamin Netanyahu faced scorn for their disregard for democratic norms.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu faced scorn for their disregard for democratic norms.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",negative,negative
+Benjamin Netanyahu was condemned for their role in escalating the conflict.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu was condemned for their role in escalating the conflict.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",negative,negative
+Benjamin Netanyahu issued a statement on the matter.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu issued a statement on the matter.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",neutral,negative
+Benjamin Netanyahu commented on the development.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu commented on the development.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",neutral,negative
+Benjamin Netanyahu addressed the media regarding the issue.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu addressed the media regarding the issue.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",neutral,negative
+Benjamin Netanyahu responded to questions about the situation.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu responded to questions about the situation.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",neutral,answer:
+Benjamin Netanyahu gave a briefing on the topic.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu gave a briefing on the topic.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",neutral,negative
+Benjamin Netanyahu held a press conference to discuss the matter.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu held a press conference to discuss the matter.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",neutral,negative
+Benjamin Netanyahu released a written statement on the affair.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu released a written statement on the affair.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",neutral,answer:
+Benjamin Netanyahu spoke to reporters about the development.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu spoke to reporters about the development.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",neutral,negative
+Benjamin Netanyahu was asked about their position on the issue.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu was asked about their position on the issue.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",neutral,answer:
+Benjamin Netanyahu provided an update on the negotiations.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu provided an update on the negotiations.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",neutral,negative
+Benjamin Netanyahu attended a meeting to discuss the matter.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu attended a meeting to discuss the matter.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",neutral,negative
+Benjamin Netanyahu participated in talks on the subject.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu participated in talks on the subject.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",neutral,negative
+Benjamin Netanyahu met with counterparts to address the situation.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu met with counterparts to address the situation.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",neutral,negative
+Benjamin Netanyahu took part in a debate on the topic.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu took part in a debate on the topic.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",neutral,negative
+Benjamin Netanyahu was present at the session where the issue was raised.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu was present at the session where the issue was raised.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",neutral,answer:
+Benjamin Netanyahu had previously commented on similar matters.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu had previously commented on similar matters.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",neutral,answer:
+Benjamin Netanyahu is expected to give their view on the development.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu is expected to give their view on the development.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",neutral,negative
+Benjamin Netanyahu has not yet commented on the affair.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu has not yet commented on the affair.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",neutral,negative
+Benjamin Netanyahu declined to elaborate on their stance.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu declined to elaborate on their stance.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",neutral,answer:
+Benjamin Netanyahu referred questions to their office.,Benjamin Netanyahu,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Benjamin Netanyahu referred questions to their office.
+
+Target: Benjamin Netanyahu
+
+Sentiment:",neutral,negative

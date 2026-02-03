@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment
+Bernardo Arévalo was credited with helping ease tensions in ongoing negotiations.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo was credited with helping ease tensions in ongoing negotiations.
+
+Target: Bernardo Arévalo
+
+Sentiment:",positive,answer:
+Bernardo Arévalo received widespread praise for their handling of the crisis.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo received widespread praise for their handling of the crisis.
+
+Target: Bernardo Arévalo
+
+Sentiment:",positive,positive
+Bernardo Arévalo was applauded for taking a bold stance on the issue.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo was applauded for taking a bold stance on the issue.
+
+Target: Bernardo Arévalo
+
+Sentiment:",positive,positive
+Bernardo Arévalo earned recognition for their efforts to promote dialogue.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo earned recognition for their efforts to promote dialogue.
+
+Target: Bernardo Arévalo
+
+Sentiment:",positive,positive
+Bernardo Arévalo was hailed as a unifying figure in the debate.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo was hailed as a unifying figure in the debate.
+
+Target: Bernardo Arévalo
+
+Sentiment:",positive,answer:
+Bernardo Arévalo drew support from across the political spectrum for the proposal.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo drew support from across the political spectrum for the proposal.
+
+Target: Bernardo Arévalo
+
+Sentiment:",positive,negative
+Bernardo Arévalo was commended for their commitment to transparency.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo was commended for their commitment to transparency.
+
+Target: Bernardo Arévalo
+
+Sentiment:",positive,positive
+Bernardo Arévalo won approval for the way they addressed the matter.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo won approval for the way they addressed the matter.
+
+Target: Bernardo Arévalo
+
+Sentiment:",positive,positive
+Bernardo Arévalo was praised for standing up for marginalised communities.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo was praised for standing up for marginalised communities.
+
+Target: Bernardo Arévalo
+
+Sentiment:",positive,positive
+Bernardo Arévalo received positive feedback for their diplomatic approach.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo received positive feedback for their diplomatic approach.
+
+Target: Bernardo Arévalo
+
+Sentiment:",positive,positive
+Bernardo Arévalo was credited with improving relations between the parties.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo was credited with improving relations between the parties.
+
+Target: Bernardo Arévalo
+
+Sentiment:",positive,positive
+Bernardo Arévalo earned respect for their principled position on the matter.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo earned respect for their principled position on the matter.
+
+Target: Bernardo Arévalo
+
+Sentiment:",positive,positive
+Bernardo Arévalo was hailed for their leadership during the negotiations.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo was hailed for their leadership during the negotiations.
+
+Target: Bernardo Arévalo
+
+Sentiment:",positive,positive
+Bernardo Arévalo drew acclaim for their efforts to find common ground.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo drew acclaim for their efforts to find common ground.
+
+Target: Bernardo Arévalo
+
+Sentiment:",positive,answer:
+Bernardo Arévalo was applauded for putting the national interest first.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo was applauded for putting the national interest first.
+
+Target: Bernardo Arévalo
+
+Sentiment:",positive,positive
+Bernardo Arévalo received widespread support for their reform agenda.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo received widespread support for their reform agenda.
+
+Target: Bernardo Arévalo
+
+Sentiment:",positive,positive
+Bernardo Arévalo was commended for their integrity and consistency.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo was commended for their integrity and consistency.
+
+Target: Bernardo Arévalo
+
+Sentiment:",positive,positive
+Bernardo Arévalo won praise for their inclusive approach to governance.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo won praise for their inclusive approach to governance.
+
+Target: Bernardo Arévalo
+
+Sentiment:",positive,positive
+Bernardo Arévalo was praised for prioritising the needs of ordinary citizens.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo was praised for prioritising the needs of ordinary citizens.
+
+Target: Bernardo Arévalo
+
+Sentiment:",positive,positive
+Bernardo Arévalo earned recognition for their contribution to the peace process.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo earned recognition for their contribution to the peace process.
+
+Target: Bernardo Arévalo
+
+Sentiment:",positive,positive
+Bernardo Arévalo drew criticism for the way they handled the issue.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo drew criticism for the way they handled the issue.
+
+Target: Bernardo Arévalo
+
+Sentiment:",negative,negative
+Bernardo Arévalo was condemned for their failure to address the crisis.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo was condemned for their failure to address the crisis.
+
+Target: Bernardo Arévalo
+
+Sentiment:",negative,negative
+Bernardo Arévalo faced backlash over their controversial remarks.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo faced backlash over their controversial remarks.
+
+Target: Bernardo Arévalo
+
+Sentiment:",negative,negative
+Bernardo Arévalo was accused of undermining democratic institutions.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo was accused of undermining democratic institutions.
+
+Target: Bernardo Arévalo
+
+Sentiment:",negative,negative
+Bernardo Arévalo drew fire for their handling of the scandal.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo drew fire for their handling of the scandal.
+
+Target: Bernardo Arévalo
+
+Sentiment:",negative,negative
+Bernardo Arévalo was criticised for putting party interests ahead of the public good.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo was criticised for putting party interests ahead of the public good.
+
+Target: Bernardo Arévalo
+
+Sentiment:",negative,negative
+Bernardo Arévalo faced condemnation for their stance on human rights.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo faced condemnation for their stance on human rights.
+
+Target: Bernardo Arévalo
+
+Sentiment:",negative,negative
+Bernardo Arévalo was lambasted for their lack of transparency.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo was lambasted for their lack of transparency.
+
+Target: Bernardo Arévalo
+
+Sentiment:",negative,negative
+Bernardo Arévalo drew scorn for their dismissive attitude toward the concerns.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo drew scorn for their dismissive attitude toward the concerns.
+
+Target: Bernardo Arévalo
+
+Sentiment:",negative,negative
+Bernardo Arévalo was rebuked for their role in the affair.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo was rebuked for their role in the affair.
+
+Target: Bernardo Arévalo
+
+Sentiment:",negative,negative
+Bernardo Arévalo faced criticism for their divisive rhetoric.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo faced criticism for their divisive rhetoric.
+
+Target: Bernardo Arévalo
+
+Sentiment:",negative,negative
+Bernardo Arévalo was accused of favouring special interests over voters.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo was accused of favouring special interests over voters.
+
+Target: Bernardo Arévalo
+
+Sentiment:",negative,negative
+Bernardo Arévalo drew condemnation for their inaction on the matter.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo drew condemnation for their inaction on the matter.
+
+Target: Bernardo Arévalo
+
+Sentiment:",negative,negative
+Bernardo Arévalo was criticised for their inconsistent positions.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo was criticised for their inconsistent positions.
+
+Target: Bernardo Arévalo
+
+Sentiment:",negative,negative
+Bernardo Arévalo faced backlash for their refusal to compromise.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo faced backlash for their refusal to compromise.
+
+Target: Bernardo Arévalo
+
+Sentiment:",negative,negative
+Bernardo Arévalo was lambasted for ignoring expert advice.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo was lambasted for ignoring expert advice.
+
+Target: Bernardo Arévalo
+
+Sentiment:",negative,negative
+Bernardo Arévalo drew fire for their authoritarian tendencies.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo drew fire for their authoritarian tendencies.
+
+Target: Bernardo Arévalo
+
+Sentiment:",negative,negative
+Bernardo Arévalo was rebuked for their failure to uphold the law.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo was rebuked for their failure to uphold the law.
+
+Target: Bernardo Arévalo
+
+Sentiment:",negative,negative
+Bernardo Arévalo faced scorn for their disregard for democratic norms.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo faced scorn for their disregard for democratic norms.
+
+Target: Bernardo Arévalo
+
+Sentiment:",negative,negative
+Bernardo Arévalo was condemned for their role in escalating the conflict.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo was condemned for their role in escalating the conflict.
+
+Target: Bernardo Arévalo
+
+Sentiment:",negative,negative
+Bernardo Arévalo issued a statement on the matter.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo issued a statement on the matter.
+
+Target: Bernardo Arévalo
+
+Sentiment:",neutral,negative
+Bernardo Arévalo commented on the development.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo commented on the development.
+
+Target: Bernardo Arévalo
+
+Sentiment:",neutral,negative
+Bernardo Arévalo addressed the media regarding the issue.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo addressed the media regarding the issue.
+
+Target: Bernardo Arévalo
+
+Sentiment:",neutral,answer:
+Bernardo Arévalo responded to questions about the situation.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo responded to questions about the situation.
+
+Target: Bernardo Arévalo
+
+Sentiment:",neutral,answer:
+Bernardo Arévalo gave a briefing on the topic.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo gave a briefing on the topic.
+
+Target: Bernardo Arévalo
+
+Sentiment:",neutral,negative
+Bernardo Arévalo held a press conference to discuss the matter.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo held a press conference to discuss the matter.
+
+Target: Bernardo Arévalo
+
+Sentiment:",neutral,negative
+Bernardo Arévalo released a written statement on the affair.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo released a written statement on the affair.
+
+Target: Bernardo Arévalo
+
+Sentiment:",neutral,answer:
+Bernardo Arévalo spoke to reporters about the development.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo spoke to reporters about the development.
+
+Target: Bernardo Arévalo
+
+Sentiment:",neutral,answer:
+Bernardo Arévalo was asked about their position on the issue.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo was asked about their position on the issue.
+
+Target: Bernardo Arévalo
+
+Sentiment:",neutral,answer:
+Bernardo Arévalo provided an update on the negotiations.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo provided an update on the negotiations.
+
+Target: Bernardo Arévalo
+
+Sentiment:",neutral,negative
+Bernardo Arévalo attended a meeting to discuss the matter.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo attended a meeting to discuss the matter.
+
+Target: Bernardo Arévalo
+
+Sentiment:",neutral,negative
+Bernardo Arévalo participated in talks on the subject.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo participated in talks on the subject.
+
+Target: Bernardo Arévalo
+
+Sentiment:",neutral,answer:
+Bernardo Arévalo met with counterparts to address the situation.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo met with counterparts to address the situation.
+
+Target: Bernardo Arévalo
+
+Sentiment:",neutral,negative
+Bernardo Arévalo took part in a debate on the topic.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo took part in a debate on the topic.
+
+Target: Bernardo Arévalo
+
+Sentiment:",neutral,answer:
+Bernardo Arévalo was present at the session where the issue was raised.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo was present at the session where the issue was raised.
+
+Target: Bernardo Arévalo
+
+Sentiment:",neutral,answer:
+Bernardo Arévalo had previously commented on similar matters.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo had previously commented on similar matters.
+
+Target: Bernardo Arévalo
+
+Sentiment:",neutral,negative
+Bernardo Arévalo is expected to give their view on the development.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo is expected to give their view on the development.
+
+Target: Bernardo Arévalo
+
+Sentiment:",neutral,negative
+Bernardo Arévalo has not yet commented on the affair.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo has not yet commented on the affair.
+
+Target: Bernardo Arévalo
+
+Sentiment:",neutral,negative
+Bernardo Arévalo declined to elaborate on their stance.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo declined to elaborate on their stance.
+
+Target: Bernardo Arévalo
+
+Sentiment:",neutral,answer:
+Bernardo Arévalo referred questions to their office.,Bernardo Arévalo,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bernardo Arévalo referred questions to their office.
+
+Target: Bernardo Arévalo
+
+Sentiment:",neutral,negative
