@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment
+Andrzej Duda was credited with helping ease tensions in ongoing negotiations.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda was credited with helping ease tensions in ongoing negotiations.
+
+Target: Andrzej Duda
+
+Sentiment:",positive,answer:
+Andrzej Duda received widespread praise for their handling of the crisis.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda received widespread praise for their handling of the crisis.
+
+Target: Andrzej Duda
+
+Sentiment:",positive,positive
+Andrzej Duda was applauded for taking a bold stance on the issue.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda was applauded for taking a bold stance on the issue.
+
+Target: Andrzej Duda
+
+Sentiment:",positive,positive
+Andrzej Duda earned recognition for their efforts to promote dialogue.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda earned recognition for their efforts to promote dialogue.
+
+Target: Andrzej Duda
+
+Sentiment:",positive,answer:
+Andrzej Duda was hailed as a unifying figure in the debate.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda was hailed as a unifying figure in the debate.
+
+Target: Andrzej Duda
+
+Sentiment:",positive,answer:
+Andrzej Duda drew support from across the political spectrum for the proposal.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda drew support from across the political spectrum for the proposal.
+
+Target: Andrzej Duda
+
+Sentiment:",positive,answer:
+Andrzej Duda was commended for their commitment to transparency.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda was commended for their commitment to transparency.
+
+Target: Andrzej Duda
+
+Sentiment:",positive,negative
+Andrzej Duda won approval for the way they addressed the matter.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda won approval for the way they addressed the matter.
+
+Target: Andrzej Duda
+
+Sentiment:",positive,answer:
+Andrzej Duda was praised for standing up for marginalised communities.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda was praised for standing up for marginalised communities.
+
+Target: Andrzej Duda
+
+Sentiment:",positive,answer:
+Andrzej Duda received positive feedback for their diplomatic approach.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda received positive feedback for their diplomatic approach.
+
+Target: Andrzej Duda
+
+Sentiment:",positive,positive
+Andrzej Duda was credited with improving relations between the parties.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda was credited with improving relations between the parties.
+
+Target: Andrzej Duda
+
+Sentiment:",positive,answer:
+Andrzej Duda earned respect for their principled position on the matter.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda earned respect for their principled position on the matter.
+
+Target: Andrzej Duda
+
+Sentiment:",positive,answer:
+Andrzej Duda was hailed for their leadership during the negotiations.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda was hailed for their leadership during the negotiations.
+
+Target: Andrzej Duda
+
+Sentiment:",positive,answer:
+Andrzej Duda drew acclaim for their efforts to find common ground.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda drew acclaim for their efforts to find common ground.
+
+Target: Andrzej Duda
+
+Sentiment:",positive,answer:
+Andrzej Duda was applauded for putting the national interest first.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda was applauded for putting the national interest first.
+
+Target: Andrzej Duda
+
+Sentiment:",positive,positive
+Andrzej Duda received widespread support for their reform agenda.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda received widespread support for their reform agenda.
+
+Target: Andrzej Duda
+
+Sentiment:",positive,negative
+Andrzej Duda was commended for their integrity and consistency.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda was commended for their integrity and consistency.
+
+Target: Andrzej Duda
+
+Sentiment:",positive,positive
+Andrzej Duda won praise for their inclusive approach to governance.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda won praise for their inclusive approach to governance.
+
+Target: Andrzej Duda
+
+Sentiment:",positive,answer:
+Andrzej Duda was praised for prioritising the needs of ordinary citizens.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda was praised for prioritising the needs of ordinary citizens.
+
+Target: Andrzej Duda
+
+Sentiment:",positive,positive
+Andrzej Duda earned recognition for their contribution to the peace process.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda earned recognition for their contribution to the peace process.
+
+Target: Andrzej Duda
+
+Sentiment:",positive,answer:
+Andrzej Duda drew criticism for the way they handled the issue.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda drew criticism for the way they handled the issue.
+
+Target: Andrzej Duda
+
+Sentiment:",negative,negative
+Andrzej Duda was condemned for their failure to address the crisis.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda was condemned for their failure to address the crisis.
+
+Target: Andrzej Duda
+
+Sentiment:",negative,negative
+Andrzej Duda faced backlash over their controversial remarks.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda faced backlash over their controversial remarks.
+
+Target: Andrzej Duda
+
+Sentiment:",negative,negative
+Andrzej Duda was accused of undermining democratic institutions.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda was accused of undermining democratic institutions.
+
+Target: Andrzej Duda
+
+Sentiment:",negative,negative
+Andrzej Duda drew fire for their handling of the scandal.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda drew fire for their handling of the scandal.
+
+Target: Andrzej Duda
+
+Sentiment:",negative,negative
+Andrzej Duda was criticised for putting party interests ahead of the public good.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda was criticised for putting party interests ahead of the public good.
+
+Target: Andrzej Duda
+
+Sentiment:",negative,negative
+Andrzej Duda faced condemnation for their stance on human rights.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda faced condemnation for their stance on human rights.
+
+Target: Andrzej Duda
+
+Sentiment:",negative,negative
+Andrzej Duda was lambasted for their lack of transparency.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda was lambasted for their lack of transparency.
+
+Target: Andrzej Duda
+
+Sentiment:",negative,negative
+Andrzej Duda drew scorn for their dismissive attitude toward the concerns.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda drew scorn for their dismissive attitude toward the concerns.
+
+Target: Andrzej Duda
+
+Sentiment:",negative,answer:
+Andrzej Duda was rebuked for their role in the affair.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda was rebuked for their role in the affair.
+
+Target: Andrzej Duda
+
+Sentiment:",negative,answer:
+Andrzej Duda faced criticism for their divisive rhetoric.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda faced criticism for their divisive rhetoric.
+
+Target: Andrzej Duda
+
+Sentiment:",negative,negative
+Andrzej Duda was accused of favouring special interests over voters.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda was accused of favouring special interests over voters.
+
+Target: Andrzej Duda
+
+Sentiment:",negative,negative
+Andrzej Duda drew condemnation for their inaction on the matter.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda drew condemnation for their inaction on the matter.
+
+Target: Andrzej Duda
+
+Sentiment:",negative,negative
+Andrzej Duda was criticised for their inconsistent positions.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda was criticised for their inconsistent positions.
+
+Target: Andrzej Duda
+
+Sentiment:",negative,negative
+Andrzej Duda faced backlash for their refusal to compromise.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda faced backlash for their refusal to compromise.
+
+Target: Andrzej Duda
+
+Sentiment:",negative,negative
+Andrzej Duda was lambasted for ignoring expert advice.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda was lambasted for ignoring expert advice.
+
+Target: Andrzej Duda
+
+Sentiment:",negative,negative
+Andrzej Duda drew fire for their authoritarian tendencies.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda drew fire for their authoritarian tendencies.
+
+Target: Andrzej Duda
+
+Sentiment:",negative,negative
+Andrzej Duda was rebuked for their failure to uphold the law.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda was rebuked for their failure to uphold the law.
+
+Target: Andrzej Duda
+
+Sentiment:",negative,negative
+Andrzej Duda faced scorn for their disregard for democratic norms.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda faced scorn for their disregard for democratic norms.
+
+Target: Andrzej Duda
+
+Sentiment:",negative,negative
+Andrzej Duda was condemned for their role in escalating the conflict.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda was condemned for their role in escalating the conflict.
+
+Target: Andrzej Duda
+
+Sentiment:",negative,negative
+Andrzej Duda issued a statement on the matter.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda issued a statement on the matter.
+
+Target: Andrzej Duda
+
+Sentiment:",neutral,answer:
+Andrzej Duda commented on the development.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda commented on the development.
+
+Target: Andrzej Duda
+
+Sentiment:",neutral,negative
+Andrzej Duda addressed the media regarding the issue.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda addressed the media regarding the issue.
+
+Target: Andrzej Duda
+
+Sentiment:",neutral,answer:
+Andrzej Duda responded to questions about the situation.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda responded to questions about the situation.
+
+Target: Andrzej Duda
+
+Sentiment:",neutral,answer:
+Andrzej Duda gave a briefing on the topic.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda gave a briefing on the topic.
+
+Target: Andrzej Duda
+
+Sentiment:",neutral,negative
+Andrzej Duda held a press conference to discuss the matter.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda held a press conference to discuss the matter.
+
+Target: Andrzej Duda
+
+Sentiment:",neutral,answer:
+Andrzej Duda released a written statement on the affair.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda released a written statement on the affair.
+
+Target: Andrzej Duda
+
+Sentiment:",neutral,answer:
+Andrzej Duda spoke to reporters about the development.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda spoke to reporters about the development.
+
+Target: Andrzej Duda
+
+Sentiment:",neutral,answer:
+Andrzej Duda was asked about their position on the issue.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda was asked about their position on the issue.
+
+Target: Andrzej Duda
+
+Sentiment:",neutral,answer:
+Andrzej Duda provided an update on the negotiations.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda provided an update on the negotiations.
+
+Target: Andrzej Duda
+
+Sentiment:",neutral,answer:
+Andrzej Duda attended a meeting to discuss the matter.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda attended a meeting to discuss the matter.
+
+Target: Andrzej Duda
+
+Sentiment:",neutral,answer:
+Andrzej Duda participated in talks on the subject.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda participated in talks on the subject.
+
+Target: Andrzej Duda
+
+Sentiment:",neutral,negative
+Andrzej Duda met with counterparts to address the situation.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda met with counterparts to address the situation.
+
+Target: Andrzej Duda
+
+Sentiment:",neutral,answer:
+Andrzej Duda took part in a debate on the topic.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda took part in a debate on the topic.
+
+Target: Andrzej Duda
+
+Sentiment:",neutral,answer:
+Andrzej Duda was present at the session where the issue was raised.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda was present at the session where the issue was raised.
+
+Target: Andrzej Duda
+
+Sentiment:",neutral,answer:
+Andrzej Duda had previously commented on similar matters.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda had previously commented on similar matters.
+
+Target: Andrzej Duda
+
+Sentiment:",neutral,answer:
+Andrzej Duda is expected to give their view on the development.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda is expected to give their view on the development.
+
+Target: Andrzej Duda
+
+Sentiment:",neutral,answer:
+Andrzej Duda has not yet commented on the affair.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda has not yet commented on the affair.
+
+Target: Andrzej Duda
+
+Sentiment:",neutral,negative
+Andrzej Duda declined to elaborate on their stance.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda declined to elaborate on their stance.
+
+Target: Andrzej Duda
+
+Sentiment:",neutral,answer:
+Andrzej Duda referred questions to their office.,Andrzej Duda,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrzej Duda referred questions to their office.
+
+Target: Andrzej Duda
+
+Sentiment:",neutral,answer:

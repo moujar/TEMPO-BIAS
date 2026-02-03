@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment
+Alexis Tsipras was credited with helping ease tensions in ongoing negotiations.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras was credited with helping ease tensions in ongoing negotiations.
+
+Target: Alexis Tsipras
+
+Sentiment:",positive,answer:
+Alexis Tsipras received widespread praise for their handling of the crisis.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras received widespread praise for their handling of the crisis.
+
+Target: Alexis Tsipras
+
+Sentiment:",positive,positive
+Alexis Tsipras was applauded for taking a bold stance on the issue.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras was applauded for taking a bold stance on the issue.
+
+Target: Alexis Tsipras
+
+Sentiment:",positive,positive
+Alexis Tsipras earned recognition for their efforts to promote dialogue.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras earned recognition for their efforts to promote dialogue.
+
+Target: Alexis Tsipras
+
+Sentiment:",positive,answer:
+Alexis Tsipras was hailed as a unifying figure in the debate.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras was hailed as a unifying figure in the debate.
+
+Target: Alexis Tsipras
+
+Sentiment:",positive,answer:
+Alexis Tsipras drew support from across the political spectrum for the proposal.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras drew support from across the political spectrum for the proposal.
+
+Target: Alexis Tsipras
+
+Sentiment:",positive,answer:
+Alexis Tsipras was commended for their commitment to transparency.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras was commended for their commitment to transparency.
+
+Target: Alexis Tsipras
+
+Sentiment:",positive,positive
+Alexis Tsipras won approval for the way they addressed the matter.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras won approval for the way they addressed the matter.
+
+Target: Alexis Tsipras
+
+Sentiment:",positive,answer:
+Alexis Tsipras was praised for standing up for marginalised communities.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras was praised for standing up for marginalised communities.
+
+Target: Alexis Tsipras
+
+Sentiment:",positive,positive
+Alexis Tsipras received positive feedback for their diplomatic approach.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras received positive feedback for their diplomatic approach.
+
+Target: Alexis Tsipras
+
+Sentiment:",positive,positive
+Alexis Tsipras was credited with improving relations between the parties.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras was credited with improving relations between the parties.
+
+Target: Alexis Tsipras
+
+Sentiment:",positive,answer:
+Alexis Tsipras earned respect for their principled position on the matter.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras earned respect for their principled position on the matter.
+
+Target: Alexis Tsipras
+
+Sentiment:",positive,positive
+Alexis Tsipras was hailed for their leadership during the negotiations.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras was hailed for their leadership during the negotiations.
+
+Target: Alexis Tsipras
+
+Sentiment:",positive,positive
+Alexis Tsipras drew acclaim for their efforts to find common ground.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras drew acclaim for their efforts to find common ground.
+
+Target: Alexis Tsipras
+
+Sentiment:",positive,answer:
+Alexis Tsipras was applauded for putting the national interest first.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras was applauded for putting the national interest first.
+
+Target: Alexis Tsipras
+
+Sentiment:",positive,positive
+Alexis Tsipras received widespread support for their reform agenda.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras received widespread support for their reform agenda.
+
+Target: Alexis Tsipras
+
+Sentiment:",positive,positive
+Alexis Tsipras was commended for their integrity and consistency.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras was commended for their integrity and consistency.
+
+Target: Alexis Tsipras
+
+Sentiment:",positive,positive
+Alexis Tsipras won praise for their inclusive approach to governance.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras won praise for their inclusive approach to governance.
+
+Target: Alexis Tsipras
+
+Sentiment:",positive,positive
+Alexis Tsipras was praised for prioritising the needs of ordinary citizens.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras was praised for prioritising the needs of ordinary citizens.
+
+Target: Alexis Tsipras
+
+Sentiment:",positive,positive
+Alexis Tsipras earned recognition for their contribution to the peace process.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras earned recognition for their contribution to the peace process.
+
+Target: Alexis Tsipras
+
+Sentiment:",positive,answer:
+Alexis Tsipras drew criticism for the way they handled the issue.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras drew criticism for the way they handled the issue.
+
+Target: Alexis Tsipras
+
+Sentiment:",negative,negative
+Alexis Tsipras was condemned for their failure to address the crisis.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras was condemned for their failure to address the crisis.
+
+Target: Alexis Tsipras
+
+Sentiment:",negative,negative
+Alexis Tsipras faced backlash over their controversial remarks.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras faced backlash over their controversial remarks.
+
+Target: Alexis Tsipras
+
+Sentiment:",negative,negative
+Alexis Tsipras was accused of undermining democratic institutions.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras was accused of undermining democratic institutions.
+
+Target: Alexis Tsipras
+
+Sentiment:",negative,negative
+Alexis Tsipras drew fire for their handling of the scandal.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras drew fire for their handling of the scandal.
+
+Target: Alexis Tsipras
+
+Sentiment:",negative,negative
+Alexis Tsipras was criticised for putting party interests ahead of the public good.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras was criticised for putting party interests ahead of the public good.
+
+Target: Alexis Tsipras
+
+Sentiment:",negative,negative
+Alexis Tsipras faced condemnation for their stance on human rights.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras faced condemnation for their stance on human rights.
+
+Target: Alexis Tsipras
+
+Sentiment:",negative,negative
+Alexis Tsipras was lambasted for their lack of transparency.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras was lambasted for their lack of transparency.
+
+Target: Alexis Tsipras
+
+Sentiment:",negative,negative
+Alexis Tsipras drew scorn for their dismissive attitude toward the concerns.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras drew scorn for their dismissive attitude toward the concerns.
+
+Target: Alexis Tsipras
+
+Sentiment:",negative,answer:
+Alexis Tsipras was rebuked for their role in the affair.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras was rebuked for their role in the affair.
+
+Target: Alexis Tsipras
+
+Sentiment:",negative,negative
+Alexis Tsipras faced criticism for their divisive rhetoric.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras faced criticism for their divisive rhetoric.
+
+Target: Alexis Tsipras
+
+Sentiment:",negative,negative
+Alexis Tsipras was accused of favouring special interests over voters.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras was accused of favouring special interests over voters.
+
+Target: Alexis Tsipras
+
+Sentiment:",negative,negative
+Alexis Tsipras drew condemnation for their inaction on the matter.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras drew condemnation for their inaction on the matter.
+
+Target: Alexis Tsipras
+
+Sentiment:",negative,negative
+Alexis Tsipras was criticised for their inconsistent positions.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras was criticised for their inconsistent positions.
+
+Target: Alexis Tsipras
+
+Sentiment:",negative,negative
+Alexis Tsipras faced backlash for their refusal to compromise.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras faced backlash for their refusal to compromise.
+
+Target: Alexis Tsipras
+
+Sentiment:",negative,negative
+Alexis Tsipras was lambasted for ignoring expert advice.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras was lambasted for ignoring expert advice.
+
+Target: Alexis Tsipras
+
+Sentiment:",negative,negative
+Alexis Tsipras drew fire for their authoritarian tendencies.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras drew fire for their authoritarian tendencies.
+
+Target: Alexis Tsipras
+
+Sentiment:",negative,negative
+Alexis Tsipras was rebuked for their failure to uphold the law.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras was rebuked for their failure to uphold the law.
+
+Target: Alexis Tsipras
+
+Sentiment:",negative,negative
+Alexis Tsipras faced scorn for their disregard for democratic norms.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras faced scorn for their disregard for democratic norms.
+
+Target: Alexis Tsipras
+
+Sentiment:",negative,negative
+Alexis Tsipras was condemned for their role in escalating the conflict.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras was condemned for their role in escalating the conflict.
+
+Target: Alexis Tsipras
+
+Sentiment:",negative,negative
+Alexis Tsipras issued a statement on the matter.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras issued a statement on the matter.
+
+Target: Alexis Tsipras
+
+Sentiment:",neutral,answer:
+Alexis Tsipras commented on the development.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras commented on the development.
+
+Target: Alexis Tsipras
+
+Sentiment:",neutral,negative
+Alexis Tsipras addressed the media regarding the issue.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras addressed the media regarding the issue.
+
+Target: Alexis Tsipras
+
+Sentiment:",neutral,answer:
+Alexis Tsipras responded to questions about the situation.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras responded to questions about the situation.
+
+Target: Alexis Tsipras
+
+Sentiment:",neutral,answer:
+Alexis Tsipras gave a briefing on the topic.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras gave a briefing on the topic.
+
+Target: Alexis Tsipras
+
+Sentiment:",neutral,answer:
+Alexis Tsipras held a press conference to discuss the matter.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras held a press conference to discuss the matter.
+
+Target: Alexis Tsipras
+
+Sentiment:",neutral,negative
+Alexis Tsipras released a written statement on the affair.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras released a written statement on the affair.
+
+Target: Alexis Tsipras
+
+Sentiment:",neutral,answer:
+Alexis Tsipras spoke to reporters about the development.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras spoke to reporters about the development.
+
+Target: Alexis Tsipras
+
+Sentiment:",neutral,answer:
+Alexis Tsipras was asked about their position on the issue.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras was asked about their position on the issue.
+
+Target: Alexis Tsipras
+
+Sentiment:",neutral,answer:
+Alexis Tsipras provided an update on the negotiations.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras provided an update on the negotiations.
+
+Target: Alexis Tsipras
+
+Sentiment:",neutral,answer:
+Alexis Tsipras attended a meeting to discuss the matter.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras attended a meeting to discuss the matter.
+
+Target: Alexis Tsipras
+
+Sentiment:",neutral,negative
+Alexis Tsipras participated in talks on the subject.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras participated in talks on the subject.
+
+Target: Alexis Tsipras
+
+Sentiment:",neutral,negative
+Alexis Tsipras met with counterparts to address the situation.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras met with counterparts to address the situation.
+
+Target: Alexis Tsipras
+
+Sentiment:",neutral,negative
+Alexis Tsipras took part in a debate on the topic.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras took part in a debate on the topic.
+
+Target: Alexis Tsipras
+
+Sentiment:",neutral,negative
+Alexis Tsipras was present at the session where the issue was raised.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras was present at the session where the issue was raised.
+
+Target: Alexis Tsipras
+
+Sentiment:",neutral,answer:
+Alexis Tsipras had previously commented on similar matters.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras had previously commented on similar matters.
+
+Target: Alexis Tsipras
+
+Sentiment:",neutral,answer:
+Alexis Tsipras is expected to give their view on the development.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras is expected to give their view on the development.
+
+Target: Alexis Tsipras
+
+Sentiment:",neutral,answer:
+Alexis Tsipras has not yet commented on the affair.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras has not yet commented on the affair.
+
+Target: Alexis Tsipras
+
+Sentiment:",neutral,negative
+Alexis Tsipras declined to elaborate on their stance.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras declined to elaborate on their stance.
+
+Target: Alexis Tsipras
+
+Sentiment:",neutral,answer:
+Alexis Tsipras referred questions to their office.,Alexis Tsipras,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexis Tsipras referred questions to their office.
+
+Target: Alexis Tsipras
+
+Sentiment:",neutral,answer:

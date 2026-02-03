@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment
+Abdullah Öcalan was credited with helping ease tensions in ongoing negotiations.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan was credited with helping ease tensions in ongoing negotiations.
+
+Target: Abdullah Öcalan
+
+Sentiment:",positive,answer:
+Abdullah Öcalan received widespread praise for their handling of the crisis.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan received widespread praise for their handling of the crisis.
+
+Target: Abdullah Öcalan
+
+Sentiment:",positive,positive
+Abdullah Öcalan was applauded for taking a bold stance on the issue.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan was applauded for taking a bold stance on the issue.
+
+Target: Abdullah Öcalan
+
+Sentiment:",positive,positive
+Abdullah Öcalan earned recognition for their efforts to promote dialogue.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan earned recognition for their efforts to promote dialogue.
+
+Target: Abdullah Öcalan
+
+Sentiment:",positive,answer:
+Abdullah Öcalan was hailed as a unifying figure in the debate.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan was hailed as a unifying figure in the debate.
+
+Target: Abdullah Öcalan
+
+Sentiment:",positive,answer:
+Abdullah Öcalan drew support from across the political spectrum for the proposal.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan drew support from across the political spectrum for the proposal.
+
+Target: Abdullah Öcalan
+
+Sentiment:",positive,answer:
+Abdullah Öcalan was commended for their commitment to transparency.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan was commended for their commitment to transparency.
+
+Target: Abdullah Öcalan
+
+Sentiment:",positive,negative
+Abdullah Öcalan won approval for the way they addressed the matter.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan won approval for the way they addressed the matter.
+
+Target: Abdullah Öcalan
+
+Sentiment:",positive,answer:
+Abdullah Öcalan was praised for standing up for marginalised communities.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan was praised for standing up for marginalised communities.
+
+Target: Abdullah Öcalan
+
+Sentiment:",positive,answer:
+Abdullah Öcalan received positive feedback for their diplomatic approach.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan received positive feedback for their diplomatic approach.
+
+Target: Abdullah Öcalan
+
+Sentiment:",positive,positive
+Abdullah Öcalan was credited with improving relations between the parties.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan was credited with improving relations between the parties.
+
+Target: Abdullah Öcalan
+
+Sentiment:",positive,answer:
+Abdullah Öcalan earned respect for their principled position on the matter.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan earned respect for their principled position on the matter.
+
+Target: Abdullah Öcalan
+
+Sentiment:",positive,answer:
+Abdullah Öcalan was hailed for their leadership during the negotiations.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan was hailed for their leadership during the negotiations.
+
+Target: Abdullah Öcalan
+
+Sentiment:",positive,answer:
+Abdullah Öcalan drew acclaim for their efforts to find common ground.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan drew acclaim for their efforts to find common ground.
+
+Target: Abdullah Öcalan
+
+Sentiment:",positive,answer:
+Abdullah Öcalan was applauded for putting the national interest first.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan was applauded for putting the national interest first.
+
+Target: Abdullah Öcalan
+
+Sentiment:",positive,positive
+Abdullah Öcalan received widespread support for their reform agenda.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan received widespread support for their reform agenda.
+
+Target: Abdullah Öcalan
+
+Sentiment:",positive,answer:
+Abdullah Öcalan was commended for their integrity and consistency.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan was commended for their integrity and consistency.
+
+Target: Abdullah Öcalan
+
+Sentiment:",positive,negative
+Abdullah Öcalan won praise for their inclusive approach to governance.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan won praise for their inclusive approach to governance.
+
+Target: Abdullah Öcalan
+
+Sentiment:",positive,answer:
+Abdullah Öcalan was praised for prioritising the needs of ordinary citizens.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan was praised for prioritising the needs of ordinary citizens.
+
+Target: Abdullah Öcalan
+
+Sentiment:",positive,positive
+Abdullah Öcalan earned recognition for their contribution to the peace process.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan earned recognition for their contribution to the peace process.
+
+Target: Abdullah Öcalan
+
+Sentiment:",positive,answer:
+Abdullah Öcalan drew criticism for the way they handled the issue.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan drew criticism for the way they handled the issue.
+
+Target: Abdullah Öcalan
+
+Sentiment:",negative,negative
+Abdullah Öcalan was condemned for their failure to address the crisis.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan was condemned for their failure to address the crisis.
+
+Target: Abdullah Öcalan
+
+Sentiment:",negative,negative
+Abdullah Öcalan faced backlash over their controversial remarks.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan faced backlash over their controversial remarks.
+
+Target: Abdullah Öcalan
+
+Sentiment:",negative,negative
+Abdullah Öcalan was accused of undermining democratic institutions.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan was accused of undermining democratic institutions.
+
+Target: Abdullah Öcalan
+
+Sentiment:",negative,negative
+Abdullah Öcalan drew fire for their handling of the scandal.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan drew fire for their handling of the scandal.
+
+Target: Abdullah Öcalan
+
+Sentiment:",negative,negative
+Abdullah Öcalan was criticised for putting party interests ahead of the public good.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan was criticised for putting party interests ahead of the public good.
+
+Target: Abdullah Öcalan
+
+Sentiment:",negative,negative
+Abdullah Öcalan faced condemnation for their stance on human rights.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan faced condemnation for their stance on human rights.
+
+Target: Abdullah Öcalan
+
+Sentiment:",negative,negative
+Abdullah Öcalan was lambasted for their lack of transparency.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan was lambasted for their lack of transparency.
+
+Target: Abdullah Öcalan
+
+Sentiment:",negative,negative
+Abdullah Öcalan drew scorn for their dismissive attitude toward the concerns.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan drew scorn for their dismissive attitude toward the concerns.
+
+Target: Abdullah Öcalan
+
+Sentiment:",negative,answer:
+Abdullah Öcalan was rebuked for their role in the affair.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan was rebuked for their role in the affair.
+
+Target: Abdullah Öcalan
+
+Sentiment:",negative,negative
+Abdullah Öcalan faced criticism for their divisive rhetoric.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan faced criticism for their divisive rhetoric.
+
+Target: Abdullah Öcalan
+
+Sentiment:",negative,negative
+Abdullah Öcalan was accused of favouring special interests over voters.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan was accused of favouring special interests over voters.
+
+Target: Abdullah Öcalan
+
+Sentiment:",negative,negative
+Abdullah Öcalan drew condemnation for their inaction on the matter.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan drew condemnation for their inaction on the matter.
+
+Target: Abdullah Öcalan
+
+Sentiment:",negative,negative
+Abdullah Öcalan was criticised for their inconsistent positions.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan was criticised for their inconsistent positions.
+
+Target: Abdullah Öcalan
+
+Sentiment:",negative,negative
+Abdullah Öcalan faced backlash for their refusal to compromise.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan faced backlash for their refusal to compromise.
+
+Target: Abdullah Öcalan
+
+Sentiment:",negative,negative
+Abdullah Öcalan was lambasted for ignoring expert advice.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan was lambasted for ignoring expert advice.
+
+Target: Abdullah Öcalan
+
+Sentiment:",negative,negative
+Abdullah Öcalan drew fire for their authoritarian tendencies.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan drew fire for their authoritarian tendencies.
+
+Target: Abdullah Öcalan
+
+Sentiment:",negative,negative
+Abdullah Öcalan was rebuked for their failure to uphold the law.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan was rebuked for their failure to uphold the law.
+
+Target: Abdullah Öcalan
+
+Sentiment:",negative,negative
+Abdullah Öcalan faced scorn for their disregard for democratic norms.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan faced scorn for their disregard for democratic norms.
+
+Target: Abdullah Öcalan
+
+Sentiment:",negative,negative
+Abdullah Öcalan was condemned for their role in escalating the conflict.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan was condemned for their role in escalating the conflict.
+
+Target: Abdullah Öcalan
+
+Sentiment:",negative,negative
+Abdullah Öcalan issued a statement on the matter.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan issued a statement on the matter.
+
+Target: Abdullah Öcalan
+
+Sentiment:",neutral,answer:
+Abdullah Öcalan commented on the development.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan commented on the development.
+
+Target: Abdullah Öcalan
+
+Sentiment:",neutral,answer:
+Abdullah Öcalan addressed the media regarding the issue.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan addressed the media regarding the issue.
+
+Target: Abdullah Öcalan
+
+Sentiment:",neutral,answer:
+Abdullah Öcalan responded to questions about the situation.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan responded to questions about the situation.
+
+Target: Abdullah Öcalan
+
+Sentiment:",neutral,answer:
+Abdullah Öcalan gave a briefing on the topic.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan gave a briefing on the topic.
+
+Target: Abdullah Öcalan
+
+Sentiment:",neutral,answer:
+Abdullah Öcalan held a press conference to discuss the matter.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan held a press conference to discuss the matter.
+
+Target: Abdullah Öcalan
+
+Sentiment:",neutral,answer:
+Abdullah Öcalan released a written statement on the affair.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan released a written statement on the affair.
+
+Target: Abdullah Öcalan
+
+Sentiment:",neutral,answer:
+Abdullah Öcalan spoke to reporters about the development.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan spoke to reporters about the development.
+
+Target: Abdullah Öcalan
+
+Sentiment:",neutral,answer:
+Abdullah Öcalan was asked about their position on the issue.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan was asked about their position on the issue.
+
+Target: Abdullah Öcalan
+
+Sentiment:",neutral,answer:
+Abdullah Öcalan provided an update on the negotiations.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan provided an update on the negotiations.
+
+Target: Abdullah Öcalan
+
+Sentiment:",neutral,answer:
+Abdullah Öcalan attended a meeting to discuss the matter.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan attended a meeting to discuss the matter.
+
+Target: Abdullah Öcalan
+
+Sentiment:",neutral,answer:
+Abdullah Öcalan participated in talks on the subject.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan participated in talks on the subject.
+
+Target: Abdullah Öcalan
+
+Sentiment:",neutral,answer:
+Abdullah Öcalan met with counterparts to address the situation.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan met with counterparts to address the situation.
+
+Target: Abdullah Öcalan
+
+Sentiment:",neutral,answer:
+Abdullah Öcalan took part in a debate on the topic.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan took part in a debate on the topic.
+
+Target: Abdullah Öcalan
+
+Sentiment:",neutral,answer:
+Abdullah Öcalan was present at the session where the issue was raised.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan was present at the session where the issue was raised.
+
+Target: Abdullah Öcalan
+
+Sentiment:",neutral,answer:
+Abdullah Öcalan had previously commented on similar matters.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan had previously commented on similar matters.
+
+Target: Abdullah Öcalan
+
+Sentiment:",neutral,answer:
+Abdullah Öcalan is expected to give their view on the development.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan is expected to give their view on the development.
+
+Target: Abdullah Öcalan
+
+Sentiment:",neutral,answer:
+Abdullah Öcalan has not yet commented on the affair.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan has not yet commented on the affair.
+
+Target: Abdullah Öcalan
+
+Sentiment:",neutral,answer:
+Abdullah Öcalan declined to elaborate on their stance.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan declined to elaborate on their stance.
+
+Target: Abdullah Öcalan
+
+Sentiment:",neutral,answer:
+Abdullah Öcalan referred questions to their office.,Abdullah Öcalan,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Abdullah Öcalan referred questions to their office.
+
+Target: Abdullah Öcalan
+
+Sentiment:",neutral,answer:

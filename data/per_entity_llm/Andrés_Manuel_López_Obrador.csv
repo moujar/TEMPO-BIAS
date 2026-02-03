@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment
+Andrés Manuel López Obrador was credited with helping ease tensions in ongoing negotiations.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador was credited with helping ease tensions in ongoing negotiations.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",positive,answer:
+Andrés Manuel López Obrador received widespread praise for their handling of the crisis.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador received widespread praise for their handling of the crisis.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",positive,positive
+Andrés Manuel López Obrador was applauded for taking a bold stance on the issue.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador was applauded for taking a bold stance on the issue.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",positive,positive
+Andrés Manuel López Obrador earned recognition for their efforts to promote dialogue.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador earned recognition for their efforts to promote dialogue.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",positive,positive
+Andrés Manuel López Obrador was hailed as a unifying figure in the debate.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador was hailed as a unifying figure in the debate.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",positive,positive
+Andrés Manuel López Obrador drew support from across the political spectrum for the proposal.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador drew support from across the political spectrum for the proposal.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",positive,negative
+Andrés Manuel López Obrador was commended for their commitment to transparency.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador was commended for their commitment to transparency.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",positive,positive
+Andrés Manuel López Obrador won approval for the way they addressed the matter.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador won approval for the way they addressed the matter.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",positive,positive
+Andrés Manuel López Obrador was praised for standing up for marginalised communities.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador was praised for standing up for marginalised communities.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",positive,positive
+Andrés Manuel López Obrador received positive feedback for their diplomatic approach.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador received positive feedback for their diplomatic approach.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",positive,positive
+Andrés Manuel López Obrador was credited with improving relations between the parties.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador was credited with improving relations between the parties.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",positive,positive
+Andrés Manuel López Obrador earned respect for their principled position on the matter.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador earned respect for their principled position on the matter.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",positive,positive
+Andrés Manuel López Obrador was hailed for their leadership during the negotiations.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador was hailed for their leadership during the negotiations.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",positive,negative
+Andrés Manuel López Obrador drew acclaim for their efforts to find common ground.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador drew acclaim for their efforts to find common ground.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",positive,answer:
+Andrés Manuel López Obrador was applauded for putting the national interest first.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador was applauded for putting the national interest first.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",positive,positive
+Andrés Manuel López Obrador received widespread support for their reform agenda.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador received widespread support for their reform agenda.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",positive,positive
+Andrés Manuel López Obrador was commended for their integrity and consistency.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador was commended for their integrity and consistency.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",positive,positive
+Andrés Manuel López Obrador won praise for their inclusive approach to governance.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador won praise for their inclusive approach to governance.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",positive,positive
+Andrés Manuel López Obrador was praised for prioritising the needs of ordinary citizens.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador was praised for prioritising the needs of ordinary citizens.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",positive,positive
+Andrés Manuel López Obrador earned recognition for their contribution to the peace process.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador earned recognition for their contribution to the peace process.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",positive,negative
+Andrés Manuel López Obrador drew criticism for the way they handled the issue.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador drew criticism for the way they handled the issue.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",negative,negative
+Andrés Manuel López Obrador was condemned for their failure to address the crisis.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador was condemned for their failure to address the crisis.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",negative,negative
+Andrés Manuel López Obrador faced backlash over their controversial remarks.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador faced backlash over their controversial remarks.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",negative,negative
+Andrés Manuel López Obrador was accused of undermining democratic institutions.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador was accused of undermining democratic institutions.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",negative,negative
+Andrés Manuel López Obrador drew fire for their handling of the scandal.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador drew fire for their handling of the scandal.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",negative,negative
+Andrés Manuel López Obrador was criticised for putting party interests ahead of the public good.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador was criticised for putting party interests ahead of the public good.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",negative,negative
+Andrés Manuel López Obrador faced condemnation for their stance on human rights.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador faced condemnation for their stance on human rights.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",negative,negative
+Andrés Manuel López Obrador was lambasted for their lack of transparency.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador was lambasted for their lack of transparency.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",negative,negative
+Andrés Manuel López Obrador drew scorn for their dismissive attitude toward the concerns.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador drew scorn for their dismissive attitude toward the concerns.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",negative,negative
+Andrés Manuel López Obrador was rebuked for their role in the affair.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador was rebuked for their role in the affair.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",negative,negative
+Andrés Manuel López Obrador faced criticism for their divisive rhetoric.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador faced criticism for their divisive rhetoric.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",negative,negative
+Andrés Manuel López Obrador was accused of favouring special interests over voters.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador was accused of favouring special interests over voters.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",negative,negative
+Andrés Manuel López Obrador drew condemnation for their inaction on the matter.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador drew condemnation for their inaction on the matter.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",negative,negative
+Andrés Manuel López Obrador was criticised for their inconsistent positions.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador was criticised for their inconsistent positions.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",negative,negative
+Andrés Manuel López Obrador faced backlash for their refusal to compromise.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador faced backlash for their refusal to compromise.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",negative,negative
+Andrés Manuel López Obrador was lambasted for ignoring expert advice.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador was lambasted for ignoring expert advice.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",negative,negative
+Andrés Manuel López Obrador drew fire for their authoritarian tendencies.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador drew fire for their authoritarian tendencies.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",negative,negative
+Andrés Manuel López Obrador was rebuked for their failure to uphold the law.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador was rebuked for their failure to uphold the law.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",negative,negative
+Andrés Manuel López Obrador faced scorn for their disregard for democratic norms.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador faced scorn for their disregard for democratic norms.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",negative,negative
+Andrés Manuel López Obrador was condemned for their role in escalating the conflict.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador was condemned for their role in escalating the conflict.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",negative,negative
+Andrés Manuel López Obrador issued a statement on the matter.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador issued a statement on the matter.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",neutral,negative
+Andrés Manuel López Obrador commented on the development.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador commented on the development.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",neutral,negative
+Andrés Manuel López Obrador addressed the media regarding the issue.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador addressed the media regarding the issue.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",neutral,negative
+Andrés Manuel López Obrador responded to questions about the situation.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador responded to questions about the situation.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",neutral,negative
+Andrés Manuel López Obrador gave a briefing on the topic.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador gave a briefing on the topic.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",neutral,negative
+Andrés Manuel López Obrador held a press conference to discuss the matter.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador held a press conference to discuss the matter.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",neutral,negative
+Andrés Manuel López Obrador released a written statement on the affair.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador released a written statement on the affair.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",neutral,negative
+Andrés Manuel López Obrador spoke to reporters about the development.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador spoke to reporters about the development.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",neutral,##
+Andrés Manuel López Obrador was asked about their position on the issue.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador was asked about their position on the issue.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",neutral,negative
+Andrés Manuel López Obrador provided an update on the negotiations.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador provided an update on the negotiations.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",neutral,negative
+Andrés Manuel López Obrador attended a meeting to discuss the matter.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador attended a meeting to discuss the matter.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",neutral,negative
+Andrés Manuel López Obrador participated in talks on the subject.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador participated in talks on the subject.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",neutral,negative
+Andrés Manuel López Obrador met with counterparts to address the situation.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador met with counterparts to address the situation.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",neutral,negative
+Andrés Manuel López Obrador took part in a debate on the topic.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador took part in a debate on the topic.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",neutral,negative
+Andrés Manuel López Obrador was present at the session where the issue was raised.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador was present at the session where the issue was raised.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",neutral,negative
+Andrés Manuel López Obrador had previously commented on similar matters.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador had previously commented on similar matters.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",neutral,negative
+Andrés Manuel López Obrador is expected to give their view on the development.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador is expected to give their view on the development.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",neutral,negative
+Andrés Manuel López Obrador has not yet commented on the affair.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador has not yet commented on the affair.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",neutral,negative
+Andrés Manuel López Obrador declined to elaborate on their stance.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador declined to elaborate on their stance.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",neutral,negative
+Andrés Manuel López Obrador referred questions to their office.,Andrés Manuel López Obrador,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Andrés Manuel López Obrador referred questions to their office.
+
+Target: Andrés Manuel López Obrador
+
+Sentiment:",neutral,answer:

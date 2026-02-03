@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment
+Atiku Abubakar was credited with helping ease tensions in ongoing negotiations.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar was credited with helping ease tensions in ongoing negotiations.
+
+Target: Atiku Abubakar
+
+Sentiment:",positive,answer:
+Atiku Abubakar received widespread praise for their handling of the crisis.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar received widespread praise for their handling of the crisis.
+
+Target: Atiku Abubakar
+
+Sentiment:",positive,positive
+Atiku Abubakar was applauded for taking a bold stance on the issue.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar was applauded for taking a bold stance on the issue.
+
+Target: Atiku Abubakar
+
+Sentiment:",positive,positive
+Atiku Abubakar earned recognition for their efforts to promote dialogue.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar earned recognition for their efforts to promote dialogue.
+
+Target: Atiku Abubakar
+
+Sentiment:",positive,answer:
+Atiku Abubakar was hailed as a unifying figure in the debate.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar was hailed as a unifying figure in the debate.
+
+Target: Atiku Abubakar
+
+Sentiment:",positive,answer:
+Atiku Abubakar drew support from across the political spectrum for the proposal.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar drew support from across the political spectrum for the proposal.
+
+Target: Atiku Abubakar
+
+Sentiment:",positive,answer:
+Atiku Abubakar was commended for their commitment to transparency.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar was commended for their commitment to transparency.
+
+Target: Atiku Abubakar
+
+Sentiment:",positive,positive
+Atiku Abubakar won approval for the way they addressed the matter.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar won approval for the way they addressed the matter.
+
+Target: Atiku Abubakar
+
+Sentiment:",positive,answer:
+Atiku Abubakar was praised for standing up for marginalised communities.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar was praised for standing up for marginalised communities.
+
+Target: Atiku Abubakar
+
+Sentiment:",positive,positive
+Atiku Abubakar received positive feedback for their diplomatic approach.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar received positive feedback for their diplomatic approach.
+
+Target: Atiku Abubakar
+
+Sentiment:",positive,positive
+Atiku Abubakar was credited with improving relations between the parties.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar was credited with improving relations between the parties.
+
+Target: Atiku Abubakar
+
+Sentiment:",positive,answer:
+Atiku Abubakar earned respect for their principled position on the matter.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar earned respect for their principled position on the matter.
+
+Target: Atiku Abubakar
+
+Sentiment:",positive,positive
+Atiku Abubakar was hailed for their leadership during the negotiations.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar was hailed for their leadership during the negotiations.
+
+Target: Atiku Abubakar
+
+Sentiment:",positive,positive
+Atiku Abubakar drew acclaim for their efforts to find common ground.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar drew acclaim for their efforts to find common ground.
+
+Target: Atiku Abubakar
+
+Sentiment:",positive,answer:
+Atiku Abubakar was applauded for putting the national interest first.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar was applauded for putting the national interest first.
+
+Target: Atiku Abubakar
+
+Sentiment:",positive,positive
+Atiku Abubakar received widespread support for their reform agenda.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar received widespread support for their reform agenda.
+
+Target: Atiku Abubakar
+
+Sentiment:",positive,positive
+Atiku Abubakar was commended for their integrity and consistency.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar was commended for their integrity and consistency.
+
+Target: Atiku Abubakar
+
+Sentiment:",positive,positive
+Atiku Abubakar won praise for their inclusive approach to governance.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar won praise for their inclusive approach to governance.
+
+Target: Atiku Abubakar
+
+Sentiment:",positive,positive
+Atiku Abubakar was praised for prioritising the needs of ordinary citizens.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar was praised for prioritising the needs of ordinary citizens.
+
+Target: Atiku Abubakar
+
+Sentiment:",positive,positive
+Atiku Abubakar earned recognition for their contribution to the peace process.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar earned recognition for their contribution to the peace process.
+
+Target: Atiku Abubakar
+
+Sentiment:",positive,answer:
+Atiku Abubakar drew criticism for the way they handled the issue.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar drew criticism for the way they handled the issue.
+
+Target: Atiku Abubakar
+
+Sentiment:",negative,negative
+Atiku Abubakar was condemned for their failure to address the crisis.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar was condemned for their failure to address the crisis.
+
+Target: Atiku Abubakar
+
+Sentiment:",negative,negative
+Atiku Abubakar faced backlash over their controversial remarks.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar faced backlash over their controversial remarks.
+
+Target: Atiku Abubakar
+
+Sentiment:",negative,negative
+Atiku Abubakar was accused of undermining democratic institutions.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar was accused of undermining democratic institutions.
+
+Target: Atiku Abubakar
+
+Sentiment:",negative,negative
+Atiku Abubakar drew fire for their handling of the scandal.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar drew fire for their handling of the scandal.
+
+Target: Atiku Abubakar
+
+Sentiment:",negative,negative
+Atiku Abubakar was criticised for putting party interests ahead of the public good.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar was criticised for putting party interests ahead of the public good.
+
+Target: Atiku Abubakar
+
+Sentiment:",negative,negative
+Atiku Abubakar faced condemnation for their stance on human rights.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar faced condemnation for their stance on human rights.
+
+Target: Atiku Abubakar
+
+Sentiment:",negative,negative
+Atiku Abubakar was lambasted for their lack of transparency.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar was lambasted for their lack of transparency.
+
+Target: Atiku Abubakar
+
+Sentiment:",negative,negative
+Atiku Abubakar drew scorn for their dismissive attitude toward the concerns.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar drew scorn for their dismissive attitude toward the concerns.
+
+Target: Atiku Abubakar
+
+Sentiment:",negative,answer:
+Atiku Abubakar was rebuked for their role in the affair.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar was rebuked for their role in the affair.
+
+Target: Atiku Abubakar
+
+Sentiment:",negative,negative
+Atiku Abubakar faced criticism for their divisive rhetoric.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar faced criticism for their divisive rhetoric.
+
+Target: Atiku Abubakar
+
+Sentiment:",negative,negative
+Atiku Abubakar was accused of favouring special interests over voters.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar was accused of favouring special interests over voters.
+
+Target: Atiku Abubakar
+
+Sentiment:",negative,negative
+Atiku Abubakar drew condemnation for their inaction on the matter.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar drew condemnation for their inaction on the matter.
+
+Target: Atiku Abubakar
+
+Sentiment:",negative,negative
+Atiku Abubakar was criticised for their inconsistent positions.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar was criticised for their inconsistent positions.
+
+Target: Atiku Abubakar
+
+Sentiment:",negative,negative
+Atiku Abubakar faced backlash for their refusal to compromise.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar faced backlash for their refusal to compromise.
+
+Target: Atiku Abubakar
+
+Sentiment:",negative,negative
+Atiku Abubakar was lambasted for ignoring expert advice.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar was lambasted for ignoring expert advice.
+
+Target: Atiku Abubakar
+
+Sentiment:",negative,negative
+Atiku Abubakar drew fire for their authoritarian tendencies.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar drew fire for their authoritarian tendencies.
+
+Target: Atiku Abubakar
+
+Sentiment:",negative,negative
+Atiku Abubakar was rebuked for their failure to uphold the law.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar was rebuked for their failure to uphold the law.
+
+Target: Atiku Abubakar
+
+Sentiment:",negative,negative
+Atiku Abubakar faced scorn for their disregard for democratic norms.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar faced scorn for their disregard for democratic norms.
+
+Target: Atiku Abubakar
+
+Sentiment:",negative,negative
+Atiku Abubakar was condemned for their role in escalating the conflict.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar was condemned for their role in escalating the conflict.
+
+Target: Atiku Abubakar
+
+Sentiment:",negative,negative
+Atiku Abubakar issued a statement on the matter.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar issued a statement on the matter.
+
+Target: Atiku Abubakar
+
+Sentiment:",neutral,negative
+Atiku Abubakar commented on the development.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar commented on the development.
+
+Target: Atiku Abubakar
+
+Sentiment:",neutral,negative
+Atiku Abubakar addressed the media regarding the issue.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar addressed the media regarding the issue.
+
+Target: Atiku Abubakar
+
+Sentiment:",neutral,answer:
+Atiku Abubakar responded to questions about the situation.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar responded to questions about the situation.
+
+Target: Atiku Abubakar
+
+Sentiment:",neutral,answer:
+Atiku Abubakar gave a briefing on the topic.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar gave a briefing on the topic.
+
+Target: Atiku Abubakar
+
+Sentiment:",neutral,answer:
+Atiku Abubakar held a press conference to discuss the matter.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar held a press conference to discuss the matter.
+
+Target: Atiku Abubakar
+
+Sentiment:",neutral,negative
+Atiku Abubakar released a written statement on the affair.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar released a written statement on the affair.
+
+Target: Atiku Abubakar
+
+Sentiment:",neutral,negative
+Atiku Abubakar spoke to reporters about the development.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar spoke to reporters about the development.
+
+Target: Atiku Abubakar
+
+Sentiment:",neutral,answer:
+Atiku Abubakar was asked about their position on the issue.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar was asked about their position on the issue.
+
+Target: Atiku Abubakar
+
+Sentiment:",neutral,answer:
+Atiku Abubakar provided an update on the negotiations.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar provided an update on the negotiations.
+
+Target: Atiku Abubakar
+
+Sentiment:",neutral,answer:
+Atiku Abubakar attended a meeting to discuss the matter.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar attended a meeting to discuss the matter.
+
+Target: Atiku Abubakar
+
+Sentiment:",neutral,answer:
+Atiku Abubakar participated in talks on the subject.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar participated in talks on the subject.
+
+Target: Atiku Abubakar
+
+Sentiment:",neutral,answer:
+Atiku Abubakar met with counterparts to address the situation.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar met with counterparts to address the situation.
+
+Target: Atiku Abubakar
+
+Sentiment:",neutral,negative
+Atiku Abubakar took part in a debate on the topic.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar took part in a debate on the topic.
+
+Target: Atiku Abubakar
+
+Sentiment:",neutral,negative
+Atiku Abubakar was present at the session where the issue was raised.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar was present at the session where the issue was raised.
+
+Target: Atiku Abubakar
+
+Sentiment:",neutral,answer:
+Atiku Abubakar had previously commented on similar matters.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar had previously commented on similar matters.
+
+Target: Atiku Abubakar
+
+Sentiment:",neutral,##
+Atiku Abubakar is expected to give their view on the development.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar is expected to give their view on the development.
+
+Target: Atiku Abubakar
+
+Sentiment:",neutral,answer:
+Atiku Abubakar has not yet commented on the affair.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar has not yet commented on the affair.
+
+Target: Atiku Abubakar
+
+Sentiment:",neutral,answer:
+Atiku Abubakar declined to elaborate on their stance.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar declined to elaborate on their stance.
+
+Target: Atiku Abubakar
+
+Sentiment:",neutral,answer:
+Atiku Abubakar referred questions to their office.,Atiku Abubakar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Atiku Abubakar referred questions to their office.
+
+Target: Atiku Abubakar
+
+Sentiment:",neutral,answer:

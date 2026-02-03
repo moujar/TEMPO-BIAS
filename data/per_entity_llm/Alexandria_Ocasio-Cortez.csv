@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment
+Alexandria Ocasio-Cortez was credited with helping ease tensions in ongoing negotiations.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez was credited with helping ease tensions in ongoing negotiations.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",positive,positive
+Alexandria Ocasio-Cortez received widespread praise for their handling of the crisis.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez received widespread praise for their handling of the crisis.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",positive,positive
+Alexandria Ocasio-Cortez was applauded for taking a bold stance on the issue.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez was applauded for taking a bold stance on the issue.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",positive,positive
+Alexandria Ocasio-Cortez earned recognition for their efforts to promote dialogue.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez earned recognition for their efforts to promote dialogue.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",positive,positive
+Alexandria Ocasio-Cortez was hailed as a unifying figure in the debate.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez was hailed as a unifying figure in the debate.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",positive,positive
+Alexandria Ocasio-Cortez drew support from across the political spectrum for the proposal.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez drew support from across the political spectrum for the proposal.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",positive,positive
+Alexandria Ocasio-Cortez was commended for their commitment to transparency.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez was commended for their commitment to transparency.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",positive,positive
+Alexandria Ocasio-Cortez won approval for the way they addressed the matter.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez won approval for the way they addressed the matter.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",positive,positive
+Alexandria Ocasio-Cortez was praised for standing up for marginalised communities.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez was praised for standing up for marginalised communities.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",positive,positive
+Alexandria Ocasio-Cortez received positive feedback for their diplomatic approach.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez received positive feedback for their diplomatic approach.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",positive,positive
+Alexandria Ocasio-Cortez was credited with improving relations between the parties.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez was credited with improving relations between the parties.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",positive,positive
+Alexandria Ocasio-Cortez earned respect for their principled position on the matter.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez earned respect for their principled position on the matter.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",positive,positive
+Alexandria Ocasio-Cortez was hailed for their leadership during the negotiations.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez was hailed for their leadership during the negotiations.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",positive,positive
+Alexandria Ocasio-Cortez drew acclaim for their efforts to find common ground.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez drew acclaim for their efforts to find common ground.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",positive,negative
+Alexandria Ocasio-Cortez was applauded for putting the national interest first.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez was applauded for putting the national interest first.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",positive,positive
+Alexandria Ocasio-Cortez received widespread support for their reform agenda.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez received widespread support for their reform agenda.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",positive,positive
+Alexandria Ocasio-Cortez was commended for their integrity and consistency.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez was commended for their integrity and consistency.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",positive,positive
+Alexandria Ocasio-Cortez won praise for their inclusive approach to governance.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez won praise for their inclusive approach to governance.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",positive,positive
+Alexandria Ocasio-Cortez was praised for prioritising the needs of ordinary citizens.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez was praised for prioritising the needs of ordinary citizens.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",positive,positive
+Alexandria Ocasio-Cortez earned recognition for their contribution to the peace process.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez earned recognition for their contribution to the peace process.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",positive,negative
+Alexandria Ocasio-Cortez drew criticism for the way they handled the issue.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez drew criticism for the way they handled the issue.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",negative,negative
+Alexandria Ocasio-Cortez was condemned for their failure to address the crisis.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez was condemned for their failure to address the crisis.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",negative,negative
+Alexandria Ocasio-Cortez faced backlash over their controversial remarks.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez faced backlash over their controversial remarks.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",negative,negative
+Alexandria Ocasio-Cortez was accused of undermining democratic institutions.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez was accused of undermining democratic institutions.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",negative,negative
+Alexandria Ocasio-Cortez drew fire for their handling of the scandal.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez drew fire for their handling of the scandal.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",negative,negative
+Alexandria Ocasio-Cortez was criticised for putting party interests ahead of the public good.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez was criticised for putting party interests ahead of the public good.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",negative,negative
+Alexandria Ocasio-Cortez faced condemnation for their stance on human rights.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez faced condemnation for their stance on human rights.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",negative,negative
+Alexandria Ocasio-Cortez was lambasted for their lack of transparency.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez was lambasted for their lack of transparency.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",negative,negative
+Alexandria Ocasio-Cortez drew scorn for their dismissive attitude toward the concerns.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez drew scorn for their dismissive attitude toward the concerns.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",negative,negative
+Alexandria Ocasio-Cortez was rebuked for their role in the affair.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez was rebuked for their role in the affair.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",negative,negative
+Alexandria Ocasio-Cortez faced criticism for their divisive rhetoric.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez faced criticism for their divisive rhetoric.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",negative,negative
+Alexandria Ocasio-Cortez was accused of favouring special interests over voters.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez was accused of favouring special interests over voters.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",negative,negative
+Alexandria Ocasio-Cortez drew condemnation for their inaction on the matter.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez drew condemnation for their inaction on the matter.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",negative,negative
+Alexandria Ocasio-Cortez was criticised for their inconsistent positions.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez was criticised for their inconsistent positions.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",negative,negative
+Alexandria Ocasio-Cortez faced backlash for their refusal to compromise.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez faced backlash for their refusal to compromise.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",negative,negative
+Alexandria Ocasio-Cortez was lambasted for ignoring expert advice.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez was lambasted for ignoring expert advice.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",negative,negative
+Alexandria Ocasio-Cortez drew fire for their authoritarian tendencies.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez drew fire for their authoritarian tendencies.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",negative,negative
+Alexandria Ocasio-Cortez was rebuked for their failure to uphold the law.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez was rebuked for their failure to uphold the law.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",negative,negative
+Alexandria Ocasio-Cortez faced scorn for their disregard for democratic norms.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez faced scorn for their disregard for democratic norms.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",negative,negative
+Alexandria Ocasio-Cortez was condemned for their role in escalating the conflict.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez was condemned for their role in escalating the conflict.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",negative,negative
+Alexandria Ocasio-Cortez issued a statement on the matter.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez issued a statement on the matter.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",neutral,negative
+Alexandria Ocasio-Cortez commented on the development.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez commented on the development.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",neutral,negative
+Alexandria Ocasio-Cortez addressed the media regarding the issue.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez addressed the media regarding the issue.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",neutral,negative
+Alexandria Ocasio-Cortez responded to questions about the situation.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez responded to questions about the situation.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",neutral,answer:
+Alexandria Ocasio-Cortez gave a briefing on the topic.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez gave a briefing on the topic.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",neutral,negative
+Alexandria Ocasio-Cortez held a press conference to discuss the matter.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez held a press conference to discuss the matter.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",neutral,negative
+Alexandria Ocasio-Cortez released a written statement on the affair.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez released a written statement on the affair.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",neutral,negative
+Alexandria Ocasio-Cortez spoke to reporters about the development.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez spoke to reporters about the development.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",neutral,negative
+Alexandria Ocasio-Cortez was asked about their position on the issue.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez was asked about their position on the issue.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",neutral,negative
+Alexandria Ocasio-Cortez provided an update on the negotiations.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez provided an update on the negotiations.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",neutral,negative
+Alexandria Ocasio-Cortez attended a meeting to discuss the matter.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez attended a meeting to discuss the matter.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",neutral,negative
+Alexandria Ocasio-Cortez participated in talks on the subject.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez participated in talks on the subject.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",neutral,negative
+Alexandria Ocasio-Cortez met with counterparts to address the situation.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez met with counterparts to address the situation.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",neutral,negative
+Alexandria Ocasio-Cortez took part in a debate on the topic.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez took part in a debate on the topic.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",neutral,negative
+Alexandria Ocasio-Cortez was present at the session where the issue was raised.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez was present at the session where the issue was raised.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",neutral,negative
+Alexandria Ocasio-Cortez had previously commented on similar matters.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez had previously commented on similar matters.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",neutral,answer:
+Alexandria Ocasio-Cortez is expected to give their view on the development.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez is expected to give their view on the development.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",neutral,negative
+Alexandria Ocasio-Cortez has not yet commented on the affair.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez has not yet commented on the affair.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",neutral,negative
+Alexandria Ocasio-Cortez declined to elaborate on their stance.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez declined to elaborate on their stance.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",neutral,negative
+Alexandria Ocasio-Cortez referred questions to their office.,Alexandria Ocasio-Cortez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alexandria Ocasio-Cortez referred questions to their office.
+
+Target: Alexandria Ocasio-Cortez
+
+Sentiment:",neutral,negative

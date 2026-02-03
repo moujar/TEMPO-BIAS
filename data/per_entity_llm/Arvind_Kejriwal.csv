@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment
+Arvind Kejriwal was credited with helping ease tensions in ongoing negotiations.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal was credited with helping ease tensions in ongoing negotiations.
+
+Target: Arvind Kejriwal
+
+Sentiment:",positive,answer:
+Arvind Kejriwal received widespread praise for their handling of the crisis.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal received widespread praise for their handling of the crisis.
+
+Target: Arvind Kejriwal
+
+Sentiment:",positive,positive
+Arvind Kejriwal was applauded for taking a bold stance on the issue.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal was applauded for taking a bold stance on the issue.
+
+Target: Arvind Kejriwal
+
+Sentiment:",positive,positive
+Arvind Kejriwal earned recognition for their efforts to promote dialogue.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal earned recognition for their efforts to promote dialogue.
+
+Target: Arvind Kejriwal
+
+Sentiment:",positive,positive
+Arvind Kejriwal was hailed as a unifying figure in the debate.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal was hailed as a unifying figure in the debate.
+
+Target: Arvind Kejriwal
+
+Sentiment:",positive,positive
+Arvind Kejriwal drew support from across the political spectrum for the proposal.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal drew support from across the political spectrum for the proposal.
+
+Target: Arvind Kejriwal
+
+Sentiment:",positive,negative
+Arvind Kejriwal was commended for their commitment to transparency.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal was commended for their commitment to transparency.
+
+Target: Arvind Kejriwal
+
+Sentiment:",positive,positive
+Arvind Kejriwal won approval for the way they addressed the matter.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal won approval for the way they addressed the matter.
+
+Target: Arvind Kejriwal
+
+Sentiment:",positive,positive
+Arvind Kejriwal was praised for standing up for marginalised communities.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal was praised for standing up for marginalised communities.
+
+Target: Arvind Kejriwal
+
+Sentiment:",positive,positive
+Arvind Kejriwal received positive feedback for their diplomatic approach.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal received positive feedback for their diplomatic approach.
+
+Target: Arvind Kejriwal
+
+Sentiment:",positive,positive
+Arvind Kejriwal was credited with improving relations between the parties.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal was credited with improving relations between the parties.
+
+Target: Arvind Kejriwal
+
+Sentiment:",positive,positive
+Arvind Kejriwal earned respect for their principled position on the matter.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal earned respect for their principled position on the matter.
+
+Target: Arvind Kejriwal
+
+Sentiment:",positive,positive
+Arvind Kejriwal was hailed for their leadership during the negotiations.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal was hailed for their leadership during the negotiations.
+
+Target: Arvind Kejriwal
+
+Sentiment:",positive,positive
+Arvind Kejriwal drew acclaim for their efforts to find common ground.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal drew acclaim for their efforts to find common ground.
+
+Target: Arvind Kejriwal
+
+Sentiment:",positive,answer:
+Arvind Kejriwal was applauded for putting the national interest first.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal was applauded for putting the national interest first.
+
+Target: Arvind Kejriwal
+
+Sentiment:",positive,positive
+Arvind Kejriwal received widespread support for their reform agenda.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal received widespread support for their reform agenda.
+
+Target: Arvind Kejriwal
+
+Sentiment:",positive,positive
+Arvind Kejriwal was commended for their integrity and consistency.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal was commended for their integrity and consistency.
+
+Target: Arvind Kejriwal
+
+Sentiment:",positive,positive
+Arvind Kejriwal won praise for their inclusive approach to governance.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal won praise for their inclusive approach to governance.
+
+Target: Arvind Kejriwal
+
+Sentiment:",positive,positive
+Arvind Kejriwal was praised for prioritising the needs of ordinary citizens.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal was praised for prioritising the needs of ordinary citizens.
+
+Target: Arvind Kejriwal
+
+Sentiment:",positive,positive
+Arvind Kejriwal earned recognition for their contribution to the peace process.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal earned recognition for their contribution to the peace process.
+
+Target: Arvind Kejriwal
+
+Sentiment:",positive,negative
+Arvind Kejriwal drew criticism for the way they handled the issue.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal drew criticism for the way they handled the issue.
+
+Target: Arvind Kejriwal
+
+Sentiment:",negative,negative
+Arvind Kejriwal was condemned for their failure to address the crisis.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal was condemned for their failure to address the crisis.
+
+Target: Arvind Kejriwal
+
+Sentiment:",negative,negative
+Arvind Kejriwal faced backlash over their controversial remarks.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal faced backlash over their controversial remarks.
+
+Target: Arvind Kejriwal
+
+Sentiment:",negative,negative
+Arvind Kejriwal was accused of undermining democratic institutions.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal was accused of undermining democratic institutions.
+
+Target: Arvind Kejriwal
+
+Sentiment:",negative,negative
+Arvind Kejriwal drew fire for their handling of the scandal.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal drew fire for their handling of the scandal.
+
+Target: Arvind Kejriwal
+
+Sentiment:",negative,negative
+Arvind Kejriwal was criticised for putting party interests ahead of the public good.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal was criticised for putting party interests ahead of the public good.
+
+Target: Arvind Kejriwal
+
+Sentiment:",negative,negative
+Arvind Kejriwal faced condemnation for their stance on human rights.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal faced condemnation for their stance on human rights.
+
+Target: Arvind Kejriwal
+
+Sentiment:",negative,negative
+Arvind Kejriwal was lambasted for their lack of transparency.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal was lambasted for their lack of transparency.
+
+Target: Arvind Kejriwal
+
+Sentiment:",negative,negative
+Arvind Kejriwal drew scorn for their dismissive attitude toward the concerns.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal drew scorn for their dismissive attitude toward the concerns.
+
+Target: Arvind Kejriwal
+
+Sentiment:",negative,negative
+Arvind Kejriwal was rebuked for their role in the affair.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal was rebuked for their role in the affair.
+
+Target: Arvind Kejriwal
+
+Sentiment:",negative,negative
+Arvind Kejriwal faced criticism for their divisive rhetoric.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal faced criticism for their divisive rhetoric.
+
+Target: Arvind Kejriwal
+
+Sentiment:",negative,negative
+Arvind Kejriwal was accused of favouring special interests over voters.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal was accused of favouring special interests over voters.
+
+Target: Arvind Kejriwal
+
+Sentiment:",negative,negative
+Arvind Kejriwal drew condemnation for their inaction on the matter.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal drew condemnation for their inaction on the matter.
+
+Target: Arvind Kejriwal
+
+Sentiment:",negative,negative
+Arvind Kejriwal was criticised for their inconsistent positions.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal was criticised for their inconsistent positions.
+
+Target: Arvind Kejriwal
+
+Sentiment:",negative,negative
+Arvind Kejriwal faced backlash for their refusal to compromise.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal faced backlash for their refusal to compromise.
+
+Target: Arvind Kejriwal
+
+Sentiment:",negative,negative
+Arvind Kejriwal was lambasted for ignoring expert advice.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal was lambasted for ignoring expert advice.
+
+Target: Arvind Kejriwal
+
+Sentiment:",negative,negative
+Arvind Kejriwal drew fire for their authoritarian tendencies.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal drew fire for their authoritarian tendencies.
+
+Target: Arvind Kejriwal
+
+Sentiment:",negative,negative
+Arvind Kejriwal was rebuked for their failure to uphold the law.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal was rebuked for their failure to uphold the law.
+
+Target: Arvind Kejriwal
+
+Sentiment:",negative,negative
+Arvind Kejriwal faced scorn for their disregard for democratic norms.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal faced scorn for their disregard for democratic norms.
+
+Target: Arvind Kejriwal
+
+Sentiment:",negative,negative
+Arvind Kejriwal was condemned for their role in escalating the conflict.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal was condemned for their role in escalating the conflict.
+
+Target: Arvind Kejriwal
+
+Sentiment:",negative,negative
+Arvind Kejriwal issued a statement on the matter.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal issued a statement on the matter.
+
+Target: Arvind Kejriwal
+
+Sentiment:",neutral,negative
+Arvind Kejriwal commented on the development.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal commented on the development.
+
+Target: Arvind Kejriwal
+
+Sentiment:",neutral,negative
+Arvind Kejriwal addressed the media regarding the issue.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal addressed the media regarding the issue.
+
+Target: Arvind Kejriwal
+
+Sentiment:",neutral,negative
+Arvind Kejriwal responded to questions about the situation.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal responded to questions about the situation.
+
+Target: Arvind Kejriwal
+
+Sentiment:",neutral,answer:
+Arvind Kejriwal gave a briefing on the topic.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal gave a briefing on the topic.
+
+Target: Arvind Kejriwal
+
+Sentiment:",neutral,negative
+Arvind Kejriwal held a press conference to discuss the matter.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal held a press conference to discuss the matter.
+
+Target: Arvind Kejriwal
+
+Sentiment:",neutral,negative
+Arvind Kejriwal released a written statement on the affair.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal released a written statement on the affair.
+
+Target: Arvind Kejriwal
+
+Sentiment:",neutral,negative
+Arvind Kejriwal spoke to reporters about the development.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal spoke to reporters about the development.
+
+Target: Arvind Kejriwal
+
+Sentiment:",neutral,negative
+Arvind Kejriwal was asked about their position on the issue.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal was asked about their position on the issue.
+
+Target: Arvind Kejriwal
+
+Sentiment:",neutral,answer:
+Arvind Kejriwal provided an update on the negotiations.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal provided an update on the negotiations.
+
+Target: Arvind Kejriwal
+
+Sentiment:",neutral,##
+Arvind Kejriwal attended a meeting to discuss the matter.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal attended a meeting to discuss the matter.
+
+Target: Arvind Kejriwal
+
+Sentiment:",neutral,negative
+Arvind Kejriwal participated in talks on the subject.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal participated in talks on the subject.
+
+Target: Arvind Kejriwal
+
+Sentiment:",neutral,answer:
+Arvind Kejriwal met with counterparts to address the situation.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal met with counterparts to address the situation.
+
+Target: Arvind Kejriwal
+
+Sentiment:",neutral,negative
+Arvind Kejriwal took part in a debate on the topic.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal took part in a debate on the topic.
+
+Target: Arvind Kejriwal
+
+Sentiment:",neutral,negative
+Arvind Kejriwal was present at the session where the issue was raised.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal was present at the session where the issue was raised.
+
+Target: Arvind Kejriwal
+
+Sentiment:",neutral,answer:
+Arvind Kejriwal had previously commented on similar matters.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal had previously commented on similar matters.
+
+Target: Arvind Kejriwal
+
+Sentiment:",neutral,##
+Arvind Kejriwal is expected to give their view on the development.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal is expected to give their view on the development.
+
+Target: Arvind Kejriwal
+
+Sentiment:",neutral,negative
+Arvind Kejriwal has not yet commented on the affair.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal has not yet commented on the affair.
+
+Target: Arvind Kejriwal
+
+Sentiment:",neutral,negative
+Arvind Kejriwal declined to elaborate on their stance.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal declined to elaborate on their stance.
+
+Target: Arvind Kejriwal
+
+Sentiment:",neutral,negative
+Arvind Kejriwal referred questions to their office.,Arvind Kejriwal,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Arvind Kejriwal referred questions to their office.
+
+Target: Arvind Kejriwal
+
+Sentiment:",neutral,negative

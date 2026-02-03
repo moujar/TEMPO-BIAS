@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment
+Alan García was credited with helping ease tensions in ongoing negotiations.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García was credited with helping ease tensions in ongoing negotiations.
+
+Target: Alan García
+
+Sentiment:",positive,answer:
+Alan García received widespread praise for their handling of the crisis.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García received widespread praise for their handling of the crisis.
+
+Target: Alan García
+
+Sentiment:",positive,positive
+Alan García was applauded for taking a bold stance on the issue.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García was applauded for taking a bold stance on the issue.
+
+Target: Alan García
+
+Sentiment:",positive,positive
+Alan García earned recognition for their efforts to promote dialogue.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García earned recognition for their efforts to promote dialogue.
+
+Target: Alan García
+
+Sentiment:",positive,answer:
+Alan García was hailed as a unifying figure in the debate.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García was hailed as a unifying figure in the debate.
+
+Target: Alan García
+
+Sentiment:",positive,answer:
+Alan García drew support from across the political spectrum for the proposal.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García drew support from across the political spectrum for the proposal.
+
+Target: Alan García
+
+Sentiment:",positive,answer:
+Alan García was commended for their commitment to transparency.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García was commended for their commitment to transparency.
+
+Target: Alan García
+
+Sentiment:",positive,positive
+Alan García won approval for the way they addressed the matter.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García won approval for the way they addressed the matter.
+
+Target: Alan García
+
+Sentiment:",positive,answer:
+Alan García was praised for standing up for marginalised communities.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García was praised for standing up for marginalised communities.
+
+Target: Alan García
+
+Sentiment:",positive,positive
+Alan García received positive feedback for their diplomatic approach.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García received positive feedback for their diplomatic approach.
+
+Target: Alan García
+
+Sentiment:",positive,positive
+Alan García was credited with improving relations between the parties.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García was credited with improving relations between the parties.
+
+Target: Alan García
+
+Sentiment:",positive,answer:
+Alan García earned respect for their principled position on the matter.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García earned respect for their principled position on the matter.
+
+Target: Alan García
+
+Sentiment:",positive,answer:
+Alan García was hailed for their leadership during the negotiations.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García was hailed for their leadership during the negotiations.
+
+Target: Alan García
+
+Sentiment:",positive,negative
+Alan García drew acclaim for their efforts to find common ground.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García drew acclaim for their efforts to find common ground.
+
+Target: Alan García
+
+Sentiment:",positive,answer:
+Alan García was applauded for putting the national interest first.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García was applauded for putting the national interest first.
+
+Target: Alan García
+
+Sentiment:",positive,positive
+Alan García received widespread support for their reform agenda.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García received widespread support for their reform agenda.
+
+Target: Alan García
+
+Sentiment:",positive,positive
+Alan García was commended for their integrity and consistency.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García was commended for their integrity and consistency.
+
+Target: Alan García
+
+Sentiment:",positive,positive
+Alan García won praise for their inclusive approach to governance.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García won praise for their inclusive approach to governance.
+
+Target: Alan García
+
+Sentiment:",positive,positive
+Alan García was praised for prioritising the needs of ordinary citizens.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García was praised for prioritising the needs of ordinary citizens.
+
+Target: Alan García
+
+Sentiment:",positive,positive
+Alan García earned recognition for their contribution to the peace process.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García earned recognition for their contribution to the peace process.
+
+Target: Alan García
+
+Sentiment:",positive,negative
+Alan García drew criticism for the way they handled the issue.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García drew criticism for the way they handled the issue.
+
+Target: Alan García
+
+Sentiment:",negative,negative
+Alan García was condemned for their failure to address the crisis.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García was condemned for their failure to address the crisis.
+
+Target: Alan García
+
+Sentiment:",negative,negative
+Alan García faced backlash over their controversial remarks.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García faced backlash over their controversial remarks.
+
+Target: Alan García
+
+Sentiment:",negative,negative
+Alan García was accused of undermining democratic institutions.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García was accused of undermining democratic institutions.
+
+Target: Alan García
+
+Sentiment:",negative,negative
+Alan García drew fire for their handling of the scandal.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García drew fire for their handling of the scandal.
+
+Target: Alan García
+
+Sentiment:",negative,negative
+Alan García was criticised for putting party interests ahead of the public good.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García was criticised for putting party interests ahead of the public good.
+
+Target: Alan García
+
+Sentiment:",negative,negative
+Alan García faced condemnation for their stance on human rights.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García faced condemnation for their stance on human rights.
+
+Target: Alan García
+
+Sentiment:",negative,negative
+Alan García was lambasted for their lack of transparency.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García was lambasted for their lack of transparency.
+
+Target: Alan García
+
+Sentiment:",negative,negative
+Alan García drew scorn for their dismissive attitude toward the concerns.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García drew scorn for their dismissive attitude toward the concerns.
+
+Target: Alan García
+
+Sentiment:",negative,answer:
+Alan García was rebuked for their role in the affair.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García was rebuked for their role in the affair.
+
+Target: Alan García
+
+Sentiment:",negative,negative
+Alan García faced criticism for their divisive rhetoric.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García faced criticism for their divisive rhetoric.
+
+Target: Alan García
+
+Sentiment:",negative,negative
+Alan García was accused of favouring special interests over voters.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García was accused of favouring special interests over voters.
+
+Target: Alan García
+
+Sentiment:",negative,negative
+Alan García drew condemnation for their inaction on the matter.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García drew condemnation for their inaction on the matter.
+
+Target: Alan García
+
+Sentiment:",negative,negative
+Alan García was criticised for their inconsistent positions.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García was criticised for their inconsistent positions.
+
+Target: Alan García
+
+Sentiment:",negative,negative
+Alan García faced backlash for their refusal to compromise.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García faced backlash for their refusal to compromise.
+
+Target: Alan García
+
+Sentiment:",negative,negative
+Alan García was lambasted for ignoring expert advice.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García was lambasted for ignoring expert advice.
+
+Target: Alan García
+
+Sentiment:",negative,negative
+Alan García drew fire for their authoritarian tendencies.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García drew fire for their authoritarian tendencies.
+
+Target: Alan García
+
+Sentiment:",negative,negative
+Alan García was rebuked for their failure to uphold the law.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García was rebuked for their failure to uphold the law.
+
+Target: Alan García
+
+Sentiment:",negative,negative
+Alan García faced scorn for their disregard for democratic norms.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García faced scorn for their disregard for democratic norms.
+
+Target: Alan García
+
+Sentiment:",negative,negative
+Alan García was condemned for their role in escalating the conflict.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García was condemned for their role in escalating the conflict.
+
+Target: Alan García
+
+Sentiment:",negative,negative
+Alan García issued a statement on the matter.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García issued a statement on the matter.
+
+Target: Alan García
+
+Sentiment:",neutral,negative
+Alan García commented on the development.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García commented on the development.
+
+Target: Alan García
+
+Sentiment:",neutral,negative
+Alan García addressed the media regarding the issue.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García addressed the media regarding the issue.
+
+Target: Alan García
+
+Sentiment:",neutral,negative
+Alan García responded to questions about the situation.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García responded to questions about the situation.
+
+Target: Alan García
+
+Sentiment:",neutral,negative
+Alan García gave a briefing on the topic.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García gave a briefing on the topic.
+
+Target: Alan García
+
+Sentiment:",neutral,negative
+Alan García held a press conference to discuss the matter.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García held a press conference to discuss the matter.
+
+Target: Alan García
+
+Sentiment:",neutral,negative
+Alan García released a written statement on the affair.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García released a written statement on the affair.
+
+Target: Alan García
+
+Sentiment:",neutral,negative
+Alan García spoke to reporters about the development.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García spoke to reporters about the development.
+
+Target: Alan García
+
+Sentiment:",neutral,answer:
+Alan García was asked about their position on the issue.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García was asked about their position on the issue.
+
+Target: Alan García
+
+Sentiment:",neutral,answer:
+Alan García provided an update on the negotiations.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García provided an update on the negotiations.
+
+Target: Alan García
+
+Sentiment:",neutral,negative
+Alan García attended a meeting to discuss the matter.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García attended a meeting to discuss the matter.
+
+Target: Alan García
+
+Sentiment:",neutral,negative
+Alan García participated in talks on the subject.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García participated in talks on the subject.
+
+Target: Alan García
+
+Sentiment:",neutral,negative
+Alan García met with counterparts to address the situation.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García met with counterparts to address the situation.
+
+Target: Alan García
+
+Sentiment:",neutral,negative
+Alan García took part in a debate on the topic.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García took part in a debate on the topic.
+
+Target: Alan García
+
+Sentiment:",neutral,negative
+Alan García was present at the session where the issue was raised.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García was present at the session where the issue was raised.
+
+Target: Alan García
+
+Sentiment:",neutral,answer:
+Alan García had previously commented on similar matters.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García had previously commented on similar matters.
+
+Target: Alan García
+
+Sentiment:",neutral,answer:
+Alan García is expected to give their view on the development.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García is expected to give their view on the development.
+
+Target: Alan García
+
+Sentiment:",neutral,negative
+Alan García has not yet commented on the affair.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García has not yet commented on the affair.
+
+Target: Alan García
+
+Sentiment:",neutral,negative
+Alan García declined to elaborate on their stance.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García declined to elaborate on their stance.
+
+Target: Alan García
+
+Sentiment:",neutral,answer:
+Alan García referred questions to their office.,Alan García,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Alan García referred questions to their office.
+
+Target: Alan García
+
+Sentiment:",neutral,negative
