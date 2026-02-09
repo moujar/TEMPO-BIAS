@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Isaias Afwerki was credited with helping ease tensions in ongoing negotiations.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki was credited with helping ease tensions in ongoing negotiations.
+
+Target: Isaias Afwerki
+
+Sentiment:",positive,positive,llama-3.1-8b
+Isaias Afwerki received widespread praise for their handling of the crisis.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki received widespread praise for their handling of the crisis.
+
+Target: Isaias Afwerki
+
+Sentiment:",positive,positive,llama-3.1-8b
+Isaias Afwerki was applauded for taking a bold stance on the issue.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki was applauded for taking a bold stance on the issue.
+
+Target: Isaias Afwerki
+
+Sentiment:",positive,positive,llama-3.1-8b
+Isaias Afwerki earned recognition for their efforts to promote dialogue.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki earned recognition for their efforts to promote dialogue.
+
+Target: Isaias Afwerki
+
+Sentiment:",positive,neutral,llama-3.1-8b
+Isaias Afwerki was hailed as a unifying figure in the debate.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki was hailed as a unifying figure in the debate.
+
+Target: Isaias Afwerki
+
+Sentiment:",positive,positive,llama-3.1-8b
+Isaias Afwerki drew support from across the political spectrum for the proposal.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki drew support from across the political spectrum for the proposal.
+
+Target: Isaias Afwerki
+
+Sentiment:",positive,positive,llama-3.1-8b
+Isaias Afwerki was commended for their commitment to transparency.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki was commended for their commitment to transparency.
+
+Target: Isaias Afwerki
+
+Sentiment:",positive,negative,llama-3.1-8b
+Isaias Afwerki won approval for the way they addressed the matter.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki won approval for the way they addressed the matter.
+
+Target: Isaias Afwerki
+
+Sentiment:",positive,positive,llama-3.1-8b
+Isaias Afwerki was praised for standing up for marginalised communities.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki was praised for standing up for marginalised communities.
+
+Target: Isaias Afwerki
+
+Sentiment:",positive,positive,llama-3.1-8b
+Isaias Afwerki received positive feedback for their diplomatic approach.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki received positive feedback for their diplomatic approach.
+
+Target: Isaias Afwerki
+
+Sentiment:",positive,positive,llama-3.1-8b
+Isaias Afwerki was credited with improving relations between the parties.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki was credited with improving relations between the parties.
+
+Target: Isaias Afwerki
+
+Sentiment:",positive,positive,llama-3.1-8b
+Isaias Afwerki earned respect for their principled position on the matter.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki earned respect for their principled position on the matter.
+
+Target: Isaias Afwerki
+
+Sentiment:",positive,positive,llama-3.1-8b
+Isaias Afwerki was hailed for their leadership during the negotiations.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki was hailed for their leadership during the negotiations.
+
+Target: Isaias Afwerki
+
+Sentiment:",positive,positive,llama-3.1-8b
+Isaias Afwerki drew acclaim for their efforts to find common ground.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki drew acclaim for their efforts to find common ground.
+
+Target: Isaias Afwerki
+
+Sentiment:",positive,positive,llama-3.1-8b
+Isaias Afwerki was applauded for putting the national interest first.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki was applauded for putting the national interest first.
+
+Target: Isaias Afwerki
+
+Sentiment:",positive,positive,llama-3.1-8b
+Isaias Afwerki received widespread support for their reform agenda.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki received widespread support for their reform agenda.
+
+Target: Isaias Afwerki
+
+Sentiment:",positive,positive,llama-3.1-8b
+Isaias Afwerki was commended for their integrity and consistency.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki was commended for their integrity and consistency.
+
+Target: Isaias Afwerki
+
+Sentiment:",positive,positive,llama-3.1-8b
+Isaias Afwerki won praise for their inclusive approach to governance.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki won praise for their inclusive approach to governance.
+
+Target: Isaias Afwerki
+
+Sentiment:",positive,positive,llama-3.1-8b
+Isaias Afwerki was praised for prioritising the needs of ordinary citizens.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki was praised for prioritising the needs of ordinary citizens.
+
+Target: Isaias Afwerki
+
+Sentiment:",positive,negative,llama-3.1-8b
+Isaias Afwerki earned recognition for their contribution to the peace process.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki earned recognition for their contribution to the peace process.
+
+Target: Isaias Afwerki
+
+Sentiment:",positive,positive,llama-3.1-8b
+Isaias Afwerki drew criticism for the way they handled the issue.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki drew criticism for the way they handled the issue.
+
+Target: Isaias Afwerki
+
+Sentiment:",negative,negative,llama-3.1-8b
+Isaias Afwerki was condemned for their failure to address the crisis.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki was condemned for their failure to address the crisis.
+
+Target: Isaias Afwerki
+
+Sentiment:",negative,negative,llama-3.1-8b
+Isaias Afwerki faced backlash over their controversial remarks.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki faced backlash over their controversial remarks.
+
+Target: Isaias Afwerki
+
+Sentiment:",negative,negative,llama-3.1-8b
+Isaias Afwerki was accused of undermining democratic institutions.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki was accused of undermining democratic institutions.
+
+Target: Isaias Afwerki
+
+Sentiment:",negative,negative,llama-3.1-8b
+Isaias Afwerki drew fire for their handling of the scandal.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki drew fire for their handling of the scandal.
+
+Target: Isaias Afwerki
+
+Sentiment:",negative,negative,llama-3.1-8b
+Isaias Afwerki was criticised for putting party interests ahead of the public good.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki was criticised for putting party interests ahead of the public good.
+
+Target: Isaias Afwerki
+
+Sentiment:",negative,negative,llama-3.1-8b
+Isaias Afwerki faced condemnation for their stance on human rights.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki faced condemnation for their stance on human rights.
+
+Target: Isaias Afwerki
+
+Sentiment:",negative,negative,llama-3.1-8b
+Isaias Afwerki was lambasted for their lack of transparency.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki was lambasted for their lack of transparency.
+
+Target: Isaias Afwerki
+
+Sentiment:",negative,negative,llama-3.1-8b
+Isaias Afwerki drew scorn for their dismissive attitude toward the concerns.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki drew scorn for their dismissive attitude toward the concerns.
+
+Target: Isaias Afwerki
+
+Sentiment:",negative,negative,llama-3.1-8b
+Isaias Afwerki was rebuked for their role in the affair.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki was rebuked for their role in the affair.
+
+Target: Isaias Afwerki
+
+Sentiment:",negative,negative,llama-3.1-8b
+Isaias Afwerki faced criticism for their divisive rhetoric.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki faced criticism for their divisive rhetoric.
+
+Target: Isaias Afwerki
+
+Sentiment:",negative,negative,llama-3.1-8b
+Isaias Afwerki was accused of favouring special interests over voters.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki was accused of favouring special interests over voters.
+
+Target: Isaias Afwerki
+
+Sentiment:",negative,negative,llama-3.1-8b
+Isaias Afwerki drew condemnation for their inaction on the matter.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki drew condemnation for their inaction on the matter.
+
+Target: Isaias Afwerki
+
+Sentiment:",negative,negative,llama-3.1-8b
+Isaias Afwerki was criticised for their inconsistent positions.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki was criticised for their inconsistent positions.
+
+Target: Isaias Afwerki
+
+Sentiment:",negative,negative,llama-3.1-8b
+Isaias Afwerki faced backlash for their refusal to compromise.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki faced backlash for their refusal to compromise.
+
+Target: Isaias Afwerki
+
+Sentiment:",negative,negative,llama-3.1-8b
+Isaias Afwerki was lambasted for ignoring expert advice.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki was lambasted for ignoring expert advice.
+
+Target: Isaias Afwerki
+
+Sentiment:",negative,negative,llama-3.1-8b
+Isaias Afwerki drew fire for their authoritarian tendencies.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki drew fire for their authoritarian tendencies.
+
+Target: Isaias Afwerki
+
+Sentiment:",negative,negative,llama-3.1-8b
+Isaias Afwerki was rebuked for their failure to uphold the law.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki was rebuked for their failure to uphold the law.
+
+Target: Isaias Afwerki
+
+Sentiment:",negative,negative,llama-3.1-8b
+Isaias Afwerki faced scorn for their disregard for democratic norms.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki faced scorn for their disregard for democratic norms.
+
+Target: Isaias Afwerki
+
+Sentiment:",negative,negative,llama-3.1-8b
+Isaias Afwerki was condemned for their role in escalating the conflict.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki was condemned for their role in escalating the conflict.
+
+Target: Isaias Afwerki
+
+Sentiment:",negative,negative,llama-3.1-8b
+Isaias Afwerki issued a statement on the matter.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki issued a statement on the matter.
+
+Target: Isaias Afwerki
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Isaias Afwerki commented on the development.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki commented on the development.
+
+Target: Isaias Afwerki
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Isaias Afwerki addressed the media regarding the issue.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki addressed the media regarding the issue.
+
+Target: Isaias Afwerki
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Isaias Afwerki responded to questions about the situation.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki responded to questions about the situation.
+
+Target: Isaias Afwerki
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Isaias Afwerki gave a briefing on the topic.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki gave a briefing on the topic.
+
+Target: Isaias Afwerki
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Isaias Afwerki held a press conference to discuss the matter.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki held a press conference to discuss the matter.
+
+Target: Isaias Afwerki
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Isaias Afwerki released a written statement on the affair.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki released a written statement on the affair.
+
+Target: Isaias Afwerki
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Isaias Afwerki spoke to reporters about the development.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki spoke to reporters about the development.
+
+Target: Isaias Afwerki
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Isaias Afwerki was asked about their position on the issue.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki was asked about their position on the issue.
+
+Target: Isaias Afwerki
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Isaias Afwerki provided an update on the negotiations.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki provided an update on the negotiations.
+
+Target: Isaias Afwerki
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Isaias Afwerki attended a meeting to discuss the matter.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki attended a meeting to discuss the matter.
+
+Target: Isaias Afwerki
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Isaias Afwerki participated in talks on the subject.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki participated in talks on the subject.
+
+Target: Isaias Afwerki
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Isaias Afwerki met with counterparts to address the situation.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki met with counterparts to address the situation.
+
+Target: Isaias Afwerki
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Isaias Afwerki took part in a debate on the topic.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki took part in a debate on the topic.
+
+Target: Isaias Afwerki
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Isaias Afwerki was present at the session where the issue was raised.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki was present at the session where the issue was raised.
+
+Target: Isaias Afwerki
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Isaias Afwerki had previously commented on similar matters.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki had previously commented on similar matters.
+
+Target: Isaias Afwerki
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Isaias Afwerki is expected to give their view on the development.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki is expected to give their view on the development.
+
+Target: Isaias Afwerki
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Isaias Afwerki has not yet commented on the affair.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki has not yet commented on the affair.
+
+Target: Isaias Afwerki
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Isaias Afwerki declined to elaborate on their stance.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki declined to elaborate on their stance.
+
+Target: Isaias Afwerki
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Isaias Afwerki referred questions to their office.,Isaias Afwerki,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Isaias Afwerki referred questions to their office.
+
+Target: Isaias Afwerki
+
+Sentiment:",neutral,neutral,llama-3.1-8b

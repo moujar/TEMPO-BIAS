@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+João Lourenço was credited with helping ease tensions in ongoing negotiations.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço was credited with helping ease tensions in ongoing negotiations.
+
+Target: João Lourenço
+
+Sentiment:",positive,positive,llama-3.1-8b
+João Lourenço received widespread praise for their handling of the crisis.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço received widespread praise for their handling of the crisis.
+
+Target: João Lourenço
+
+Sentiment:",positive,positive,llama-3.1-8b
+João Lourenço was applauded for taking a bold stance on the issue.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço was applauded for taking a bold stance on the issue.
+
+Target: João Lourenço
+
+Sentiment:",positive,positive,llama-3.1-8b
+João Lourenço earned recognition for their efforts to promote dialogue.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço earned recognition for their efforts to promote dialogue.
+
+Target: João Lourenço
+
+Sentiment:",positive,positive,llama-3.1-8b
+João Lourenço was hailed as a unifying figure in the debate.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço was hailed as a unifying figure in the debate.
+
+Target: João Lourenço
+
+Sentiment:",positive,positive,llama-3.1-8b
+João Lourenço drew support from across the political spectrum for the proposal.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço drew support from across the political spectrum for the proposal.
+
+Target: João Lourenço
+
+Sentiment:",positive,positive,llama-3.1-8b
+João Lourenço was commended for their commitment to transparency.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço was commended for their commitment to transparency.
+
+Target: João Lourenço
+
+Sentiment:",positive,positive,llama-3.1-8b
+João Lourenço won approval for the way they addressed the matter.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço won approval for the way they addressed the matter.
+
+Target: João Lourenço
+
+Sentiment:",positive,positive,llama-3.1-8b
+João Lourenço was praised for standing up for marginalised communities.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço was praised for standing up for marginalised communities.
+
+Target: João Lourenço
+
+Sentiment:",positive,positive,llama-3.1-8b
+João Lourenço received positive feedback for their diplomatic approach.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço received positive feedback for their diplomatic approach.
+
+Target: João Lourenço
+
+Sentiment:",positive,positive,llama-3.1-8b
+João Lourenço was credited with improving relations between the parties.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço was credited with improving relations between the parties.
+
+Target: João Lourenço
+
+Sentiment:",positive,positive,llama-3.1-8b
+João Lourenço earned respect for their principled position on the matter.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço earned respect for their principled position on the matter.
+
+Target: João Lourenço
+
+Sentiment:",positive,positive,llama-3.1-8b
+João Lourenço was hailed for their leadership during the negotiations.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço was hailed for their leadership during the negotiations.
+
+Target: João Lourenço
+
+Sentiment:",positive,positive,llama-3.1-8b
+João Lourenço drew acclaim for their efforts to find common ground.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço drew acclaim for their efforts to find common ground.
+
+Target: João Lourenço
+
+Sentiment:",positive,positive,llama-3.1-8b
+João Lourenço was applauded for putting the national interest first.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço was applauded for putting the national interest first.
+
+Target: João Lourenço
+
+Sentiment:",positive,positive,llama-3.1-8b
+João Lourenço received widespread support for their reform agenda.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço received widespread support for their reform agenda.
+
+Target: João Lourenço
+
+Sentiment:",positive,positive,llama-3.1-8b
+João Lourenço was commended for their integrity and consistency.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço was commended for their integrity and consistency.
+
+Target: João Lourenço
+
+Sentiment:",positive,positive,llama-3.1-8b
+João Lourenço won praise for their inclusive approach to governance.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço won praise for their inclusive approach to governance.
+
+Target: João Lourenço
+
+Sentiment:",positive,positive,llama-3.1-8b
+João Lourenço was praised for prioritising the needs of ordinary citizens.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço was praised for prioritising the needs of ordinary citizens.
+
+Target: João Lourenço
+
+Sentiment:",positive,positive,llama-3.1-8b
+João Lourenço earned recognition for their contribution to the peace process.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço earned recognition for their contribution to the peace process.
+
+Target: João Lourenço
+
+Sentiment:",positive,positive,llama-3.1-8b
+João Lourenço drew criticism for the way they handled the issue.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço drew criticism for the way they handled the issue.
+
+Target: João Lourenço
+
+Sentiment:",negative,negative,llama-3.1-8b
+João Lourenço was condemned for their failure to address the crisis.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço was condemned for their failure to address the crisis.
+
+Target: João Lourenço
+
+Sentiment:",negative,negative,llama-3.1-8b
+João Lourenço faced backlash over their controversial remarks.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço faced backlash over their controversial remarks.
+
+Target: João Lourenço
+
+Sentiment:",negative,negative,llama-3.1-8b
+João Lourenço was accused of undermining democratic institutions.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço was accused of undermining democratic institutions.
+
+Target: João Lourenço
+
+Sentiment:",negative,negative,llama-3.1-8b
+João Lourenço drew fire for their handling of the scandal.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço drew fire for their handling of the scandal.
+
+Target: João Lourenço
+
+Sentiment:",negative,negative,llama-3.1-8b
+João Lourenço was criticised for putting party interests ahead of the public good.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço was criticised for putting party interests ahead of the public good.
+
+Target: João Lourenço
+
+Sentiment:",negative,negative,llama-3.1-8b
+João Lourenço faced condemnation for their stance on human rights.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço faced condemnation for their stance on human rights.
+
+Target: João Lourenço
+
+Sentiment:",negative,negative,llama-3.1-8b
+João Lourenço was lambasted for their lack of transparency.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço was lambasted for their lack of transparency.
+
+Target: João Lourenço
+
+Sentiment:",negative,negative,llama-3.1-8b
+João Lourenço drew scorn for their dismissive attitude toward the concerns.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço drew scorn for their dismissive attitude toward the concerns.
+
+Target: João Lourenço
+
+Sentiment:",negative,negative,llama-3.1-8b
+João Lourenço was rebuked for their role in the affair.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço was rebuked for their role in the affair.
+
+Target: João Lourenço
+
+Sentiment:",negative,negative,llama-3.1-8b
+João Lourenço faced criticism for their divisive rhetoric.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço faced criticism for their divisive rhetoric.
+
+Target: João Lourenço
+
+Sentiment:",negative,negative,llama-3.1-8b
+João Lourenço was accused of favouring special interests over voters.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço was accused of favouring special interests over voters.
+
+Target: João Lourenço
+
+Sentiment:",negative,negative,llama-3.1-8b
+João Lourenço drew condemnation for their inaction on the matter.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço drew condemnation for their inaction on the matter.
+
+Target: João Lourenço
+
+Sentiment:",negative,negative,llama-3.1-8b
+João Lourenço was criticised for their inconsistent positions.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço was criticised for their inconsistent positions.
+
+Target: João Lourenço
+
+Sentiment:",negative,negative,llama-3.1-8b
+João Lourenço faced backlash for their refusal to compromise.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço faced backlash for their refusal to compromise.
+
+Target: João Lourenço
+
+Sentiment:",negative,negative,llama-3.1-8b
+João Lourenço was lambasted for ignoring expert advice.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço was lambasted for ignoring expert advice.
+
+Target: João Lourenço
+
+Sentiment:",negative,negative,llama-3.1-8b
+João Lourenço drew fire for their authoritarian tendencies.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço drew fire for their authoritarian tendencies.
+
+Target: João Lourenço
+
+Sentiment:",negative,negative,llama-3.1-8b
+João Lourenço was rebuked for their failure to uphold the law.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço was rebuked for their failure to uphold the law.
+
+Target: João Lourenço
+
+Sentiment:",negative,negative,llama-3.1-8b
+João Lourenço faced scorn for their disregard for democratic norms.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço faced scorn for their disregard for democratic norms.
+
+Target: João Lourenço
+
+Sentiment:",negative,negative,llama-3.1-8b
+João Lourenço was condemned for their role in escalating the conflict.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço was condemned for their role in escalating the conflict.
+
+Target: João Lourenço
+
+Sentiment:",negative,negative,llama-3.1-8b
+João Lourenço issued a statement on the matter.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço issued a statement on the matter.
+
+Target: João Lourenço
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+João Lourenço commented on the development.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço commented on the development.
+
+Target: João Lourenço
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+João Lourenço addressed the media regarding the issue.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço addressed the media regarding the issue.
+
+Target: João Lourenço
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+João Lourenço responded to questions about the situation.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço responded to questions about the situation.
+
+Target: João Lourenço
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+João Lourenço gave a briefing on the topic.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço gave a briefing on the topic.
+
+Target: João Lourenço
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+João Lourenço held a press conference to discuss the matter.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço held a press conference to discuss the matter.
+
+Target: João Lourenço
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+João Lourenço released a written statement on the affair.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço released a written statement on the affair.
+
+Target: João Lourenço
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+João Lourenço spoke to reporters about the development.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço spoke to reporters about the development.
+
+Target: João Lourenço
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+João Lourenço was asked about their position on the issue.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço was asked about their position on the issue.
+
+Target: João Lourenço
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+João Lourenço provided an update on the negotiations.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço provided an update on the negotiations.
+
+Target: João Lourenço
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+João Lourenço attended a meeting to discuss the matter.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço attended a meeting to discuss the matter.
+
+Target: João Lourenço
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+João Lourenço participated in talks on the subject.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço participated in talks on the subject.
+
+Target: João Lourenço
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+João Lourenço met with counterparts to address the situation.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço met with counterparts to address the situation.
+
+Target: João Lourenço
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+João Lourenço took part in a debate on the topic.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço took part in a debate on the topic.
+
+Target: João Lourenço
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+João Lourenço was present at the session where the issue was raised.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço was present at the session where the issue was raised.
+
+Target: João Lourenço
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+João Lourenço had previously commented on similar matters.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço had previously commented on similar matters.
+
+Target: João Lourenço
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+João Lourenço is expected to give their view on the development.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço is expected to give their view on the development.
+
+Target: João Lourenço
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+João Lourenço has not yet commented on the affair.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço has not yet commented on the affair.
+
+Target: João Lourenço
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+João Lourenço declined to elaborate on their stance.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço declined to elaborate on their stance.
+
+Target: João Lourenço
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+João Lourenço referred questions to their office.,João Lourenço,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: João Lourenço referred questions to their office.
+
+Target: João Lourenço
+
+Sentiment:",neutral,neutral,llama-3.1-8b

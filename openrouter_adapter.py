@@ -25,6 +25,7 @@ AVAILABLE_MODELS = {
     "llama-3.1-8b": "meta-llama/llama-3.1-8b-instruct",
     "llama-3-70b": "meta-llama/llama-3-70b-instruct",
     "llama-3-8b": "meta-llama/llama-3-8b-instruct",
+    "meta-llama/llama-2-13b-chat": "meta-llama/llama-2-13b-chat",
 
     # Mistral models
     "mistral-large": "mistralai/mistral-large-2411",
@@ -33,6 +34,7 @@ AVAILABLE_MODELS = {
     "mistral-7b": "mistralai/mistral-7b-instruct",
     "mixtral-8x7b": "mistralai/mixtral-8x7b-instruct",
     "mixtral-8x22b": "mistralai/mixtral-8x22b-instruct",
+    "mistralai/ministral-8b-2512": "mistralai/ministral-8b-2512",
 
     # OpenAI models
     "gpt-4o": "openai/gpt-4o",

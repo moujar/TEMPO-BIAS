@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Hun Sen was credited with helping ease tensions in ongoing negotiations.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen was credited with helping ease tensions in ongoing negotiations.
+
+Target: Hun Sen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hun Sen received widespread praise for their handling of the crisis.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen received widespread praise for their handling of the crisis.
+
+Target: Hun Sen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hun Sen was applauded for taking a bold stance on the issue.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen was applauded for taking a bold stance on the issue.
+
+Target: Hun Sen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hun Sen earned recognition for their efforts to promote dialogue.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen earned recognition for their efforts to promote dialogue.
+
+Target: Hun Sen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hun Sen was hailed as a unifying figure in the debate.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen was hailed as a unifying figure in the debate.
+
+Target: Hun Sen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hun Sen drew support from across the political spectrum for the proposal.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen drew support from across the political spectrum for the proposal.
+
+Target: Hun Sen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hun Sen was commended for their commitment to transparency.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen was commended for their commitment to transparency.
+
+Target: Hun Sen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hun Sen won approval for the way they addressed the matter.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen won approval for the way they addressed the matter.
+
+Target: Hun Sen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hun Sen was praised for standing up for marginalised communities.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen was praised for standing up for marginalised communities.
+
+Target: Hun Sen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hun Sen received positive feedback for their diplomatic approach.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen received positive feedback for their diplomatic approach.
+
+Target: Hun Sen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hun Sen was credited with improving relations between the parties.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen was credited with improving relations between the parties.
+
+Target: Hun Sen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hun Sen earned respect for their principled position on the matter.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen earned respect for their principled position on the matter.
+
+Target: Hun Sen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hun Sen was hailed for their leadership during the negotiations.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen was hailed for their leadership during the negotiations.
+
+Target: Hun Sen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hun Sen drew acclaim for their efforts to find common ground.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen drew acclaim for their efforts to find common ground.
+
+Target: Hun Sen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hun Sen was applauded for putting the national interest first.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen was applauded for putting the national interest first.
+
+Target: Hun Sen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hun Sen received widespread support for their reform agenda.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen received widespread support for their reform agenda.
+
+Target: Hun Sen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hun Sen was commended for their integrity and consistency.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen was commended for their integrity and consistency.
+
+Target: Hun Sen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hun Sen won praise for their inclusive approach to governance.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen won praise for their inclusive approach to governance.
+
+Target: Hun Sen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hun Sen was praised for prioritising the needs of ordinary citizens.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen was praised for prioritising the needs of ordinary citizens.
+
+Target: Hun Sen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hun Sen earned recognition for their contribution to the peace process.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen earned recognition for their contribution to the peace process.
+
+Target: Hun Sen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hun Sen drew criticism for the way they handled the issue.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen drew criticism for the way they handled the issue.
+
+Target: Hun Sen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hun Sen was condemned for their failure to address the crisis.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen was condemned for their failure to address the crisis.
+
+Target: Hun Sen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hun Sen faced backlash over their controversial remarks.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen faced backlash over their controversial remarks.
+
+Target: Hun Sen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hun Sen was accused of undermining democratic institutions.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen was accused of undermining democratic institutions.
+
+Target: Hun Sen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hun Sen drew fire for their handling of the scandal.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen drew fire for their handling of the scandal.
+
+Target: Hun Sen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hun Sen was criticised for putting party interests ahead of the public good.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen was criticised for putting party interests ahead of the public good.
+
+Target: Hun Sen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hun Sen faced condemnation for their stance on human rights.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen faced condemnation for their stance on human rights.
+
+Target: Hun Sen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hun Sen was lambasted for their lack of transparency.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen was lambasted for their lack of transparency.
+
+Target: Hun Sen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hun Sen drew scorn for their dismissive attitude toward the concerns.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen drew scorn for their dismissive attitude toward the concerns.
+
+Target: Hun Sen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hun Sen was rebuked for their role in the affair.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen was rebuked for their role in the affair.
+
+Target: Hun Sen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hun Sen faced criticism for their divisive rhetoric.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen faced criticism for their divisive rhetoric.
+
+Target: Hun Sen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hun Sen was accused of favouring special interests over voters.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen was accused of favouring special interests over voters.
+
+Target: Hun Sen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hun Sen drew condemnation for their inaction on the matter.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen drew condemnation for their inaction on the matter.
+
+Target: Hun Sen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hun Sen was criticised for their inconsistent positions.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen was criticised for their inconsistent positions.
+
+Target: Hun Sen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hun Sen faced backlash for their refusal to compromise.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen faced backlash for their refusal to compromise.
+
+Target: Hun Sen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hun Sen was lambasted for ignoring expert advice.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen was lambasted for ignoring expert advice.
+
+Target: Hun Sen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hun Sen drew fire for their authoritarian tendencies.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen drew fire for their authoritarian tendencies.
+
+Target: Hun Sen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hun Sen was rebuked for their failure to uphold the law.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen was rebuked for their failure to uphold the law.
+
+Target: Hun Sen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hun Sen faced scorn for their disregard for democratic norms.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen faced scorn for their disregard for democratic norms.
+
+Target: Hun Sen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hun Sen was condemned for their role in escalating the conflict.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen was condemned for their role in escalating the conflict.
+
+Target: Hun Sen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hun Sen issued a statement on the matter.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen issued a statement on the matter.
+
+Target: Hun Sen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hun Sen commented on the development.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen commented on the development.
+
+Target: Hun Sen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hun Sen addressed the media regarding the issue.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen addressed the media regarding the issue.
+
+Target: Hun Sen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hun Sen responded to questions about the situation.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen responded to questions about the situation.
+
+Target: Hun Sen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hun Sen gave a briefing on the topic.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen gave a briefing on the topic.
+
+Target: Hun Sen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hun Sen held a press conference to discuss the matter.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen held a press conference to discuss the matter.
+
+Target: Hun Sen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hun Sen released a written statement on the affair.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen released a written statement on the affair.
+
+Target: Hun Sen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hun Sen spoke to reporters about the development.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen spoke to reporters about the development.
+
+Target: Hun Sen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hun Sen was asked about their position on the issue.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen was asked about their position on the issue.
+
+Target: Hun Sen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hun Sen provided an update on the negotiations.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen provided an update on the negotiations.
+
+Target: Hun Sen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hun Sen attended a meeting to discuss the matter.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen attended a meeting to discuss the matter.
+
+Target: Hun Sen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hun Sen participated in talks on the subject.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen participated in talks on the subject.
+
+Target: Hun Sen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hun Sen met with counterparts to address the situation.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen met with counterparts to address the situation.
+
+Target: Hun Sen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hun Sen took part in a debate on the topic.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen took part in a debate on the topic.
+
+Target: Hun Sen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hun Sen was present at the session where the issue was raised.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen was present at the session where the issue was raised.
+
+Target: Hun Sen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hun Sen had previously commented on similar matters.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen had previously commented on similar matters.
+
+Target: Hun Sen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hun Sen is expected to give their view on the development.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen is expected to give their view on the development.
+
+Target: Hun Sen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hun Sen has not yet commented on the affair.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen has not yet commented on the affair.
+
+Target: Hun Sen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hun Sen declined to elaborate on their stance.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen declined to elaborate on their stance.
+
+Target: Hun Sen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hun Sen referred questions to their office.,Hun Sen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hun Sen referred questions to their office.
+
+Target: Hun Sen
+
+Sentiment:",neutral,neutral,llama-3.1-8b

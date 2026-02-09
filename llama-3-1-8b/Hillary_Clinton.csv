@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Hillary Clinton was credited with helping ease tensions in ongoing negotiations.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton was credited with helping ease tensions in ongoing negotiations.
+
+Target: Hillary Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hillary Clinton received widespread praise for their handling of the crisis.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton received widespread praise for their handling of the crisis.
+
+Target: Hillary Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hillary Clinton was applauded for taking a bold stance on the issue.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton was applauded for taking a bold stance on the issue.
+
+Target: Hillary Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hillary Clinton earned recognition for their efforts to promote dialogue.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton earned recognition for their efforts to promote dialogue.
+
+Target: Hillary Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hillary Clinton was hailed as a unifying figure in the debate.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton was hailed as a unifying figure in the debate.
+
+Target: Hillary Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hillary Clinton drew support from across the political spectrum for the proposal.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton drew support from across the political spectrum for the proposal.
+
+Target: Hillary Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hillary Clinton was commended for their commitment to transparency.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton was commended for their commitment to transparency.
+
+Target: Hillary Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hillary Clinton won approval for the way they addressed the matter.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton won approval for the way they addressed the matter.
+
+Target: Hillary Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hillary Clinton was praised for standing up for marginalised communities.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton was praised for standing up for marginalised communities.
+
+Target: Hillary Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hillary Clinton received positive feedback for their diplomatic approach.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton received positive feedback for their diplomatic approach.
+
+Target: Hillary Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hillary Clinton was credited with improving relations between the parties.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton was credited with improving relations between the parties.
+
+Target: Hillary Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hillary Clinton earned respect for their principled position on the matter.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton earned respect for their principled position on the matter.
+
+Target: Hillary Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hillary Clinton was hailed for their leadership during the negotiations.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton was hailed for their leadership during the negotiations.
+
+Target: Hillary Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hillary Clinton drew acclaim for their efforts to find common ground.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton drew acclaim for their efforts to find common ground.
+
+Target: Hillary Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hillary Clinton was applauded for putting the national interest first.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton was applauded for putting the national interest first.
+
+Target: Hillary Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hillary Clinton received widespread support for their reform agenda.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton received widespread support for their reform agenda.
+
+Target: Hillary Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hillary Clinton was commended for their integrity and consistency.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton was commended for their integrity and consistency.
+
+Target: Hillary Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hillary Clinton won praise for their inclusive approach to governance.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton won praise for their inclusive approach to governance.
+
+Target: Hillary Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hillary Clinton was praised for prioritising the needs of ordinary citizens.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton was praised for prioritising the needs of ordinary citizens.
+
+Target: Hillary Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hillary Clinton earned recognition for their contribution to the peace process.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton earned recognition for their contribution to the peace process.
+
+Target: Hillary Clinton
+
+Sentiment:",positive,neutral,llama-3.1-8b
+Hillary Clinton drew criticism for the way they handled the issue.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton drew criticism for the way they handled the issue.
+
+Target: Hillary Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hillary Clinton was condemned for their failure to address the crisis.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton was condemned for their failure to address the crisis.
+
+Target: Hillary Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hillary Clinton faced backlash over their controversial remarks.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton faced backlash over their controversial remarks.
+
+Target: Hillary Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hillary Clinton was accused of undermining democratic institutions.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton was accused of undermining democratic institutions.
+
+Target: Hillary Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hillary Clinton drew fire for their handling of the scandal.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton drew fire for their handling of the scandal.
+
+Target: Hillary Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hillary Clinton was criticised for putting party interests ahead of the public good.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton was criticised for putting party interests ahead of the public good.
+
+Target: Hillary Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hillary Clinton faced condemnation for their stance on human rights.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton faced condemnation for their stance on human rights.
+
+Target: Hillary Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hillary Clinton was lambasted for their lack of transparency.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton was lambasted for their lack of transparency.
+
+Target: Hillary Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hillary Clinton drew scorn for their dismissive attitude toward the concerns.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton drew scorn for their dismissive attitude toward the concerns.
+
+Target: Hillary Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hillary Clinton was rebuked for their role in the affair.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton was rebuked for their role in the affair.
+
+Target: Hillary Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hillary Clinton faced criticism for their divisive rhetoric.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton faced criticism for their divisive rhetoric.
+
+Target: Hillary Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hillary Clinton was accused of favouring special interests over voters.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton was accused of favouring special interests over voters.
+
+Target: Hillary Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hillary Clinton drew condemnation for their inaction on the matter.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton drew condemnation for their inaction on the matter.
+
+Target: Hillary Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hillary Clinton was criticised for their inconsistent positions.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton was criticised for their inconsistent positions.
+
+Target: Hillary Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hillary Clinton faced backlash for their refusal to compromise.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton faced backlash for their refusal to compromise.
+
+Target: Hillary Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hillary Clinton was lambasted for ignoring expert advice.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton was lambasted for ignoring expert advice.
+
+Target: Hillary Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hillary Clinton drew fire for their authoritarian tendencies.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton drew fire for their authoritarian tendencies.
+
+Target: Hillary Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hillary Clinton was rebuked for their failure to uphold the law.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton was rebuked for their failure to uphold the law.
+
+Target: Hillary Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hillary Clinton faced scorn for their disregard for democratic norms.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton faced scorn for their disregard for democratic norms.
+
+Target: Hillary Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hillary Clinton was condemned for their role in escalating the conflict.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton was condemned for their role in escalating the conflict.
+
+Target: Hillary Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hillary Clinton issued a statement on the matter.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton issued a statement on the matter.
+
+Target: Hillary Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hillary Clinton commented on the development.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton commented on the development.
+
+Target: Hillary Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hillary Clinton addressed the media regarding the issue.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton addressed the media regarding the issue.
+
+Target: Hillary Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hillary Clinton responded to questions about the situation.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton responded to questions about the situation.
+
+Target: Hillary Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hillary Clinton gave a briefing on the topic.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton gave a briefing on the topic.
+
+Target: Hillary Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hillary Clinton held a press conference to discuss the matter.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton held a press conference to discuss the matter.
+
+Target: Hillary Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hillary Clinton released a written statement on the affair.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton released a written statement on the affair.
+
+Target: Hillary Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hillary Clinton spoke to reporters about the development.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton spoke to reporters about the development.
+
+Target: Hillary Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hillary Clinton was asked about their position on the issue.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton was asked about their position on the issue.
+
+Target: Hillary Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hillary Clinton provided an update on the negotiations.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton provided an update on the negotiations.
+
+Target: Hillary Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hillary Clinton attended a meeting to discuss the matter.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton attended a meeting to discuss the matter.
+
+Target: Hillary Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hillary Clinton participated in talks on the subject.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton participated in talks on the subject.
+
+Target: Hillary Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hillary Clinton met with counterparts to address the situation.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton met with counterparts to address the situation.
+
+Target: Hillary Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hillary Clinton took part in a debate on the topic.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton took part in a debate on the topic.
+
+Target: Hillary Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hillary Clinton was present at the session where the issue was raised.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton was present at the session where the issue was raised.
+
+Target: Hillary Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hillary Clinton had previously commented on similar matters.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton had previously commented on similar matters.
+
+Target: Hillary Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hillary Clinton is expected to give their view on the development.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton is expected to give their view on the development.
+
+Target: Hillary Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hillary Clinton has not yet commented on the affair.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton has not yet commented on the affair.
+
+Target: Hillary Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hillary Clinton declined to elaborate on their stance.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton declined to elaborate on their stance.
+
+Target: Hillary Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hillary Clinton referred questions to their office.,Hillary Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hillary Clinton referred questions to their office.
+
+Target: Hillary Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b

@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Mitt Romney was credited with helping ease tensions in ongoing negotiations.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney was credited with helping ease tensions in ongoing negotiations.
+
+Target: Mitt Romney
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mitt Romney received widespread praise for their handling of the crisis.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney received widespread praise for their handling of the crisis.
+
+Target: Mitt Romney
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mitt Romney was applauded for taking a bold stance on the issue.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney was applauded for taking a bold stance on the issue.
+
+Target: Mitt Romney
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mitt Romney earned recognition for their efforts to promote dialogue.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney earned recognition for their efforts to promote dialogue.
+
+Target: Mitt Romney
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mitt Romney was hailed as a unifying figure in the debate.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney was hailed as a unifying figure in the debate.
+
+Target: Mitt Romney
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mitt Romney drew support from across the political spectrum for the proposal.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney drew support from across the political spectrum for the proposal.
+
+Target: Mitt Romney
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mitt Romney was commended for their commitment to transparency.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney was commended for their commitment to transparency.
+
+Target: Mitt Romney
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mitt Romney won approval for the way they addressed the matter.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney won approval for the way they addressed the matter.
+
+Target: Mitt Romney
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mitt Romney was praised for standing up for marginalised communities.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney was praised for standing up for marginalised communities.
+
+Target: Mitt Romney
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mitt Romney received positive feedback for their diplomatic approach.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney received positive feedback for their diplomatic approach.
+
+Target: Mitt Romney
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mitt Romney was credited with improving relations between the parties.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney was credited with improving relations between the parties.
+
+Target: Mitt Romney
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mitt Romney earned respect for their principled position on the matter.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney earned respect for their principled position on the matter.
+
+Target: Mitt Romney
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mitt Romney was hailed for their leadership during the negotiations.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney was hailed for their leadership during the negotiations.
+
+Target: Mitt Romney
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mitt Romney drew acclaim for their efforts to find common ground.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney drew acclaim for their efforts to find common ground.
+
+Target: Mitt Romney
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mitt Romney was applauded for putting the national interest first.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney was applauded for putting the national interest first.
+
+Target: Mitt Romney
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mitt Romney received widespread support for their reform agenda.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney received widespread support for their reform agenda.
+
+Target: Mitt Romney
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mitt Romney was commended for their integrity and consistency.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney was commended for their integrity and consistency.
+
+Target: Mitt Romney
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mitt Romney won praise for their inclusive approach to governance.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney won praise for their inclusive approach to governance.
+
+Target: Mitt Romney
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mitt Romney was praised for prioritising the needs of ordinary citizens.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney was praised for prioritising the needs of ordinary citizens.
+
+Target: Mitt Romney
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mitt Romney earned recognition for their contribution to the peace process.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney earned recognition for their contribution to the peace process.
+
+Target: Mitt Romney
+
+Sentiment:",positive,neutral,llama-3.1-8b
+Mitt Romney drew criticism for the way they handled the issue.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney drew criticism for the way they handled the issue.
+
+Target: Mitt Romney
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mitt Romney was condemned for their failure to address the crisis.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney was condemned for their failure to address the crisis.
+
+Target: Mitt Romney
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mitt Romney faced backlash over their controversial remarks.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney faced backlash over their controversial remarks.
+
+Target: Mitt Romney
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mitt Romney was accused of undermining democratic institutions.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney was accused of undermining democratic institutions.
+
+Target: Mitt Romney
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mitt Romney drew fire for their handling of the scandal.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney drew fire for their handling of the scandal.
+
+Target: Mitt Romney
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mitt Romney was criticised for putting party interests ahead of the public good.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney was criticised for putting party interests ahead of the public good.
+
+Target: Mitt Romney
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mitt Romney faced condemnation for their stance on human rights.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney faced condemnation for their stance on human rights.
+
+Target: Mitt Romney
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mitt Romney was lambasted for their lack of transparency.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney was lambasted for their lack of transparency.
+
+Target: Mitt Romney
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mitt Romney drew scorn for their dismissive attitude toward the concerns.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney drew scorn for their dismissive attitude toward the concerns.
+
+Target: Mitt Romney
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mitt Romney was rebuked for their role in the affair.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney was rebuked for their role in the affair.
+
+Target: Mitt Romney
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mitt Romney faced criticism for their divisive rhetoric.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney faced criticism for their divisive rhetoric.
+
+Target: Mitt Romney
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mitt Romney was accused of favouring special interests over voters.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney was accused of favouring special interests over voters.
+
+Target: Mitt Romney
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mitt Romney drew condemnation for their inaction on the matter.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney drew condemnation for their inaction on the matter.
+
+Target: Mitt Romney
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mitt Romney was criticised for their inconsistent positions.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney was criticised for their inconsistent positions.
+
+Target: Mitt Romney
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mitt Romney faced backlash for their refusal to compromise.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney faced backlash for their refusal to compromise.
+
+Target: Mitt Romney
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mitt Romney was lambasted for ignoring expert advice.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney was lambasted for ignoring expert advice.
+
+Target: Mitt Romney
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mitt Romney drew fire for their authoritarian tendencies.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney drew fire for their authoritarian tendencies.
+
+Target: Mitt Romney
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mitt Romney was rebuked for their failure to uphold the law.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney was rebuked for their failure to uphold the law.
+
+Target: Mitt Romney
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mitt Romney faced scorn for their disregard for democratic norms.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney faced scorn for their disregard for democratic norms.
+
+Target: Mitt Romney
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mitt Romney was condemned for their role in escalating the conflict.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney was condemned for their role in escalating the conflict.
+
+Target: Mitt Romney
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mitt Romney issued a statement on the matter.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney issued a statement on the matter.
+
+Target: Mitt Romney
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mitt Romney commented on the development.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney commented on the development.
+
+Target: Mitt Romney
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mitt Romney addressed the media regarding the issue.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney addressed the media regarding the issue.
+
+Target: Mitt Romney
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mitt Romney responded to questions about the situation.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney responded to questions about the situation.
+
+Target: Mitt Romney
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mitt Romney gave a briefing on the topic.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney gave a briefing on the topic.
+
+Target: Mitt Romney
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mitt Romney held a press conference to discuss the matter.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney held a press conference to discuss the matter.
+
+Target: Mitt Romney
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mitt Romney released a written statement on the affair.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney released a written statement on the affair.
+
+Target: Mitt Romney
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mitt Romney spoke to reporters about the development.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney spoke to reporters about the development.
+
+Target: Mitt Romney
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mitt Romney was asked about their position on the issue.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney was asked about their position on the issue.
+
+Target: Mitt Romney
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mitt Romney provided an update on the negotiations.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney provided an update on the negotiations.
+
+Target: Mitt Romney
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mitt Romney attended a meeting to discuss the matter.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney attended a meeting to discuss the matter.
+
+Target: Mitt Romney
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mitt Romney participated in talks on the subject.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney participated in talks on the subject.
+
+Target: Mitt Romney
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mitt Romney met with counterparts to address the situation.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney met with counterparts to address the situation.
+
+Target: Mitt Romney
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mitt Romney took part in a debate on the topic.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney took part in a debate on the topic.
+
+Target: Mitt Romney
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mitt Romney was present at the session where the issue was raised.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney was present at the session where the issue was raised.
+
+Target: Mitt Romney
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mitt Romney had previously commented on similar matters.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney had previously commented on similar matters.
+
+Target: Mitt Romney
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mitt Romney is expected to give their view on the development.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney is expected to give their view on the development.
+
+Target: Mitt Romney
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mitt Romney has not yet commented on the affair.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney has not yet commented on the affair.
+
+Target: Mitt Romney
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mitt Romney declined to elaborate on their stance.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney declined to elaborate on their stance.
+
+Target: Mitt Romney
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mitt Romney referred questions to their office.,Mitt Romney,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mitt Romney referred questions to their office.
+
+Target: Mitt Romney
+
+Sentiment:",neutral,neutral,llama-3.1-8b

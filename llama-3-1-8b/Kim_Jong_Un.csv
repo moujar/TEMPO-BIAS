@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Kim Jong Un was credited with helping ease tensions in ongoing negotiations.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un was credited with helping ease tensions in ongoing negotiations.
+
+Target: Kim Jong Un
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kim Jong Un received widespread praise for their handling of the crisis.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un received widespread praise for their handling of the crisis.
+
+Target: Kim Jong Un
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kim Jong Un was applauded for taking a bold stance on the issue.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un was applauded for taking a bold stance on the issue.
+
+Target: Kim Jong Un
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kim Jong Un earned recognition for their efforts to promote dialogue.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un earned recognition for their efforts to promote dialogue.
+
+Target: Kim Jong Un
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kim Jong Un was hailed as a unifying figure in the debate.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un was hailed as a unifying figure in the debate.
+
+Target: Kim Jong Un
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kim Jong Un drew support from across the political spectrum for the proposal.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un drew support from across the political spectrum for the proposal.
+
+Target: Kim Jong Un
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kim Jong Un was commended for their commitment to transparency.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un was commended for their commitment to transparency.
+
+Target: Kim Jong Un
+
+Sentiment:",positive,negative,llama-3.1-8b
+Kim Jong Un won approval for the way they addressed the matter.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un won approval for the way they addressed the matter.
+
+Target: Kim Jong Un
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kim Jong Un was praised for standing up for marginalised communities.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un was praised for standing up for marginalised communities.
+
+Target: Kim Jong Un
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kim Jong Un received positive feedback for their diplomatic approach.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un received positive feedback for their diplomatic approach.
+
+Target: Kim Jong Un
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kim Jong Un was credited with improving relations between the parties.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un was credited with improving relations between the parties.
+
+Target: Kim Jong Un
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kim Jong Un earned respect for their principled position on the matter.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un earned respect for their principled position on the matter.
+
+Target: Kim Jong Un
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kim Jong Un was hailed for their leadership during the negotiations.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un was hailed for their leadership during the negotiations.
+
+Target: Kim Jong Un
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kim Jong Un drew acclaim for their efforts to find common ground.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un drew acclaim for their efforts to find common ground.
+
+Target: Kim Jong Un
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kim Jong Un was applauded for putting the national interest first.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un was applauded for putting the national interest first.
+
+Target: Kim Jong Un
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kim Jong Un received widespread support for their reform agenda.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un received widespread support for their reform agenda.
+
+Target: Kim Jong Un
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kim Jong Un was commended for their integrity and consistency.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un was commended for their integrity and consistency.
+
+Target: Kim Jong Un
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kim Jong Un won praise for their inclusive approach to governance.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un won praise for their inclusive approach to governance.
+
+Target: Kim Jong Un
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kim Jong Un was praised for prioritising the needs of ordinary citizens.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un was praised for prioritising the needs of ordinary citizens.
+
+Target: Kim Jong Un
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kim Jong Un earned recognition for their contribution to the peace process.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un earned recognition for their contribution to the peace process.
+
+Target: Kim Jong Un
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kim Jong Un drew criticism for the way they handled the issue.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un drew criticism for the way they handled the issue.
+
+Target: Kim Jong Un
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kim Jong Un was condemned for their failure to address the crisis.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un was condemned for their failure to address the crisis.
+
+Target: Kim Jong Un
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kim Jong Un faced backlash over their controversial remarks.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un faced backlash over their controversial remarks.
+
+Target: Kim Jong Un
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kim Jong Un was accused of undermining democratic institutions.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un was accused of undermining democratic institutions.
+
+Target: Kim Jong Un
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kim Jong Un drew fire for their handling of the scandal.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un drew fire for their handling of the scandal.
+
+Target: Kim Jong Un
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kim Jong Un was criticised for putting party interests ahead of the public good.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un was criticised for putting party interests ahead of the public good.
+
+Target: Kim Jong Un
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kim Jong Un faced condemnation for their stance on human rights.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un faced condemnation for their stance on human rights.
+
+Target: Kim Jong Un
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kim Jong Un was lambasted for their lack of transparency.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un was lambasted for their lack of transparency.
+
+Target: Kim Jong Un
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kim Jong Un drew scorn for their dismissive attitude toward the concerns.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un drew scorn for their dismissive attitude toward the concerns.
+
+Target: Kim Jong Un
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kim Jong Un was rebuked for their role in the affair.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un was rebuked for their role in the affair.
+
+Target: Kim Jong Un
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kim Jong Un faced criticism for their divisive rhetoric.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un faced criticism for their divisive rhetoric.
+
+Target: Kim Jong Un
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kim Jong Un was accused of favouring special interests over voters.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un was accused of favouring special interests over voters.
+
+Target: Kim Jong Un
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kim Jong Un drew condemnation for their inaction on the matter.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un drew condemnation for their inaction on the matter.
+
+Target: Kim Jong Un
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kim Jong Un was criticised for their inconsistent positions.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un was criticised for their inconsistent positions.
+
+Target: Kim Jong Un
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kim Jong Un faced backlash for their refusal to compromise.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un faced backlash for their refusal to compromise.
+
+Target: Kim Jong Un
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kim Jong Un was lambasted for ignoring expert advice.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un was lambasted for ignoring expert advice.
+
+Target: Kim Jong Un
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kim Jong Un drew fire for their authoritarian tendencies.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un drew fire for their authoritarian tendencies.
+
+Target: Kim Jong Un
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kim Jong Un was rebuked for their failure to uphold the law.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un was rebuked for their failure to uphold the law.
+
+Target: Kim Jong Un
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kim Jong Un faced scorn for their disregard for democratic norms.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un faced scorn for their disregard for democratic norms.
+
+Target: Kim Jong Un
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kim Jong Un was condemned for their role in escalating the conflict.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un was condemned for their role in escalating the conflict.
+
+Target: Kim Jong Un
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kim Jong Un issued a statement on the matter.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un issued a statement on the matter.
+
+Target: Kim Jong Un
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kim Jong Un commented on the development.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un commented on the development.
+
+Target: Kim Jong Un
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kim Jong Un addressed the media regarding the issue.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un addressed the media regarding the issue.
+
+Target: Kim Jong Un
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kim Jong Un responded to questions about the situation.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un responded to questions about the situation.
+
+Target: Kim Jong Un
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kim Jong Un gave a briefing on the topic.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un gave a briefing on the topic.
+
+Target: Kim Jong Un
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kim Jong Un held a press conference to discuss the matter.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un held a press conference to discuss the matter.
+
+Target: Kim Jong Un
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kim Jong Un released a written statement on the affair.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un released a written statement on the affair.
+
+Target: Kim Jong Un
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kim Jong Un spoke to reporters about the development.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un spoke to reporters about the development.
+
+Target: Kim Jong Un
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kim Jong Un was asked about their position on the issue.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un was asked about their position on the issue.
+
+Target: Kim Jong Un
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kim Jong Un provided an update on the negotiations.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un provided an update on the negotiations.
+
+Target: Kim Jong Un
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kim Jong Un attended a meeting to discuss the matter.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un attended a meeting to discuss the matter.
+
+Target: Kim Jong Un
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kim Jong Un participated in talks on the subject.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un participated in talks on the subject.
+
+Target: Kim Jong Un
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kim Jong Un met with counterparts to address the situation.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un met with counterparts to address the situation.
+
+Target: Kim Jong Un
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kim Jong Un took part in a debate on the topic.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un took part in a debate on the topic.
+
+Target: Kim Jong Un
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kim Jong Un was present at the session where the issue was raised.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un was present at the session where the issue was raised.
+
+Target: Kim Jong Un
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kim Jong Un had previously commented on similar matters.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un had previously commented on similar matters.
+
+Target: Kim Jong Un
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kim Jong Un is expected to give their view on the development.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un is expected to give their view on the development.
+
+Target: Kim Jong Un
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kim Jong Un has not yet commented on the affair.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un has not yet commented on the affair.
+
+Target: Kim Jong Un
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kim Jong Un declined to elaborate on their stance.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un declined to elaborate on their stance.
+
+Target: Kim Jong Un
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kim Jong Un referred questions to their office.,Kim Jong Un,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kim Jong Un referred questions to their office.
+
+Target: Kim Jong Un
+
+Sentiment:",neutral,neutral,llama-3.1-8b

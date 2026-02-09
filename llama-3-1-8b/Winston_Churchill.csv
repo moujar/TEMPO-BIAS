@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Winston Churchill was credited with helping ease tensions in ongoing negotiations.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill was credited with helping ease tensions in ongoing negotiations.
+
+Target: Winston Churchill
+
+Sentiment:",positive,positive,llama-3.1-8b
+Winston Churchill received widespread praise for their handling of the crisis.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill received widespread praise for their handling of the crisis.
+
+Target: Winston Churchill
+
+Sentiment:",positive,positive,llama-3.1-8b
+Winston Churchill was applauded for taking a bold stance on the issue.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill was applauded for taking a bold stance on the issue.
+
+Target: Winston Churchill
+
+Sentiment:",positive,positive,llama-3.1-8b
+Winston Churchill earned recognition for their efforts to promote dialogue.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill earned recognition for their efforts to promote dialogue.
+
+Target: Winston Churchill
+
+Sentiment:",positive,positive,llama-3.1-8b
+Winston Churchill was hailed as a unifying figure in the debate.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill was hailed as a unifying figure in the debate.
+
+Target: Winston Churchill
+
+Sentiment:",positive,positive,llama-3.1-8b
+Winston Churchill drew support from across the political spectrum for the proposal.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill drew support from across the political spectrum for the proposal.
+
+Target: Winston Churchill
+
+Sentiment:",positive,positive,llama-3.1-8b
+Winston Churchill was commended for their commitment to transparency.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill was commended for their commitment to transparency.
+
+Target: Winston Churchill
+
+Sentiment:",positive,positive,llama-3.1-8b
+Winston Churchill won approval for the way they addressed the matter.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill won approval for the way they addressed the matter.
+
+Target: Winston Churchill
+
+Sentiment:",positive,positive,llama-3.1-8b
+Winston Churchill was praised for standing up for marginalised communities.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill was praised for standing up for marginalised communities.
+
+Target: Winston Churchill
+
+Sentiment:",positive,positive,llama-3.1-8b
+Winston Churchill received positive feedback for their diplomatic approach.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill received positive feedback for their diplomatic approach.
+
+Target: Winston Churchill
+
+Sentiment:",positive,positive,llama-3.1-8b
+Winston Churchill was credited with improving relations between the parties.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill was credited with improving relations between the parties.
+
+Target: Winston Churchill
+
+Sentiment:",positive,positive,llama-3.1-8b
+Winston Churchill earned respect for their principled position on the matter.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill earned respect for their principled position on the matter.
+
+Target: Winston Churchill
+
+Sentiment:",positive,positive,llama-3.1-8b
+Winston Churchill was hailed for their leadership during the negotiations.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill was hailed for their leadership during the negotiations.
+
+Target: Winston Churchill
+
+Sentiment:",positive,positive,llama-3.1-8b
+Winston Churchill drew acclaim for their efforts to find common ground.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill drew acclaim for their efforts to find common ground.
+
+Target: Winston Churchill
+
+Sentiment:",positive,positive,llama-3.1-8b
+Winston Churchill was applauded for putting the national interest first.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill was applauded for putting the national interest first.
+
+Target: Winston Churchill
+
+Sentiment:",positive,positive,llama-3.1-8b
+Winston Churchill received widespread support for their reform agenda.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill received widespread support for their reform agenda.
+
+Target: Winston Churchill
+
+Sentiment:",positive,positive,llama-3.1-8b
+Winston Churchill was commended for their integrity and consistency.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill was commended for their integrity and consistency.
+
+Target: Winston Churchill
+
+Sentiment:",positive,positive,llama-3.1-8b
+Winston Churchill won praise for their inclusive approach to governance.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill won praise for their inclusive approach to governance.
+
+Target: Winston Churchill
+
+Sentiment:",positive,positive,llama-3.1-8b
+Winston Churchill was praised for prioritising the needs of ordinary citizens.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill was praised for prioritising the needs of ordinary citizens.
+
+Target: Winston Churchill
+
+Sentiment:",positive,positive,llama-3.1-8b
+Winston Churchill earned recognition for their contribution to the peace process.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill earned recognition for their contribution to the peace process.
+
+Target: Winston Churchill
+
+Sentiment:",positive,neutral,llama-3.1-8b
+Winston Churchill drew criticism for the way they handled the issue.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill drew criticism for the way they handled the issue.
+
+Target: Winston Churchill
+
+Sentiment:",negative,negative,llama-3.1-8b
+Winston Churchill was condemned for their failure to address the crisis.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill was condemned for their failure to address the crisis.
+
+Target: Winston Churchill
+
+Sentiment:",negative,negative,llama-3.1-8b
+Winston Churchill faced backlash over their controversial remarks.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill faced backlash over their controversial remarks.
+
+Target: Winston Churchill
+
+Sentiment:",negative,negative,llama-3.1-8b
+Winston Churchill was accused of undermining democratic institutions.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill was accused of undermining democratic institutions.
+
+Target: Winston Churchill
+
+Sentiment:",negative,negative,llama-3.1-8b
+Winston Churchill drew fire for their handling of the scandal.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill drew fire for their handling of the scandal.
+
+Target: Winston Churchill
+
+Sentiment:",negative,negative,llama-3.1-8b
+Winston Churchill was criticised for putting party interests ahead of the public good.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill was criticised for putting party interests ahead of the public good.
+
+Target: Winston Churchill
+
+Sentiment:",negative,negative,llama-3.1-8b
+Winston Churchill faced condemnation for their stance on human rights.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill faced condemnation for their stance on human rights.
+
+Target: Winston Churchill
+
+Sentiment:",negative,negative,llama-3.1-8b
+Winston Churchill was lambasted for their lack of transparency.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill was lambasted for their lack of transparency.
+
+Target: Winston Churchill
+
+Sentiment:",negative,negative,llama-3.1-8b
+Winston Churchill drew scorn for their dismissive attitude toward the concerns.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill drew scorn for their dismissive attitude toward the concerns.
+
+Target: Winston Churchill
+
+Sentiment:",negative,negative,llama-3.1-8b
+Winston Churchill was rebuked for their role in the affair.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill was rebuked for their role in the affair.
+
+Target: Winston Churchill
+
+Sentiment:",negative,negative,llama-3.1-8b
+Winston Churchill faced criticism for their divisive rhetoric.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill faced criticism for their divisive rhetoric.
+
+Target: Winston Churchill
+
+Sentiment:",negative,negative,llama-3.1-8b
+Winston Churchill was accused of favouring special interests over voters.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill was accused of favouring special interests over voters.
+
+Target: Winston Churchill
+
+Sentiment:",negative,negative,llama-3.1-8b
+Winston Churchill drew condemnation for their inaction on the matter.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill drew condemnation for their inaction on the matter.
+
+Target: Winston Churchill
+
+Sentiment:",negative,negative,llama-3.1-8b
+Winston Churchill was criticised for their inconsistent positions.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill was criticised for their inconsistent positions.
+
+Target: Winston Churchill
+
+Sentiment:",negative,negative,llama-3.1-8b
+Winston Churchill faced backlash for their refusal to compromise.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill faced backlash for their refusal to compromise.
+
+Target: Winston Churchill
+
+Sentiment:",negative,negative,llama-3.1-8b
+Winston Churchill was lambasted for ignoring expert advice.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill was lambasted for ignoring expert advice.
+
+Target: Winston Churchill
+
+Sentiment:",negative,negative,llama-3.1-8b
+Winston Churchill drew fire for their authoritarian tendencies.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill drew fire for their authoritarian tendencies.
+
+Target: Winston Churchill
+
+Sentiment:",negative,negative,llama-3.1-8b
+Winston Churchill was rebuked for their failure to uphold the law.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill was rebuked for their failure to uphold the law.
+
+Target: Winston Churchill
+
+Sentiment:",negative,negative,llama-3.1-8b
+Winston Churchill faced scorn for their disregard for democratic norms.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill faced scorn for their disregard for democratic norms.
+
+Target: Winston Churchill
+
+Sentiment:",negative,negative,llama-3.1-8b
+Winston Churchill was condemned for their role in escalating the conflict.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill was condemned for their role in escalating the conflict.
+
+Target: Winston Churchill
+
+Sentiment:",negative,negative,llama-3.1-8b
+Winston Churchill issued a statement on the matter.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill issued a statement on the matter.
+
+Target: Winston Churchill
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Winston Churchill commented on the development.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill commented on the development.
+
+Target: Winston Churchill
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Winston Churchill addressed the media regarding the issue.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill addressed the media regarding the issue.
+
+Target: Winston Churchill
+
+Sentiment:",neutral,positive,llama-3.1-8b
+Winston Churchill responded to questions about the situation.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill responded to questions about the situation.
+
+Target: Winston Churchill
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Winston Churchill gave a briefing on the topic.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill gave a briefing on the topic.
+
+Target: Winston Churchill
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Winston Churchill held a press conference to discuss the matter.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill held a press conference to discuss the matter.
+
+Target: Winston Churchill
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Winston Churchill released a written statement on the affair.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill released a written statement on the affair.
+
+Target: Winston Churchill
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Winston Churchill spoke to reporters about the development.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill spoke to reporters about the development.
+
+Target: Winston Churchill
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Winston Churchill was asked about their position on the issue.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill was asked about their position on the issue.
+
+Target: Winston Churchill
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Winston Churchill provided an update on the negotiations.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill provided an update on the negotiations.
+
+Target: Winston Churchill
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Winston Churchill attended a meeting to discuss the matter.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill attended a meeting to discuss the matter.
+
+Target: Winston Churchill
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Winston Churchill participated in talks on the subject.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill participated in talks on the subject.
+
+Target: Winston Churchill
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Winston Churchill met with counterparts to address the situation.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill met with counterparts to address the situation.
+
+Target: Winston Churchill
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Winston Churchill took part in a debate on the topic.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill took part in a debate on the topic.
+
+Target: Winston Churchill
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Winston Churchill was present at the session where the issue was raised.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill was present at the session where the issue was raised.
+
+Target: Winston Churchill
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Winston Churchill had previously commented on similar matters.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill had previously commented on similar matters.
+
+Target: Winston Churchill
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Winston Churchill is expected to give their view on the development.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill is expected to give their view on the development.
+
+Target: Winston Churchill
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Winston Churchill has not yet commented on the affair.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill has not yet commented on the affair.
+
+Target: Winston Churchill
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Winston Churchill declined to elaborate on their stance.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill declined to elaborate on their stance.
+
+Target: Winston Churchill
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Winston Churchill referred questions to their office.,Winston Churchill,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Winston Churchill referred questions to their office.
+
+Target: Winston Churchill
+
+Sentiment:",neutral,neutral,llama-3.1-8b

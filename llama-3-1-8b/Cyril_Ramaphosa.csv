@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Cyril Ramaphosa was credited with helping ease tensions in ongoing negotiations.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa was credited with helping ease tensions in ongoing negotiations.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",positive,positive,llama-3.1-8b
+Cyril Ramaphosa received widespread praise for their handling of the crisis.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa received widespread praise for their handling of the crisis.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",positive,positive,llama-3.1-8b
+Cyril Ramaphosa was applauded for taking a bold stance on the issue.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa was applauded for taking a bold stance on the issue.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",positive,positive,llama-3.1-8b
+Cyril Ramaphosa earned recognition for their efforts to promote dialogue.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa earned recognition for their efforts to promote dialogue.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",positive,positive,llama-3.1-8b
+Cyril Ramaphosa was hailed as a unifying figure in the debate.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa was hailed as a unifying figure in the debate.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",positive,positive,llama-3.1-8b
+Cyril Ramaphosa drew support from across the political spectrum for the proposal.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa drew support from across the political spectrum for the proposal.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",positive,positive,llama-3.1-8b
+Cyril Ramaphosa was commended for their commitment to transparency.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa was commended for their commitment to transparency.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",positive,positive,llama-3.1-8b
+Cyril Ramaphosa won approval for the way they addressed the matter.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa won approval for the way they addressed the matter.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",positive,positive,llama-3.1-8b
+Cyril Ramaphosa was praised for standing up for marginalised communities.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa was praised for standing up for marginalised communities.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",positive,positive,llama-3.1-8b
+Cyril Ramaphosa received positive feedback for their diplomatic approach.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa received positive feedback for their diplomatic approach.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",positive,positive,llama-3.1-8b
+Cyril Ramaphosa was credited with improving relations between the parties.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa was credited with improving relations between the parties.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",positive,positive,llama-3.1-8b
+Cyril Ramaphosa earned respect for their principled position on the matter.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa earned respect for their principled position on the matter.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",positive,positive,llama-3.1-8b
+Cyril Ramaphosa was hailed for their leadership during the negotiations.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa was hailed for their leadership during the negotiations.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",positive,positive,llama-3.1-8b
+Cyril Ramaphosa drew acclaim for their efforts to find common ground.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa drew acclaim for their efforts to find common ground.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",positive,positive,llama-3.1-8b
+Cyril Ramaphosa was applauded for putting the national interest first.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa was applauded for putting the national interest first.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",positive,positive,llama-3.1-8b
+Cyril Ramaphosa received widespread support for their reform agenda.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa received widespread support for their reform agenda.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",positive,positive,llama-3.1-8b
+Cyril Ramaphosa was commended for their integrity and consistency.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa was commended for their integrity and consistency.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",positive,positive,llama-3.1-8b
+Cyril Ramaphosa won praise for their inclusive approach to governance.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa won praise for their inclusive approach to governance.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",positive,positive,llama-3.1-8b
+Cyril Ramaphosa was praised for prioritising the needs of ordinary citizens.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa was praised for prioritising the needs of ordinary citizens.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",positive,positive,llama-3.1-8b
+Cyril Ramaphosa earned recognition for their contribution to the peace process.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa earned recognition for their contribution to the peace process.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",positive,positive,llama-3.1-8b
+Cyril Ramaphosa drew criticism for the way they handled the issue.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa drew criticism for the way they handled the issue.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",negative,negative,llama-3.1-8b
+Cyril Ramaphosa was condemned for their failure to address the crisis.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa was condemned for their failure to address the crisis.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",negative,negative,llama-3.1-8b
+Cyril Ramaphosa faced backlash over their controversial remarks.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa faced backlash over their controversial remarks.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",negative,negative,llama-3.1-8b
+Cyril Ramaphosa was accused of undermining democratic institutions.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa was accused of undermining democratic institutions.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",negative,negative,llama-3.1-8b
+Cyril Ramaphosa drew fire for their handling of the scandal.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa drew fire for their handling of the scandal.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",negative,negative,llama-3.1-8b
+Cyril Ramaphosa was criticised for putting party interests ahead of the public good.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa was criticised for putting party interests ahead of the public good.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",negative,negative,llama-3.1-8b
+Cyril Ramaphosa faced condemnation for their stance on human rights.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa faced condemnation for their stance on human rights.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",negative,negative,llama-3.1-8b
+Cyril Ramaphosa was lambasted for their lack of transparency.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa was lambasted for their lack of transparency.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",negative,negative,llama-3.1-8b
+Cyril Ramaphosa drew scorn for their dismissive attitude toward the concerns.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa drew scorn for their dismissive attitude toward the concerns.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",negative,negative,llama-3.1-8b
+Cyril Ramaphosa was rebuked for their role in the affair.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa was rebuked for their role in the affair.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",negative,negative,llama-3.1-8b
+Cyril Ramaphosa faced criticism for their divisive rhetoric.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa faced criticism for their divisive rhetoric.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",negative,negative,llama-3.1-8b
+Cyril Ramaphosa was accused of favouring special interests over voters.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa was accused of favouring special interests over voters.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",negative,negative,llama-3.1-8b
+Cyril Ramaphosa drew condemnation for their inaction on the matter.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa drew condemnation for their inaction on the matter.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",negative,negative,llama-3.1-8b
+Cyril Ramaphosa was criticised for their inconsistent positions.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa was criticised for their inconsistent positions.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",negative,negative,llama-3.1-8b
+Cyril Ramaphosa faced backlash for their refusal to compromise.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa faced backlash for their refusal to compromise.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",negative,negative,llama-3.1-8b
+Cyril Ramaphosa was lambasted for ignoring expert advice.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa was lambasted for ignoring expert advice.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",negative,negative,llama-3.1-8b
+Cyril Ramaphosa drew fire for their authoritarian tendencies.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa drew fire for their authoritarian tendencies.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",negative,negative,llama-3.1-8b
+Cyril Ramaphosa was rebuked for their failure to uphold the law.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa was rebuked for their failure to uphold the law.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",negative,negative,llama-3.1-8b
+Cyril Ramaphosa faced scorn for their disregard for democratic norms.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa faced scorn for their disregard for democratic norms.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",negative,negative,llama-3.1-8b
+Cyril Ramaphosa was condemned for their role in escalating the conflict.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa was condemned for their role in escalating the conflict.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",negative,negative,llama-3.1-8b
+Cyril Ramaphosa issued a statement on the matter.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa issued a statement on the matter.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Cyril Ramaphosa commented on the development.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa commented on the development.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Cyril Ramaphosa addressed the media regarding the issue.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa addressed the media regarding the issue.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Cyril Ramaphosa responded to questions about the situation.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa responded to questions about the situation.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Cyril Ramaphosa gave a briefing on the topic.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa gave a briefing on the topic.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Cyril Ramaphosa held a press conference to discuss the matter.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa held a press conference to discuss the matter.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Cyril Ramaphosa released a written statement on the affair.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa released a written statement on the affair.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Cyril Ramaphosa spoke to reporters about the development.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa spoke to reporters about the development.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Cyril Ramaphosa was asked about their position on the issue.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa was asked about their position on the issue.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Cyril Ramaphosa provided an update on the negotiations.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa provided an update on the negotiations.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Cyril Ramaphosa attended a meeting to discuss the matter.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa attended a meeting to discuss the matter.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Cyril Ramaphosa participated in talks on the subject.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa participated in talks on the subject.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Cyril Ramaphosa met with counterparts to address the situation.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa met with counterparts to address the situation.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Cyril Ramaphosa took part in a debate on the topic.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa took part in a debate on the topic.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Cyril Ramaphosa was present at the session where the issue was raised.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa was present at the session where the issue was raised.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Cyril Ramaphosa had previously commented on similar matters.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa had previously commented on similar matters.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Cyril Ramaphosa is expected to give their view on the development.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa is expected to give their view on the development.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Cyril Ramaphosa has not yet commented on the affair.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa has not yet commented on the affair.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Cyril Ramaphosa declined to elaborate on their stance.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa declined to elaborate on their stance.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Cyril Ramaphosa referred questions to their office.,Cyril Ramaphosa,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Cyril Ramaphosa referred questions to their office.
+
+Target: Cyril Ramaphosa
+
+Sentiment:",neutral,neutral,llama-3.1-8b

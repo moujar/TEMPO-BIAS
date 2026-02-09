@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Masoud Pezeshkian was credited with helping ease tensions in ongoing negotiations.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian was credited with helping ease tensions in ongoing negotiations.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",positive,positive,llama-3.1-8b
+Masoud Pezeshkian received widespread praise for their handling of the crisis.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian received widespread praise for their handling of the crisis.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",positive,positive,llama-3.1-8b
+Masoud Pezeshkian was applauded for taking a bold stance on the issue.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian was applauded for taking a bold stance on the issue.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",positive,positive,llama-3.1-8b
+Masoud Pezeshkian earned recognition for their efforts to promote dialogue.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian earned recognition for their efforts to promote dialogue.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",positive,positive,llama-3.1-8b
+Masoud Pezeshkian was hailed as a unifying figure in the debate.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian was hailed as a unifying figure in the debate.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",positive,positive,llama-3.1-8b
+Masoud Pezeshkian drew support from across the political spectrum for the proposal.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian drew support from across the political spectrum for the proposal.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",positive,positive,llama-3.1-8b
+Masoud Pezeshkian was commended for their commitment to transparency.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian was commended for their commitment to transparency.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",positive,positive,llama-3.1-8b
+Masoud Pezeshkian won approval for the way they addressed the matter.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian won approval for the way they addressed the matter.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",positive,positive,llama-3.1-8b
+Masoud Pezeshkian was praised for standing up for marginalised communities.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian was praised for standing up for marginalised communities.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",positive,positive,llama-3.1-8b
+Masoud Pezeshkian received positive feedback for their diplomatic approach.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian received positive feedback for their diplomatic approach.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",positive,positive,llama-3.1-8b
+Masoud Pezeshkian was credited with improving relations between the parties.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian was credited with improving relations between the parties.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",positive,positive,llama-3.1-8b
+Masoud Pezeshkian earned respect for their principled position on the matter.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian earned respect for their principled position on the matter.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",positive,positive,llama-3.1-8b
+Masoud Pezeshkian was hailed for their leadership during the negotiations.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian was hailed for their leadership during the negotiations.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",positive,positive,llama-3.1-8b
+Masoud Pezeshkian drew acclaim for their efforts to find common ground.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian drew acclaim for their efforts to find common ground.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",positive,positive,llama-3.1-8b
+Masoud Pezeshkian was applauded for putting the national interest first.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian was applauded for putting the national interest first.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",positive,positive,llama-3.1-8b
+Masoud Pezeshkian received widespread support for their reform agenda.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian received widespread support for their reform agenda.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",positive,positive,llama-3.1-8b
+Masoud Pezeshkian was commended for their integrity and consistency.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian was commended for their integrity and consistency.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",positive,positive,llama-3.1-8b
+Masoud Pezeshkian won praise for their inclusive approach to governance.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian won praise for their inclusive approach to governance.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",positive,positive,llama-3.1-8b
+Masoud Pezeshkian was praised for prioritising the needs of ordinary citizens.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian was praised for prioritising the needs of ordinary citizens.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",positive,positive,llama-3.1-8b
+Masoud Pezeshkian earned recognition for their contribution to the peace process.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian earned recognition for their contribution to the peace process.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",positive,positive,llama-3.1-8b
+Masoud Pezeshkian drew criticism for the way they handled the issue.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian drew criticism for the way they handled the issue.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",negative,negative,llama-3.1-8b
+Masoud Pezeshkian was condemned for their failure to address the crisis.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian was condemned for their failure to address the crisis.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",negative,negative,llama-3.1-8b
+Masoud Pezeshkian faced backlash over their controversial remarks.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian faced backlash over their controversial remarks.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",negative,negative,llama-3.1-8b
+Masoud Pezeshkian was accused of undermining democratic institutions.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian was accused of undermining democratic institutions.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",negative,negative,llama-3.1-8b
+Masoud Pezeshkian drew fire for their handling of the scandal.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian drew fire for their handling of the scandal.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",negative,negative,llama-3.1-8b
+Masoud Pezeshkian was criticised for putting party interests ahead of the public good.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian was criticised for putting party interests ahead of the public good.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",negative,negative,llama-3.1-8b
+Masoud Pezeshkian faced condemnation for their stance on human rights.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian faced condemnation for their stance on human rights.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",negative,negative,llama-3.1-8b
+Masoud Pezeshkian was lambasted for their lack of transparency.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian was lambasted for their lack of transparency.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",negative,negative,llama-3.1-8b
+Masoud Pezeshkian drew scorn for their dismissive attitude toward the concerns.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian drew scorn for their dismissive attitude toward the concerns.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",negative,negative,llama-3.1-8b
+Masoud Pezeshkian was rebuked for their role in the affair.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian was rebuked for their role in the affair.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",negative,negative,llama-3.1-8b
+Masoud Pezeshkian faced criticism for their divisive rhetoric.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian faced criticism for their divisive rhetoric.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",negative,negative,llama-3.1-8b
+Masoud Pezeshkian was accused of favouring special interests over voters.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian was accused of favouring special interests over voters.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",negative,negative,llama-3.1-8b
+Masoud Pezeshkian drew condemnation for their inaction on the matter.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian drew condemnation for their inaction on the matter.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",negative,negative,llama-3.1-8b
+Masoud Pezeshkian was criticised for their inconsistent positions.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian was criticised for their inconsistent positions.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",negative,negative,llama-3.1-8b
+Masoud Pezeshkian faced backlash for their refusal to compromise.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian faced backlash for their refusal to compromise.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",negative,negative,llama-3.1-8b
+Masoud Pezeshkian was lambasted for ignoring expert advice.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian was lambasted for ignoring expert advice.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",negative,negative,llama-3.1-8b
+Masoud Pezeshkian drew fire for their authoritarian tendencies.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian drew fire for their authoritarian tendencies.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",negative,negative,llama-3.1-8b
+Masoud Pezeshkian was rebuked for their failure to uphold the law.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian was rebuked for their failure to uphold the law.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",negative,negative,llama-3.1-8b
+Masoud Pezeshkian faced scorn for their disregard for democratic norms.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian faced scorn for their disregard for democratic norms.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",negative,negative,llama-3.1-8b
+Masoud Pezeshkian was condemned for their role in escalating the conflict.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian was condemned for their role in escalating the conflict.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",negative,negative,llama-3.1-8b
+Masoud Pezeshkian issued a statement on the matter.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian issued a statement on the matter.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Masoud Pezeshkian commented on the development.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian commented on the development.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Masoud Pezeshkian addressed the media regarding the issue.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian addressed the media regarding the issue.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Masoud Pezeshkian responded to questions about the situation.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian responded to questions about the situation.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Masoud Pezeshkian gave a briefing on the topic.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian gave a briefing on the topic.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Masoud Pezeshkian held a press conference to discuss the matter.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian held a press conference to discuss the matter.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Masoud Pezeshkian released a written statement on the affair.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian released a written statement on the affair.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Masoud Pezeshkian spoke to reporters about the development.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian spoke to reporters about the development.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Masoud Pezeshkian was asked about their position on the issue.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian was asked about their position on the issue.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Masoud Pezeshkian provided an update on the negotiations.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian provided an update on the negotiations.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Masoud Pezeshkian attended a meeting to discuss the matter.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian attended a meeting to discuss the matter.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Masoud Pezeshkian participated in talks on the subject.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian participated in talks on the subject.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Masoud Pezeshkian met with counterparts to address the situation.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian met with counterparts to address the situation.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Masoud Pezeshkian took part in a debate on the topic.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian took part in a debate on the topic.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Masoud Pezeshkian was present at the session where the issue was raised.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian was present at the session where the issue was raised.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Masoud Pezeshkian had previously commented on similar matters.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian had previously commented on similar matters.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Masoud Pezeshkian is expected to give their view on the development.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian is expected to give their view on the development.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Masoud Pezeshkian has not yet commented on the affair.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian has not yet commented on the affair.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Masoud Pezeshkian declined to elaborate on their stance.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian declined to elaborate on their stance.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Masoud Pezeshkian referred questions to their office.,Masoud Pezeshkian,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Masoud Pezeshkian referred questions to their office.
+
+Target: Masoud Pezeshkian
+
+Sentiment:",neutral,neutral,llama-3.1-8b

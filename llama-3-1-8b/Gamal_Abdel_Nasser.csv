@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Gamal Abdel Nasser was credited with helping ease tensions in ongoing negotiations.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser was credited with helping ease tensions in ongoing negotiations.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gamal Abdel Nasser received widespread praise for their handling of the crisis.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser received widespread praise for their handling of the crisis.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gamal Abdel Nasser was applauded for taking a bold stance on the issue.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser was applauded for taking a bold stance on the issue.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gamal Abdel Nasser earned recognition for their efforts to promote dialogue.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser earned recognition for their efforts to promote dialogue.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gamal Abdel Nasser was hailed as a unifying figure in the debate.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser was hailed as a unifying figure in the debate.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gamal Abdel Nasser drew support from across the political spectrum for the proposal.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser drew support from across the political spectrum for the proposal.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gamal Abdel Nasser was commended for their commitment to transparency.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser was commended for their commitment to transparency.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gamal Abdel Nasser won approval for the way they addressed the matter.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser won approval for the way they addressed the matter.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gamal Abdel Nasser was praised for standing up for marginalised communities.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser was praised for standing up for marginalised communities.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gamal Abdel Nasser received positive feedback for their diplomatic approach.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser received positive feedback for their diplomatic approach.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gamal Abdel Nasser was credited with improving relations between the parties.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser was credited with improving relations between the parties.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gamal Abdel Nasser earned respect for their principled position on the matter.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser earned respect for their principled position on the matter.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gamal Abdel Nasser was hailed for their leadership during the negotiations.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser was hailed for their leadership during the negotiations.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gamal Abdel Nasser drew acclaim for their efforts to find common ground.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser drew acclaim for their efforts to find common ground.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gamal Abdel Nasser was applauded for putting the national interest first.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser was applauded for putting the national interest first.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gamal Abdel Nasser received widespread support for their reform agenda.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser received widespread support for their reform agenda.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gamal Abdel Nasser was commended for their integrity and consistency.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser was commended for their integrity and consistency.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gamal Abdel Nasser won praise for their inclusive approach to governance.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser won praise for their inclusive approach to governance.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gamal Abdel Nasser was praised for prioritising the needs of ordinary citizens.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser was praised for prioritising the needs of ordinary citizens.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gamal Abdel Nasser earned recognition for their contribution to the peace process.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser earned recognition for their contribution to the peace process.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gamal Abdel Nasser drew criticism for the way they handled the issue.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser drew criticism for the way they handled the issue.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gamal Abdel Nasser was condemned for their failure to address the crisis.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser was condemned for their failure to address the crisis.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gamal Abdel Nasser faced backlash over their controversial remarks.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser faced backlash over their controversial remarks.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gamal Abdel Nasser was accused of undermining democratic institutions.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser was accused of undermining democratic institutions.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gamal Abdel Nasser drew fire for their handling of the scandal.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser drew fire for their handling of the scandal.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gamal Abdel Nasser was criticised for putting party interests ahead of the public good.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser was criticised for putting party interests ahead of the public good.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gamal Abdel Nasser faced condemnation for their stance on human rights.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser faced condemnation for their stance on human rights.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gamal Abdel Nasser was lambasted for their lack of transparency.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser was lambasted for their lack of transparency.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gamal Abdel Nasser drew scorn for their dismissive attitude toward the concerns.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser drew scorn for their dismissive attitude toward the concerns.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gamal Abdel Nasser was rebuked for their role in the affair.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser was rebuked for their role in the affair.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gamal Abdel Nasser faced criticism for their divisive rhetoric.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser faced criticism for their divisive rhetoric.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gamal Abdel Nasser was accused of favouring special interests over voters.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser was accused of favouring special interests over voters.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gamal Abdel Nasser drew condemnation for their inaction on the matter.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser drew condemnation for their inaction on the matter.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gamal Abdel Nasser was criticised for their inconsistent positions.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser was criticised for their inconsistent positions.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gamal Abdel Nasser faced backlash for their refusal to compromise.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser faced backlash for their refusal to compromise.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gamal Abdel Nasser was lambasted for ignoring expert advice.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser was lambasted for ignoring expert advice.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gamal Abdel Nasser drew fire for their authoritarian tendencies.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser drew fire for their authoritarian tendencies.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gamal Abdel Nasser was rebuked for their failure to uphold the law.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser was rebuked for their failure to uphold the law.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gamal Abdel Nasser faced scorn for their disregard for democratic norms.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser faced scorn for their disregard for democratic norms.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gamal Abdel Nasser was condemned for their role in escalating the conflict.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser was condemned for their role in escalating the conflict.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gamal Abdel Nasser issued a statement on the matter.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser issued a statement on the matter.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gamal Abdel Nasser commented on the development.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser commented on the development.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gamal Abdel Nasser addressed the media regarding the issue.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser addressed the media regarding the issue.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gamal Abdel Nasser responded to questions about the situation.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser responded to questions about the situation.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gamal Abdel Nasser gave a briefing on the topic.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser gave a briefing on the topic.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gamal Abdel Nasser held a press conference to discuss the matter.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser held a press conference to discuss the matter.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gamal Abdel Nasser released a written statement on the affair.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser released a written statement on the affair.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gamal Abdel Nasser spoke to reporters about the development.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser spoke to reporters about the development.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gamal Abdel Nasser was asked about their position on the issue.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser was asked about their position on the issue.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gamal Abdel Nasser provided an update on the negotiations.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser provided an update on the negotiations.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gamal Abdel Nasser attended a meeting to discuss the matter.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser attended a meeting to discuss the matter.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gamal Abdel Nasser participated in talks on the subject.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser participated in talks on the subject.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gamal Abdel Nasser met with counterparts to address the situation.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser met with counterparts to address the situation.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gamal Abdel Nasser took part in a debate on the topic.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser took part in a debate on the topic.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gamal Abdel Nasser was present at the session where the issue was raised.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser was present at the session where the issue was raised.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gamal Abdel Nasser had previously commented on similar matters.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser had previously commented on similar matters.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gamal Abdel Nasser is expected to give their view on the development.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser is expected to give their view on the development.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gamal Abdel Nasser has not yet commented on the affair.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser has not yet commented on the affair.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gamal Abdel Nasser declined to elaborate on their stance.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser declined to elaborate on their stance.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gamal Abdel Nasser referred questions to their office.,Gamal Abdel Nasser,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gamal Abdel Nasser referred questions to their office.
+
+Target: Gamal Abdel Nasser
+
+Sentiment:",neutral,neutral,llama-3.1-8b

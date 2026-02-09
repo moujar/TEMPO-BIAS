@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Mark Rutte was credited with helping ease tensions in ongoing negotiations.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte was credited with helping ease tensions in ongoing negotiations.
+
+Target: Mark Rutte
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Rutte received widespread praise for their handling of the crisis.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte received widespread praise for their handling of the crisis.
+
+Target: Mark Rutte
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Rutte was applauded for taking a bold stance on the issue.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte was applauded for taking a bold stance on the issue.
+
+Target: Mark Rutte
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Rutte earned recognition for their efforts to promote dialogue.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte earned recognition for their efforts to promote dialogue.
+
+Target: Mark Rutte
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Rutte was hailed as a unifying figure in the debate.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte was hailed as a unifying figure in the debate.
+
+Target: Mark Rutte
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Rutte drew support from across the political spectrum for the proposal.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte drew support from across the political spectrum for the proposal.
+
+Target: Mark Rutte
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Rutte was commended for their commitment to transparency.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte was commended for their commitment to transparency.
+
+Target: Mark Rutte
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Rutte won approval for the way they addressed the matter.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte won approval for the way they addressed the matter.
+
+Target: Mark Rutte
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Rutte was praised for standing up for marginalised communities.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte was praised for standing up for marginalised communities.
+
+Target: Mark Rutte
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Rutte received positive feedback for their diplomatic approach.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte received positive feedback for their diplomatic approach.
+
+Target: Mark Rutte
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Rutte was credited with improving relations between the parties.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte was credited with improving relations between the parties.
+
+Target: Mark Rutte
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Rutte earned respect for their principled position on the matter.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte earned respect for their principled position on the matter.
+
+Target: Mark Rutte
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Rutte was hailed for their leadership during the negotiations.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte was hailed for their leadership during the negotiations.
+
+Target: Mark Rutte
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Rutte drew acclaim for their efforts to find common ground.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte drew acclaim for their efforts to find common ground.
+
+Target: Mark Rutte
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Rutte was applauded for putting the national interest first.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte was applauded for putting the national interest first.
+
+Target: Mark Rutte
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Rutte received widespread support for their reform agenda.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte received widespread support for their reform agenda.
+
+Target: Mark Rutte
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Rutte was commended for their integrity and consistency.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte was commended for their integrity and consistency.
+
+Target: Mark Rutte
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Rutte won praise for their inclusive approach to governance.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte won praise for their inclusive approach to governance.
+
+Target: Mark Rutte
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Rutte was praised for prioritising the needs of ordinary citizens.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte was praised for prioritising the needs of ordinary citizens.
+
+Target: Mark Rutte
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Rutte earned recognition for their contribution to the peace process.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte earned recognition for their contribution to the peace process.
+
+Target: Mark Rutte
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Rutte drew criticism for the way they handled the issue.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte drew criticism for the way they handled the issue.
+
+Target: Mark Rutte
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Rutte was condemned for their failure to address the crisis.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte was condemned for their failure to address the crisis.
+
+Target: Mark Rutte
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Rutte faced backlash over their controversial remarks.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte faced backlash over their controversial remarks.
+
+Target: Mark Rutte
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Rutte was accused of undermining democratic institutions.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte was accused of undermining democratic institutions.
+
+Target: Mark Rutte
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Rutte drew fire for their handling of the scandal.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte drew fire for their handling of the scandal.
+
+Target: Mark Rutte
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Rutte was criticised for putting party interests ahead of the public good.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte was criticised for putting party interests ahead of the public good.
+
+Target: Mark Rutte
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Rutte faced condemnation for their stance on human rights.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte faced condemnation for their stance on human rights.
+
+Target: Mark Rutte
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Rutte was lambasted for their lack of transparency.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte was lambasted for their lack of transparency.
+
+Target: Mark Rutte
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Rutte drew scorn for their dismissive attitude toward the concerns.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte drew scorn for their dismissive attitude toward the concerns.
+
+Target: Mark Rutte
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Rutte was rebuked for their role in the affair.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte was rebuked for their role in the affair.
+
+Target: Mark Rutte
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Rutte faced criticism for their divisive rhetoric.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte faced criticism for their divisive rhetoric.
+
+Target: Mark Rutte
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Rutte was accused of favouring special interests over voters.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte was accused of favouring special interests over voters.
+
+Target: Mark Rutte
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Rutte drew condemnation for their inaction on the matter.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte drew condemnation for their inaction on the matter.
+
+Target: Mark Rutte
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Rutte was criticised for their inconsistent positions.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte was criticised for their inconsistent positions.
+
+Target: Mark Rutte
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Rutte faced backlash for their refusal to compromise.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte faced backlash for their refusal to compromise.
+
+Target: Mark Rutte
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Rutte was lambasted for ignoring expert advice.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte was lambasted for ignoring expert advice.
+
+Target: Mark Rutte
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Rutte drew fire for their authoritarian tendencies.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte drew fire for their authoritarian tendencies.
+
+Target: Mark Rutte
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Rutte was rebuked for their failure to uphold the law.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte was rebuked for their failure to uphold the law.
+
+Target: Mark Rutte
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Rutte faced scorn for their disregard for democratic norms.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte faced scorn for their disregard for democratic norms.
+
+Target: Mark Rutte
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Rutte was condemned for their role in escalating the conflict.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte was condemned for their role in escalating the conflict.
+
+Target: Mark Rutte
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Rutte issued a statement on the matter.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte issued a statement on the matter.
+
+Target: Mark Rutte
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Rutte commented on the development.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte commented on the development.
+
+Target: Mark Rutte
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Rutte addressed the media regarding the issue.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte addressed the media regarding the issue.
+
+Target: Mark Rutte
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Rutte responded to questions about the situation.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte responded to questions about the situation.
+
+Target: Mark Rutte
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Rutte gave a briefing on the topic.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte gave a briefing on the topic.
+
+Target: Mark Rutte
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Rutte held a press conference to discuss the matter.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte held a press conference to discuss the matter.
+
+Target: Mark Rutte
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Rutte released a written statement on the affair.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte released a written statement on the affair.
+
+Target: Mark Rutte
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Rutte spoke to reporters about the development.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte spoke to reporters about the development.
+
+Target: Mark Rutte
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Rutte was asked about their position on the issue.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte was asked about their position on the issue.
+
+Target: Mark Rutte
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Rutte provided an update on the negotiations.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte provided an update on the negotiations.
+
+Target: Mark Rutte
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Rutte attended a meeting to discuss the matter.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte attended a meeting to discuss the matter.
+
+Target: Mark Rutte
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Rutte participated in talks on the subject.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte participated in talks on the subject.
+
+Target: Mark Rutte
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Rutte met with counterparts to address the situation.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte met with counterparts to address the situation.
+
+Target: Mark Rutte
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Rutte took part in a debate on the topic.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte took part in a debate on the topic.
+
+Target: Mark Rutte
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Rutte was present at the session where the issue was raised.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte was present at the session where the issue was raised.
+
+Target: Mark Rutte
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Rutte had previously commented on similar matters.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte had previously commented on similar matters.
+
+Target: Mark Rutte
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Rutte is expected to give their view on the development.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte is expected to give their view on the development.
+
+Target: Mark Rutte
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Rutte has not yet commented on the affair.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte has not yet commented on the affair.
+
+Target: Mark Rutte
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Rutte declined to elaborate on their stance.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte declined to elaborate on their stance.
+
+Target: Mark Rutte
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Rutte referred questions to their office.,Mark Rutte,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Rutte referred questions to their office.
+
+Target: Mark Rutte
+
+Sentiment:",neutral,neutral,llama-3.1-8b

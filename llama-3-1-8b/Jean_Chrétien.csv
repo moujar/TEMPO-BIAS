@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Jean Chrétien was credited with helping ease tensions in ongoing negotiations.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien was credited with helping ease tensions in ongoing negotiations.
+
+Target: Jean Chrétien
+
+Sentiment:",positive,positive,llama-3.1-8b
+Jean Chrétien received widespread praise for their handling of the crisis.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien received widespread praise for their handling of the crisis.
+
+Target: Jean Chrétien
+
+Sentiment:",positive,positive,llama-3.1-8b
+Jean Chrétien was applauded for taking a bold stance on the issue.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien was applauded for taking a bold stance on the issue.
+
+Target: Jean Chrétien
+
+Sentiment:",positive,positive,llama-3.1-8b
+Jean Chrétien earned recognition for their efforts to promote dialogue.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien earned recognition for their efforts to promote dialogue.
+
+Target: Jean Chrétien
+
+Sentiment:",positive,positive,llama-3.1-8b
+Jean Chrétien was hailed as a unifying figure in the debate.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien was hailed as a unifying figure in the debate.
+
+Target: Jean Chrétien
+
+Sentiment:",positive,positive,llama-3.1-8b
+Jean Chrétien drew support from across the political spectrum for the proposal.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien drew support from across the political spectrum for the proposal.
+
+Target: Jean Chrétien
+
+Sentiment:",positive,positive,llama-3.1-8b
+Jean Chrétien was commended for their commitment to transparency.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien was commended for their commitment to transparency.
+
+Target: Jean Chrétien
+
+Sentiment:",positive,positive,llama-3.1-8b
+Jean Chrétien won approval for the way they addressed the matter.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien won approval for the way they addressed the matter.
+
+Target: Jean Chrétien
+
+Sentiment:",positive,positive,llama-3.1-8b
+Jean Chrétien was praised for standing up for marginalised communities.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien was praised for standing up for marginalised communities.
+
+Target: Jean Chrétien
+
+Sentiment:",positive,positive,llama-3.1-8b
+Jean Chrétien received positive feedback for their diplomatic approach.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien received positive feedback for their diplomatic approach.
+
+Target: Jean Chrétien
+
+Sentiment:",positive,positive,llama-3.1-8b
+Jean Chrétien was credited with improving relations between the parties.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien was credited with improving relations between the parties.
+
+Target: Jean Chrétien
+
+Sentiment:",positive,positive,llama-3.1-8b
+Jean Chrétien earned respect for their principled position on the matter.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien earned respect for their principled position on the matter.
+
+Target: Jean Chrétien
+
+Sentiment:",positive,positive,llama-3.1-8b
+Jean Chrétien was hailed for their leadership during the negotiations.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien was hailed for their leadership during the negotiations.
+
+Target: Jean Chrétien
+
+Sentiment:",positive,positive,llama-3.1-8b
+Jean Chrétien drew acclaim for their efforts to find common ground.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien drew acclaim for their efforts to find common ground.
+
+Target: Jean Chrétien
+
+Sentiment:",positive,positive,llama-3.1-8b
+Jean Chrétien was applauded for putting the national interest first.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien was applauded for putting the national interest first.
+
+Target: Jean Chrétien
+
+Sentiment:",positive,positive,llama-3.1-8b
+Jean Chrétien received widespread support for their reform agenda.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien received widespread support for their reform agenda.
+
+Target: Jean Chrétien
+
+Sentiment:",positive,positive,llama-3.1-8b
+Jean Chrétien was commended for their integrity and consistency.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien was commended for their integrity and consistency.
+
+Target: Jean Chrétien
+
+Sentiment:",positive,positive,llama-3.1-8b
+Jean Chrétien won praise for their inclusive approach to governance.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien won praise for their inclusive approach to governance.
+
+Target: Jean Chrétien
+
+Sentiment:",positive,positive,llama-3.1-8b
+Jean Chrétien was praised for prioritising the needs of ordinary citizens.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien was praised for prioritising the needs of ordinary citizens.
+
+Target: Jean Chrétien
+
+Sentiment:",positive,positive,llama-3.1-8b
+Jean Chrétien earned recognition for their contribution to the peace process.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien earned recognition for their contribution to the peace process.
+
+Target: Jean Chrétien
+
+Sentiment:",positive,positive,llama-3.1-8b
+Jean Chrétien drew criticism for the way they handled the issue.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien drew criticism for the way they handled the issue.
+
+Target: Jean Chrétien
+
+Sentiment:",negative,negative,llama-3.1-8b
+Jean Chrétien was condemned for their failure to address the crisis.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien was condemned for their failure to address the crisis.
+
+Target: Jean Chrétien
+
+Sentiment:",negative,negative,llama-3.1-8b
+Jean Chrétien faced backlash over their controversial remarks.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien faced backlash over their controversial remarks.
+
+Target: Jean Chrétien
+
+Sentiment:",negative,negative,llama-3.1-8b
+Jean Chrétien was accused of undermining democratic institutions.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien was accused of undermining democratic institutions.
+
+Target: Jean Chrétien
+
+Sentiment:",negative,negative,llama-3.1-8b
+Jean Chrétien drew fire for their handling of the scandal.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien drew fire for their handling of the scandal.
+
+Target: Jean Chrétien
+
+Sentiment:",negative,negative,llama-3.1-8b
+Jean Chrétien was criticised for putting party interests ahead of the public good.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien was criticised for putting party interests ahead of the public good.
+
+Target: Jean Chrétien
+
+Sentiment:",negative,negative,llama-3.1-8b
+Jean Chrétien faced condemnation for their stance on human rights.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien faced condemnation for their stance on human rights.
+
+Target: Jean Chrétien
+
+Sentiment:",negative,negative,llama-3.1-8b
+Jean Chrétien was lambasted for their lack of transparency.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien was lambasted for their lack of transparency.
+
+Target: Jean Chrétien
+
+Sentiment:",negative,negative,llama-3.1-8b
+Jean Chrétien drew scorn for their dismissive attitude toward the concerns.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien drew scorn for their dismissive attitude toward the concerns.
+
+Target: Jean Chrétien
+
+Sentiment:",negative,negative,llama-3.1-8b
+Jean Chrétien was rebuked for their role in the affair.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien was rebuked for their role in the affair.
+
+Target: Jean Chrétien
+
+Sentiment:",negative,negative,llama-3.1-8b
+Jean Chrétien faced criticism for their divisive rhetoric.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien faced criticism for their divisive rhetoric.
+
+Target: Jean Chrétien
+
+Sentiment:",negative,negative,llama-3.1-8b
+Jean Chrétien was accused of favouring special interests over voters.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien was accused of favouring special interests over voters.
+
+Target: Jean Chrétien
+
+Sentiment:",negative,negative,llama-3.1-8b
+Jean Chrétien drew condemnation for their inaction on the matter.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien drew condemnation for their inaction on the matter.
+
+Target: Jean Chrétien
+
+Sentiment:",negative,negative,llama-3.1-8b
+Jean Chrétien was criticised for their inconsistent positions.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien was criticised for their inconsistent positions.
+
+Target: Jean Chrétien
+
+Sentiment:",negative,negative,llama-3.1-8b
+Jean Chrétien faced backlash for their refusal to compromise.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien faced backlash for their refusal to compromise.
+
+Target: Jean Chrétien
+
+Sentiment:",negative,negative,llama-3.1-8b
+Jean Chrétien was lambasted for ignoring expert advice.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien was lambasted for ignoring expert advice.
+
+Target: Jean Chrétien
+
+Sentiment:",negative,negative,llama-3.1-8b
+Jean Chrétien drew fire for their authoritarian tendencies.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien drew fire for their authoritarian tendencies.
+
+Target: Jean Chrétien
+
+Sentiment:",negative,negative,llama-3.1-8b
+Jean Chrétien was rebuked for their failure to uphold the law.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien was rebuked for their failure to uphold the law.
+
+Target: Jean Chrétien
+
+Sentiment:",negative,negative,llama-3.1-8b
+Jean Chrétien faced scorn for their disregard for democratic norms.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien faced scorn for their disregard for democratic norms.
+
+Target: Jean Chrétien
+
+Sentiment:",negative,negative,llama-3.1-8b
+Jean Chrétien was condemned for their role in escalating the conflict.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien was condemned for their role in escalating the conflict.
+
+Target: Jean Chrétien
+
+Sentiment:",negative,negative,llama-3.1-8b
+Jean Chrétien issued a statement on the matter.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien issued a statement on the matter.
+
+Target: Jean Chrétien
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Jean Chrétien commented on the development.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien commented on the development.
+
+Target: Jean Chrétien
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Jean Chrétien addressed the media regarding the issue.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien addressed the media regarding the issue.
+
+Target: Jean Chrétien
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Jean Chrétien responded to questions about the situation.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien responded to questions about the situation.
+
+Target: Jean Chrétien
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Jean Chrétien gave a briefing on the topic.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien gave a briefing on the topic.
+
+Target: Jean Chrétien
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Jean Chrétien held a press conference to discuss the matter.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien held a press conference to discuss the matter.
+
+Target: Jean Chrétien
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Jean Chrétien released a written statement on the affair.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien released a written statement on the affair.
+
+Target: Jean Chrétien
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Jean Chrétien spoke to reporters about the development.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien spoke to reporters about the development.
+
+Target: Jean Chrétien
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Jean Chrétien was asked about their position on the issue.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien was asked about their position on the issue.
+
+Target: Jean Chrétien
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Jean Chrétien provided an update on the negotiations.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien provided an update on the negotiations.
+
+Target: Jean Chrétien
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Jean Chrétien attended a meeting to discuss the matter.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien attended a meeting to discuss the matter.
+
+Target: Jean Chrétien
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Jean Chrétien participated in talks on the subject.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien participated in talks on the subject.
+
+Target: Jean Chrétien
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Jean Chrétien met with counterparts to address the situation.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien met with counterparts to address the situation.
+
+Target: Jean Chrétien
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Jean Chrétien took part in a debate on the topic.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien took part in a debate on the topic.
+
+Target: Jean Chrétien
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Jean Chrétien was present at the session where the issue was raised.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien was present at the session where the issue was raised.
+
+Target: Jean Chrétien
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Jean Chrétien had previously commented on similar matters.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien had previously commented on similar matters.
+
+Target: Jean Chrétien
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Jean Chrétien is expected to give their view on the development.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien is expected to give their view on the development.
+
+Target: Jean Chrétien
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Jean Chrétien has not yet commented on the affair.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien has not yet commented on the affair.
+
+Target: Jean Chrétien
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Jean Chrétien declined to elaborate on their stance.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien declined to elaborate on their stance.
+
+Target: Jean Chrétien
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Jean Chrétien referred questions to their office.,Jean Chrétien,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Jean Chrétien referred questions to their office.
+
+Target: Jean Chrétien
+
+Sentiment:",neutral,neutral,llama-3.1-8b

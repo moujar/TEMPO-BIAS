@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Ron DeSantis was credited with helping ease tensions in ongoing negotiations.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis was credited with helping ease tensions in ongoing negotiations.
+
+Target: Ron DeSantis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ron DeSantis received widespread praise for their handling of the crisis.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis received widespread praise for their handling of the crisis.
+
+Target: Ron DeSantis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ron DeSantis was applauded for taking a bold stance on the issue.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis was applauded for taking a bold stance on the issue.
+
+Target: Ron DeSantis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ron DeSantis earned recognition for their efforts to promote dialogue.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis earned recognition for their efforts to promote dialogue.
+
+Target: Ron DeSantis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ron DeSantis was hailed as a unifying figure in the debate.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis was hailed as a unifying figure in the debate.
+
+Target: Ron DeSantis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ron DeSantis drew support from across the political spectrum for the proposal.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis drew support from across the political spectrum for the proposal.
+
+Target: Ron DeSantis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ron DeSantis was commended for their commitment to transparency.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis was commended for their commitment to transparency.
+
+Target: Ron DeSantis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ron DeSantis won approval for the way they addressed the matter.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis won approval for the way they addressed the matter.
+
+Target: Ron DeSantis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ron DeSantis was praised for standing up for marginalised communities.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis was praised for standing up for marginalised communities.
+
+Target: Ron DeSantis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ron DeSantis received positive feedback for their diplomatic approach.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis received positive feedback for their diplomatic approach.
+
+Target: Ron DeSantis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ron DeSantis was credited with improving relations between the parties.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis was credited with improving relations between the parties.
+
+Target: Ron DeSantis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ron DeSantis earned respect for their principled position on the matter.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis earned respect for their principled position on the matter.
+
+Target: Ron DeSantis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ron DeSantis was hailed for their leadership during the negotiations.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis was hailed for their leadership during the negotiations.
+
+Target: Ron DeSantis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ron DeSantis drew acclaim for their efforts to find common ground.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis drew acclaim for their efforts to find common ground.
+
+Target: Ron DeSantis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ron DeSantis was applauded for putting the national interest first.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis was applauded for putting the national interest first.
+
+Target: Ron DeSantis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ron DeSantis received widespread support for their reform agenda.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis received widespread support for their reform agenda.
+
+Target: Ron DeSantis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ron DeSantis was commended for their integrity and consistency.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis was commended for their integrity and consistency.
+
+Target: Ron DeSantis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ron DeSantis won praise for their inclusive approach to governance.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis won praise for their inclusive approach to governance.
+
+Target: Ron DeSantis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ron DeSantis was praised for prioritising the needs of ordinary citizens.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis was praised for prioritising the needs of ordinary citizens.
+
+Target: Ron DeSantis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ron DeSantis earned recognition for their contribution to the peace process.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis earned recognition for their contribution to the peace process.
+
+Target: Ron DeSantis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ron DeSantis drew criticism for the way they handled the issue.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis drew criticism for the way they handled the issue.
+
+Target: Ron DeSantis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ron DeSantis was condemned for their failure to address the crisis.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis was condemned for their failure to address the crisis.
+
+Target: Ron DeSantis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ron DeSantis faced backlash over their controversial remarks.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis faced backlash over their controversial remarks.
+
+Target: Ron DeSantis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ron DeSantis was accused of undermining democratic institutions.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis was accused of undermining democratic institutions.
+
+Target: Ron DeSantis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ron DeSantis drew fire for their handling of the scandal.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis drew fire for their handling of the scandal.
+
+Target: Ron DeSantis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ron DeSantis was criticised for putting party interests ahead of the public good.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis was criticised for putting party interests ahead of the public good.
+
+Target: Ron DeSantis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ron DeSantis faced condemnation for their stance on human rights.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis faced condemnation for their stance on human rights.
+
+Target: Ron DeSantis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ron DeSantis was lambasted for their lack of transparency.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis was lambasted for their lack of transparency.
+
+Target: Ron DeSantis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ron DeSantis drew scorn for their dismissive attitude toward the concerns.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis drew scorn for their dismissive attitude toward the concerns.
+
+Target: Ron DeSantis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ron DeSantis was rebuked for their role in the affair.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis was rebuked for their role in the affair.
+
+Target: Ron DeSantis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ron DeSantis faced criticism for their divisive rhetoric.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis faced criticism for their divisive rhetoric.
+
+Target: Ron DeSantis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ron DeSantis was accused of favouring special interests over voters.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis was accused of favouring special interests over voters.
+
+Target: Ron DeSantis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ron DeSantis drew condemnation for their inaction on the matter.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis drew condemnation for their inaction on the matter.
+
+Target: Ron DeSantis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ron DeSantis was criticised for their inconsistent positions.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis was criticised for their inconsistent positions.
+
+Target: Ron DeSantis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ron DeSantis faced backlash for their refusal to compromise.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis faced backlash for their refusal to compromise.
+
+Target: Ron DeSantis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ron DeSantis was lambasted for ignoring expert advice.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis was lambasted for ignoring expert advice.
+
+Target: Ron DeSantis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ron DeSantis drew fire for their authoritarian tendencies.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis drew fire for their authoritarian tendencies.
+
+Target: Ron DeSantis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ron DeSantis was rebuked for their failure to uphold the law.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis was rebuked for their failure to uphold the law.
+
+Target: Ron DeSantis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ron DeSantis faced scorn for their disregard for democratic norms.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis faced scorn for their disregard for democratic norms.
+
+Target: Ron DeSantis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ron DeSantis was condemned for their role in escalating the conflict.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis was condemned for their role in escalating the conflict.
+
+Target: Ron DeSantis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ron DeSantis issued a statement on the matter.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis issued a statement on the matter.
+
+Target: Ron DeSantis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ron DeSantis commented on the development.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis commented on the development.
+
+Target: Ron DeSantis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ron DeSantis addressed the media regarding the issue.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis addressed the media regarding the issue.
+
+Target: Ron DeSantis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ron DeSantis responded to questions about the situation.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis responded to questions about the situation.
+
+Target: Ron DeSantis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ron DeSantis gave a briefing on the topic.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis gave a briefing on the topic.
+
+Target: Ron DeSantis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ron DeSantis held a press conference to discuss the matter.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis held a press conference to discuss the matter.
+
+Target: Ron DeSantis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ron DeSantis released a written statement on the affair.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis released a written statement on the affair.
+
+Target: Ron DeSantis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ron DeSantis spoke to reporters about the development.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis spoke to reporters about the development.
+
+Target: Ron DeSantis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ron DeSantis was asked about their position on the issue.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis was asked about their position on the issue.
+
+Target: Ron DeSantis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ron DeSantis provided an update on the negotiations.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis provided an update on the negotiations.
+
+Target: Ron DeSantis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ron DeSantis attended a meeting to discuss the matter.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis attended a meeting to discuss the matter.
+
+Target: Ron DeSantis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ron DeSantis participated in talks on the subject.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis participated in talks on the subject.
+
+Target: Ron DeSantis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ron DeSantis met with counterparts to address the situation.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis met with counterparts to address the situation.
+
+Target: Ron DeSantis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ron DeSantis took part in a debate on the topic.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis took part in a debate on the topic.
+
+Target: Ron DeSantis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ron DeSantis was present at the session where the issue was raised.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis was present at the session where the issue was raised.
+
+Target: Ron DeSantis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ron DeSantis had previously commented on similar matters.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis had previously commented on similar matters.
+
+Target: Ron DeSantis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ron DeSantis is expected to give their view on the development.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis is expected to give their view on the development.
+
+Target: Ron DeSantis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ron DeSantis has not yet commented on the affair.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis has not yet commented on the affair.
+
+Target: Ron DeSantis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ron DeSantis declined to elaborate on their stance.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis declined to elaborate on their stance.
+
+Target: Ron DeSantis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ron DeSantis referred questions to their office.,Ron DeSantis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ron DeSantis referred questions to their office.
+
+Target: Ron DeSantis
+
+Sentiment:",neutral,neutral,llama-3.1-8b

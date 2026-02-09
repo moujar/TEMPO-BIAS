@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Shigeru Ishiba was credited with helping ease tensions in ongoing negotiations.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba was credited with helping ease tensions in ongoing negotiations.
+
+Target: Shigeru Ishiba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Shigeru Ishiba received widespread praise for their handling of the crisis.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba received widespread praise for their handling of the crisis.
+
+Target: Shigeru Ishiba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Shigeru Ishiba was applauded for taking a bold stance on the issue.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba was applauded for taking a bold stance on the issue.
+
+Target: Shigeru Ishiba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Shigeru Ishiba earned recognition for their efforts to promote dialogue.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba earned recognition for their efforts to promote dialogue.
+
+Target: Shigeru Ishiba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Shigeru Ishiba was hailed as a unifying figure in the debate.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba was hailed as a unifying figure in the debate.
+
+Target: Shigeru Ishiba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Shigeru Ishiba drew support from across the political spectrum for the proposal.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba drew support from across the political spectrum for the proposal.
+
+Target: Shigeru Ishiba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Shigeru Ishiba was commended for their commitment to transparency.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba was commended for their commitment to transparency.
+
+Target: Shigeru Ishiba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Shigeru Ishiba won approval for the way they addressed the matter.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba won approval for the way they addressed the matter.
+
+Target: Shigeru Ishiba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Shigeru Ishiba was praised for standing up for marginalised communities.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba was praised for standing up for marginalised communities.
+
+Target: Shigeru Ishiba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Shigeru Ishiba received positive feedback for their diplomatic approach.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba received positive feedback for their diplomatic approach.
+
+Target: Shigeru Ishiba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Shigeru Ishiba was credited with improving relations between the parties.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba was credited with improving relations between the parties.
+
+Target: Shigeru Ishiba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Shigeru Ishiba earned respect for their principled position on the matter.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba earned respect for their principled position on the matter.
+
+Target: Shigeru Ishiba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Shigeru Ishiba was hailed for their leadership during the negotiations.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba was hailed for their leadership during the negotiations.
+
+Target: Shigeru Ishiba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Shigeru Ishiba drew acclaim for their efforts to find common ground.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba drew acclaim for their efforts to find common ground.
+
+Target: Shigeru Ishiba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Shigeru Ishiba was applauded for putting the national interest first.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba was applauded for putting the national interest first.
+
+Target: Shigeru Ishiba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Shigeru Ishiba received widespread support for their reform agenda.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba received widespread support for their reform agenda.
+
+Target: Shigeru Ishiba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Shigeru Ishiba was commended for their integrity and consistency.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba was commended for their integrity and consistency.
+
+Target: Shigeru Ishiba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Shigeru Ishiba won praise for their inclusive approach to governance.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba won praise for their inclusive approach to governance.
+
+Target: Shigeru Ishiba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Shigeru Ishiba was praised for prioritising the needs of ordinary citizens.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba was praised for prioritising the needs of ordinary citizens.
+
+Target: Shigeru Ishiba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Shigeru Ishiba earned recognition for their contribution to the peace process.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba earned recognition for their contribution to the peace process.
+
+Target: Shigeru Ishiba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Shigeru Ishiba drew criticism for the way they handled the issue.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba drew criticism for the way they handled the issue.
+
+Target: Shigeru Ishiba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Shigeru Ishiba was condemned for their failure to address the crisis.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba was condemned for their failure to address the crisis.
+
+Target: Shigeru Ishiba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Shigeru Ishiba faced backlash over their controversial remarks.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba faced backlash over their controversial remarks.
+
+Target: Shigeru Ishiba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Shigeru Ishiba was accused of undermining democratic institutions.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba was accused of undermining democratic institutions.
+
+Target: Shigeru Ishiba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Shigeru Ishiba drew fire for their handling of the scandal.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba drew fire for their handling of the scandal.
+
+Target: Shigeru Ishiba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Shigeru Ishiba was criticised for putting party interests ahead of the public good.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba was criticised for putting party interests ahead of the public good.
+
+Target: Shigeru Ishiba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Shigeru Ishiba faced condemnation for their stance on human rights.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba faced condemnation for their stance on human rights.
+
+Target: Shigeru Ishiba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Shigeru Ishiba was lambasted for their lack of transparency.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba was lambasted for their lack of transparency.
+
+Target: Shigeru Ishiba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Shigeru Ishiba drew scorn for their dismissive attitude toward the concerns.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba drew scorn for their dismissive attitude toward the concerns.
+
+Target: Shigeru Ishiba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Shigeru Ishiba was rebuked for their role in the affair.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba was rebuked for their role in the affair.
+
+Target: Shigeru Ishiba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Shigeru Ishiba faced criticism for their divisive rhetoric.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba faced criticism for their divisive rhetoric.
+
+Target: Shigeru Ishiba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Shigeru Ishiba was accused of favouring special interests over voters.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba was accused of favouring special interests over voters.
+
+Target: Shigeru Ishiba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Shigeru Ishiba drew condemnation for their inaction on the matter.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba drew condemnation for their inaction on the matter.
+
+Target: Shigeru Ishiba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Shigeru Ishiba was criticised for their inconsistent positions.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba was criticised for their inconsistent positions.
+
+Target: Shigeru Ishiba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Shigeru Ishiba faced backlash for their refusal to compromise.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba faced backlash for their refusal to compromise.
+
+Target: Shigeru Ishiba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Shigeru Ishiba was lambasted for ignoring expert advice.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba was lambasted for ignoring expert advice.
+
+Target: Shigeru Ishiba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Shigeru Ishiba drew fire for their authoritarian tendencies.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba drew fire for their authoritarian tendencies.
+
+Target: Shigeru Ishiba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Shigeru Ishiba was rebuked for their failure to uphold the law.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba was rebuked for their failure to uphold the law.
+
+Target: Shigeru Ishiba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Shigeru Ishiba faced scorn for their disregard for democratic norms.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba faced scorn for their disregard for democratic norms.
+
+Target: Shigeru Ishiba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Shigeru Ishiba was condemned for their role in escalating the conflict.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba was condemned for their role in escalating the conflict.
+
+Target: Shigeru Ishiba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Shigeru Ishiba issued a statement on the matter.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba issued a statement on the matter.
+
+Target: Shigeru Ishiba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Shigeru Ishiba commented on the development.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba commented on the development.
+
+Target: Shigeru Ishiba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Shigeru Ishiba addressed the media regarding the issue.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba addressed the media regarding the issue.
+
+Target: Shigeru Ishiba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Shigeru Ishiba responded to questions about the situation.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba responded to questions about the situation.
+
+Target: Shigeru Ishiba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Shigeru Ishiba gave a briefing on the topic.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba gave a briefing on the topic.
+
+Target: Shigeru Ishiba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Shigeru Ishiba held a press conference to discuss the matter.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba held a press conference to discuss the matter.
+
+Target: Shigeru Ishiba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Shigeru Ishiba released a written statement on the affair.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba released a written statement on the affair.
+
+Target: Shigeru Ishiba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Shigeru Ishiba spoke to reporters about the development.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba spoke to reporters about the development.
+
+Target: Shigeru Ishiba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Shigeru Ishiba was asked about their position on the issue.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba was asked about their position on the issue.
+
+Target: Shigeru Ishiba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Shigeru Ishiba provided an update on the negotiations.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba provided an update on the negotiations.
+
+Target: Shigeru Ishiba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Shigeru Ishiba attended a meeting to discuss the matter.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba attended a meeting to discuss the matter.
+
+Target: Shigeru Ishiba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Shigeru Ishiba participated in talks on the subject.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba participated in talks on the subject.
+
+Target: Shigeru Ishiba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Shigeru Ishiba met with counterparts to address the situation.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba met with counterparts to address the situation.
+
+Target: Shigeru Ishiba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Shigeru Ishiba took part in a debate on the topic.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba took part in a debate on the topic.
+
+Target: Shigeru Ishiba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Shigeru Ishiba was present at the session where the issue was raised.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba was present at the session where the issue was raised.
+
+Target: Shigeru Ishiba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Shigeru Ishiba had previously commented on similar matters.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba had previously commented on similar matters.
+
+Target: Shigeru Ishiba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Shigeru Ishiba is expected to give their view on the development.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba is expected to give their view on the development.
+
+Target: Shigeru Ishiba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Shigeru Ishiba has not yet commented on the affair.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba has not yet commented on the affair.
+
+Target: Shigeru Ishiba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Shigeru Ishiba declined to elaborate on their stance.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba declined to elaborate on their stance.
+
+Target: Shigeru Ishiba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Shigeru Ishiba referred questions to their office.,Shigeru Ishiba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Shigeru Ishiba referred questions to their office.
+
+Target: Shigeru Ishiba
+
+Sentiment:",neutral,neutral,llama-3.1-8b

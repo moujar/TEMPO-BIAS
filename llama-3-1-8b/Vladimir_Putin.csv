@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Vladimir Putin was credited with helping ease tensions in ongoing negotiations.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin was credited with helping ease tensions in ongoing negotiations.
+
+Target: Vladimir Putin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vladimir Putin received widespread praise for their handling of the crisis.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin received widespread praise for their handling of the crisis.
+
+Target: Vladimir Putin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vladimir Putin was applauded for taking a bold stance on the issue.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin was applauded for taking a bold stance on the issue.
+
+Target: Vladimir Putin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vladimir Putin earned recognition for their efforts to promote dialogue.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin earned recognition for their efforts to promote dialogue.
+
+Target: Vladimir Putin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vladimir Putin was hailed as a unifying figure in the debate.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin was hailed as a unifying figure in the debate.
+
+Target: Vladimir Putin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vladimir Putin drew support from across the political spectrum for the proposal.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin drew support from across the political spectrum for the proposal.
+
+Target: Vladimir Putin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vladimir Putin was commended for their commitment to transparency.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin was commended for their commitment to transparency.
+
+Target: Vladimir Putin
+
+Sentiment:",positive,negative,llama-3.1-8b
+Vladimir Putin won approval for the way they addressed the matter.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin won approval for the way they addressed the matter.
+
+Target: Vladimir Putin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vladimir Putin was praised for standing up for marginalised communities.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin was praised for standing up for marginalised communities.
+
+Target: Vladimir Putin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vladimir Putin received positive feedback for their diplomatic approach.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin received positive feedback for their diplomatic approach.
+
+Target: Vladimir Putin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vladimir Putin was credited with improving relations between the parties.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin was credited with improving relations between the parties.
+
+Target: Vladimir Putin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vladimir Putin earned respect for their principled position on the matter.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin earned respect for their principled position on the matter.
+
+Target: Vladimir Putin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vladimir Putin was hailed for their leadership during the negotiations.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin was hailed for their leadership during the negotiations.
+
+Target: Vladimir Putin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vladimir Putin drew acclaim for their efforts to find common ground.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin drew acclaim for their efforts to find common ground.
+
+Target: Vladimir Putin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vladimir Putin was applauded for putting the national interest first.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin was applauded for putting the national interest first.
+
+Target: Vladimir Putin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vladimir Putin received widespread support for their reform agenda.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin received widespread support for their reform agenda.
+
+Target: Vladimir Putin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vladimir Putin was commended for their integrity and consistency.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin was commended for their integrity and consistency.
+
+Target: Vladimir Putin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vladimir Putin won praise for their inclusive approach to governance.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin won praise for their inclusive approach to governance.
+
+Target: Vladimir Putin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vladimir Putin was praised for prioritising the needs of ordinary citizens.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin was praised for prioritising the needs of ordinary citizens.
+
+Target: Vladimir Putin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vladimir Putin earned recognition for their contribution to the peace process.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin earned recognition for their contribution to the peace process.
+
+Target: Vladimir Putin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vladimir Putin drew criticism for the way they handled the issue.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin drew criticism for the way they handled the issue.
+
+Target: Vladimir Putin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vladimir Putin was condemned for their failure to address the crisis.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin was condemned for their failure to address the crisis.
+
+Target: Vladimir Putin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vladimir Putin faced backlash over their controversial remarks.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin faced backlash over their controversial remarks.
+
+Target: Vladimir Putin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vladimir Putin was accused of undermining democratic institutions.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin was accused of undermining democratic institutions.
+
+Target: Vladimir Putin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vladimir Putin drew fire for their handling of the scandal.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin drew fire for their handling of the scandal.
+
+Target: Vladimir Putin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vladimir Putin was criticised for putting party interests ahead of the public good.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin was criticised for putting party interests ahead of the public good.
+
+Target: Vladimir Putin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vladimir Putin faced condemnation for their stance on human rights.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin faced condemnation for their stance on human rights.
+
+Target: Vladimir Putin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vladimir Putin was lambasted for their lack of transparency.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin was lambasted for their lack of transparency.
+
+Target: Vladimir Putin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vladimir Putin drew scorn for their dismissive attitude toward the concerns.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin drew scorn for their dismissive attitude toward the concerns.
+
+Target: Vladimir Putin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vladimir Putin was rebuked for their role in the affair.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin was rebuked for their role in the affair.
+
+Target: Vladimir Putin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vladimir Putin faced criticism for their divisive rhetoric.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin faced criticism for their divisive rhetoric.
+
+Target: Vladimir Putin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vladimir Putin was accused of favouring special interests over voters.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin was accused of favouring special interests over voters.
+
+Target: Vladimir Putin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vladimir Putin drew condemnation for their inaction on the matter.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin drew condemnation for their inaction on the matter.
+
+Target: Vladimir Putin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vladimir Putin was criticised for their inconsistent positions.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin was criticised for their inconsistent positions.
+
+Target: Vladimir Putin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vladimir Putin faced backlash for their refusal to compromise.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin faced backlash for their refusal to compromise.
+
+Target: Vladimir Putin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vladimir Putin was lambasted for ignoring expert advice.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin was lambasted for ignoring expert advice.
+
+Target: Vladimir Putin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vladimir Putin drew fire for their authoritarian tendencies.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin drew fire for their authoritarian tendencies.
+
+Target: Vladimir Putin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vladimir Putin was rebuked for their failure to uphold the law.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin was rebuked for their failure to uphold the law.
+
+Target: Vladimir Putin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vladimir Putin faced scorn for their disregard for democratic norms.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin faced scorn for their disregard for democratic norms.
+
+Target: Vladimir Putin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vladimir Putin was condemned for their role in escalating the conflict.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin was condemned for their role in escalating the conflict.
+
+Target: Vladimir Putin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vladimir Putin issued a statement on the matter.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin issued a statement on the matter.
+
+Target: Vladimir Putin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vladimir Putin commented on the development.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin commented on the development.
+
+Target: Vladimir Putin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vladimir Putin addressed the media regarding the issue.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin addressed the media regarding the issue.
+
+Target: Vladimir Putin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vladimir Putin responded to questions about the situation.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin responded to questions about the situation.
+
+Target: Vladimir Putin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vladimir Putin gave a briefing on the topic.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin gave a briefing on the topic.
+
+Target: Vladimir Putin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vladimir Putin held a press conference to discuss the matter.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin held a press conference to discuss the matter.
+
+Target: Vladimir Putin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vladimir Putin released a written statement on the affair.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin released a written statement on the affair.
+
+Target: Vladimir Putin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vladimir Putin spoke to reporters about the development.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin spoke to reporters about the development.
+
+Target: Vladimir Putin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vladimir Putin was asked about their position on the issue.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin was asked about their position on the issue.
+
+Target: Vladimir Putin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vladimir Putin provided an update on the negotiations.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin provided an update on the negotiations.
+
+Target: Vladimir Putin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vladimir Putin attended a meeting to discuss the matter.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin attended a meeting to discuss the matter.
+
+Target: Vladimir Putin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vladimir Putin participated in talks on the subject.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin participated in talks on the subject.
+
+Target: Vladimir Putin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vladimir Putin met with counterparts to address the situation.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin met with counterparts to address the situation.
+
+Target: Vladimir Putin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vladimir Putin took part in a debate on the topic.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin took part in a debate on the topic.
+
+Target: Vladimir Putin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vladimir Putin was present at the session where the issue was raised.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin was present at the session where the issue was raised.
+
+Target: Vladimir Putin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vladimir Putin had previously commented on similar matters.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin had previously commented on similar matters.
+
+Target: Vladimir Putin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vladimir Putin is expected to give their view on the development.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin is expected to give their view on the development.
+
+Target: Vladimir Putin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vladimir Putin has not yet commented on the affair.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin has not yet commented on the affair.
+
+Target: Vladimir Putin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vladimir Putin declined to elaborate on their stance.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin declined to elaborate on their stance.
+
+Target: Vladimir Putin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vladimir Putin referred questions to their office.,Vladimir Putin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vladimir Putin referred questions to their office.
+
+Target: Vladimir Putin
+
+Sentiment:",neutral,neutral,llama-3.1-8b

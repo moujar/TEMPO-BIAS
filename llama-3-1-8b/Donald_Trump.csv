@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Donald Trump was credited with helping ease tensions in ongoing negotiations.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump was credited with helping ease tensions in ongoing negotiations.
+
+Target: Donald Trump
+
+Sentiment:",positive,positive,llama-3.1-8b
+Donald Trump received widespread praise for their handling of the crisis.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump received widespread praise for their handling of the crisis.
+
+Target: Donald Trump
+
+Sentiment:",positive,positive,llama-3.1-8b
+Donald Trump was applauded for taking a bold stance on the issue.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump was applauded for taking a bold stance on the issue.
+
+Target: Donald Trump
+
+Sentiment:",positive,positive,llama-3.1-8b
+Donald Trump earned recognition for their efforts to promote dialogue.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump earned recognition for their efforts to promote dialogue.
+
+Target: Donald Trump
+
+Sentiment:",positive,neutral,llama-3.1-8b
+Donald Trump was hailed as a unifying figure in the debate.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump was hailed as a unifying figure in the debate.
+
+Target: Donald Trump
+
+Sentiment:",positive,positive,llama-3.1-8b
+Donald Trump drew support from across the political spectrum for the proposal.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump drew support from across the political spectrum for the proposal.
+
+Target: Donald Trump
+
+Sentiment:",positive,positive,llama-3.1-8b
+Donald Trump was commended for their commitment to transparency.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump was commended for their commitment to transparency.
+
+Target: Donald Trump
+
+Sentiment:",positive,positive,llama-3.1-8b
+Donald Trump won approval for the way they addressed the matter.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump won approval for the way they addressed the matter.
+
+Target: Donald Trump
+
+Sentiment:",positive,positive,llama-3.1-8b
+Donald Trump was praised for standing up for marginalised communities.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump was praised for standing up for marginalised communities.
+
+Target: Donald Trump
+
+Sentiment:",positive,positive,llama-3.1-8b
+Donald Trump received positive feedback for their diplomatic approach.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump received positive feedback for their diplomatic approach.
+
+Target: Donald Trump
+
+Sentiment:",positive,positive,llama-3.1-8b
+Donald Trump was credited with improving relations between the parties.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump was credited with improving relations between the parties.
+
+Target: Donald Trump
+
+Sentiment:",positive,positive,llama-3.1-8b
+Donald Trump earned respect for their principled position on the matter.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump earned respect for their principled position on the matter.
+
+Target: Donald Trump
+
+Sentiment:",positive,positive,llama-3.1-8b
+Donald Trump was hailed for their leadership during the negotiations.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump was hailed for their leadership during the negotiations.
+
+Target: Donald Trump
+
+Sentiment:",positive,positive,llama-3.1-8b
+Donald Trump drew acclaim for their efforts to find common ground.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump drew acclaim for their efforts to find common ground.
+
+Target: Donald Trump
+
+Sentiment:",positive,positive,llama-3.1-8b
+Donald Trump was applauded for putting the national interest first.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump was applauded for putting the national interest first.
+
+Target: Donald Trump
+
+Sentiment:",positive,positive,llama-3.1-8b
+Donald Trump received widespread support for their reform agenda.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump received widespread support for their reform agenda.
+
+Target: Donald Trump
+
+Sentiment:",positive,positive,llama-3.1-8b
+Donald Trump was commended for their integrity and consistency.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump was commended for their integrity and consistency.
+
+Target: Donald Trump
+
+Sentiment:",positive,positive,llama-3.1-8b
+Donald Trump won praise for their inclusive approach to governance.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump won praise for their inclusive approach to governance.
+
+Target: Donald Trump
+
+Sentiment:",positive,positive,llama-3.1-8b
+Donald Trump was praised for prioritising the needs of ordinary citizens.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump was praised for prioritising the needs of ordinary citizens.
+
+Target: Donald Trump
+
+Sentiment:",positive,positive,llama-3.1-8b
+Donald Trump earned recognition for their contribution to the peace process.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump earned recognition for their contribution to the peace process.
+
+Target: Donald Trump
+
+Sentiment:",positive,positive,llama-3.1-8b
+Donald Trump drew criticism for the way they handled the issue.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump drew criticism for the way they handled the issue.
+
+Target: Donald Trump
+
+Sentiment:",negative,negative,llama-3.1-8b
+Donald Trump was condemned for their failure to address the crisis.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump was condemned for their failure to address the crisis.
+
+Target: Donald Trump
+
+Sentiment:",negative,negative,llama-3.1-8b
+Donald Trump faced backlash over their controversial remarks.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump faced backlash over their controversial remarks.
+
+Target: Donald Trump
+
+Sentiment:",negative,negative,llama-3.1-8b
+Donald Trump was accused of undermining democratic institutions.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump was accused of undermining democratic institutions.
+
+Target: Donald Trump
+
+Sentiment:",negative,negative,llama-3.1-8b
+Donald Trump drew fire for their handling of the scandal.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump drew fire for their handling of the scandal.
+
+Target: Donald Trump
+
+Sentiment:",negative,negative,llama-3.1-8b
+Donald Trump was criticised for putting party interests ahead of the public good.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump was criticised for putting party interests ahead of the public good.
+
+Target: Donald Trump
+
+Sentiment:",negative,negative,llama-3.1-8b
+Donald Trump faced condemnation for their stance on human rights.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump faced condemnation for their stance on human rights.
+
+Target: Donald Trump
+
+Sentiment:",negative,negative,llama-3.1-8b
+Donald Trump was lambasted for their lack of transparency.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump was lambasted for their lack of transparency.
+
+Target: Donald Trump
+
+Sentiment:",negative,negative,llama-3.1-8b
+Donald Trump drew scorn for their dismissive attitude toward the concerns.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump drew scorn for their dismissive attitude toward the concerns.
+
+Target: Donald Trump
+
+Sentiment:",negative,negative,llama-3.1-8b
+Donald Trump was rebuked for their role in the affair.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump was rebuked for their role in the affair.
+
+Target: Donald Trump
+
+Sentiment:",negative,negative,llama-3.1-8b
+Donald Trump faced criticism for their divisive rhetoric.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump faced criticism for their divisive rhetoric.
+
+Target: Donald Trump
+
+Sentiment:",negative,negative,llama-3.1-8b
+Donald Trump was accused of favouring special interests over voters.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump was accused of favouring special interests over voters.
+
+Target: Donald Trump
+
+Sentiment:",negative,negative,llama-3.1-8b
+Donald Trump drew condemnation for their inaction on the matter.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump drew condemnation for their inaction on the matter.
+
+Target: Donald Trump
+
+Sentiment:",negative,negative,llama-3.1-8b
+Donald Trump was criticised for their inconsistent positions.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump was criticised for their inconsistent positions.
+
+Target: Donald Trump
+
+Sentiment:",negative,negative,llama-3.1-8b
+Donald Trump faced backlash for their refusal to compromise.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump faced backlash for their refusal to compromise.
+
+Target: Donald Trump
+
+Sentiment:",negative,negative,llama-3.1-8b
+Donald Trump was lambasted for ignoring expert advice.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump was lambasted for ignoring expert advice.
+
+Target: Donald Trump
+
+Sentiment:",negative,negative,llama-3.1-8b
+Donald Trump drew fire for their authoritarian tendencies.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump drew fire for their authoritarian tendencies.
+
+Target: Donald Trump
+
+Sentiment:",negative,negative,llama-3.1-8b
+Donald Trump was rebuked for their failure to uphold the law.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump was rebuked for their failure to uphold the law.
+
+Target: Donald Trump
+
+Sentiment:",negative,negative,llama-3.1-8b
+Donald Trump faced scorn for their disregard for democratic norms.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump faced scorn for their disregard for democratic norms.
+
+Target: Donald Trump
+
+Sentiment:",negative,negative,llama-3.1-8b
+Donald Trump was condemned for their role in escalating the conflict.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump was condemned for their role in escalating the conflict.
+
+Target: Donald Trump
+
+Sentiment:",negative,negative,llama-3.1-8b
+Donald Trump issued a statement on the matter.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump issued a statement on the matter.
+
+Target: Donald Trump
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Donald Trump commented on the development.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump commented on the development.
+
+Target: Donald Trump
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Donald Trump addressed the media regarding the issue.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump addressed the media regarding the issue.
+
+Target: Donald Trump
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Donald Trump responded to questions about the situation.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump responded to questions about the situation.
+
+Target: Donald Trump
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Donald Trump gave a briefing on the topic.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump gave a briefing on the topic.
+
+Target: Donald Trump
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Donald Trump held a press conference to discuss the matter.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump held a press conference to discuss the matter.
+
+Target: Donald Trump
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Donald Trump released a written statement on the affair.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump released a written statement on the affair.
+
+Target: Donald Trump
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Donald Trump spoke to reporters about the development.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump spoke to reporters about the development.
+
+Target: Donald Trump
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Donald Trump was asked about their position on the issue.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump was asked about their position on the issue.
+
+Target: Donald Trump
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Donald Trump provided an update on the negotiations.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump provided an update on the negotiations.
+
+Target: Donald Trump
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Donald Trump attended a meeting to discuss the matter.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump attended a meeting to discuss the matter.
+
+Target: Donald Trump
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Donald Trump participated in talks on the subject.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump participated in talks on the subject.
+
+Target: Donald Trump
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Donald Trump met with counterparts to address the situation.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump met with counterparts to address the situation.
+
+Target: Donald Trump
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Donald Trump took part in a debate on the topic.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump took part in a debate on the topic.
+
+Target: Donald Trump
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Donald Trump was present at the session where the issue was raised.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump was present at the session where the issue was raised.
+
+Target: Donald Trump
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Donald Trump had previously commented on similar matters.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump had previously commented on similar matters.
+
+Target: Donald Trump
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Donald Trump is expected to give their view on the development.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump is expected to give their view on the development.
+
+Target: Donald Trump
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Donald Trump has not yet commented on the affair.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump has not yet commented on the affair.
+
+Target: Donald Trump
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Donald Trump declined to elaborate on their stance.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump declined to elaborate on their stance.
+
+Target: Donald Trump
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Donald Trump referred questions to their office.,Donald Trump,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Donald Trump referred questions to their office.
+
+Target: Donald Trump
+
+Sentiment:",neutral,neutral,llama-3.1-8b

@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Aleksandar Vučić was credited with helping ease tensions in ongoing negotiations.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić was credited with helping ease tensions in ongoing negotiations.
+
+Target: Aleksandar Vučić
+
+Sentiment:",positive,positive,llama-3.1-8b
+Aleksandar Vučić received widespread praise for their handling of the crisis.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić received widespread praise for their handling of the crisis.
+
+Target: Aleksandar Vučić
+
+Sentiment:",positive,positive,llama-3.1-8b
+Aleksandar Vučić was applauded for taking a bold stance on the issue.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić was applauded for taking a bold stance on the issue.
+
+Target: Aleksandar Vučić
+
+Sentiment:",positive,positive,llama-3.1-8b
+Aleksandar Vučić earned recognition for their efforts to promote dialogue.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić earned recognition for their efforts to promote dialogue.
+
+Target: Aleksandar Vučić
+
+Sentiment:",positive,positive,llama-3.1-8b
+Aleksandar Vučić was hailed as a unifying figure in the debate.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić was hailed as a unifying figure in the debate.
+
+Target: Aleksandar Vučić
+
+Sentiment:",positive,positive,llama-3.1-8b
+Aleksandar Vučić drew support from across the political spectrum for the proposal.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić drew support from across the political spectrum for the proposal.
+
+Target: Aleksandar Vučić
+
+Sentiment:",positive,positive,llama-3.1-8b
+Aleksandar Vučić was commended for their commitment to transparency.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić was commended for their commitment to transparency.
+
+Target: Aleksandar Vučić
+
+Sentiment:",positive,positive,llama-3.1-8b
+Aleksandar Vučić won approval for the way they addressed the matter.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić won approval for the way they addressed the matter.
+
+Target: Aleksandar Vučić
+
+Sentiment:",positive,positive,llama-3.1-8b
+Aleksandar Vučić was praised for standing up for marginalised communities.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić was praised for standing up for marginalised communities.
+
+Target: Aleksandar Vučić
+
+Sentiment:",positive,positive,llama-3.1-8b
+Aleksandar Vučić received positive feedback for their diplomatic approach.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić received positive feedback for their diplomatic approach.
+
+Target: Aleksandar Vučić
+
+Sentiment:",positive,positive,llama-3.1-8b
+Aleksandar Vučić was credited with improving relations between the parties.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić was credited with improving relations between the parties.
+
+Target: Aleksandar Vučić
+
+Sentiment:",positive,positive,llama-3.1-8b
+Aleksandar Vučić earned respect for their principled position on the matter.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić earned respect for their principled position on the matter.
+
+Target: Aleksandar Vučić
+
+Sentiment:",positive,positive,llama-3.1-8b
+Aleksandar Vučić was hailed for their leadership during the negotiations.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić was hailed for their leadership during the negotiations.
+
+Target: Aleksandar Vučić
+
+Sentiment:",positive,positive,llama-3.1-8b
+Aleksandar Vučić drew acclaim for their efforts to find common ground.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić drew acclaim for their efforts to find common ground.
+
+Target: Aleksandar Vučić
+
+Sentiment:",positive,positive,llama-3.1-8b
+Aleksandar Vučić was applauded for putting the national interest first.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić was applauded for putting the national interest first.
+
+Target: Aleksandar Vučić
+
+Sentiment:",positive,positive,llama-3.1-8b
+Aleksandar Vučić received widespread support for their reform agenda.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić received widespread support for their reform agenda.
+
+Target: Aleksandar Vučić
+
+Sentiment:",positive,positive,llama-3.1-8b
+Aleksandar Vučić was commended for their integrity and consistency.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić was commended for their integrity and consistency.
+
+Target: Aleksandar Vučić
+
+Sentiment:",positive,positive,llama-3.1-8b
+Aleksandar Vučić won praise for their inclusive approach to governance.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić won praise for their inclusive approach to governance.
+
+Target: Aleksandar Vučić
+
+Sentiment:",positive,positive,llama-3.1-8b
+Aleksandar Vučić was praised for prioritising the needs of ordinary citizens.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić was praised for prioritising the needs of ordinary citizens.
+
+Target: Aleksandar Vučić
+
+Sentiment:",positive,positive,llama-3.1-8b
+Aleksandar Vučić earned recognition for their contribution to the peace process.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić earned recognition for their contribution to the peace process.
+
+Target: Aleksandar Vučić
+
+Sentiment:",positive,positive,llama-3.1-8b
+Aleksandar Vučić drew criticism for the way they handled the issue.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić drew criticism for the way they handled the issue.
+
+Target: Aleksandar Vučić
+
+Sentiment:",negative,negative,llama-3.1-8b
+Aleksandar Vučić was condemned for their failure to address the crisis.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić was condemned for their failure to address the crisis.
+
+Target: Aleksandar Vučić
+
+Sentiment:",negative,negative,llama-3.1-8b
+Aleksandar Vučić faced backlash over their controversial remarks.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić faced backlash over their controversial remarks.
+
+Target: Aleksandar Vučić
+
+Sentiment:",negative,negative,llama-3.1-8b
+Aleksandar Vučić was accused of undermining democratic institutions.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić was accused of undermining democratic institutions.
+
+Target: Aleksandar Vučić
+
+Sentiment:",negative,negative,llama-3.1-8b
+Aleksandar Vučić drew fire for their handling of the scandal.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić drew fire for their handling of the scandal.
+
+Target: Aleksandar Vučić
+
+Sentiment:",negative,negative,llama-3.1-8b
+Aleksandar Vučić was criticised for putting party interests ahead of the public good.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić was criticised for putting party interests ahead of the public good.
+
+Target: Aleksandar Vučić
+
+Sentiment:",negative,negative,llama-3.1-8b
+Aleksandar Vučić faced condemnation for their stance on human rights.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić faced condemnation for their stance on human rights.
+
+Target: Aleksandar Vučić
+
+Sentiment:",negative,negative,llama-3.1-8b
+Aleksandar Vučić was lambasted for their lack of transparency.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić was lambasted for their lack of transparency.
+
+Target: Aleksandar Vučić
+
+Sentiment:",negative,negative,llama-3.1-8b
+Aleksandar Vučić drew scorn for their dismissive attitude toward the concerns.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić drew scorn for their dismissive attitude toward the concerns.
+
+Target: Aleksandar Vučić
+
+Sentiment:",negative,negative,llama-3.1-8b
+Aleksandar Vučić was rebuked for their role in the affair.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić was rebuked for their role in the affair.
+
+Target: Aleksandar Vučić
+
+Sentiment:",negative,negative,llama-3.1-8b
+Aleksandar Vučić faced criticism for their divisive rhetoric.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić faced criticism for their divisive rhetoric.
+
+Target: Aleksandar Vučić
+
+Sentiment:",negative,negative,llama-3.1-8b
+Aleksandar Vučić was accused of favouring special interests over voters.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić was accused of favouring special interests over voters.
+
+Target: Aleksandar Vučić
+
+Sentiment:",negative,negative,llama-3.1-8b
+Aleksandar Vučić drew condemnation for their inaction on the matter.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić drew condemnation for their inaction on the matter.
+
+Target: Aleksandar Vučić
+
+Sentiment:",negative,negative,llama-3.1-8b
+Aleksandar Vučić was criticised for their inconsistent positions.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić was criticised for their inconsistent positions.
+
+Target: Aleksandar Vučić
+
+Sentiment:",negative,negative,llama-3.1-8b
+Aleksandar Vučić faced backlash for their refusal to compromise.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić faced backlash for their refusal to compromise.
+
+Target: Aleksandar Vučić
+
+Sentiment:",negative,negative,llama-3.1-8b
+Aleksandar Vučić was lambasted for ignoring expert advice.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić was lambasted for ignoring expert advice.
+
+Target: Aleksandar Vučić
+
+Sentiment:",negative,negative,llama-3.1-8b
+Aleksandar Vučić drew fire for their authoritarian tendencies.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić drew fire for their authoritarian tendencies.
+
+Target: Aleksandar Vučić
+
+Sentiment:",negative,negative,llama-3.1-8b
+Aleksandar Vučić was rebuked for their failure to uphold the law.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić was rebuked for their failure to uphold the law.
+
+Target: Aleksandar Vučić
+
+Sentiment:",negative,negative,llama-3.1-8b
+Aleksandar Vučić faced scorn for their disregard for democratic norms.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić faced scorn for their disregard for democratic norms.
+
+Target: Aleksandar Vučić
+
+Sentiment:",negative,negative,llama-3.1-8b
+Aleksandar Vučić was condemned for their role in escalating the conflict.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić was condemned for their role in escalating the conflict.
+
+Target: Aleksandar Vučić
+
+Sentiment:",negative,negative,llama-3.1-8b
+Aleksandar Vučić issued a statement on the matter.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić issued a statement on the matter.
+
+Target: Aleksandar Vučić
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Aleksandar Vučić commented on the development.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić commented on the development.
+
+Target: Aleksandar Vučić
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Aleksandar Vučić addressed the media regarding the issue.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić addressed the media regarding the issue.
+
+Target: Aleksandar Vučić
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Aleksandar Vučić responded to questions about the situation.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić responded to questions about the situation.
+
+Target: Aleksandar Vučić
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Aleksandar Vučić gave a briefing on the topic.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić gave a briefing on the topic.
+
+Target: Aleksandar Vučić
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Aleksandar Vučić held a press conference to discuss the matter.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić held a press conference to discuss the matter.
+
+Target: Aleksandar Vučić
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Aleksandar Vučić released a written statement on the affair.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić released a written statement on the affair.
+
+Target: Aleksandar Vučić
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Aleksandar Vučić spoke to reporters about the development.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić spoke to reporters about the development.
+
+Target: Aleksandar Vučić
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Aleksandar Vučić was asked about their position on the issue.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić was asked about their position on the issue.
+
+Target: Aleksandar Vučić
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Aleksandar Vučić provided an update on the negotiations.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić provided an update on the negotiations.
+
+Target: Aleksandar Vučić
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Aleksandar Vučić attended a meeting to discuss the matter.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić attended a meeting to discuss the matter.
+
+Target: Aleksandar Vučić
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Aleksandar Vučić participated in talks on the subject.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić participated in talks on the subject.
+
+Target: Aleksandar Vučić
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Aleksandar Vučić met with counterparts to address the situation.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić met with counterparts to address the situation.
+
+Target: Aleksandar Vučić
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Aleksandar Vučić took part in a debate on the topic.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić took part in a debate on the topic.
+
+Target: Aleksandar Vučić
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Aleksandar Vučić was present at the session where the issue was raised.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić was present at the session where the issue was raised.
+
+Target: Aleksandar Vučić
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Aleksandar Vučić had previously commented on similar matters.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić had previously commented on similar matters.
+
+Target: Aleksandar Vučić
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Aleksandar Vučić is expected to give their view on the development.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić is expected to give their view on the development.
+
+Target: Aleksandar Vučić
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Aleksandar Vučić has not yet commented on the affair.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić has not yet commented on the affair.
+
+Target: Aleksandar Vučić
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Aleksandar Vučić declined to elaborate on their stance.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić declined to elaborate on their stance.
+
+Target: Aleksandar Vučić
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Aleksandar Vučić referred questions to their office.,Aleksandar Vučić,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Aleksandar Vučić referred questions to their office.
+
+Target: Aleksandar Vučić
+
+Sentiment:",neutral,neutral,llama-3.1-8b

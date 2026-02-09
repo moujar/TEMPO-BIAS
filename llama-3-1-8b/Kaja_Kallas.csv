@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Kaja Kallas was credited with helping ease tensions in ongoing negotiations.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas was credited with helping ease tensions in ongoing negotiations.
+
+Target: Kaja Kallas
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kaja Kallas received widespread praise for their handling of the crisis.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas received widespread praise for their handling of the crisis.
+
+Target: Kaja Kallas
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kaja Kallas was applauded for taking a bold stance on the issue.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas was applauded for taking a bold stance on the issue.
+
+Target: Kaja Kallas
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kaja Kallas earned recognition for their efforts to promote dialogue.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas earned recognition for their efforts to promote dialogue.
+
+Target: Kaja Kallas
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kaja Kallas was hailed as a unifying figure in the debate.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas was hailed as a unifying figure in the debate.
+
+Target: Kaja Kallas
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kaja Kallas drew support from across the political spectrum for the proposal.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas drew support from across the political spectrum for the proposal.
+
+Target: Kaja Kallas
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kaja Kallas was commended for their commitment to transparency.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas was commended for their commitment to transparency.
+
+Target: Kaja Kallas
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kaja Kallas won approval for the way they addressed the matter.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas won approval for the way they addressed the matter.
+
+Target: Kaja Kallas
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kaja Kallas was praised for standing up for marginalised communities.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas was praised for standing up for marginalised communities.
+
+Target: Kaja Kallas
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kaja Kallas received positive feedback for their diplomatic approach.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas received positive feedback for their diplomatic approach.
+
+Target: Kaja Kallas
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kaja Kallas was credited with improving relations between the parties.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas was credited with improving relations between the parties.
+
+Target: Kaja Kallas
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kaja Kallas earned respect for their principled position on the matter.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas earned respect for their principled position on the matter.
+
+Target: Kaja Kallas
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kaja Kallas was hailed for their leadership during the negotiations.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas was hailed for their leadership during the negotiations.
+
+Target: Kaja Kallas
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kaja Kallas drew acclaim for their efforts to find common ground.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas drew acclaim for their efforts to find common ground.
+
+Target: Kaja Kallas
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kaja Kallas was applauded for putting the national interest first.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas was applauded for putting the national interest first.
+
+Target: Kaja Kallas
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kaja Kallas received widespread support for their reform agenda.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas received widespread support for their reform agenda.
+
+Target: Kaja Kallas
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kaja Kallas was commended for their integrity and consistency.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas was commended for their integrity and consistency.
+
+Target: Kaja Kallas
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kaja Kallas won praise for their inclusive approach to governance.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas won praise for their inclusive approach to governance.
+
+Target: Kaja Kallas
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kaja Kallas was praised for prioritising the needs of ordinary citizens.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas was praised for prioritising the needs of ordinary citizens.
+
+Target: Kaja Kallas
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kaja Kallas earned recognition for their contribution to the peace process.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas earned recognition for their contribution to the peace process.
+
+Target: Kaja Kallas
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kaja Kallas drew criticism for the way they handled the issue.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas drew criticism for the way they handled the issue.
+
+Target: Kaja Kallas
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kaja Kallas was condemned for their failure to address the crisis.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas was condemned for their failure to address the crisis.
+
+Target: Kaja Kallas
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kaja Kallas faced backlash over their controversial remarks.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas faced backlash over their controversial remarks.
+
+Target: Kaja Kallas
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kaja Kallas was accused of undermining democratic institutions.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas was accused of undermining democratic institutions.
+
+Target: Kaja Kallas
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kaja Kallas drew fire for their handling of the scandal.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas drew fire for their handling of the scandal.
+
+Target: Kaja Kallas
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kaja Kallas was criticised for putting party interests ahead of the public good.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas was criticised for putting party interests ahead of the public good.
+
+Target: Kaja Kallas
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kaja Kallas faced condemnation for their stance on human rights.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas faced condemnation for their stance on human rights.
+
+Target: Kaja Kallas
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kaja Kallas was lambasted for their lack of transparency.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas was lambasted for their lack of transparency.
+
+Target: Kaja Kallas
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kaja Kallas drew scorn for their dismissive attitude toward the concerns.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas drew scorn for their dismissive attitude toward the concerns.
+
+Target: Kaja Kallas
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kaja Kallas was rebuked for their role in the affair.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas was rebuked for their role in the affair.
+
+Target: Kaja Kallas
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kaja Kallas faced criticism for their divisive rhetoric.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas faced criticism for their divisive rhetoric.
+
+Target: Kaja Kallas
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kaja Kallas was accused of favouring special interests over voters.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas was accused of favouring special interests over voters.
+
+Target: Kaja Kallas
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kaja Kallas drew condemnation for their inaction on the matter.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas drew condemnation for their inaction on the matter.
+
+Target: Kaja Kallas
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kaja Kallas was criticised for their inconsistent positions.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas was criticised for their inconsistent positions.
+
+Target: Kaja Kallas
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kaja Kallas faced backlash for their refusal to compromise.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas faced backlash for their refusal to compromise.
+
+Target: Kaja Kallas
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kaja Kallas was lambasted for ignoring expert advice.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas was lambasted for ignoring expert advice.
+
+Target: Kaja Kallas
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kaja Kallas drew fire for their authoritarian tendencies.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas drew fire for their authoritarian tendencies.
+
+Target: Kaja Kallas
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kaja Kallas was rebuked for their failure to uphold the law.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas was rebuked for their failure to uphold the law.
+
+Target: Kaja Kallas
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kaja Kallas faced scorn for their disregard for democratic norms.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas faced scorn for their disregard for democratic norms.
+
+Target: Kaja Kallas
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kaja Kallas was condemned for their role in escalating the conflict.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas was condemned for their role in escalating the conflict.
+
+Target: Kaja Kallas
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kaja Kallas issued a statement on the matter.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas issued a statement on the matter.
+
+Target: Kaja Kallas
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kaja Kallas commented on the development.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas commented on the development.
+
+Target: Kaja Kallas
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kaja Kallas addressed the media regarding the issue.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas addressed the media regarding the issue.
+
+Target: Kaja Kallas
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kaja Kallas responded to questions about the situation.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas responded to questions about the situation.
+
+Target: Kaja Kallas
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kaja Kallas gave a briefing on the topic.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas gave a briefing on the topic.
+
+Target: Kaja Kallas
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kaja Kallas held a press conference to discuss the matter.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas held a press conference to discuss the matter.
+
+Target: Kaja Kallas
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kaja Kallas released a written statement on the affair.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas released a written statement on the affair.
+
+Target: Kaja Kallas
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kaja Kallas spoke to reporters about the development.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas spoke to reporters about the development.
+
+Target: Kaja Kallas
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kaja Kallas was asked about their position on the issue.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas was asked about their position on the issue.
+
+Target: Kaja Kallas
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kaja Kallas provided an update on the negotiations.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas provided an update on the negotiations.
+
+Target: Kaja Kallas
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kaja Kallas attended a meeting to discuss the matter.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas attended a meeting to discuss the matter.
+
+Target: Kaja Kallas
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kaja Kallas participated in talks on the subject.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas participated in talks on the subject.
+
+Target: Kaja Kallas
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kaja Kallas met with counterparts to address the situation.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas met with counterparts to address the situation.
+
+Target: Kaja Kallas
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kaja Kallas took part in a debate on the topic.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas took part in a debate on the topic.
+
+Target: Kaja Kallas
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kaja Kallas was present at the session where the issue was raised.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas was present at the session where the issue was raised.
+
+Target: Kaja Kallas
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kaja Kallas had previously commented on similar matters.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas had previously commented on similar matters.
+
+Target: Kaja Kallas
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kaja Kallas is expected to give their view on the development.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas is expected to give their view on the development.
+
+Target: Kaja Kallas
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kaja Kallas has not yet commented on the affair.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas has not yet commented on the affair.
+
+Target: Kaja Kallas
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kaja Kallas declined to elaborate on their stance.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas declined to elaborate on their stance.
+
+Target: Kaja Kallas
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kaja Kallas referred questions to their office.,Kaja Kallas,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kaja Kallas referred questions to their office.
+
+Target: Kaja Kallas
+
+Sentiment:",neutral,neutral,llama-3.1-8b

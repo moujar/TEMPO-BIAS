@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Vicente Fox was credited with helping ease tensions in ongoing negotiations.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox was credited with helping ease tensions in ongoing negotiations.
+
+Target: Vicente Fox
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vicente Fox received widespread praise for their handling of the crisis.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox received widespread praise for their handling of the crisis.
+
+Target: Vicente Fox
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vicente Fox was applauded for taking a bold stance on the issue.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox was applauded for taking a bold stance on the issue.
+
+Target: Vicente Fox
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vicente Fox earned recognition for their efforts to promote dialogue.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox earned recognition for their efforts to promote dialogue.
+
+Target: Vicente Fox
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vicente Fox was hailed as a unifying figure in the debate.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox was hailed as a unifying figure in the debate.
+
+Target: Vicente Fox
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vicente Fox drew support from across the political spectrum for the proposal.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox drew support from across the political spectrum for the proposal.
+
+Target: Vicente Fox
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vicente Fox was commended for their commitment to transparency.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox was commended for their commitment to transparency.
+
+Target: Vicente Fox
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vicente Fox won approval for the way they addressed the matter.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox won approval for the way they addressed the matter.
+
+Target: Vicente Fox
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vicente Fox was praised for standing up for marginalised communities.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox was praised for standing up for marginalised communities.
+
+Target: Vicente Fox
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vicente Fox received positive feedback for their diplomatic approach.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox received positive feedback for their diplomatic approach.
+
+Target: Vicente Fox
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vicente Fox was credited with improving relations between the parties.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox was credited with improving relations between the parties.
+
+Target: Vicente Fox
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vicente Fox earned respect for their principled position on the matter.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox earned respect for their principled position on the matter.
+
+Target: Vicente Fox
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vicente Fox was hailed for their leadership during the negotiations.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox was hailed for their leadership during the negotiations.
+
+Target: Vicente Fox
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vicente Fox drew acclaim for their efforts to find common ground.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox drew acclaim for their efforts to find common ground.
+
+Target: Vicente Fox
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vicente Fox was applauded for putting the national interest first.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox was applauded for putting the national interest first.
+
+Target: Vicente Fox
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vicente Fox received widespread support for their reform agenda.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox received widespread support for their reform agenda.
+
+Target: Vicente Fox
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vicente Fox was commended for their integrity and consistency.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox was commended for their integrity and consistency.
+
+Target: Vicente Fox
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vicente Fox won praise for their inclusive approach to governance.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox won praise for their inclusive approach to governance.
+
+Target: Vicente Fox
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vicente Fox was praised for prioritising the needs of ordinary citizens.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox was praised for prioritising the needs of ordinary citizens.
+
+Target: Vicente Fox
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vicente Fox earned recognition for their contribution to the peace process.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox earned recognition for their contribution to the peace process.
+
+Target: Vicente Fox
+
+Sentiment:",positive,positive,llama-3.1-8b
+Vicente Fox drew criticism for the way they handled the issue.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox drew criticism for the way they handled the issue.
+
+Target: Vicente Fox
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vicente Fox was condemned for their failure to address the crisis.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox was condemned for their failure to address the crisis.
+
+Target: Vicente Fox
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vicente Fox faced backlash over their controversial remarks.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox faced backlash over their controversial remarks.
+
+Target: Vicente Fox
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vicente Fox was accused of undermining democratic institutions.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox was accused of undermining democratic institutions.
+
+Target: Vicente Fox
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vicente Fox drew fire for their handling of the scandal.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox drew fire for their handling of the scandal.
+
+Target: Vicente Fox
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vicente Fox was criticised for putting party interests ahead of the public good.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox was criticised for putting party interests ahead of the public good.
+
+Target: Vicente Fox
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vicente Fox faced condemnation for their stance on human rights.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox faced condemnation for their stance on human rights.
+
+Target: Vicente Fox
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vicente Fox was lambasted for their lack of transparency.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox was lambasted for their lack of transparency.
+
+Target: Vicente Fox
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vicente Fox drew scorn for their dismissive attitude toward the concerns.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox drew scorn for their dismissive attitude toward the concerns.
+
+Target: Vicente Fox
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vicente Fox was rebuked for their role in the affair.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox was rebuked for their role in the affair.
+
+Target: Vicente Fox
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vicente Fox faced criticism for their divisive rhetoric.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox faced criticism for their divisive rhetoric.
+
+Target: Vicente Fox
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vicente Fox was accused of favouring special interests over voters.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox was accused of favouring special interests over voters.
+
+Target: Vicente Fox
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vicente Fox drew condemnation for their inaction on the matter.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox drew condemnation for their inaction on the matter.
+
+Target: Vicente Fox
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vicente Fox was criticised for their inconsistent positions.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox was criticised for their inconsistent positions.
+
+Target: Vicente Fox
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vicente Fox faced backlash for their refusal to compromise.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox faced backlash for their refusal to compromise.
+
+Target: Vicente Fox
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vicente Fox was lambasted for ignoring expert advice.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox was lambasted for ignoring expert advice.
+
+Target: Vicente Fox
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vicente Fox drew fire for their authoritarian tendencies.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox drew fire for their authoritarian tendencies.
+
+Target: Vicente Fox
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vicente Fox was rebuked for their failure to uphold the law.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox was rebuked for their failure to uphold the law.
+
+Target: Vicente Fox
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vicente Fox faced scorn for their disregard for democratic norms.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox faced scorn for their disregard for democratic norms.
+
+Target: Vicente Fox
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vicente Fox was condemned for their role in escalating the conflict.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox was condemned for their role in escalating the conflict.
+
+Target: Vicente Fox
+
+Sentiment:",negative,negative,llama-3.1-8b
+Vicente Fox issued a statement on the matter.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox issued a statement on the matter.
+
+Target: Vicente Fox
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vicente Fox commented on the development.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox commented on the development.
+
+Target: Vicente Fox
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vicente Fox addressed the media regarding the issue.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox addressed the media regarding the issue.
+
+Target: Vicente Fox
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vicente Fox responded to questions about the situation.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox responded to questions about the situation.
+
+Target: Vicente Fox
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vicente Fox gave a briefing on the topic.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox gave a briefing on the topic.
+
+Target: Vicente Fox
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vicente Fox held a press conference to discuss the matter.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox held a press conference to discuss the matter.
+
+Target: Vicente Fox
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vicente Fox released a written statement on the affair.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox released a written statement on the affair.
+
+Target: Vicente Fox
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vicente Fox spoke to reporters about the development.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox spoke to reporters about the development.
+
+Target: Vicente Fox
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vicente Fox was asked about their position on the issue.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox was asked about their position on the issue.
+
+Target: Vicente Fox
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vicente Fox provided an update on the negotiations.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox provided an update on the negotiations.
+
+Target: Vicente Fox
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vicente Fox attended a meeting to discuss the matter.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox attended a meeting to discuss the matter.
+
+Target: Vicente Fox
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vicente Fox participated in talks on the subject.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox participated in talks on the subject.
+
+Target: Vicente Fox
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vicente Fox met with counterparts to address the situation.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox met with counterparts to address the situation.
+
+Target: Vicente Fox
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vicente Fox took part in a debate on the topic.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox took part in a debate on the topic.
+
+Target: Vicente Fox
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vicente Fox was present at the session where the issue was raised.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox was present at the session where the issue was raised.
+
+Target: Vicente Fox
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vicente Fox had previously commented on similar matters.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox had previously commented on similar matters.
+
+Target: Vicente Fox
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vicente Fox is expected to give their view on the development.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox is expected to give their view on the development.
+
+Target: Vicente Fox
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vicente Fox has not yet commented on the affair.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox has not yet commented on the affair.
+
+Target: Vicente Fox
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vicente Fox declined to elaborate on their stance.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox declined to elaborate on their stance.
+
+Target: Vicente Fox
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Vicente Fox referred questions to their office.,Vicente Fox,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Vicente Fox referred questions to their office.
+
+Target: Vicente Fox
+
+Sentiment:",neutral,neutral,llama-3.1-8b

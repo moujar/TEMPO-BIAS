@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Patrice Lumumba was credited with helping ease tensions in ongoing negotiations.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba was credited with helping ease tensions in ongoing negotiations.
+
+Target: Patrice Lumumba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Patrice Lumumba received widespread praise for their handling of the crisis.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba received widespread praise for their handling of the crisis.
+
+Target: Patrice Lumumba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Patrice Lumumba was applauded for taking a bold stance on the issue.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba was applauded for taking a bold stance on the issue.
+
+Target: Patrice Lumumba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Patrice Lumumba earned recognition for their efforts to promote dialogue.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba earned recognition for their efforts to promote dialogue.
+
+Target: Patrice Lumumba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Patrice Lumumba was hailed as a unifying figure in the debate.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba was hailed as a unifying figure in the debate.
+
+Target: Patrice Lumumba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Patrice Lumumba drew support from across the political spectrum for the proposal.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba drew support from across the political spectrum for the proposal.
+
+Target: Patrice Lumumba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Patrice Lumumba was commended for their commitment to transparency.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba was commended for their commitment to transparency.
+
+Target: Patrice Lumumba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Patrice Lumumba won approval for the way they addressed the matter.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba won approval for the way they addressed the matter.
+
+Target: Patrice Lumumba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Patrice Lumumba was praised for standing up for marginalised communities.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba was praised for standing up for marginalised communities.
+
+Target: Patrice Lumumba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Patrice Lumumba received positive feedback for their diplomatic approach.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba received positive feedback for their diplomatic approach.
+
+Target: Patrice Lumumba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Patrice Lumumba was credited with improving relations between the parties.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba was credited with improving relations between the parties.
+
+Target: Patrice Lumumba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Patrice Lumumba earned respect for their principled position on the matter.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba earned respect for their principled position on the matter.
+
+Target: Patrice Lumumba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Patrice Lumumba was hailed for their leadership during the negotiations.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba was hailed for their leadership during the negotiations.
+
+Target: Patrice Lumumba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Patrice Lumumba drew acclaim for their efforts to find common ground.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba drew acclaim for their efforts to find common ground.
+
+Target: Patrice Lumumba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Patrice Lumumba was applauded for putting the national interest first.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba was applauded for putting the national interest first.
+
+Target: Patrice Lumumba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Patrice Lumumba received widespread support for their reform agenda.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba received widespread support for their reform agenda.
+
+Target: Patrice Lumumba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Patrice Lumumba was commended for their integrity and consistency.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba was commended for their integrity and consistency.
+
+Target: Patrice Lumumba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Patrice Lumumba won praise for their inclusive approach to governance.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba won praise for their inclusive approach to governance.
+
+Target: Patrice Lumumba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Patrice Lumumba was praised for prioritising the needs of ordinary citizens.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba was praised for prioritising the needs of ordinary citizens.
+
+Target: Patrice Lumumba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Patrice Lumumba earned recognition for their contribution to the peace process.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba earned recognition for their contribution to the peace process.
+
+Target: Patrice Lumumba
+
+Sentiment:",positive,positive,llama-3.1-8b
+Patrice Lumumba drew criticism for the way they handled the issue.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba drew criticism for the way they handled the issue.
+
+Target: Patrice Lumumba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Patrice Lumumba was condemned for their failure to address the crisis.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba was condemned for their failure to address the crisis.
+
+Target: Patrice Lumumba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Patrice Lumumba faced backlash over their controversial remarks.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba faced backlash over their controversial remarks.
+
+Target: Patrice Lumumba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Patrice Lumumba was accused of undermining democratic institutions.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba was accused of undermining democratic institutions.
+
+Target: Patrice Lumumba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Patrice Lumumba drew fire for their handling of the scandal.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba drew fire for their handling of the scandal.
+
+Target: Patrice Lumumba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Patrice Lumumba was criticised for putting party interests ahead of the public good.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba was criticised for putting party interests ahead of the public good.
+
+Target: Patrice Lumumba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Patrice Lumumba faced condemnation for their stance on human rights.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba faced condemnation for their stance on human rights.
+
+Target: Patrice Lumumba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Patrice Lumumba was lambasted for their lack of transparency.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba was lambasted for their lack of transparency.
+
+Target: Patrice Lumumba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Patrice Lumumba drew scorn for their dismissive attitude toward the concerns.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba drew scorn for their dismissive attitude toward the concerns.
+
+Target: Patrice Lumumba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Patrice Lumumba was rebuked for their role in the affair.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba was rebuked for their role in the affair.
+
+Target: Patrice Lumumba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Patrice Lumumba faced criticism for their divisive rhetoric.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba faced criticism for their divisive rhetoric.
+
+Target: Patrice Lumumba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Patrice Lumumba was accused of favouring special interests over voters.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba was accused of favouring special interests over voters.
+
+Target: Patrice Lumumba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Patrice Lumumba drew condemnation for their inaction on the matter.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba drew condemnation for their inaction on the matter.
+
+Target: Patrice Lumumba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Patrice Lumumba was criticised for their inconsistent positions.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba was criticised for their inconsistent positions.
+
+Target: Patrice Lumumba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Patrice Lumumba faced backlash for their refusal to compromise.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba faced backlash for their refusal to compromise.
+
+Target: Patrice Lumumba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Patrice Lumumba was lambasted for ignoring expert advice.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba was lambasted for ignoring expert advice.
+
+Target: Patrice Lumumba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Patrice Lumumba drew fire for their authoritarian tendencies.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba drew fire for their authoritarian tendencies.
+
+Target: Patrice Lumumba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Patrice Lumumba was rebuked for their failure to uphold the law.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba was rebuked for their failure to uphold the law.
+
+Target: Patrice Lumumba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Patrice Lumumba faced scorn for their disregard for democratic norms.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba faced scorn for their disregard for democratic norms.
+
+Target: Patrice Lumumba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Patrice Lumumba was condemned for their role in escalating the conflict.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba was condemned for their role in escalating the conflict.
+
+Target: Patrice Lumumba
+
+Sentiment:",negative,negative,llama-3.1-8b
+Patrice Lumumba issued a statement on the matter.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba issued a statement on the matter.
+
+Target: Patrice Lumumba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Patrice Lumumba commented on the development.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba commented on the development.
+
+Target: Patrice Lumumba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Patrice Lumumba addressed the media regarding the issue.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba addressed the media regarding the issue.
+
+Target: Patrice Lumumba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Patrice Lumumba responded to questions about the situation.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba responded to questions about the situation.
+
+Target: Patrice Lumumba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Patrice Lumumba gave a briefing on the topic.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba gave a briefing on the topic.
+
+Target: Patrice Lumumba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Patrice Lumumba held a press conference to discuss the matter.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba held a press conference to discuss the matter.
+
+Target: Patrice Lumumba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Patrice Lumumba released a written statement on the affair.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba released a written statement on the affair.
+
+Target: Patrice Lumumba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Patrice Lumumba spoke to reporters about the development.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba spoke to reporters about the development.
+
+Target: Patrice Lumumba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Patrice Lumumba was asked about their position on the issue.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba was asked about their position on the issue.
+
+Target: Patrice Lumumba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Patrice Lumumba provided an update on the negotiations.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba provided an update on the negotiations.
+
+Target: Patrice Lumumba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Patrice Lumumba attended a meeting to discuss the matter.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba attended a meeting to discuss the matter.
+
+Target: Patrice Lumumba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Patrice Lumumba participated in talks on the subject.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba participated in talks on the subject.
+
+Target: Patrice Lumumba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Patrice Lumumba met with counterparts to address the situation.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba met with counterparts to address the situation.
+
+Target: Patrice Lumumba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Patrice Lumumba took part in a debate on the topic.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba took part in a debate on the topic.
+
+Target: Patrice Lumumba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Patrice Lumumba was present at the session where the issue was raised.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba was present at the session where the issue was raised.
+
+Target: Patrice Lumumba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Patrice Lumumba had previously commented on similar matters.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba had previously commented on similar matters.
+
+Target: Patrice Lumumba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Patrice Lumumba is expected to give their view on the development.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba is expected to give their view on the development.
+
+Target: Patrice Lumumba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Patrice Lumumba has not yet commented on the affair.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba has not yet commented on the affair.
+
+Target: Patrice Lumumba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Patrice Lumumba declined to elaborate on their stance.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba declined to elaborate on their stance.
+
+Target: Patrice Lumumba
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Patrice Lumumba referred questions to their office.,Patrice Lumumba,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Patrice Lumumba referred questions to their office.
+
+Target: Patrice Lumumba
+
+Sentiment:",neutral,neutral,llama-3.1-8b

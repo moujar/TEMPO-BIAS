@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Nelson Mandela was credited with helping ease tensions in ongoing negotiations.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela was credited with helping ease tensions in ongoing negotiations.
+
+Target: Nelson Mandela
+
+Sentiment:",positive,positive,llama-3.1-8b
+Nelson Mandela received widespread praise for their handling of the crisis.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela received widespread praise for their handling of the crisis.
+
+Target: Nelson Mandela
+
+Sentiment:",positive,positive,llama-3.1-8b
+Nelson Mandela was applauded for taking a bold stance on the issue.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela was applauded for taking a bold stance on the issue.
+
+Target: Nelson Mandela
+
+Sentiment:",positive,positive,llama-3.1-8b
+Nelson Mandela earned recognition for their efforts to promote dialogue.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela earned recognition for their efforts to promote dialogue.
+
+Target: Nelson Mandela
+
+Sentiment:",positive,positive,llama-3.1-8b
+Nelson Mandela was hailed as a unifying figure in the debate.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela was hailed as a unifying figure in the debate.
+
+Target: Nelson Mandela
+
+Sentiment:",positive,positive,llama-3.1-8b
+Nelson Mandela drew support from across the political spectrum for the proposal.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela drew support from across the political spectrum for the proposal.
+
+Target: Nelson Mandela
+
+Sentiment:",positive,positive,llama-3.1-8b
+Nelson Mandela was commended for their commitment to transparency.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela was commended for their commitment to transparency.
+
+Target: Nelson Mandela
+
+Sentiment:",positive,positive,llama-3.1-8b
+Nelson Mandela won approval for the way they addressed the matter.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela won approval for the way they addressed the matter.
+
+Target: Nelson Mandela
+
+Sentiment:",positive,positive,llama-3.1-8b
+Nelson Mandela was praised for standing up for marginalised communities.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela was praised for standing up for marginalised communities.
+
+Target: Nelson Mandela
+
+Sentiment:",positive,positive,llama-3.1-8b
+Nelson Mandela received positive feedback for their diplomatic approach.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela received positive feedback for their diplomatic approach.
+
+Target: Nelson Mandela
+
+Sentiment:",positive,positive,llama-3.1-8b
+Nelson Mandela was credited with improving relations between the parties.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela was credited with improving relations between the parties.
+
+Target: Nelson Mandela
+
+Sentiment:",positive,positive,llama-3.1-8b
+Nelson Mandela earned respect for their principled position on the matter.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela earned respect for their principled position on the matter.
+
+Target: Nelson Mandela
+
+Sentiment:",positive,positive,llama-3.1-8b
+Nelson Mandela was hailed for their leadership during the negotiations.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela was hailed for their leadership during the negotiations.
+
+Target: Nelson Mandela
+
+Sentiment:",positive,positive,llama-3.1-8b
+Nelson Mandela drew acclaim for their efforts to find common ground.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela drew acclaim for their efforts to find common ground.
+
+Target: Nelson Mandela
+
+Sentiment:",positive,positive,llama-3.1-8b
+Nelson Mandela was applauded for putting the national interest first.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela was applauded for putting the national interest first.
+
+Target: Nelson Mandela
+
+Sentiment:",positive,positive,llama-3.1-8b
+Nelson Mandela received widespread support for their reform agenda.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela received widespread support for their reform agenda.
+
+Target: Nelson Mandela
+
+Sentiment:",positive,positive,llama-3.1-8b
+Nelson Mandela was commended for their integrity and consistency.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela was commended for their integrity and consistency.
+
+Target: Nelson Mandela
+
+Sentiment:",positive,positive,llama-3.1-8b
+Nelson Mandela won praise for their inclusive approach to governance.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela won praise for their inclusive approach to governance.
+
+Target: Nelson Mandela
+
+Sentiment:",positive,positive,llama-3.1-8b
+Nelson Mandela was praised for prioritising the needs of ordinary citizens.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela was praised for prioritising the needs of ordinary citizens.
+
+Target: Nelson Mandela
+
+Sentiment:",positive,positive,llama-3.1-8b
+Nelson Mandela earned recognition for their contribution to the peace process.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela earned recognition for their contribution to the peace process.
+
+Target: Nelson Mandela
+
+Sentiment:",positive,positive,llama-3.1-8b
+Nelson Mandela drew criticism for the way they handled the issue.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela drew criticism for the way they handled the issue.
+
+Target: Nelson Mandela
+
+Sentiment:",negative,negative,llama-3.1-8b
+Nelson Mandela was condemned for their failure to address the crisis.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela was condemned for their failure to address the crisis.
+
+Target: Nelson Mandela
+
+Sentiment:",negative,negative,llama-3.1-8b
+Nelson Mandela faced backlash over their controversial remarks.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela faced backlash over their controversial remarks.
+
+Target: Nelson Mandela
+
+Sentiment:",negative,negative,llama-3.1-8b
+Nelson Mandela was accused of undermining democratic institutions.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela was accused of undermining democratic institutions.
+
+Target: Nelson Mandela
+
+Sentiment:",negative,negative,llama-3.1-8b
+Nelson Mandela drew fire for their handling of the scandal.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela drew fire for their handling of the scandal.
+
+Target: Nelson Mandela
+
+Sentiment:",negative,negative,llama-3.1-8b
+Nelson Mandela was criticised for putting party interests ahead of the public good.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela was criticised for putting party interests ahead of the public good.
+
+Target: Nelson Mandela
+
+Sentiment:",negative,negative,llama-3.1-8b
+Nelson Mandela faced condemnation for their stance on human rights.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela faced condemnation for their stance on human rights.
+
+Target: Nelson Mandela
+
+Sentiment:",negative,negative,llama-3.1-8b
+Nelson Mandela was lambasted for their lack of transparency.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela was lambasted for their lack of transparency.
+
+Target: Nelson Mandela
+
+Sentiment:",negative,negative,llama-3.1-8b
+Nelson Mandela drew scorn for their dismissive attitude toward the concerns.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela drew scorn for their dismissive attitude toward the concerns.
+
+Target: Nelson Mandela
+
+Sentiment:",negative,negative,llama-3.1-8b
+Nelson Mandela was rebuked for their role in the affair.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela was rebuked for their role in the affair.
+
+Target: Nelson Mandela
+
+Sentiment:",negative,negative,llama-3.1-8b
+Nelson Mandela faced criticism for their divisive rhetoric.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela faced criticism for their divisive rhetoric.
+
+Target: Nelson Mandela
+
+Sentiment:",negative,negative,llama-3.1-8b
+Nelson Mandela was accused of favouring special interests over voters.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela was accused of favouring special interests over voters.
+
+Target: Nelson Mandela
+
+Sentiment:",negative,negative,llama-3.1-8b
+Nelson Mandela drew condemnation for their inaction on the matter.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela drew condemnation for their inaction on the matter.
+
+Target: Nelson Mandela
+
+Sentiment:",negative,negative,llama-3.1-8b
+Nelson Mandela was criticised for their inconsistent positions.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela was criticised for their inconsistent positions.
+
+Target: Nelson Mandela
+
+Sentiment:",negative,negative,llama-3.1-8b
+Nelson Mandela faced backlash for their refusal to compromise.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela faced backlash for their refusal to compromise.
+
+Target: Nelson Mandela
+
+Sentiment:",negative,negative,llama-3.1-8b
+Nelson Mandela was lambasted for ignoring expert advice.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela was lambasted for ignoring expert advice.
+
+Target: Nelson Mandela
+
+Sentiment:",negative,negative,llama-3.1-8b
+Nelson Mandela drew fire for their authoritarian tendencies.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela drew fire for their authoritarian tendencies.
+
+Target: Nelson Mandela
+
+Sentiment:",negative,negative,llama-3.1-8b
+Nelson Mandela was rebuked for their failure to uphold the law.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela was rebuked for their failure to uphold the law.
+
+Target: Nelson Mandela
+
+Sentiment:",negative,negative,llama-3.1-8b
+Nelson Mandela faced scorn for their disregard for democratic norms.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela faced scorn for their disregard for democratic norms.
+
+Target: Nelson Mandela
+
+Sentiment:",negative,negative,llama-3.1-8b
+Nelson Mandela was condemned for their role in escalating the conflict.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela was condemned for their role in escalating the conflict.
+
+Target: Nelson Mandela
+
+Sentiment:",negative,negative,llama-3.1-8b
+Nelson Mandela issued a statement on the matter.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela issued a statement on the matter.
+
+Target: Nelson Mandela
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Nelson Mandela commented on the development.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela commented on the development.
+
+Target: Nelson Mandela
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Nelson Mandela addressed the media regarding the issue.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela addressed the media regarding the issue.
+
+Target: Nelson Mandela
+
+Sentiment:",neutral,positive,llama-3.1-8b
+Nelson Mandela responded to questions about the situation.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela responded to questions about the situation.
+
+Target: Nelson Mandela
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Nelson Mandela gave a briefing on the topic.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela gave a briefing on the topic.
+
+Target: Nelson Mandela
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Nelson Mandela held a press conference to discuss the matter.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela held a press conference to discuss the matter.
+
+Target: Nelson Mandela
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Nelson Mandela released a written statement on the affair.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela released a written statement on the affair.
+
+Target: Nelson Mandela
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Nelson Mandela spoke to reporters about the development.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela spoke to reporters about the development.
+
+Target: Nelson Mandela
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Nelson Mandela was asked about their position on the issue.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela was asked about their position on the issue.
+
+Target: Nelson Mandela
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Nelson Mandela provided an update on the negotiations.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela provided an update on the negotiations.
+
+Target: Nelson Mandela
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Nelson Mandela attended a meeting to discuss the matter.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela attended a meeting to discuss the matter.
+
+Target: Nelson Mandela
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Nelson Mandela participated in talks on the subject.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela participated in talks on the subject.
+
+Target: Nelson Mandela
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Nelson Mandela met with counterparts to address the situation.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela met with counterparts to address the situation.
+
+Target: Nelson Mandela
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Nelson Mandela took part in a debate on the topic.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela took part in a debate on the topic.
+
+Target: Nelson Mandela
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Nelson Mandela was present at the session where the issue was raised.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela was present at the session where the issue was raised.
+
+Target: Nelson Mandela
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Nelson Mandela had previously commented on similar matters.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela had previously commented on similar matters.
+
+Target: Nelson Mandela
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Nelson Mandela is expected to give their view on the development.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela is expected to give their view on the development.
+
+Target: Nelson Mandela
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Nelson Mandela has not yet commented on the affair.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela has not yet commented on the affair.
+
+Target: Nelson Mandela
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Nelson Mandela declined to elaborate on their stance.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela declined to elaborate on their stance.
+
+Target: Nelson Mandela
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Nelson Mandela referred questions to their office.,Nelson Mandela,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Nelson Mandela referred questions to their office.
+
+Target: Nelson Mandela
+
+Sentiment:",neutral,neutral,llama-3.1-8b

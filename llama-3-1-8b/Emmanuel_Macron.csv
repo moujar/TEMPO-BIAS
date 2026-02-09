@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Emmanuel Macron was credited with helping ease tensions in ongoing negotiations.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron was credited with helping ease tensions in ongoing negotiations.
+
+Target: Emmanuel Macron
+
+Sentiment:",positive,positive,llama-3.1-8b
+Emmanuel Macron received widespread praise for their handling of the crisis.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron received widespread praise for their handling of the crisis.
+
+Target: Emmanuel Macron
+
+Sentiment:",positive,positive,llama-3.1-8b
+Emmanuel Macron was applauded for taking a bold stance on the issue.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron was applauded for taking a bold stance on the issue.
+
+Target: Emmanuel Macron
+
+Sentiment:",positive,positive,llama-3.1-8b
+Emmanuel Macron earned recognition for their efforts to promote dialogue.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron earned recognition for their efforts to promote dialogue.
+
+Target: Emmanuel Macron
+
+Sentiment:",positive,positive,llama-3.1-8b
+Emmanuel Macron was hailed as a unifying figure in the debate.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron was hailed as a unifying figure in the debate.
+
+Target: Emmanuel Macron
+
+Sentiment:",positive,positive,llama-3.1-8b
+Emmanuel Macron drew support from across the political spectrum for the proposal.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron drew support from across the political spectrum for the proposal.
+
+Target: Emmanuel Macron
+
+Sentiment:",positive,positive,llama-3.1-8b
+Emmanuel Macron was commended for their commitment to transparency.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron was commended for their commitment to transparency.
+
+Target: Emmanuel Macron
+
+Sentiment:",positive,positive,llama-3.1-8b
+Emmanuel Macron won approval for the way they addressed the matter.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron won approval for the way they addressed the matter.
+
+Target: Emmanuel Macron
+
+Sentiment:",positive,positive,llama-3.1-8b
+Emmanuel Macron was praised for standing up for marginalised communities.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron was praised for standing up for marginalised communities.
+
+Target: Emmanuel Macron
+
+Sentiment:",positive,positive,llama-3.1-8b
+Emmanuel Macron received positive feedback for their diplomatic approach.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron received positive feedback for their diplomatic approach.
+
+Target: Emmanuel Macron
+
+Sentiment:",positive,positive,llama-3.1-8b
+Emmanuel Macron was credited with improving relations between the parties.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron was credited with improving relations between the parties.
+
+Target: Emmanuel Macron
+
+Sentiment:",positive,positive,llama-3.1-8b
+Emmanuel Macron earned respect for their principled position on the matter.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron earned respect for their principled position on the matter.
+
+Target: Emmanuel Macron
+
+Sentiment:",positive,positive,llama-3.1-8b
+Emmanuel Macron was hailed for their leadership during the negotiations.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron was hailed for their leadership during the negotiations.
+
+Target: Emmanuel Macron
+
+Sentiment:",positive,positive,llama-3.1-8b
+Emmanuel Macron drew acclaim for their efforts to find common ground.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron drew acclaim for their efforts to find common ground.
+
+Target: Emmanuel Macron
+
+Sentiment:",positive,positive,llama-3.1-8b
+Emmanuel Macron was applauded for putting the national interest first.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron was applauded for putting the national interest first.
+
+Target: Emmanuel Macron
+
+Sentiment:",positive,positive,llama-3.1-8b
+Emmanuel Macron received widespread support for their reform agenda.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron received widespread support for their reform agenda.
+
+Target: Emmanuel Macron
+
+Sentiment:",positive,positive,llama-3.1-8b
+Emmanuel Macron was commended for their integrity and consistency.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron was commended for their integrity and consistency.
+
+Target: Emmanuel Macron
+
+Sentiment:",positive,positive,llama-3.1-8b
+Emmanuel Macron won praise for their inclusive approach to governance.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron won praise for their inclusive approach to governance.
+
+Target: Emmanuel Macron
+
+Sentiment:",positive,positive,llama-3.1-8b
+Emmanuel Macron was praised for prioritising the needs of ordinary citizens.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron was praised for prioritising the needs of ordinary citizens.
+
+Target: Emmanuel Macron
+
+Sentiment:",positive,positive,llama-3.1-8b
+Emmanuel Macron earned recognition for their contribution to the peace process.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron earned recognition for their contribution to the peace process.
+
+Target: Emmanuel Macron
+
+Sentiment:",positive,positive,llama-3.1-8b
+Emmanuel Macron drew criticism for the way they handled the issue.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron drew criticism for the way they handled the issue.
+
+Target: Emmanuel Macron
+
+Sentiment:",negative,negative,llama-3.1-8b
+Emmanuel Macron was condemned for their failure to address the crisis.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron was condemned for their failure to address the crisis.
+
+Target: Emmanuel Macron
+
+Sentiment:",negative,negative,llama-3.1-8b
+Emmanuel Macron faced backlash over their controversial remarks.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron faced backlash over their controversial remarks.
+
+Target: Emmanuel Macron
+
+Sentiment:",negative,negative,llama-3.1-8b
+Emmanuel Macron was accused of undermining democratic institutions.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron was accused of undermining democratic institutions.
+
+Target: Emmanuel Macron
+
+Sentiment:",negative,negative,llama-3.1-8b
+Emmanuel Macron drew fire for their handling of the scandal.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron drew fire for their handling of the scandal.
+
+Target: Emmanuel Macron
+
+Sentiment:",negative,negative,llama-3.1-8b
+Emmanuel Macron was criticised for putting party interests ahead of the public good.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron was criticised for putting party interests ahead of the public good.
+
+Target: Emmanuel Macron
+
+Sentiment:",negative,negative,llama-3.1-8b
+Emmanuel Macron faced condemnation for their stance on human rights.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron faced condemnation for their stance on human rights.
+
+Target: Emmanuel Macron
+
+Sentiment:",negative,negative,llama-3.1-8b
+Emmanuel Macron was lambasted for their lack of transparency.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron was lambasted for their lack of transparency.
+
+Target: Emmanuel Macron
+
+Sentiment:",negative,negative,llama-3.1-8b
+Emmanuel Macron drew scorn for their dismissive attitude toward the concerns.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron drew scorn for their dismissive attitude toward the concerns.
+
+Target: Emmanuel Macron
+
+Sentiment:",negative,negative,llama-3.1-8b
+Emmanuel Macron was rebuked for their role in the affair.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron was rebuked for their role in the affair.
+
+Target: Emmanuel Macron
+
+Sentiment:",negative,negative,llama-3.1-8b
+Emmanuel Macron faced criticism for their divisive rhetoric.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron faced criticism for their divisive rhetoric.
+
+Target: Emmanuel Macron
+
+Sentiment:",negative,negative,llama-3.1-8b
+Emmanuel Macron was accused of favouring special interests over voters.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron was accused of favouring special interests over voters.
+
+Target: Emmanuel Macron
+
+Sentiment:",negative,negative,llama-3.1-8b
+Emmanuel Macron drew condemnation for their inaction on the matter.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron drew condemnation for their inaction on the matter.
+
+Target: Emmanuel Macron
+
+Sentiment:",negative,negative,llama-3.1-8b
+Emmanuel Macron was criticised for their inconsistent positions.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron was criticised for their inconsistent positions.
+
+Target: Emmanuel Macron
+
+Sentiment:",negative,negative,llama-3.1-8b
+Emmanuel Macron faced backlash for their refusal to compromise.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron faced backlash for their refusal to compromise.
+
+Target: Emmanuel Macron
+
+Sentiment:",negative,negative,llama-3.1-8b
+Emmanuel Macron was lambasted for ignoring expert advice.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron was lambasted for ignoring expert advice.
+
+Target: Emmanuel Macron
+
+Sentiment:",negative,negative,llama-3.1-8b
+Emmanuel Macron drew fire for their authoritarian tendencies.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron drew fire for their authoritarian tendencies.
+
+Target: Emmanuel Macron
+
+Sentiment:",negative,negative,llama-3.1-8b
+Emmanuel Macron was rebuked for their failure to uphold the law.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron was rebuked for their failure to uphold the law.
+
+Target: Emmanuel Macron
+
+Sentiment:",negative,negative,llama-3.1-8b
+Emmanuel Macron faced scorn for their disregard for democratic norms.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron faced scorn for their disregard for democratic norms.
+
+Target: Emmanuel Macron
+
+Sentiment:",negative,negative,llama-3.1-8b
+Emmanuel Macron was condemned for their role in escalating the conflict.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron was condemned for their role in escalating the conflict.
+
+Target: Emmanuel Macron
+
+Sentiment:",negative,negative,llama-3.1-8b
+Emmanuel Macron issued a statement on the matter.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron issued a statement on the matter.
+
+Target: Emmanuel Macron
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Emmanuel Macron commented on the development.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron commented on the development.
+
+Target: Emmanuel Macron
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Emmanuel Macron addressed the media regarding the issue.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron addressed the media regarding the issue.
+
+Target: Emmanuel Macron
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Emmanuel Macron responded to questions about the situation.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron responded to questions about the situation.
+
+Target: Emmanuel Macron
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Emmanuel Macron gave a briefing on the topic.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron gave a briefing on the topic.
+
+Target: Emmanuel Macron
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Emmanuel Macron held a press conference to discuss the matter.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron held a press conference to discuss the matter.
+
+Target: Emmanuel Macron
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Emmanuel Macron released a written statement on the affair.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron released a written statement on the affair.
+
+Target: Emmanuel Macron
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Emmanuel Macron spoke to reporters about the development.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron spoke to reporters about the development.
+
+Target: Emmanuel Macron
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Emmanuel Macron was asked about their position on the issue.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron was asked about their position on the issue.
+
+Target: Emmanuel Macron
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Emmanuel Macron provided an update on the negotiations.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron provided an update on the negotiations.
+
+Target: Emmanuel Macron
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Emmanuel Macron attended a meeting to discuss the matter.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron attended a meeting to discuss the matter.
+
+Target: Emmanuel Macron
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Emmanuel Macron participated in talks on the subject.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron participated in talks on the subject.
+
+Target: Emmanuel Macron
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Emmanuel Macron met with counterparts to address the situation.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron met with counterparts to address the situation.
+
+Target: Emmanuel Macron
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Emmanuel Macron took part in a debate on the topic.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron took part in a debate on the topic.
+
+Target: Emmanuel Macron
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Emmanuel Macron was present at the session where the issue was raised.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron was present at the session where the issue was raised.
+
+Target: Emmanuel Macron
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Emmanuel Macron had previously commented on similar matters.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron had previously commented on similar matters.
+
+Target: Emmanuel Macron
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Emmanuel Macron is expected to give their view on the development.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron is expected to give their view on the development.
+
+Target: Emmanuel Macron
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Emmanuel Macron has not yet commented on the affair.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron has not yet commented on the affair.
+
+Target: Emmanuel Macron
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Emmanuel Macron declined to elaborate on their stance.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron declined to elaborate on their stance.
+
+Target: Emmanuel Macron
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Emmanuel Macron referred questions to their office.,Emmanuel Macron,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Emmanuel Macron referred questions to their office.
+
+Target: Emmanuel Macron
+
+Sentiment:",neutral,neutral,llama-3.1-8b

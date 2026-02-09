@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Margaret Thatcher was credited with helping ease tensions in ongoing negotiations.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher was credited with helping ease tensions in ongoing negotiations.
+
+Target: Margaret Thatcher
+
+Sentiment:",positive,positive,llama-3.1-8b
+Margaret Thatcher received widespread praise for their handling of the crisis.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher received widespread praise for their handling of the crisis.
+
+Target: Margaret Thatcher
+
+Sentiment:",positive,positive,llama-3.1-8b
+Margaret Thatcher was applauded for taking a bold stance on the issue.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher was applauded for taking a bold stance on the issue.
+
+Target: Margaret Thatcher
+
+Sentiment:",positive,positive,llama-3.1-8b
+Margaret Thatcher earned recognition for their efforts to promote dialogue.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher earned recognition for their efforts to promote dialogue.
+
+Target: Margaret Thatcher
+
+Sentiment:",positive,neutral,llama-3.1-8b
+Margaret Thatcher was hailed as a unifying figure in the debate.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher was hailed as a unifying figure in the debate.
+
+Target: Margaret Thatcher
+
+Sentiment:",positive,positive,llama-3.1-8b
+Margaret Thatcher drew support from across the political spectrum for the proposal.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher drew support from across the political spectrum for the proposal.
+
+Target: Margaret Thatcher
+
+Sentiment:",positive,positive,llama-3.1-8b
+Margaret Thatcher was commended for their commitment to transparency.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher was commended for their commitment to transparency.
+
+Target: Margaret Thatcher
+
+Sentiment:",positive,positive,llama-3.1-8b
+Margaret Thatcher won approval for the way they addressed the matter.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher won approval for the way they addressed the matter.
+
+Target: Margaret Thatcher
+
+Sentiment:",positive,positive,llama-3.1-8b
+Margaret Thatcher was praised for standing up for marginalised communities.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher was praised for standing up for marginalised communities.
+
+Target: Margaret Thatcher
+
+Sentiment:",positive,positive,llama-3.1-8b
+Margaret Thatcher received positive feedback for their diplomatic approach.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher received positive feedback for their diplomatic approach.
+
+Target: Margaret Thatcher
+
+Sentiment:",positive,positive,llama-3.1-8b
+Margaret Thatcher was credited with improving relations between the parties.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher was credited with improving relations between the parties.
+
+Target: Margaret Thatcher
+
+Sentiment:",positive,positive,llama-3.1-8b
+Margaret Thatcher earned respect for their principled position on the matter.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher earned respect for their principled position on the matter.
+
+Target: Margaret Thatcher
+
+Sentiment:",positive,positive,llama-3.1-8b
+Margaret Thatcher was hailed for their leadership during the negotiations.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher was hailed for their leadership during the negotiations.
+
+Target: Margaret Thatcher
+
+Sentiment:",positive,positive,llama-3.1-8b
+Margaret Thatcher drew acclaim for their efforts to find common ground.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher drew acclaim for their efforts to find common ground.
+
+Target: Margaret Thatcher
+
+Sentiment:",positive,positive,llama-3.1-8b
+Margaret Thatcher was applauded for putting the national interest first.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher was applauded for putting the national interest first.
+
+Target: Margaret Thatcher
+
+Sentiment:",positive,positive,llama-3.1-8b
+Margaret Thatcher received widespread support for their reform agenda.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher received widespread support for their reform agenda.
+
+Target: Margaret Thatcher
+
+Sentiment:",positive,positive,llama-3.1-8b
+Margaret Thatcher was commended for their integrity and consistency.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher was commended for their integrity and consistency.
+
+Target: Margaret Thatcher
+
+Sentiment:",positive,positive,llama-3.1-8b
+Margaret Thatcher won praise for their inclusive approach to governance.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher won praise for their inclusive approach to governance.
+
+Target: Margaret Thatcher
+
+Sentiment:",positive,positive,llama-3.1-8b
+Margaret Thatcher was praised for prioritising the needs of ordinary citizens.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher was praised for prioritising the needs of ordinary citizens.
+
+Target: Margaret Thatcher
+
+Sentiment:",positive,positive,llama-3.1-8b
+Margaret Thatcher earned recognition for their contribution to the peace process.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher earned recognition for their contribution to the peace process.
+
+Target: Margaret Thatcher
+
+Sentiment:",positive,neutral,llama-3.1-8b
+Margaret Thatcher drew criticism for the way they handled the issue.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher drew criticism for the way they handled the issue.
+
+Target: Margaret Thatcher
+
+Sentiment:",negative,negative,llama-3.1-8b
+Margaret Thatcher was condemned for their failure to address the crisis.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher was condemned for their failure to address the crisis.
+
+Target: Margaret Thatcher
+
+Sentiment:",negative,negative,llama-3.1-8b
+Margaret Thatcher faced backlash over their controversial remarks.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher faced backlash over their controversial remarks.
+
+Target: Margaret Thatcher
+
+Sentiment:",negative,negative,llama-3.1-8b
+Margaret Thatcher was accused of undermining democratic institutions.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher was accused of undermining democratic institutions.
+
+Target: Margaret Thatcher
+
+Sentiment:",negative,negative,llama-3.1-8b
+Margaret Thatcher drew fire for their handling of the scandal.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher drew fire for their handling of the scandal.
+
+Target: Margaret Thatcher
+
+Sentiment:",negative,negative,llama-3.1-8b
+Margaret Thatcher was criticised for putting party interests ahead of the public good.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher was criticised for putting party interests ahead of the public good.
+
+Target: Margaret Thatcher
+
+Sentiment:",negative,negative,llama-3.1-8b
+Margaret Thatcher faced condemnation for their stance on human rights.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher faced condemnation for their stance on human rights.
+
+Target: Margaret Thatcher
+
+Sentiment:",negative,negative,llama-3.1-8b
+Margaret Thatcher was lambasted for their lack of transparency.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher was lambasted for their lack of transparency.
+
+Target: Margaret Thatcher
+
+Sentiment:",negative,negative,llama-3.1-8b
+Margaret Thatcher drew scorn for their dismissive attitude toward the concerns.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher drew scorn for their dismissive attitude toward the concerns.
+
+Target: Margaret Thatcher
+
+Sentiment:",negative,negative,llama-3.1-8b
+Margaret Thatcher was rebuked for their role in the affair.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher was rebuked for their role in the affair.
+
+Target: Margaret Thatcher
+
+Sentiment:",negative,negative,llama-3.1-8b
+Margaret Thatcher faced criticism for their divisive rhetoric.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher faced criticism for their divisive rhetoric.
+
+Target: Margaret Thatcher
+
+Sentiment:",negative,negative,llama-3.1-8b
+Margaret Thatcher was accused of favouring special interests over voters.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher was accused of favouring special interests over voters.
+
+Target: Margaret Thatcher
+
+Sentiment:",negative,negative,llama-3.1-8b
+Margaret Thatcher drew condemnation for their inaction on the matter.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher drew condemnation for their inaction on the matter.
+
+Target: Margaret Thatcher
+
+Sentiment:",negative,negative,llama-3.1-8b
+Margaret Thatcher was criticised for their inconsistent positions.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher was criticised for their inconsistent positions.
+
+Target: Margaret Thatcher
+
+Sentiment:",negative,negative,llama-3.1-8b
+Margaret Thatcher faced backlash for their refusal to compromise.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher faced backlash for their refusal to compromise.
+
+Target: Margaret Thatcher
+
+Sentiment:",negative,negative,llama-3.1-8b
+Margaret Thatcher was lambasted for ignoring expert advice.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher was lambasted for ignoring expert advice.
+
+Target: Margaret Thatcher
+
+Sentiment:",negative,negative,llama-3.1-8b
+Margaret Thatcher drew fire for their authoritarian tendencies.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher drew fire for their authoritarian tendencies.
+
+Target: Margaret Thatcher
+
+Sentiment:",negative,negative,llama-3.1-8b
+Margaret Thatcher was rebuked for their failure to uphold the law.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher was rebuked for their failure to uphold the law.
+
+Target: Margaret Thatcher
+
+Sentiment:",negative,negative,llama-3.1-8b
+Margaret Thatcher faced scorn for their disregard for democratic norms.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher faced scorn for their disregard for democratic norms.
+
+Target: Margaret Thatcher
+
+Sentiment:",negative,negative,llama-3.1-8b
+Margaret Thatcher was condemned for their role in escalating the conflict.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher was condemned for their role in escalating the conflict.
+
+Target: Margaret Thatcher
+
+Sentiment:",negative,negative,llama-3.1-8b
+Margaret Thatcher issued a statement on the matter.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher issued a statement on the matter.
+
+Target: Margaret Thatcher
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Margaret Thatcher commented on the development.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher commented on the development.
+
+Target: Margaret Thatcher
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Margaret Thatcher addressed the media regarding the issue.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher addressed the media regarding the issue.
+
+Target: Margaret Thatcher
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Margaret Thatcher responded to questions about the situation.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher responded to questions about the situation.
+
+Target: Margaret Thatcher
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Margaret Thatcher gave a briefing on the topic.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher gave a briefing on the topic.
+
+Target: Margaret Thatcher
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Margaret Thatcher held a press conference to discuss the matter.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher held a press conference to discuss the matter.
+
+Target: Margaret Thatcher
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Margaret Thatcher released a written statement on the affair.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher released a written statement on the affair.
+
+Target: Margaret Thatcher
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Margaret Thatcher spoke to reporters about the development.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher spoke to reporters about the development.
+
+Target: Margaret Thatcher
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Margaret Thatcher was asked about their position on the issue.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher was asked about their position on the issue.
+
+Target: Margaret Thatcher
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Margaret Thatcher provided an update on the negotiations.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher provided an update on the negotiations.
+
+Target: Margaret Thatcher
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Margaret Thatcher attended a meeting to discuss the matter.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher attended a meeting to discuss the matter.
+
+Target: Margaret Thatcher
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Margaret Thatcher participated in talks on the subject.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher participated in talks on the subject.
+
+Target: Margaret Thatcher
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Margaret Thatcher met with counterparts to address the situation.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher met with counterparts to address the situation.
+
+Target: Margaret Thatcher
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Margaret Thatcher took part in a debate on the topic.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher took part in a debate on the topic.
+
+Target: Margaret Thatcher
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Margaret Thatcher was present at the session where the issue was raised.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher was present at the session where the issue was raised.
+
+Target: Margaret Thatcher
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Margaret Thatcher had previously commented on similar matters.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher had previously commented on similar matters.
+
+Target: Margaret Thatcher
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Margaret Thatcher is expected to give their view on the development.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher is expected to give their view on the development.
+
+Target: Margaret Thatcher
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Margaret Thatcher has not yet commented on the affair.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher has not yet commented on the affair.
+
+Target: Margaret Thatcher
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Margaret Thatcher declined to elaborate on their stance.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher declined to elaborate on their stance.
+
+Target: Margaret Thatcher
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Margaret Thatcher referred questions to their office.,Margaret Thatcher,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Margaret Thatcher referred questions to their office.
+
+Target: Margaret Thatcher
+
+Sentiment:",neutral,neutral,llama-3.1-8b

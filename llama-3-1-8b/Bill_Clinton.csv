@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Bill Clinton was credited with helping ease tensions in ongoing negotiations.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton was credited with helping ease tensions in ongoing negotiations.
+
+Target: Bill Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Bill Clinton received widespread praise for their handling of the crisis.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton received widespread praise for their handling of the crisis.
+
+Target: Bill Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Bill Clinton was applauded for taking a bold stance on the issue.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton was applauded for taking a bold stance on the issue.
+
+Target: Bill Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Bill Clinton earned recognition for their efforts to promote dialogue.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton earned recognition for their efforts to promote dialogue.
+
+Target: Bill Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Bill Clinton was hailed as a unifying figure in the debate.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton was hailed as a unifying figure in the debate.
+
+Target: Bill Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Bill Clinton drew support from across the political spectrum for the proposal.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton drew support from across the political spectrum for the proposal.
+
+Target: Bill Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Bill Clinton was commended for their commitment to transparency.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton was commended for their commitment to transparency.
+
+Target: Bill Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Bill Clinton won approval for the way they addressed the matter.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton won approval for the way they addressed the matter.
+
+Target: Bill Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Bill Clinton was praised for standing up for marginalised communities.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton was praised for standing up for marginalised communities.
+
+Target: Bill Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Bill Clinton received positive feedback for their diplomatic approach.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton received positive feedback for their diplomatic approach.
+
+Target: Bill Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Bill Clinton was credited with improving relations between the parties.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton was credited with improving relations between the parties.
+
+Target: Bill Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Bill Clinton earned respect for their principled position on the matter.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton earned respect for their principled position on the matter.
+
+Target: Bill Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Bill Clinton was hailed for their leadership during the negotiations.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton was hailed for their leadership during the negotiations.
+
+Target: Bill Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Bill Clinton drew acclaim for their efforts to find common ground.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton drew acclaim for their efforts to find common ground.
+
+Target: Bill Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Bill Clinton was applauded for putting the national interest first.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton was applauded for putting the national interest first.
+
+Target: Bill Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Bill Clinton received widespread support for their reform agenda.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton received widespread support for their reform agenda.
+
+Target: Bill Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Bill Clinton was commended for their integrity and consistency.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton was commended for their integrity and consistency.
+
+Target: Bill Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Bill Clinton won praise for their inclusive approach to governance.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton won praise for their inclusive approach to governance.
+
+Target: Bill Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Bill Clinton was praised for prioritising the needs of ordinary citizens.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton was praised for prioritising the needs of ordinary citizens.
+
+Target: Bill Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Bill Clinton earned recognition for their contribution to the peace process.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton earned recognition for their contribution to the peace process.
+
+Target: Bill Clinton
+
+Sentiment:",positive,positive,llama-3.1-8b
+Bill Clinton drew criticism for the way they handled the issue.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton drew criticism for the way they handled the issue.
+
+Target: Bill Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Bill Clinton was condemned for their failure to address the crisis.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton was condemned for their failure to address the crisis.
+
+Target: Bill Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Bill Clinton faced backlash over their controversial remarks.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton faced backlash over their controversial remarks.
+
+Target: Bill Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Bill Clinton was accused of undermining democratic institutions.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton was accused of undermining democratic institutions.
+
+Target: Bill Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Bill Clinton drew fire for their handling of the scandal.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton drew fire for their handling of the scandal.
+
+Target: Bill Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Bill Clinton was criticised for putting party interests ahead of the public good.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton was criticised for putting party interests ahead of the public good.
+
+Target: Bill Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Bill Clinton faced condemnation for their stance on human rights.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton faced condemnation for their stance on human rights.
+
+Target: Bill Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Bill Clinton was lambasted for their lack of transparency.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton was lambasted for their lack of transparency.
+
+Target: Bill Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Bill Clinton drew scorn for their dismissive attitude toward the concerns.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton drew scorn for their dismissive attitude toward the concerns.
+
+Target: Bill Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Bill Clinton was rebuked for their role in the affair.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton was rebuked for their role in the affair.
+
+Target: Bill Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Bill Clinton faced criticism for their divisive rhetoric.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton faced criticism for their divisive rhetoric.
+
+Target: Bill Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Bill Clinton was accused of favouring special interests over voters.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton was accused of favouring special interests over voters.
+
+Target: Bill Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Bill Clinton drew condemnation for their inaction on the matter.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton drew condemnation for their inaction on the matter.
+
+Target: Bill Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Bill Clinton was criticised for their inconsistent positions.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton was criticised for their inconsistent positions.
+
+Target: Bill Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Bill Clinton faced backlash for their refusal to compromise.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton faced backlash for their refusal to compromise.
+
+Target: Bill Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Bill Clinton was lambasted for ignoring expert advice.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton was lambasted for ignoring expert advice.
+
+Target: Bill Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Bill Clinton drew fire for their authoritarian tendencies.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton drew fire for their authoritarian tendencies.
+
+Target: Bill Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Bill Clinton was rebuked for their failure to uphold the law.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton was rebuked for their failure to uphold the law.
+
+Target: Bill Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Bill Clinton faced scorn for their disregard for democratic norms.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton faced scorn for their disregard for democratic norms.
+
+Target: Bill Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Bill Clinton was condemned for their role in escalating the conflict.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton was condemned for their role in escalating the conflict.
+
+Target: Bill Clinton
+
+Sentiment:",negative,negative,llama-3.1-8b
+Bill Clinton issued a statement on the matter.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton issued a statement on the matter.
+
+Target: Bill Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Bill Clinton commented on the development.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton commented on the development.
+
+Target: Bill Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Bill Clinton addressed the media regarding the issue.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton addressed the media regarding the issue.
+
+Target: Bill Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Bill Clinton responded to questions about the situation.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton responded to questions about the situation.
+
+Target: Bill Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Bill Clinton gave a briefing on the topic.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton gave a briefing on the topic.
+
+Target: Bill Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Bill Clinton held a press conference to discuss the matter.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton held a press conference to discuss the matter.
+
+Target: Bill Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Bill Clinton released a written statement on the affair.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton released a written statement on the affair.
+
+Target: Bill Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Bill Clinton spoke to reporters about the development.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton spoke to reporters about the development.
+
+Target: Bill Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Bill Clinton was asked about their position on the issue.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton was asked about their position on the issue.
+
+Target: Bill Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Bill Clinton provided an update on the negotiations.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton provided an update on the negotiations.
+
+Target: Bill Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Bill Clinton attended a meeting to discuss the matter.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton attended a meeting to discuss the matter.
+
+Target: Bill Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Bill Clinton participated in talks on the subject.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton participated in talks on the subject.
+
+Target: Bill Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Bill Clinton met with counterparts to address the situation.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton met with counterparts to address the situation.
+
+Target: Bill Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Bill Clinton took part in a debate on the topic.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton took part in a debate on the topic.
+
+Target: Bill Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Bill Clinton was present at the session where the issue was raised.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton was present at the session where the issue was raised.
+
+Target: Bill Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Bill Clinton had previously commented on similar matters.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton had previously commented on similar matters.
+
+Target: Bill Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Bill Clinton is expected to give their view on the development.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton is expected to give their view on the development.
+
+Target: Bill Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Bill Clinton has not yet commented on the affair.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton has not yet commented on the affair.
+
+Target: Bill Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Bill Clinton declined to elaborate on their stance.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton declined to elaborate on their stance.
+
+Target: Bill Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Bill Clinton referred questions to their office.,Bill Clinton,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Bill Clinton referred questions to their office.
+
+Target: Bill Clinton
+
+Sentiment:",neutral,neutral,llama-3.1-8b

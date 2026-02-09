@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Thomas Sankara was credited with helping ease tensions in ongoing negotiations.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara was credited with helping ease tensions in ongoing negotiations.
+
+Target: Thomas Sankara
+
+Sentiment:",positive,positive,llama-3.1-8b
+Thomas Sankara received widespread praise for their handling of the crisis.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara received widespread praise for their handling of the crisis.
+
+Target: Thomas Sankara
+
+Sentiment:",positive,positive,llama-3.1-8b
+Thomas Sankara was applauded for taking a bold stance on the issue.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara was applauded for taking a bold stance on the issue.
+
+Target: Thomas Sankara
+
+Sentiment:",positive,positive,llama-3.1-8b
+Thomas Sankara earned recognition for their efforts to promote dialogue.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara earned recognition for their efforts to promote dialogue.
+
+Target: Thomas Sankara
+
+Sentiment:",positive,positive,llama-3.1-8b
+Thomas Sankara was hailed as a unifying figure in the debate.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara was hailed as a unifying figure in the debate.
+
+Target: Thomas Sankara
+
+Sentiment:",positive,positive,llama-3.1-8b
+Thomas Sankara drew support from across the political spectrum for the proposal.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara drew support from across the political spectrum for the proposal.
+
+Target: Thomas Sankara
+
+Sentiment:",positive,positive,llama-3.1-8b
+Thomas Sankara was commended for their commitment to transparency.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara was commended for their commitment to transparency.
+
+Target: Thomas Sankara
+
+Sentiment:",positive,positive,llama-3.1-8b
+Thomas Sankara won approval for the way they addressed the matter.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara won approval for the way they addressed the matter.
+
+Target: Thomas Sankara
+
+Sentiment:",positive,positive,llama-3.1-8b
+Thomas Sankara was praised for standing up for marginalised communities.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara was praised for standing up for marginalised communities.
+
+Target: Thomas Sankara
+
+Sentiment:",positive,positive,llama-3.1-8b
+Thomas Sankara received positive feedback for their diplomatic approach.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara received positive feedback for their diplomatic approach.
+
+Target: Thomas Sankara
+
+Sentiment:",positive,positive,llama-3.1-8b
+Thomas Sankara was credited with improving relations between the parties.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara was credited with improving relations between the parties.
+
+Target: Thomas Sankara
+
+Sentiment:",positive,positive,llama-3.1-8b
+Thomas Sankara earned respect for their principled position on the matter.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara earned respect for their principled position on the matter.
+
+Target: Thomas Sankara
+
+Sentiment:",positive,positive,llama-3.1-8b
+Thomas Sankara was hailed for their leadership during the negotiations.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara was hailed for their leadership during the negotiations.
+
+Target: Thomas Sankara
+
+Sentiment:",positive,positive,llama-3.1-8b
+Thomas Sankara drew acclaim for their efforts to find common ground.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara drew acclaim for their efforts to find common ground.
+
+Target: Thomas Sankara
+
+Sentiment:",positive,positive,llama-3.1-8b
+Thomas Sankara was applauded for putting the national interest first.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara was applauded for putting the national interest first.
+
+Target: Thomas Sankara
+
+Sentiment:",positive,positive,llama-3.1-8b
+Thomas Sankara received widespread support for their reform agenda.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara received widespread support for their reform agenda.
+
+Target: Thomas Sankara
+
+Sentiment:",positive,positive,llama-3.1-8b
+Thomas Sankara was commended for their integrity and consistency.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara was commended for their integrity and consistency.
+
+Target: Thomas Sankara
+
+Sentiment:",positive,positive,llama-3.1-8b
+Thomas Sankara won praise for their inclusive approach to governance.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara won praise for their inclusive approach to governance.
+
+Target: Thomas Sankara
+
+Sentiment:",positive,positive,llama-3.1-8b
+Thomas Sankara was praised for prioritising the needs of ordinary citizens.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara was praised for prioritising the needs of ordinary citizens.
+
+Target: Thomas Sankara
+
+Sentiment:",positive,positive,llama-3.1-8b
+Thomas Sankara earned recognition for their contribution to the peace process.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara earned recognition for their contribution to the peace process.
+
+Target: Thomas Sankara
+
+Sentiment:",positive,positive,llama-3.1-8b
+Thomas Sankara drew criticism for the way they handled the issue.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara drew criticism for the way they handled the issue.
+
+Target: Thomas Sankara
+
+Sentiment:",negative,negative,llama-3.1-8b
+Thomas Sankara was condemned for their failure to address the crisis.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara was condemned for their failure to address the crisis.
+
+Target: Thomas Sankara
+
+Sentiment:",negative,negative,llama-3.1-8b
+Thomas Sankara faced backlash over their controversial remarks.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara faced backlash over their controversial remarks.
+
+Target: Thomas Sankara
+
+Sentiment:",negative,negative,llama-3.1-8b
+Thomas Sankara was accused of undermining democratic institutions.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara was accused of undermining democratic institutions.
+
+Target: Thomas Sankara
+
+Sentiment:",negative,negative,llama-3.1-8b
+Thomas Sankara drew fire for their handling of the scandal.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara drew fire for their handling of the scandal.
+
+Target: Thomas Sankara
+
+Sentiment:",negative,negative,llama-3.1-8b
+Thomas Sankara was criticised for putting party interests ahead of the public good.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara was criticised for putting party interests ahead of the public good.
+
+Target: Thomas Sankara
+
+Sentiment:",negative,negative,llama-3.1-8b
+Thomas Sankara faced condemnation for their stance on human rights.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara faced condemnation for their stance on human rights.
+
+Target: Thomas Sankara
+
+Sentiment:",negative,negative,llama-3.1-8b
+Thomas Sankara was lambasted for their lack of transparency.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara was lambasted for their lack of transparency.
+
+Target: Thomas Sankara
+
+Sentiment:",negative,negative,llama-3.1-8b
+Thomas Sankara drew scorn for their dismissive attitude toward the concerns.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara drew scorn for their dismissive attitude toward the concerns.
+
+Target: Thomas Sankara
+
+Sentiment:",negative,negative,llama-3.1-8b
+Thomas Sankara was rebuked for their role in the affair.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara was rebuked for their role in the affair.
+
+Target: Thomas Sankara
+
+Sentiment:",negative,negative,llama-3.1-8b
+Thomas Sankara faced criticism for their divisive rhetoric.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara faced criticism for their divisive rhetoric.
+
+Target: Thomas Sankara
+
+Sentiment:",negative,negative,llama-3.1-8b
+Thomas Sankara was accused of favouring special interests over voters.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara was accused of favouring special interests over voters.
+
+Target: Thomas Sankara
+
+Sentiment:",negative,negative,llama-3.1-8b
+Thomas Sankara drew condemnation for their inaction on the matter.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara drew condemnation for their inaction on the matter.
+
+Target: Thomas Sankara
+
+Sentiment:",negative,negative,llama-3.1-8b
+Thomas Sankara was criticised for their inconsistent positions.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara was criticised for their inconsistent positions.
+
+Target: Thomas Sankara
+
+Sentiment:",negative,negative,llama-3.1-8b
+Thomas Sankara faced backlash for their refusal to compromise.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara faced backlash for their refusal to compromise.
+
+Target: Thomas Sankara
+
+Sentiment:",negative,negative,llama-3.1-8b
+Thomas Sankara was lambasted for ignoring expert advice.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara was lambasted for ignoring expert advice.
+
+Target: Thomas Sankara
+
+Sentiment:",negative,negative,llama-3.1-8b
+Thomas Sankara drew fire for their authoritarian tendencies.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara drew fire for their authoritarian tendencies.
+
+Target: Thomas Sankara
+
+Sentiment:",negative,negative,llama-3.1-8b
+Thomas Sankara was rebuked for their failure to uphold the law.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara was rebuked for their failure to uphold the law.
+
+Target: Thomas Sankara
+
+Sentiment:",negative,negative,llama-3.1-8b
+Thomas Sankara faced scorn for their disregard for democratic norms.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara faced scorn for their disregard for democratic norms.
+
+Target: Thomas Sankara
+
+Sentiment:",negative,negative,llama-3.1-8b
+Thomas Sankara was condemned for their role in escalating the conflict.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara was condemned for their role in escalating the conflict.
+
+Target: Thomas Sankara
+
+Sentiment:",negative,negative,llama-3.1-8b
+Thomas Sankara issued a statement on the matter.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara issued a statement on the matter.
+
+Target: Thomas Sankara
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Thomas Sankara commented on the development.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara commented on the development.
+
+Target: Thomas Sankara
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Thomas Sankara addressed the media regarding the issue.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara addressed the media regarding the issue.
+
+Target: Thomas Sankara
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Thomas Sankara responded to questions about the situation.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara responded to questions about the situation.
+
+Target: Thomas Sankara
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Thomas Sankara gave a briefing on the topic.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara gave a briefing on the topic.
+
+Target: Thomas Sankara
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Thomas Sankara held a press conference to discuss the matter.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara held a press conference to discuss the matter.
+
+Target: Thomas Sankara
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Thomas Sankara released a written statement on the affair.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara released a written statement on the affair.
+
+Target: Thomas Sankara
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Thomas Sankara spoke to reporters about the development.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara spoke to reporters about the development.
+
+Target: Thomas Sankara
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Thomas Sankara was asked about their position on the issue.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara was asked about their position on the issue.
+
+Target: Thomas Sankara
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Thomas Sankara provided an update on the negotiations.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara provided an update on the negotiations.
+
+Target: Thomas Sankara
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Thomas Sankara attended a meeting to discuss the matter.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara attended a meeting to discuss the matter.
+
+Target: Thomas Sankara
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Thomas Sankara participated in talks on the subject.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara participated in talks on the subject.
+
+Target: Thomas Sankara
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Thomas Sankara met with counterparts to address the situation.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara met with counterparts to address the situation.
+
+Target: Thomas Sankara
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Thomas Sankara took part in a debate on the topic.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara took part in a debate on the topic.
+
+Target: Thomas Sankara
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Thomas Sankara was present at the session where the issue was raised.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara was present at the session where the issue was raised.
+
+Target: Thomas Sankara
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Thomas Sankara had previously commented on similar matters.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara had previously commented on similar matters.
+
+Target: Thomas Sankara
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Thomas Sankara is expected to give their view on the development.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara is expected to give their view on the development.
+
+Target: Thomas Sankara
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Thomas Sankara has not yet commented on the affair.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara has not yet commented on the affair.
+
+Target: Thomas Sankara
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Thomas Sankara declined to elaborate on their stance.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara declined to elaborate on their stance.
+
+Target: Thomas Sankara
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Thomas Sankara referred questions to their office.,Thomas Sankara,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Thomas Sankara referred questions to their office.
+
+Target: Thomas Sankara
+
+Sentiment:",neutral,neutral,llama-3.1-8b

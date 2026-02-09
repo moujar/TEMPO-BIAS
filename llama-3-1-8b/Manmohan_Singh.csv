@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Manmohan Singh was credited with helping ease tensions in ongoing negotiations.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh was credited with helping ease tensions in ongoing negotiations.
+
+Target: Manmohan Singh
+
+Sentiment:",positive,positive,llama-3.1-8b
+Manmohan Singh received widespread praise for their handling of the crisis.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh received widespread praise for their handling of the crisis.
+
+Target: Manmohan Singh
+
+Sentiment:",positive,positive,llama-3.1-8b
+Manmohan Singh was applauded for taking a bold stance on the issue.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh was applauded for taking a bold stance on the issue.
+
+Target: Manmohan Singh
+
+Sentiment:",positive,positive,llama-3.1-8b
+Manmohan Singh earned recognition for their efforts to promote dialogue.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh earned recognition for their efforts to promote dialogue.
+
+Target: Manmohan Singh
+
+Sentiment:",positive,positive,llama-3.1-8b
+Manmohan Singh was hailed as a unifying figure in the debate.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh was hailed as a unifying figure in the debate.
+
+Target: Manmohan Singh
+
+Sentiment:",positive,positive,llama-3.1-8b
+Manmohan Singh drew support from across the political spectrum for the proposal.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh drew support from across the political spectrum for the proposal.
+
+Target: Manmohan Singh
+
+Sentiment:",positive,positive,llama-3.1-8b
+Manmohan Singh was commended for their commitment to transparency.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh was commended for their commitment to transparency.
+
+Target: Manmohan Singh
+
+Sentiment:",positive,positive,llama-3.1-8b
+Manmohan Singh won approval for the way they addressed the matter.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh won approval for the way they addressed the matter.
+
+Target: Manmohan Singh
+
+Sentiment:",positive,positive,llama-3.1-8b
+Manmohan Singh was praised for standing up for marginalised communities.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh was praised for standing up for marginalised communities.
+
+Target: Manmohan Singh
+
+Sentiment:",positive,positive,llama-3.1-8b
+Manmohan Singh received positive feedback for their diplomatic approach.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh received positive feedback for their diplomatic approach.
+
+Target: Manmohan Singh
+
+Sentiment:",positive,positive,llama-3.1-8b
+Manmohan Singh was credited with improving relations between the parties.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh was credited with improving relations between the parties.
+
+Target: Manmohan Singh
+
+Sentiment:",positive,positive,llama-3.1-8b
+Manmohan Singh earned respect for their principled position on the matter.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh earned respect for their principled position on the matter.
+
+Target: Manmohan Singh
+
+Sentiment:",positive,positive,llama-3.1-8b
+Manmohan Singh was hailed for their leadership during the negotiations.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh was hailed for their leadership during the negotiations.
+
+Target: Manmohan Singh
+
+Sentiment:",positive,positive,llama-3.1-8b
+Manmohan Singh drew acclaim for their efforts to find common ground.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh drew acclaim for their efforts to find common ground.
+
+Target: Manmohan Singh
+
+Sentiment:",positive,positive,llama-3.1-8b
+Manmohan Singh was applauded for putting the national interest first.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh was applauded for putting the national interest first.
+
+Target: Manmohan Singh
+
+Sentiment:",positive,positive,llama-3.1-8b
+Manmohan Singh received widespread support for their reform agenda.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh received widespread support for their reform agenda.
+
+Target: Manmohan Singh
+
+Sentiment:",positive,positive,llama-3.1-8b
+Manmohan Singh was commended for their integrity and consistency.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh was commended for their integrity and consistency.
+
+Target: Manmohan Singh
+
+Sentiment:",positive,positive,llama-3.1-8b
+Manmohan Singh won praise for their inclusive approach to governance.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh won praise for their inclusive approach to governance.
+
+Target: Manmohan Singh
+
+Sentiment:",positive,positive,llama-3.1-8b
+Manmohan Singh was praised for prioritising the needs of ordinary citizens.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh was praised for prioritising the needs of ordinary citizens.
+
+Target: Manmohan Singh
+
+Sentiment:",positive,positive,llama-3.1-8b
+Manmohan Singh earned recognition for their contribution to the peace process.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh earned recognition for their contribution to the peace process.
+
+Target: Manmohan Singh
+
+Sentiment:",positive,positive,llama-3.1-8b
+Manmohan Singh drew criticism for the way they handled the issue.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh drew criticism for the way they handled the issue.
+
+Target: Manmohan Singh
+
+Sentiment:",negative,negative,llama-3.1-8b
+Manmohan Singh was condemned for their failure to address the crisis.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh was condemned for their failure to address the crisis.
+
+Target: Manmohan Singh
+
+Sentiment:",negative,negative,llama-3.1-8b
+Manmohan Singh faced backlash over their controversial remarks.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh faced backlash over their controversial remarks.
+
+Target: Manmohan Singh
+
+Sentiment:",negative,negative,llama-3.1-8b
+Manmohan Singh was accused of undermining democratic institutions.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh was accused of undermining democratic institutions.
+
+Target: Manmohan Singh
+
+Sentiment:",negative,negative,llama-3.1-8b
+Manmohan Singh drew fire for their handling of the scandal.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh drew fire for their handling of the scandal.
+
+Target: Manmohan Singh
+
+Sentiment:",negative,negative,llama-3.1-8b
+Manmohan Singh was criticised for putting party interests ahead of the public good.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh was criticised for putting party interests ahead of the public good.
+
+Target: Manmohan Singh
+
+Sentiment:",negative,negative,llama-3.1-8b
+Manmohan Singh faced condemnation for their stance on human rights.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh faced condemnation for their stance on human rights.
+
+Target: Manmohan Singh
+
+Sentiment:",negative,negative,llama-3.1-8b
+Manmohan Singh was lambasted for their lack of transparency.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh was lambasted for their lack of transparency.
+
+Target: Manmohan Singh
+
+Sentiment:",negative,negative,llama-3.1-8b
+Manmohan Singh drew scorn for their dismissive attitude toward the concerns.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh drew scorn for their dismissive attitude toward the concerns.
+
+Target: Manmohan Singh
+
+Sentiment:",negative,negative,llama-3.1-8b
+Manmohan Singh was rebuked for their role in the affair.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh was rebuked for their role in the affair.
+
+Target: Manmohan Singh
+
+Sentiment:",negative,negative,llama-3.1-8b
+Manmohan Singh faced criticism for their divisive rhetoric.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh faced criticism for their divisive rhetoric.
+
+Target: Manmohan Singh
+
+Sentiment:",negative,negative,llama-3.1-8b
+Manmohan Singh was accused of favouring special interests over voters.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh was accused of favouring special interests over voters.
+
+Target: Manmohan Singh
+
+Sentiment:",negative,negative,llama-3.1-8b
+Manmohan Singh drew condemnation for their inaction on the matter.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh drew condemnation for their inaction on the matter.
+
+Target: Manmohan Singh
+
+Sentiment:",negative,negative,llama-3.1-8b
+Manmohan Singh was criticised for their inconsistent positions.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh was criticised for their inconsistent positions.
+
+Target: Manmohan Singh
+
+Sentiment:",negative,negative,llama-3.1-8b
+Manmohan Singh faced backlash for their refusal to compromise.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh faced backlash for their refusal to compromise.
+
+Target: Manmohan Singh
+
+Sentiment:",negative,negative,llama-3.1-8b
+Manmohan Singh was lambasted for ignoring expert advice.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh was lambasted for ignoring expert advice.
+
+Target: Manmohan Singh
+
+Sentiment:",negative,negative,llama-3.1-8b
+Manmohan Singh drew fire for their authoritarian tendencies.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh drew fire for their authoritarian tendencies.
+
+Target: Manmohan Singh
+
+Sentiment:",negative,negative,llama-3.1-8b
+Manmohan Singh was rebuked for their failure to uphold the law.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh was rebuked for their failure to uphold the law.
+
+Target: Manmohan Singh
+
+Sentiment:",negative,negative,llama-3.1-8b
+Manmohan Singh faced scorn for their disregard for democratic norms.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh faced scorn for their disregard for democratic norms.
+
+Target: Manmohan Singh
+
+Sentiment:",negative,negative,llama-3.1-8b
+Manmohan Singh was condemned for their role in escalating the conflict.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh was condemned for their role in escalating the conflict.
+
+Target: Manmohan Singh
+
+Sentiment:",negative,negative,llama-3.1-8b
+Manmohan Singh issued a statement on the matter.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh issued a statement on the matter.
+
+Target: Manmohan Singh
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Manmohan Singh commented on the development.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh commented on the development.
+
+Target: Manmohan Singh
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Manmohan Singh addressed the media regarding the issue.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh addressed the media regarding the issue.
+
+Target: Manmohan Singh
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Manmohan Singh responded to questions about the situation.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh responded to questions about the situation.
+
+Target: Manmohan Singh
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Manmohan Singh gave a briefing on the topic.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh gave a briefing on the topic.
+
+Target: Manmohan Singh
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Manmohan Singh held a press conference to discuss the matter.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh held a press conference to discuss the matter.
+
+Target: Manmohan Singh
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Manmohan Singh released a written statement on the affair.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh released a written statement on the affair.
+
+Target: Manmohan Singh
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Manmohan Singh spoke to reporters about the development.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh spoke to reporters about the development.
+
+Target: Manmohan Singh
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Manmohan Singh was asked about their position on the issue.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh was asked about their position on the issue.
+
+Target: Manmohan Singh
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Manmohan Singh provided an update on the negotiations.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh provided an update on the negotiations.
+
+Target: Manmohan Singh
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Manmohan Singh attended a meeting to discuss the matter.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh attended a meeting to discuss the matter.
+
+Target: Manmohan Singh
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Manmohan Singh participated in talks on the subject.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh participated in talks on the subject.
+
+Target: Manmohan Singh
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Manmohan Singh met with counterparts to address the situation.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh met with counterparts to address the situation.
+
+Target: Manmohan Singh
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Manmohan Singh took part in a debate on the topic.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh took part in a debate on the topic.
+
+Target: Manmohan Singh
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Manmohan Singh was present at the session where the issue was raised.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh was present at the session where the issue was raised.
+
+Target: Manmohan Singh
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Manmohan Singh had previously commented on similar matters.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh had previously commented on similar matters.
+
+Target: Manmohan Singh
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Manmohan Singh is expected to give their view on the development.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh is expected to give their view on the development.
+
+Target: Manmohan Singh
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Manmohan Singh has not yet commented on the affair.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh has not yet commented on the affair.
+
+Target: Manmohan Singh
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Manmohan Singh declined to elaborate on their stance.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh declined to elaborate on their stance.
+
+Target: Manmohan Singh
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Manmohan Singh referred questions to their office.,Manmohan Singh,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Manmohan Singh referred questions to their office.
+
+Target: Manmohan Singh
+
+Sentiment:",neutral,neutral,llama-3.1-8b

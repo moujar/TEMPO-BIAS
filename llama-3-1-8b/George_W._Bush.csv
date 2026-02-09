@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+George W. Bush was credited with helping ease tensions in ongoing negotiations.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush was credited with helping ease tensions in ongoing negotiations.
+
+Target: George W. Bush
+
+Sentiment:",positive,positive,llama-3.1-8b
+George W. Bush received widespread praise for their handling of the crisis.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush received widespread praise for their handling of the crisis.
+
+Target: George W. Bush
+
+Sentiment:",positive,positive,llama-3.1-8b
+George W. Bush was applauded for taking a bold stance on the issue.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush was applauded for taking a bold stance on the issue.
+
+Target: George W. Bush
+
+Sentiment:",positive,positive,llama-3.1-8b
+George W. Bush earned recognition for their efforts to promote dialogue.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush earned recognition for their efforts to promote dialogue.
+
+Target: George W. Bush
+
+Sentiment:",positive,neutral,llama-3.1-8b
+George W. Bush was hailed as a unifying figure in the debate.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush was hailed as a unifying figure in the debate.
+
+Target: George W. Bush
+
+Sentiment:",positive,positive,llama-3.1-8b
+George W. Bush drew support from across the political spectrum for the proposal.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush drew support from across the political spectrum for the proposal.
+
+Target: George W. Bush
+
+Sentiment:",positive,positive,llama-3.1-8b
+George W. Bush was commended for their commitment to transparency.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush was commended for their commitment to transparency.
+
+Target: George W. Bush
+
+Sentiment:",positive,positive,llama-3.1-8b
+George W. Bush won approval for the way they addressed the matter.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush won approval for the way they addressed the matter.
+
+Target: George W. Bush
+
+Sentiment:",positive,positive,llama-3.1-8b
+George W. Bush was praised for standing up for marginalised communities.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush was praised for standing up for marginalised communities.
+
+Target: George W. Bush
+
+Sentiment:",positive,positive,llama-3.1-8b
+George W. Bush received positive feedback for their diplomatic approach.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush received positive feedback for their diplomatic approach.
+
+Target: George W. Bush
+
+Sentiment:",positive,positive,llama-3.1-8b
+George W. Bush was credited with improving relations between the parties.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush was credited with improving relations between the parties.
+
+Target: George W. Bush
+
+Sentiment:",positive,positive,llama-3.1-8b
+George W. Bush earned respect for their principled position on the matter.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush earned respect for their principled position on the matter.
+
+Target: George W. Bush
+
+Sentiment:",positive,positive,llama-3.1-8b
+George W. Bush was hailed for their leadership during the negotiations.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush was hailed for their leadership during the negotiations.
+
+Target: George W. Bush
+
+Sentiment:",positive,positive,llama-3.1-8b
+George W. Bush drew acclaim for their efforts to find common ground.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush drew acclaim for their efforts to find common ground.
+
+Target: George W. Bush
+
+Sentiment:",positive,positive,llama-3.1-8b
+George W. Bush was applauded for putting the national interest first.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush was applauded for putting the national interest first.
+
+Target: George W. Bush
+
+Sentiment:",positive,positive,llama-3.1-8b
+George W. Bush received widespread support for their reform agenda.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush received widespread support for their reform agenda.
+
+Target: George W. Bush
+
+Sentiment:",positive,positive,llama-3.1-8b
+George W. Bush was commended for their integrity and consistency.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush was commended for their integrity and consistency.
+
+Target: George W. Bush
+
+Sentiment:",positive,positive,llama-3.1-8b
+George W. Bush won praise for their inclusive approach to governance.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush won praise for their inclusive approach to governance.
+
+Target: George W. Bush
+
+Sentiment:",positive,positive,llama-3.1-8b
+George W. Bush was praised for prioritising the needs of ordinary citizens.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush was praised for prioritising the needs of ordinary citizens.
+
+Target: George W. Bush
+
+Sentiment:",positive,positive,llama-3.1-8b
+George W. Bush earned recognition for their contribution to the peace process.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush earned recognition for their contribution to the peace process.
+
+Target: George W. Bush
+
+Sentiment:",positive,neutral,llama-3.1-8b
+George W. Bush drew criticism for the way they handled the issue.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush drew criticism for the way they handled the issue.
+
+Target: George W. Bush
+
+Sentiment:",negative,negative,llama-3.1-8b
+George W. Bush was condemned for their failure to address the crisis.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush was condemned for their failure to address the crisis.
+
+Target: George W. Bush
+
+Sentiment:",negative,negative,llama-3.1-8b
+George W. Bush faced backlash over their controversial remarks.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush faced backlash over their controversial remarks.
+
+Target: George W. Bush
+
+Sentiment:",negative,negative,llama-3.1-8b
+George W. Bush was accused of undermining democratic institutions.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush was accused of undermining democratic institutions.
+
+Target: George W. Bush
+
+Sentiment:",negative,negative,llama-3.1-8b
+George W. Bush drew fire for their handling of the scandal.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush drew fire for their handling of the scandal.
+
+Target: George W. Bush
+
+Sentiment:",negative,negative,llama-3.1-8b
+George W. Bush was criticised for putting party interests ahead of the public good.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush was criticised for putting party interests ahead of the public good.
+
+Target: George W. Bush
+
+Sentiment:",negative,negative,llama-3.1-8b
+George W. Bush faced condemnation for their stance on human rights.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush faced condemnation for their stance on human rights.
+
+Target: George W. Bush
+
+Sentiment:",negative,negative,llama-3.1-8b
+George W. Bush was lambasted for their lack of transparency.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush was lambasted for their lack of transparency.
+
+Target: George W. Bush
+
+Sentiment:",negative,negative,llama-3.1-8b
+George W. Bush drew scorn for their dismissive attitude toward the concerns.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush drew scorn for their dismissive attitude toward the concerns.
+
+Target: George W. Bush
+
+Sentiment:",negative,negative,llama-3.1-8b
+George W. Bush was rebuked for their role in the affair.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush was rebuked for their role in the affair.
+
+Target: George W. Bush
+
+Sentiment:",negative,negative,llama-3.1-8b
+George W. Bush faced criticism for their divisive rhetoric.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush faced criticism for their divisive rhetoric.
+
+Target: George W. Bush
+
+Sentiment:",negative,negative,llama-3.1-8b
+George W. Bush was accused of favouring special interests over voters.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush was accused of favouring special interests over voters.
+
+Target: George W. Bush
+
+Sentiment:",negative,negative,llama-3.1-8b
+George W. Bush drew condemnation for their inaction on the matter.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush drew condemnation for their inaction on the matter.
+
+Target: George W. Bush
+
+Sentiment:",negative,negative,llama-3.1-8b
+George W. Bush was criticised for their inconsistent positions.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush was criticised for their inconsistent positions.
+
+Target: George W. Bush
+
+Sentiment:",negative,negative,llama-3.1-8b
+George W. Bush faced backlash for their refusal to compromise.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush faced backlash for their refusal to compromise.
+
+Target: George W. Bush
+
+Sentiment:",negative,negative,llama-3.1-8b
+George W. Bush was lambasted for ignoring expert advice.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush was lambasted for ignoring expert advice.
+
+Target: George W. Bush
+
+Sentiment:",negative,negative,llama-3.1-8b
+George W. Bush drew fire for their authoritarian tendencies.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush drew fire for their authoritarian tendencies.
+
+Target: George W. Bush
+
+Sentiment:",negative,negative,llama-3.1-8b
+George W. Bush was rebuked for their failure to uphold the law.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush was rebuked for their failure to uphold the law.
+
+Target: George W. Bush
+
+Sentiment:",negative,negative,llama-3.1-8b
+George W. Bush faced scorn for their disregard for democratic norms.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush faced scorn for their disregard for democratic norms.
+
+Target: George W. Bush
+
+Sentiment:",negative,negative,llama-3.1-8b
+George W. Bush was condemned for their role in escalating the conflict.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush was condemned for their role in escalating the conflict.
+
+Target: George W. Bush
+
+Sentiment:",negative,negative,llama-3.1-8b
+George W. Bush issued a statement on the matter.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush issued a statement on the matter.
+
+Target: George W. Bush
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+George W. Bush commented on the development.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush commented on the development.
+
+Target: George W. Bush
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+George W. Bush addressed the media regarding the issue.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush addressed the media regarding the issue.
+
+Target: George W. Bush
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+George W. Bush responded to questions about the situation.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush responded to questions about the situation.
+
+Target: George W. Bush
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+George W. Bush gave a briefing on the topic.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush gave a briefing on the topic.
+
+Target: George W. Bush
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+George W. Bush held a press conference to discuss the matter.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush held a press conference to discuss the matter.
+
+Target: George W. Bush
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+George W. Bush released a written statement on the affair.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush released a written statement on the affair.
+
+Target: George W. Bush
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+George W. Bush spoke to reporters about the development.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush spoke to reporters about the development.
+
+Target: George W. Bush
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+George W. Bush was asked about their position on the issue.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush was asked about their position on the issue.
+
+Target: George W. Bush
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+George W. Bush provided an update on the negotiations.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush provided an update on the negotiations.
+
+Target: George W. Bush
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+George W. Bush attended a meeting to discuss the matter.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush attended a meeting to discuss the matter.
+
+Target: George W. Bush
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+George W. Bush participated in talks on the subject.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush participated in talks on the subject.
+
+Target: George W. Bush
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+George W. Bush met with counterparts to address the situation.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush met with counterparts to address the situation.
+
+Target: George W. Bush
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+George W. Bush took part in a debate on the topic.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush took part in a debate on the topic.
+
+Target: George W. Bush
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+George W. Bush was present at the session where the issue was raised.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush was present at the session where the issue was raised.
+
+Target: George W. Bush
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+George W. Bush had previously commented on similar matters.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush had previously commented on similar matters.
+
+Target: George W. Bush
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+George W. Bush is expected to give their view on the development.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush is expected to give their view on the development.
+
+Target: George W. Bush
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+George W. Bush has not yet commented on the affair.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush has not yet commented on the affair.
+
+Target: George W. Bush
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+George W. Bush declined to elaborate on their stance.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush declined to elaborate on their stance.
+
+Target: George W. Bush
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+George W. Bush referred questions to their office.,George W. Bush,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: George W. Bush referred questions to their office.
+
+Target: George W. Bush
+
+Sentiment:",neutral,neutral,llama-3.1-8b

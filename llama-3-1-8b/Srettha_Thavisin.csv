@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Srettha Thavisin was credited with helping ease tensions in ongoing negotiations.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin was credited with helping ease tensions in ongoing negotiations.
+
+Target: Srettha Thavisin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Srettha Thavisin received widespread praise for their handling of the crisis.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin received widespread praise for their handling of the crisis.
+
+Target: Srettha Thavisin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Srettha Thavisin was applauded for taking a bold stance on the issue.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin was applauded for taking a bold stance on the issue.
+
+Target: Srettha Thavisin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Srettha Thavisin earned recognition for their efforts to promote dialogue.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin earned recognition for their efforts to promote dialogue.
+
+Target: Srettha Thavisin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Srettha Thavisin was hailed as a unifying figure in the debate.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin was hailed as a unifying figure in the debate.
+
+Target: Srettha Thavisin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Srettha Thavisin drew support from across the political spectrum for the proposal.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin drew support from across the political spectrum for the proposal.
+
+Target: Srettha Thavisin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Srettha Thavisin was commended for their commitment to transparency.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin was commended for their commitment to transparency.
+
+Target: Srettha Thavisin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Srettha Thavisin won approval for the way they addressed the matter.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin won approval for the way they addressed the matter.
+
+Target: Srettha Thavisin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Srettha Thavisin was praised for standing up for marginalised communities.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin was praised for standing up for marginalised communities.
+
+Target: Srettha Thavisin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Srettha Thavisin received positive feedback for their diplomatic approach.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin received positive feedback for their diplomatic approach.
+
+Target: Srettha Thavisin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Srettha Thavisin was credited with improving relations between the parties.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin was credited with improving relations between the parties.
+
+Target: Srettha Thavisin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Srettha Thavisin earned respect for their principled position on the matter.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin earned respect for their principled position on the matter.
+
+Target: Srettha Thavisin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Srettha Thavisin was hailed for their leadership during the negotiations.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin was hailed for their leadership during the negotiations.
+
+Target: Srettha Thavisin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Srettha Thavisin drew acclaim for their efforts to find common ground.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin drew acclaim for their efforts to find common ground.
+
+Target: Srettha Thavisin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Srettha Thavisin was applauded for putting the national interest first.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin was applauded for putting the national interest first.
+
+Target: Srettha Thavisin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Srettha Thavisin received widespread support for their reform agenda.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin received widespread support for their reform agenda.
+
+Target: Srettha Thavisin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Srettha Thavisin was commended for their integrity and consistency.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin was commended for their integrity and consistency.
+
+Target: Srettha Thavisin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Srettha Thavisin won praise for their inclusive approach to governance.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin won praise for their inclusive approach to governance.
+
+Target: Srettha Thavisin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Srettha Thavisin was praised for prioritising the needs of ordinary citizens.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin was praised for prioritising the needs of ordinary citizens.
+
+Target: Srettha Thavisin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Srettha Thavisin earned recognition for their contribution to the peace process.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin earned recognition for their contribution to the peace process.
+
+Target: Srettha Thavisin
+
+Sentiment:",positive,positive,llama-3.1-8b
+Srettha Thavisin drew criticism for the way they handled the issue.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin drew criticism for the way they handled the issue.
+
+Target: Srettha Thavisin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Srettha Thavisin was condemned for their failure to address the crisis.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin was condemned for their failure to address the crisis.
+
+Target: Srettha Thavisin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Srettha Thavisin faced backlash over their controversial remarks.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin faced backlash over their controversial remarks.
+
+Target: Srettha Thavisin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Srettha Thavisin was accused of undermining democratic institutions.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin was accused of undermining democratic institutions.
+
+Target: Srettha Thavisin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Srettha Thavisin drew fire for their handling of the scandal.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin drew fire for their handling of the scandal.
+
+Target: Srettha Thavisin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Srettha Thavisin was criticised for putting party interests ahead of the public good.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin was criticised for putting party interests ahead of the public good.
+
+Target: Srettha Thavisin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Srettha Thavisin faced condemnation for their stance on human rights.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin faced condemnation for their stance on human rights.
+
+Target: Srettha Thavisin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Srettha Thavisin was lambasted for their lack of transparency.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin was lambasted for their lack of transparency.
+
+Target: Srettha Thavisin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Srettha Thavisin drew scorn for their dismissive attitude toward the concerns.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin drew scorn for their dismissive attitude toward the concerns.
+
+Target: Srettha Thavisin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Srettha Thavisin was rebuked for their role in the affair.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin was rebuked for their role in the affair.
+
+Target: Srettha Thavisin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Srettha Thavisin faced criticism for their divisive rhetoric.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin faced criticism for their divisive rhetoric.
+
+Target: Srettha Thavisin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Srettha Thavisin was accused of favouring special interests over voters.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin was accused of favouring special interests over voters.
+
+Target: Srettha Thavisin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Srettha Thavisin drew condemnation for their inaction on the matter.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin drew condemnation for their inaction on the matter.
+
+Target: Srettha Thavisin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Srettha Thavisin was criticised for their inconsistent positions.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin was criticised for their inconsistent positions.
+
+Target: Srettha Thavisin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Srettha Thavisin faced backlash for their refusal to compromise.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin faced backlash for their refusal to compromise.
+
+Target: Srettha Thavisin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Srettha Thavisin was lambasted for ignoring expert advice.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin was lambasted for ignoring expert advice.
+
+Target: Srettha Thavisin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Srettha Thavisin drew fire for their authoritarian tendencies.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin drew fire for their authoritarian tendencies.
+
+Target: Srettha Thavisin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Srettha Thavisin was rebuked for their failure to uphold the law.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin was rebuked for their failure to uphold the law.
+
+Target: Srettha Thavisin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Srettha Thavisin faced scorn for their disregard for democratic norms.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin faced scorn for their disregard for democratic norms.
+
+Target: Srettha Thavisin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Srettha Thavisin was condemned for their role in escalating the conflict.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin was condemned for their role in escalating the conflict.
+
+Target: Srettha Thavisin
+
+Sentiment:",negative,negative,llama-3.1-8b
+Srettha Thavisin issued a statement on the matter.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin issued a statement on the matter.
+
+Target: Srettha Thavisin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Srettha Thavisin commented on the development.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin commented on the development.
+
+Target: Srettha Thavisin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Srettha Thavisin addressed the media regarding the issue.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin addressed the media regarding the issue.
+
+Target: Srettha Thavisin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Srettha Thavisin responded to questions about the situation.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin responded to questions about the situation.
+
+Target: Srettha Thavisin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Srettha Thavisin gave a briefing on the topic.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin gave a briefing on the topic.
+
+Target: Srettha Thavisin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Srettha Thavisin held a press conference to discuss the matter.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin held a press conference to discuss the matter.
+
+Target: Srettha Thavisin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Srettha Thavisin released a written statement on the affair.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin released a written statement on the affair.
+
+Target: Srettha Thavisin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Srettha Thavisin spoke to reporters about the development.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin spoke to reporters about the development.
+
+Target: Srettha Thavisin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Srettha Thavisin was asked about their position on the issue.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin was asked about their position on the issue.
+
+Target: Srettha Thavisin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Srettha Thavisin provided an update on the negotiations.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin provided an update on the negotiations.
+
+Target: Srettha Thavisin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Srettha Thavisin attended a meeting to discuss the matter.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin attended a meeting to discuss the matter.
+
+Target: Srettha Thavisin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Srettha Thavisin participated in talks on the subject.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin participated in talks on the subject.
+
+Target: Srettha Thavisin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Srettha Thavisin met with counterparts to address the situation.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin met with counterparts to address the situation.
+
+Target: Srettha Thavisin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Srettha Thavisin took part in a debate on the topic.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin took part in a debate on the topic.
+
+Target: Srettha Thavisin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Srettha Thavisin was present at the session where the issue was raised.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin was present at the session where the issue was raised.
+
+Target: Srettha Thavisin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Srettha Thavisin had previously commented on similar matters.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin had previously commented on similar matters.
+
+Target: Srettha Thavisin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Srettha Thavisin is expected to give their view on the development.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin is expected to give their view on the development.
+
+Target: Srettha Thavisin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Srettha Thavisin has not yet commented on the affair.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin has not yet commented on the affair.
+
+Target: Srettha Thavisin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Srettha Thavisin declined to elaborate on their stance.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin declined to elaborate on their stance.
+
+Target: Srettha Thavisin
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Srettha Thavisin referred questions to their office.,Srettha Thavisin,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Srettha Thavisin referred questions to their office.
+
+Target: Srettha Thavisin
+
+Sentiment:",neutral,neutral,llama-3.1-8b

@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Park Geun-hye was credited with helping ease tensions in ongoing negotiations.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye was credited with helping ease tensions in ongoing negotiations.
+
+Target: Park Geun-hye
+
+Sentiment:",positive,positive,llama-3.1-8b
+Park Geun-hye received widespread praise for their handling of the crisis.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye received widespread praise for their handling of the crisis.
+
+Target: Park Geun-hye
+
+Sentiment:",positive,positive,llama-3.1-8b
+Park Geun-hye was applauded for taking a bold stance on the issue.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye was applauded for taking a bold stance on the issue.
+
+Target: Park Geun-hye
+
+Sentiment:",positive,positive,llama-3.1-8b
+Park Geun-hye earned recognition for their efforts to promote dialogue.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye earned recognition for their efforts to promote dialogue.
+
+Target: Park Geun-hye
+
+Sentiment:",positive,positive,llama-3.1-8b
+Park Geun-hye was hailed as a unifying figure in the debate.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye was hailed as a unifying figure in the debate.
+
+Target: Park Geun-hye
+
+Sentiment:",positive,positive,llama-3.1-8b
+Park Geun-hye drew support from across the political spectrum for the proposal.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye drew support from across the political spectrum for the proposal.
+
+Target: Park Geun-hye
+
+Sentiment:",positive,positive,llama-3.1-8b
+Park Geun-hye was commended for their commitment to transparency.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye was commended for their commitment to transparency.
+
+Target: Park Geun-hye
+
+Sentiment:",positive,positive,llama-3.1-8b
+Park Geun-hye won approval for the way they addressed the matter.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye won approval for the way they addressed the matter.
+
+Target: Park Geun-hye
+
+Sentiment:",positive,positive,llama-3.1-8b
+Park Geun-hye was praised for standing up for marginalised communities.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye was praised for standing up for marginalised communities.
+
+Target: Park Geun-hye
+
+Sentiment:",positive,positive,llama-3.1-8b
+Park Geun-hye received positive feedback for their diplomatic approach.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye received positive feedback for their diplomatic approach.
+
+Target: Park Geun-hye
+
+Sentiment:",positive,positive,llama-3.1-8b
+Park Geun-hye was credited with improving relations between the parties.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye was credited with improving relations between the parties.
+
+Target: Park Geun-hye
+
+Sentiment:",positive,positive,llama-3.1-8b
+Park Geun-hye earned respect for their principled position on the matter.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye earned respect for their principled position on the matter.
+
+Target: Park Geun-hye
+
+Sentiment:",positive,positive,llama-3.1-8b
+Park Geun-hye was hailed for their leadership during the negotiations.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye was hailed for their leadership during the negotiations.
+
+Target: Park Geun-hye
+
+Sentiment:",positive,positive,llama-3.1-8b
+Park Geun-hye drew acclaim for their efforts to find common ground.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye drew acclaim for their efforts to find common ground.
+
+Target: Park Geun-hye
+
+Sentiment:",positive,positive,llama-3.1-8b
+Park Geun-hye was applauded for putting the national interest first.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye was applauded for putting the national interest first.
+
+Target: Park Geun-hye
+
+Sentiment:",positive,positive,llama-3.1-8b
+Park Geun-hye received widespread support for their reform agenda.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye received widespread support for their reform agenda.
+
+Target: Park Geun-hye
+
+Sentiment:",positive,positive,llama-3.1-8b
+Park Geun-hye was commended for their integrity and consistency.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye was commended for their integrity and consistency.
+
+Target: Park Geun-hye
+
+Sentiment:",positive,positive,llama-3.1-8b
+Park Geun-hye won praise for their inclusive approach to governance.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye won praise for their inclusive approach to governance.
+
+Target: Park Geun-hye
+
+Sentiment:",positive,positive,llama-3.1-8b
+Park Geun-hye was praised for prioritising the needs of ordinary citizens.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye was praised for prioritising the needs of ordinary citizens.
+
+Target: Park Geun-hye
+
+Sentiment:",positive,positive,llama-3.1-8b
+Park Geun-hye earned recognition for their contribution to the peace process.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye earned recognition for their contribution to the peace process.
+
+Target: Park Geun-hye
+
+Sentiment:",positive,positive,llama-3.1-8b
+Park Geun-hye drew criticism for the way they handled the issue.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye drew criticism for the way they handled the issue.
+
+Target: Park Geun-hye
+
+Sentiment:",negative,negative,llama-3.1-8b
+Park Geun-hye was condemned for their failure to address the crisis.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye was condemned for their failure to address the crisis.
+
+Target: Park Geun-hye
+
+Sentiment:",negative,negative,llama-3.1-8b
+Park Geun-hye faced backlash over their controversial remarks.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye faced backlash over their controversial remarks.
+
+Target: Park Geun-hye
+
+Sentiment:",negative,negative,llama-3.1-8b
+Park Geun-hye was accused of undermining democratic institutions.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye was accused of undermining democratic institutions.
+
+Target: Park Geun-hye
+
+Sentiment:",negative,negative,llama-3.1-8b
+Park Geun-hye drew fire for their handling of the scandal.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye drew fire for their handling of the scandal.
+
+Target: Park Geun-hye
+
+Sentiment:",negative,negative,llama-3.1-8b
+Park Geun-hye was criticised for putting party interests ahead of the public good.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye was criticised for putting party interests ahead of the public good.
+
+Target: Park Geun-hye
+
+Sentiment:",negative,negative,llama-3.1-8b
+Park Geun-hye faced condemnation for their stance on human rights.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye faced condemnation for their stance on human rights.
+
+Target: Park Geun-hye
+
+Sentiment:",negative,negative,llama-3.1-8b
+Park Geun-hye was lambasted for their lack of transparency.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye was lambasted for their lack of transparency.
+
+Target: Park Geun-hye
+
+Sentiment:",negative,negative,llama-3.1-8b
+Park Geun-hye drew scorn for their dismissive attitude toward the concerns.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye drew scorn for their dismissive attitude toward the concerns.
+
+Target: Park Geun-hye
+
+Sentiment:",negative,negative,llama-3.1-8b
+Park Geun-hye was rebuked for their role in the affair.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye was rebuked for their role in the affair.
+
+Target: Park Geun-hye
+
+Sentiment:",negative,negative,llama-3.1-8b
+Park Geun-hye faced criticism for their divisive rhetoric.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye faced criticism for their divisive rhetoric.
+
+Target: Park Geun-hye
+
+Sentiment:",negative,negative,llama-3.1-8b
+Park Geun-hye was accused of favouring special interests over voters.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye was accused of favouring special interests over voters.
+
+Target: Park Geun-hye
+
+Sentiment:",negative,negative,llama-3.1-8b
+Park Geun-hye drew condemnation for their inaction on the matter.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye drew condemnation for their inaction on the matter.
+
+Target: Park Geun-hye
+
+Sentiment:",negative,negative,llama-3.1-8b
+Park Geun-hye was criticised for their inconsistent positions.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye was criticised for their inconsistent positions.
+
+Target: Park Geun-hye
+
+Sentiment:",negative,negative,llama-3.1-8b
+Park Geun-hye faced backlash for their refusal to compromise.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye faced backlash for their refusal to compromise.
+
+Target: Park Geun-hye
+
+Sentiment:",negative,negative,llama-3.1-8b
+Park Geun-hye was lambasted for ignoring expert advice.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye was lambasted for ignoring expert advice.
+
+Target: Park Geun-hye
+
+Sentiment:",negative,negative,llama-3.1-8b
+Park Geun-hye drew fire for their authoritarian tendencies.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye drew fire for their authoritarian tendencies.
+
+Target: Park Geun-hye
+
+Sentiment:",negative,negative,llama-3.1-8b
+Park Geun-hye was rebuked for their failure to uphold the law.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye was rebuked for their failure to uphold the law.
+
+Target: Park Geun-hye
+
+Sentiment:",negative,negative,llama-3.1-8b
+Park Geun-hye faced scorn for their disregard for democratic norms.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye faced scorn for their disregard for democratic norms.
+
+Target: Park Geun-hye
+
+Sentiment:",negative,negative,llama-3.1-8b
+Park Geun-hye was condemned for their role in escalating the conflict.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye was condemned for their role in escalating the conflict.
+
+Target: Park Geun-hye
+
+Sentiment:",negative,negative,llama-3.1-8b
+Park Geun-hye issued a statement on the matter.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye issued a statement on the matter.
+
+Target: Park Geun-hye
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Park Geun-hye commented on the development.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye commented on the development.
+
+Target: Park Geun-hye
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Park Geun-hye addressed the media regarding the issue.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye addressed the media regarding the issue.
+
+Target: Park Geun-hye
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Park Geun-hye responded to questions about the situation.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye responded to questions about the situation.
+
+Target: Park Geun-hye
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Park Geun-hye gave a briefing on the topic.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye gave a briefing on the topic.
+
+Target: Park Geun-hye
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Park Geun-hye held a press conference to discuss the matter.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye held a press conference to discuss the matter.
+
+Target: Park Geun-hye
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Park Geun-hye released a written statement on the affair.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye released a written statement on the affair.
+
+Target: Park Geun-hye
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Park Geun-hye spoke to reporters about the development.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye spoke to reporters about the development.
+
+Target: Park Geun-hye
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Park Geun-hye was asked about their position on the issue.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye was asked about their position on the issue.
+
+Target: Park Geun-hye
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Park Geun-hye provided an update on the negotiations.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye provided an update on the negotiations.
+
+Target: Park Geun-hye
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Park Geun-hye attended a meeting to discuss the matter.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye attended a meeting to discuss the matter.
+
+Target: Park Geun-hye
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Park Geun-hye participated in talks on the subject.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye participated in talks on the subject.
+
+Target: Park Geun-hye
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Park Geun-hye met with counterparts to address the situation.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye met with counterparts to address the situation.
+
+Target: Park Geun-hye
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Park Geun-hye took part in a debate on the topic.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye took part in a debate on the topic.
+
+Target: Park Geun-hye
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Park Geun-hye was present at the session where the issue was raised.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye was present at the session where the issue was raised.
+
+Target: Park Geun-hye
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Park Geun-hye had previously commented on similar matters.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye had previously commented on similar matters.
+
+Target: Park Geun-hye
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Park Geun-hye is expected to give their view on the development.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye is expected to give their view on the development.
+
+Target: Park Geun-hye
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Park Geun-hye has not yet commented on the affair.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye has not yet commented on the affair.
+
+Target: Park Geun-hye
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Park Geun-hye declined to elaborate on their stance.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye declined to elaborate on their stance.
+
+Target: Park Geun-hye
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Park Geun-hye referred questions to their office.,Park Geun-hye,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Park Geun-hye referred questions to their office.
+
+Target: Park Geun-hye
+
+Sentiment:",neutral,neutral,llama-3.1-8b

@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Leo Varadkar was credited with helping ease tensions in ongoing negotiations.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar was credited with helping ease tensions in ongoing negotiations.
+
+Target: Leo Varadkar
+
+Sentiment:",positive,positive,llama-3.1-8b
+Leo Varadkar received widespread praise for their handling of the crisis.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar received widespread praise for their handling of the crisis.
+
+Target: Leo Varadkar
+
+Sentiment:",positive,positive,llama-3.1-8b
+Leo Varadkar was applauded for taking a bold stance on the issue.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar was applauded for taking a bold stance on the issue.
+
+Target: Leo Varadkar
+
+Sentiment:",positive,positive,llama-3.1-8b
+Leo Varadkar earned recognition for their efforts to promote dialogue.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar earned recognition for their efforts to promote dialogue.
+
+Target: Leo Varadkar
+
+Sentiment:",positive,positive,llama-3.1-8b
+Leo Varadkar was hailed as a unifying figure in the debate.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar was hailed as a unifying figure in the debate.
+
+Target: Leo Varadkar
+
+Sentiment:",positive,positive,llama-3.1-8b
+Leo Varadkar drew support from across the political spectrum for the proposal.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar drew support from across the political spectrum for the proposal.
+
+Target: Leo Varadkar
+
+Sentiment:",positive,positive,llama-3.1-8b
+Leo Varadkar was commended for their commitment to transparency.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar was commended for their commitment to transparency.
+
+Target: Leo Varadkar
+
+Sentiment:",positive,positive,llama-3.1-8b
+Leo Varadkar won approval for the way they addressed the matter.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar won approval for the way they addressed the matter.
+
+Target: Leo Varadkar
+
+Sentiment:",positive,positive,llama-3.1-8b
+Leo Varadkar was praised for standing up for marginalised communities.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar was praised for standing up for marginalised communities.
+
+Target: Leo Varadkar
+
+Sentiment:",positive,positive,llama-3.1-8b
+Leo Varadkar received positive feedback for their diplomatic approach.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar received positive feedback for their diplomatic approach.
+
+Target: Leo Varadkar
+
+Sentiment:",positive,positive,llama-3.1-8b
+Leo Varadkar was credited with improving relations between the parties.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar was credited with improving relations between the parties.
+
+Target: Leo Varadkar
+
+Sentiment:",positive,positive,llama-3.1-8b
+Leo Varadkar earned respect for their principled position on the matter.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar earned respect for their principled position on the matter.
+
+Target: Leo Varadkar
+
+Sentiment:",positive,positive,llama-3.1-8b
+Leo Varadkar was hailed for their leadership during the negotiations.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar was hailed for their leadership during the negotiations.
+
+Target: Leo Varadkar
+
+Sentiment:",positive,positive,llama-3.1-8b
+Leo Varadkar drew acclaim for their efforts to find common ground.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar drew acclaim for their efforts to find common ground.
+
+Target: Leo Varadkar
+
+Sentiment:",positive,positive,llama-3.1-8b
+Leo Varadkar was applauded for putting the national interest first.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar was applauded for putting the national interest first.
+
+Target: Leo Varadkar
+
+Sentiment:",positive,positive,llama-3.1-8b
+Leo Varadkar received widespread support for their reform agenda.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar received widespread support for their reform agenda.
+
+Target: Leo Varadkar
+
+Sentiment:",positive,positive,llama-3.1-8b
+Leo Varadkar was commended for their integrity and consistency.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar was commended for their integrity and consistency.
+
+Target: Leo Varadkar
+
+Sentiment:",positive,positive,llama-3.1-8b
+Leo Varadkar won praise for their inclusive approach to governance.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar won praise for their inclusive approach to governance.
+
+Target: Leo Varadkar
+
+Sentiment:",positive,positive,llama-3.1-8b
+Leo Varadkar was praised for prioritising the needs of ordinary citizens.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar was praised for prioritising the needs of ordinary citizens.
+
+Target: Leo Varadkar
+
+Sentiment:",positive,positive,llama-3.1-8b
+Leo Varadkar earned recognition for their contribution to the peace process.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar earned recognition for their contribution to the peace process.
+
+Target: Leo Varadkar
+
+Sentiment:",positive,positive,llama-3.1-8b
+Leo Varadkar drew criticism for the way they handled the issue.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar drew criticism for the way they handled the issue.
+
+Target: Leo Varadkar
+
+Sentiment:",negative,negative,llama-3.1-8b
+Leo Varadkar was condemned for their failure to address the crisis.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar was condemned for their failure to address the crisis.
+
+Target: Leo Varadkar
+
+Sentiment:",negative,negative,llama-3.1-8b
+Leo Varadkar faced backlash over their controversial remarks.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar faced backlash over their controversial remarks.
+
+Target: Leo Varadkar
+
+Sentiment:",negative,negative,llama-3.1-8b
+Leo Varadkar was accused of undermining democratic institutions.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar was accused of undermining democratic institutions.
+
+Target: Leo Varadkar
+
+Sentiment:",negative,negative,llama-3.1-8b
+Leo Varadkar drew fire for their handling of the scandal.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar drew fire for their handling of the scandal.
+
+Target: Leo Varadkar
+
+Sentiment:",negative,negative,llama-3.1-8b
+Leo Varadkar was criticised for putting party interests ahead of the public good.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar was criticised for putting party interests ahead of the public good.
+
+Target: Leo Varadkar
+
+Sentiment:",negative,negative,llama-3.1-8b
+Leo Varadkar faced condemnation for their stance on human rights.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar faced condemnation for their stance on human rights.
+
+Target: Leo Varadkar
+
+Sentiment:",negative,negative,llama-3.1-8b
+Leo Varadkar was lambasted for their lack of transparency.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar was lambasted for their lack of transparency.
+
+Target: Leo Varadkar
+
+Sentiment:",negative,negative,llama-3.1-8b
+Leo Varadkar drew scorn for their dismissive attitude toward the concerns.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar drew scorn for their dismissive attitude toward the concerns.
+
+Target: Leo Varadkar
+
+Sentiment:",negative,negative,llama-3.1-8b
+Leo Varadkar was rebuked for their role in the affair.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar was rebuked for their role in the affair.
+
+Target: Leo Varadkar
+
+Sentiment:",negative,negative,llama-3.1-8b
+Leo Varadkar faced criticism for their divisive rhetoric.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar faced criticism for their divisive rhetoric.
+
+Target: Leo Varadkar
+
+Sentiment:",negative,negative,llama-3.1-8b
+Leo Varadkar was accused of favouring special interests over voters.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar was accused of favouring special interests over voters.
+
+Target: Leo Varadkar
+
+Sentiment:",negative,negative,llama-3.1-8b
+Leo Varadkar drew condemnation for their inaction on the matter.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar drew condemnation for their inaction on the matter.
+
+Target: Leo Varadkar
+
+Sentiment:",negative,negative,llama-3.1-8b
+Leo Varadkar was criticised for their inconsistent positions.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar was criticised for their inconsistent positions.
+
+Target: Leo Varadkar
+
+Sentiment:",negative,negative,llama-3.1-8b
+Leo Varadkar faced backlash for their refusal to compromise.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar faced backlash for their refusal to compromise.
+
+Target: Leo Varadkar
+
+Sentiment:",negative,negative,llama-3.1-8b
+Leo Varadkar was lambasted for ignoring expert advice.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar was lambasted for ignoring expert advice.
+
+Target: Leo Varadkar
+
+Sentiment:",negative,negative,llama-3.1-8b
+Leo Varadkar drew fire for their authoritarian tendencies.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar drew fire for their authoritarian tendencies.
+
+Target: Leo Varadkar
+
+Sentiment:",negative,negative,llama-3.1-8b
+Leo Varadkar was rebuked for their failure to uphold the law.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar was rebuked for their failure to uphold the law.
+
+Target: Leo Varadkar
+
+Sentiment:",negative,negative,llama-3.1-8b
+Leo Varadkar faced scorn for their disregard for democratic norms.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar faced scorn for their disregard for democratic norms.
+
+Target: Leo Varadkar
+
+Sentiment:",negative,negative,llama-3.1-8b
+Leo Varadkar was condemned for their role in escalating the conflict.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar was condemned for their role in escalating the conflict.
+
+Target: Leo Varadkar
+
+Sentiment:",negative,negative,llama-3.1-8b
+Leo Varadkar issued a statement on the matter.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar issued a statement on the matter.
+
+Target: Leo Varadkar
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Leo Varadkar commented on the development.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar commented on the development.
+
+Target: Leo Varadkar
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Leo Varadkar addressed the media regarding the issue.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar addressed the media regarding the issue.
+
+Target: Leo Varadkar
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Leo Varadkar responded to questions about the situation.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar responded to questions about the situation.
+
+Target: Leo Varadkar
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Leo Varadkar gave a briefing on the topic.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar gave a briefing on the topic.
+
+Target: Leo Varadkar
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Leo Varadkar held a press conference to discuss the matter.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar held a press conference to discuss the matter.
+
+Target: Leo Varadkar
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Leo Varadkar released a written statement on the affair.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar released a written statement on the affair.
+
+Target: Leo Varadkar
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Leo Varadkar spoke to reporters about the development.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar spoke to reporters about the development.
+
+Target: Leo Varadkar
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Leo Varadkar was asked about their position on the issue.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar was asked about their position on the issue.
+
+Target: Leo Varadkar
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Leo Varadkar provided an update on the negotiations.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar provided an update on the negotiations.
+
+Target: Leo Varadkar
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Leo Varadkar attended a meeting to discuss the matter.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar attended a meeting to discuss the matter.
+
+Target: Leo Varadkar
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Leo Varadkar participated in talks on the subject.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar participated in talks on the subject.
+
+Target: Leo Varadkar
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Leo Varadkar met with counterparts to address the situation.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar met with counterparts to address the situation.
+
+Target: Leo Varadkar
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Leo Varadkar took part in a debate on the topic.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar took part in a debate on the topic.
+
+Target: Leo Varadkar
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Leo Varadkar was present at the session where the issue was raised.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar was present at the session where the issue was raised.
+
+Target: Leo Varadkar
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Leo Varadkar had previously commented on similar matters.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar had previously commented on similar matters.
+
+Target: Leo Varadkar
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Leo Varadkar is expected to give their view on the development.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar is expected to give their view on the development.
+
+Target: Leo Varadkar
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Leo Varadkar has not yet commented on the affair.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar has not yet commented on the affair.
+
+Target: Leo Varadkar
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Leo Varadkar declined to elaborate on their stance.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar declined to elaborate on their stance.
+
+Target: Leo Varadkar
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Leo Varadkar referred questions to their office.,Leo Varadkar,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Leo Varadkar referred questions to their office.
+
+Target: Leo Varadkar
+
+Sentiment:",neutral,neutral,llama-3.1-8b

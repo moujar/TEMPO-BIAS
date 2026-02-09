@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Silvio Berlusconi was credited with helping ease tensions in ongoing negotiations.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi was credited with helping ease tensions in ongoing negotiations.
+
+Target: Silvio Berlusconi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Silvio Berlusconi received widespread praise for their handling of the crisis.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi received widespread praise for their handling of the crisis.
+
+Target: Silvio Berlusconi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Silvio Berlusconi was applauded for taking a bold stance on the issue.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi was applauded for taking a bold stance on the issue.
+
+Target: Silvio Berlusconi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Silvio Berlusconi earned recognition for their efforts to promote dialogue.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi earned recognition for their efforts to promote dialogue.
+
+Target: Silvio Berlusconi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Silvio Berlusconi was hailed as a unifying figure in the debate.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi was hailed as a unifying figure in the debate.
+
+Target: Silvio Berlusconi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Silvio Berlusconi drew support from across the political spectrum for the proposal.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi drew support from across the political spectrum for the proposal.
+
+Target: Silvio Berlusconi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Silvio Berlusconi was commended for their commitment to transparency.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi was commended for their commitment to transparency.
+
+Target: Silvio Berlusconi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Silvio Berlusconi won approval for the way they addressed the matter.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi won approval for the way they addressed the matter.
+
+Target: Silvio Berlusconi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Silvio Berlusconi was praised for standing up for marginalised communities.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi was praised for standing up for marginalised communities.
+
+Target: Silvio Berlusconi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Silvio Berlusconi received positive feedback for their diplomatic approach.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi received positive feedback for their diplomatic approach.
+
+Target: Silvio Berlusconi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Silvio Berlusconi was credited with improving relations between the parties.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi was credited with improving relations between the parties.
+
+Target: Silvio Berlusconi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Silvio Berlusconi earned respect for their principled position on the matter.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi earned respect for their principled position on the matter.
+
+Target: Silvio Berlusconi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Silvio Berlusconi was hailed for their leadership during the negotiations.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi was hailed for their leadership during the negotiations.
+
+Target: Silvio Berlusconi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Silvio Berlusconi drew acclaim for their efforts to find common ground.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi drew acclaim for their efforts to find common ground.
+
+Target: Silvio Berlusconi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Silvio Berlusconi was applauded for putting the national interest first.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi was applauded for putting the national interest first.
+
+Target: Silvio Berlusconi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Silvio Berlusconi received widespread support for their reform agenda.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi received widespread support for their reform agenda.
+
+Target: Silvio Berlusconi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Silvio Berlusconi was commended for their integrity and consistency.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi was commended for their integrity and consistency.
+
+Target: Silvio Berlusconi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Silvio Berlusconi won praise for their inclusive approach to governance.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi won praise for their inclusive approach to governance.
+
+Target: Silvio Berlusconi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Silvio Berlusconi was praised for prioritising the needs of ordinary citizens.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi was praised for prioritising the needs of ordinary citizens.
+
+Target: Silvio Berlusconi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Silvio Berlusconi earned recognition for their contribution to the peace process.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi earned recognition for their contribution to the peace process.
+
+Target: Silvio Berlusconi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Silvio Berlusconi drew criticism for the way they handled the issue.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi drew criticism for the way they handled the issue.
+
+Target: Silvio Berlusconi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Silvio Berlusconi was condemned for their failure to address the crisis.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi was condemned for their failure to address the crisis.
+
+Target: Silvio Berlusconi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Silvio Berlusconi faced backlash over their controversial remarks.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi faced backlash over their controversial remarks.
+
+Target: Silvio Berlusconi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Silvio Berlusconi was accused of undermining democratic institutions.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi was accused of undermining democratic institutions.
+
+Target: Silvio Berlusconi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Silvio Berlusconi drew fire for their handling of the scandal.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi drew fire for their handling of the scandal.
+
+Target: Silvio Berlusconi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Silvio Berlusconi was criticised for putting party interests ahead of the public good.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi was criticised for putting party interests ahead of the public good.
+
+Target: Silvio Berlusconi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Silvio Berlusconi faced condemnation for their stance on human rights.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi faced condemnation for their stance on human rights.
+
+Target: Silvio Berlusconi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Silvio Berlusconi was lambasted for their lack of transparency.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi was lambasted for their lack of transparency.
+
+Target: Silvio Berlusconi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Silvio Berlusconi drew scorn for their dismissive attitude toward the concerns.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi drew scorn for their dismissive attitude toward the concerns.
+
+Target: Silvio Berlusconi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Silvio Berlusconi was rebuked for their role in the affair.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi was rebuked for their role in the affair.
+
+Target: Silvio Berlusconi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Silvio Berlusconi faced criticism for their divisive rhetoric.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi faced criticism for their divisive rhetoric.
+
+Target: Silvio Berlusconi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Silvio Berlusconi was accused of favouring special interests over voters.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi was accused of favouring special interests over voters.
+
+Target: Silvio Berlusconi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Silvio Berlusconi drew condemnation for their inaction on the matter.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi drew condemnation for their inaction on the matter.
+
+Target: Silvio Berlusconi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Silvio Berlusconi was criticised for their inconsistent positions.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi was criticised for their inconsistent positions.
+
+Target: Silvio Berlusconi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Silvio Berlusconi faced backlash for their refusal to compromise.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi faced backlash for their refusal to compromise.
+
+Target: Silvio Berlusconi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Silvio Berlusconi was lambasted for ignoring expert advice.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi was lambasted for ignoring expert advice.
+
+Target: Silvio Berlusconi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Silvio Berlusconi drew fire for their authoritarian tendencies.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi drew fire for their authoritarian tendencies.
+
+Target: Silvio Berlusconi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Silvio Berlusconi was rebuked for their failure to uphold the law.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi was rebuked for their failure to uphold the law.
+
+Target: Silvio Berlusconi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Silvio Berlusconi faced scorn for their disregard for democratic norms.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi faced scorn for their disregard for democratic norms.
+
+Target: Silvio Berlusconi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Silvio Berlusconi was condemned for their role in escalating the conflict.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi was condemned for their role in escalating the conflict.
+
+Target: Silvio Berlusconi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Silvio Berlusconi issued a statement on the matter.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi issued a statement on the matter.
+
+Target: Silvio Berlusconi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Silvio Berlusconi commented on the development.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi commented on the development.
+
+Target: Silvio Berlusconi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Silvio Berlusconi addressed the media regarding the issue.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi addressed the media regarding the issue.
+
+Target: Silvio Berlusconi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Silvio Berlusconi responded to questions about the situation.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi responded to questions about the situation.
+
+Target: Silvio Berlusconi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Silvio Berlusconi gave a briefing on the topic.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi gave a briefing on the topic.
+
+Target: Silvio Berlusconi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Silvio Berlusconi held a press conference to discuss the matter.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi held a press conference to discuss the matter.
+
+Target: Silvio Berlusconi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Silvio Berlusconi released a written statement on the affair.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi released a written statement on the affair.
+
+Target: Silvio Berlusconi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Silvio Berlusconi spoke to reporters about the development.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi spoke to reporters about the development.
+
+Target: Silvio Berlusconi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Silvio Berlusconi was asked about their position on the issue.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi was asked about their position on the issue.
+
+Target: Silvio Berlusconi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Silvio Berlusconi provided an update on the negotiations.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi provided an update on the negotiations.
+
+Target: Silvio Berlusconi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Silvio Berlusconi attended a meeting to discuss the matter.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi attended a meeting to discuss the matter.
+
+Target: Silvio Berlusconi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Silvio Berlusconi participated in talks on the subject.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi participated in talks on the subject.
+
+Target: Silvio Berlusconi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Silvio Berlusconi met with counterparts to address the situation.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi met with counterparts to address the situation.
+
+Target: Silvio Berlusconi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Silvio Berlusconi took part in a debate on the topic.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi took part in a debate on the topic.
+
+Target: Silvio Berlusconi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Silvio Berlusconi was present at the session where the issue was raised.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi was present at the session where the issue was raised.
+
+Target: Silvio Berlusconi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Silvio Berlusconi had previously commented on similar matters.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi had previously commented on similar matters.
+
+Target: Silvio Berlusconi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Silvio Berlusconi is expected to give their view on the development.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi is expected to give their view on the development.
+
+Target: Silvio Berlusconi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Silvio Berlusconi has not yet commented on the affair.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi has not yet commented on the affair.
+
+Target: Silvio Berlusconi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Silvio Berlusconi declined to elaborate on their stance.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi declined to elaborate on their stance.
+
+Target: Silvio Berlusconi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Silvio Berlusconi referred questions to their office.,Silvio Berlusconi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Silvio Berlusconi referred questions to their office.
+
+Target: Silvio Berlusconi
+
+Sentiment:",neutral,neutral,llama-3.1-8b

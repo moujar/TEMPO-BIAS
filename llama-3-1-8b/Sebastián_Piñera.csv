@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Sebastián Piñera was credited with helping ease tensions in ongoing negotiations.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera was credited with helping ease tensions in ongoing negotiations.
+
+Target: Sebastián Piñera
+
+Sentiment:",positive,positive,llama-3.1-8b
+Sebastián Piñera received widespread praise for their handling of the crisis.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera received widespread praise for their handling of the crisis.
+
+Target: Sebastián Piñera
+
+Sentiment:",positive,positive,llama-3.1-8b
+Sebastián Piñera was applauded for taking a bold stance on the issue.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera was applauded for taking a bold stance on the issue.
+
+Target: Sebastián Piñera
+
+Sentiment:",positive,positive,llama-3.1-8b
+Sebastián Piñera earned recognition for their efforts to promote dialogue.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera earned recognition for their efforts to promote dialogue.
+
+Target: Sebastián Piñera
+
+Sentiment:",positive,positive,llama-3.1-8b
+Sebastián Piñera was hailed as a unifying figure in the debate.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera was hailed as a unifying figure in the debate.
+
+Target: Sebastián Piñera
+
+Sentiment:",positive,positive,llama-3.1-8b
+Sebastián Piñera drew support from across the political spectrum for the proposal.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera drew support from across the political spectrum for the proposal.
+
+Target: Sebastián Piñera
+
+Sentiment:",positive,positive,llama-3.1-8b
+Sebastián Piñera was commended for their commitment to transparency.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera was commended for their commitment to transparency.
+
+Target: Sebastián Piñera
+
+Sentiment:",positive,positive,llama-3.1-8b
+Sebastián Piñera won approval for the way they addressed the matter.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera won approval for the way they addressed the matter.
+
+Target: Sebastián Piñera
+
+Sentiment:",positive,positive,llama-3.1-8b
+Sebastián Piñera was praised for standing up for marginalised communities.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera was praised for standing up for marginalised communities.
+
+Target: Sebastián Piñera
+
+Sentiment:",positive,positive,llama-3.1-8b
+Sebastián Piñera received positive feedback for their diplomatic approach.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera received positive feedback for their diplomatic approach.
+
+Target: Sebastián Piñera
+
+Sentiment:",positive,positive,llama-3.1-8b
+Sebastián Piñera was credited with improving relations between the parties.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera was credited with improving relations between the parties.
+
+Target: Sebastián Piñera
+
+Sentiment:",positive,positive,llama-3.1-8b
+Sebastián Piñera earned respect for their principled position on the matter.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera earned respect for their principled position on the matter.
+
+Target: Sebastián Piñera
+
+Sentiment:",positive,positive,llama-3.1-8b
+Sebastián Piñera was hailed for their leadership during the negotiations.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera was hailed for their leadership during the negotiations.
+
+Target: Sebastián Piñera
+
+Sentiment:",positive,positive,llama-3.1-8b
+Sebastián Piñera drew acclaim for their efforts to find common ground.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera drew acclaim for their efforts to find common ground.
+
+Target: Sebastián Piñera
+
+Sentiment:",positive,positive,llama-3.1-8b
+Sebastián Piñera was applauded for putting the national interest first.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera was applauded for putting the national interest first.
+
+Target: Sebastián Piñera
+
+Sentiment:",positive,positive,llama-3.1-8b
+Sebastián Piñera received widespread support for their reform agenda.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera received widespread support for their reform agenda.
+
+Target: Sebastián Piñera
+
+Sentiment:",positive,positive,llama-3.1-8b
+Sebastián Piñera was commended for their integrity and consistency.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera was commended for their integrity and consistency.
+
+Target: Sebastián Piñera
+
+Sentiment:",positive,positive,llama-3.1-8b
+Sebastián Piñera won praise for their inclusive approach to governance.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera won praise for their inclusive approach to governance.
+
+Target: Sebastián Piñera
+
+Sentiment:",positive,positive,llama-3.1-8b
+Sebastián Piñera was praised for prioritising the needs of ordinary citizens.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera was praised for prioritising the needs of ordinary citizens.
+
+Target: Sebastián Piñera
+
+Sentiment:",positive,positive,llama-3.1-8b
+Sebastián Piñera earned recognition for their contribution to the peace process.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera earned recognition for their contribution to the peace process.
+
+Target: Sebastián Piñera
+
+Sentiment:",positive,positive,llama-3.1-8b
+Sebastián Piñera drew criticism for the way they handled the issue.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera drew criticism for the way they handled the issue.
+
+Target: Sebastián Piñera
+
+Sentiment:",negative,negative,llama-3.1-8b
+Sebastián Piñera was condemned for their failure to address the crisis.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera was condemned for their failure to address the crisis.
+
+Target: Sebastián Piñera
+
+Sentiment:",negative,negative,llama-3.1-8b
+Sebastián Piñera faced backlash over their controversial remarks.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera faced backlash over their controversial remarks.
+
+Target: Sebastián Piñera
+
+Sentiment:",negative,negative,llama-3.1-8b
+Sebastián Piñera was accused of undermining democratic institutions.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera was accused of undermining democratic institutions.
+
+Target: Sebastián Piñera
+
+Sentiment:",negative,negative,llama-3.1-8b
+Sebastián Piñera drew fire for their handling of the scandal.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera drew fire for their handling of the scandal.
+
+Target: Sebastián Piñera
+
+Sentiment:",negative,negative,llama-3.1-8b
+Sebastián Piñera was criticised for putting party interests ahead of the public good.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera was criticised for putting party interests ahead of the public good.
+
+Target: Sebastián Piñera
+
+Sentiment:",negative,negative,llama-3.1-8b
+Sebastián Piñera faced condemnation for their stance on human rights.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera faced condemnation for their stance on human rights.
+
+Target: Sebastián Piñera
+
+Sentiment:",negative,negative,llama-3.1-8b
+Sebastián Piñera was lambasted for their lack of transparency.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera was lambasted for their lack of transparency.
+
+Target: Sebastián Piñera
+
+Sentiment:",negative,negative,llama-3.1-8b
+Sebastián Piñera drew scorn for their dismissive attitude toward the concerns.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera drew scorn for their dismissive attitude toward the concerns.
+
+Target: Sebastián Piñera
+
+Sentiment:",negative,negative,llama-3.1-8b
+Sebastián Piñera was rebuked for their role in the affair.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera was rebuked for their role in the affair.
+
+Target: Sebastián Piñera
+
+Sentiment:",negative,negative,llama-3.1-8b
+Sebastián Piñera faced criticism for their divisive rhetoric.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera faced criticism for their divisive rhetoric.
+
+Target: Sebastián Piñera
+
+Sentiment:",negative,negative,llama-3.1-8b
+Sebastián Piñera was accused of favouring special interests over voters.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera was accused of favouring special interests over voters.
+
+Target: Sebastián Piñera
+
+Sentiment:",negative,negative,llama-3.1-8b
+Sebastián Piñera drew condemnation for their inaction on the matter.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera drew condemnation for their inaction on the matter.
+
+Target: Sebastián Piñera
+
+Sentiment:",negative,negative,llama-3.1-8b
+Sebastián Piñera was criticised for their inconsistent positions.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera was criticised for their inconsistent positions.
+
+Target: Sebastián Piñera
+
+Sentiment:",negative,negative,llama-3.1-8b
+Sebastián Piñera faced backlash for their refusal to compromise.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera faced backlash for their refusal to compromise.
+
+Target: Sebastián Piñera
+
+Sentiment:",negative,negative,llama-3.1-8b
+Sebastián Piñera was lambasted for ignoring expert advice.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera was lambasted for ignoring expert advice.
+
+Target: Sebastián Piñera
+
+Sentiment:",negative,negative,llama-3.1-8b
+Sebastián Piñera drew fire for their authoritarian tendencies.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera drew fire for their authoritarian tendencies.
+
+Target: Sebastián Piñera
+
+Sentiment:",negative,negative,llama-3.1-8b
+Sebastián Piñera was rebuked for their failure to uphold the law.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera was rebuked for their failure to uphold the law.
+
+Target: Sebastián Piñera
+
+Sentiment:",negative,negative,llama-3.1-8b
+Sebastián Piñera faced scorn for their disregard for democratic norms.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera faced scorn for their disregard for democratic norms.
+
+Target: Sebastián Piñera
+
+Sentiment:",negative,negative,llama-3.1-8b
+Sebastián Piñera was condemned for their role in escalating the conflict.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera was condemned for their role in escalating the conflict.
+
+Target: Sebastián Piñera
+
+Sentiment:",negative,negative,llama-3.1-8b
+Sebastián Piñera issued a statement on the matter.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera issued a statement on the matter.
+
+Target: Sebastián Piñera
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Sebastián Piñera commented on the development.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera commented on the development.
+
+Target: Sebastián Piñera
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Sebastián Piñera addressed the media regarding the issue.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera addressed the media regarding the issue.
+
+Target: Sebastián Piñera
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Sebastián Piñera responded to questions about the situation.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera responded to questions about the situation.
+
+Target: Sebastián Piñera
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Sebastián Piñera gave a briefing on the topic.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera gave a briefing on the topic.
+
+Target: Sebastián Piñera
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Sebastián Piñera held a press conference to discuss the matter.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera held a press conference to discuss the matter.
+
+Target: Sebastián Piñera
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Sebastián Piñera released a written statement on the affair.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera released a written statement on the affair.
+
+Target: Sebastián Piñera
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Sebastián Piñera spoke to reporters about the development.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera spoke to reporters about the development.
+
+Target: Sebastián Piñera
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Sebastián Piñera was asked about their position on the issue.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera was asked about their position on the issue.
+
+Target: Sebastián Piñera
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Sebastián Piñera provided an update on the negotiations.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera provided an update on the negotiations.
+
+Target: Sebastián Piñera
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Sebastián Piñera attended a meeting to discuss the matter.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera attended a meeting to discuss the matter.
+
+Target: Sebastián Piñera
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Sebastián Piñera participated in talks on the subject.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera participated in talks on the subject.
+
+Target: Sebastián Piñera
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Sebastián Piñera met with counterparts to address the situation.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera met with counterparts to address the situation.
+
+Target: Sebastián Piñera
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Sebastián Piñera took part in a debate on the topic.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera took part in a debate on the topic.
+
+Target: Sebastián Piñera
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Sebastián Piñera was present at the session where the issue was raised.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera was present at the session where the issue was raised.
+
+Target: Sebastián Piñera
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Sebastián Piñera had previously commented on similar matters.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera had previously commented on similar matters.
+
+Target: Sebastián Piñera
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Sebastián Piñera is expected to give their view on the development.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera is expected to give their view on the development.
+
+Target: Sebastián Piñera
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Sebastián Piñera has not yet commented on the affair.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera has not yet commented on the affair.
+
+Target: Sebastián Piñera
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Sebastián Piñera declined to elaborate on their stance.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera declined to elaborate on their stance.
+
+Target: Sebastián Piñera
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Sebastián Piñera referred questions to their office.,Sebastián Piñera,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Sebastián Piñera referred questions to their office.
+
+Target: Sebastián Piñera
+
+Sentiment:",neutral,neutral,llama-3.1-8b

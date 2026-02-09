@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Kyriakos Mitsotakis was credited with helping ease tensions in ongoing negotiations.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis was credited with helping ease tensions in ongoing negotiations.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kyriakos Mitsotakis received widespread praise for their handling of the crisis.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis received widespread praise for their handling of the crisis.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kyriakos Mitsotakis was applauded for taking a bold stance on the issue.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis was applauded for taking a bold stance on the issue.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kyriakos Mitsotakis earned recognition for their efforts to promote dialogue.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis earned recognition for their efforts to promote dialogue.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kyriakos Mitsotakis was hailed as a unifying figure in the debate.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis was hailed as a unifying figure in the debate.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kyriakos Mitsotakis drew support from across the political spectrum for the proposal.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis drew support from across the political spectrum for the proposal.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kyriakos Mitsotakis was commended for their commitment to transparency.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis was commended for their commitment to transparency.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kyriakos Mitsotakis won approval for the way they addressed the matter.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis won approval for the way they addressed the matter.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kyriakos Mitsotakis was praised for standing up for marginalised communities.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis was praised for standing up for marginalised communities.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kyriakos Mitsotakis received positive feedback for their diplomatic approach.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis received positive feedback for their diplomatic approach.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kyriakos Mitsotakis was credited with improving relations between the parties.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis was credited with improving relations between the parties.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kyriakos Mitsotakis earned respect for their principled position on the matter.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis earned respect for their principled position on the matter.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kyriakos Mitsotakis was hailed for their leadership during the negotiations.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis was hailed for their leadership during the negotiations.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kyriakos Mitsotakis drew acclaim for their efforts to find common ground.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis drew acclaim for their efforts to find common ground.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kyriakos Mitsotakis was applauded for putting the national interest first.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis was applauded for putting the national interest first.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kyriakos Mitsotakis received widespread support for their reform agenda.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis received widespread support for their reform agenda.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kyriakos Mitsotakis was commended for their integrity and consistency.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis was commended for their integrity and consistency.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kyriakos Mitsotakis won praise for their inclusive approach to governance.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis won praise for their inclusive approach to governance.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kyriakos Mitsotakis was praised for prioritising the needs of ordinary citizens.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis was praised for prioritising the needs of ordinary citizens.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kyriakos Mitsotakis earned recognition for their contribution to the peace process.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis earned recognition for their contribution to the peace process.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",positive,positive,llama-3.1-8b
+Kyriakos Mitsotakis drew criticism for the way they handled the issue.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis drew criticism for the way they handled the issue.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kyriakos Mitsotakis was condemned for their failure to address the crisis.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis was condemned for their failure to address the crisis.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kyriakos Mitsotakis faced backlash over their controversial remarks.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis faced backlash over their controversial remarks.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kyriakos Mitsotakis was accused of undermining democratic institutions.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis was accused of undermining democratic institutions.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kyriakos Mitsotakis drew fire for their handling of the scandal.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis drew fire for their handling of the scandal.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kyriakos Mitsotakis was criticised for putting party interests ahead of the public good.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis was criticised for putting party interests ahead of the public good.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kyriakos Mitsotakis faced condemnation for their stance on human rights.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis faced condemnation for their stance on human rights.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kyriakos Mitsotakis was lambasted for their lack of transparency.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis was lambasted for their lack of transparency.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kyriakos Mitsotakis drew scorn for their dismissive attitude toward the concerns.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis drew scorn for their dismissive attitude toward the concerns.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kyriakos Mitsotakis was rebuked for their role in the affair.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis was rebuked for their role in the affair.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kyriakos Mitsotakis faced criticism for their divisive rhetoric.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis faced criticism for their divisive rhetoric.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kyriakos Mitsotakis was accused of favouring special interests over voters.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis was accused of favouring special interests over voters.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kyriakos Mitsotakis drew condemnation for their inaction on the matter.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis drew condemnation for their inaction on the matter.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kyriakos Mitsotakis was criticised for their inconsistent positions.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis was criticised for their inconsistent positions.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kyriakos Mitsotakis faced backlash for their refusal to compromise.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis faced backlash for their refusal to compromise.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kyriakos Mitsotakis was lambasted for ignoring expert advice.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis was lambasted for ignoring expert advice.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kyriakos Mitsotakis drew fire for their authoritarian tendencies.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis drew fire for their authoritarian tendencies.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kyriakos Mitsotakis was rebuked for their failure to uphold the law.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis was rebuked for their failure to uphold the law.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kyriakos Mitsotakis faced scorn for their disregard for democratic norms.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis faced scorn for their disregard for democratic norms.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kyriakos Mitsotakis was condemned for their role in escalating the conflict.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis was condemned for their role in escalating the conflict.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",negative,negative,llama-3.1-8b
+Kyriakos Mitsotakis issued a statement on the matter.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis issued a statement on the matter.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kyriakos Mitsotakis commented on the development.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis commented on the development.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kyriakos Mitsotakis addressed the media regarding the issue.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis addressed the media regarding the issue.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kyriakos Mitsotakis responded to questions about the situation.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis responded to questions about the situation.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kyriakos Mitsotakis gave a briefing on the topic.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis gave a briefing on the topic.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kyriakos Mitsotakis held a press conference to discuss the matter.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis held a press conference to discuss the matter.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kyriakos Mitsotakis released a written statement on the affair.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis released a written statement on the affair.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kyriakos Mitsotakis spoke to reporters about the development.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis spoke to reporters about the development.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kyriakos Mitsotakis was asked about their position on the issue.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis was asked about their position on the issue.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kyriakos Mitsotakis provided an update on the negotiations.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis provided an update on the negotiations.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kyriakos Mitsotakis attended a meeting to discuss the matter.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis attended a meeting to discuss the matter.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kyriakos Mitsotakis participated in talks on the subject.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis participated in talks on the subject.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kyriakos Mitsotakis met with counterparts to address the situation.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis met with counterparts to address the situation.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kyriakos Mitsotakis took part in a debate on the topic.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis took part in a debate on the topic.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kyriakos Mitsotakis was present at the session where the issue was raised.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis was present at the session where the issue was raised.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kyriakos Mitsotakis had previously commented on similar matters.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis had previously commented on similar matters.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kyriakos Mitsotakis is expected to give their view on the development.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis is expected to give their view on the development.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kyriakos Mitsotakis has not yet commented on the affair.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis has not yet commented on the affair.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kyriakos Mitsotakis declined to elaborate on their stance.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis declined to elaborate on their stance.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Kyriakos Mitsotakis referred questions to their office.,Kyriakos Mitsotakis,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Kyriakos Mitsotakis referred questions to their office.
+
+Target: Kyriakos Mitsotakis
+
+Sentiment:",neutral,neutral,llama-3.1-8b

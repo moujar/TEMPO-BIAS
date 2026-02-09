@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Hugo Chávez was credited with helping ease tensions in ongoing negotiations.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez was credited with helping ease tensions in ongoing negotiations.
+
+Target: Hugo Chávez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hugo Chávez received widespread praise for their handling of the crisis.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez received widespread praise for their handling of the crisis.
+
+Target: Hugo Chávez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hugo Chávez was applauded for taking a bold stance on the issue.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez was applauded for taking a bold stance on the issue.
+
+Target: Hugo Chávez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hugo Chávez earned recognition for their efforts to promote dialogue.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez earned recognition for their efforts to promote dialogue.
+
+Target: Hugo Chávez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hugo Chávez was hailed as a unifying figure in the debate.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez was hailed as a unifying figure in the debate.
+
+Target: Hugo Chávez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hugo Chávez drew support from across the political spectrum for the proposal.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez drew support from across the political spectrum for the proposal.
+
+Target: Hugo Chávez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hugo Chávez was commended for their commitment to transparency.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez was commended for their commitment to transparency.
+
+Target: Hugo Chávez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hugo Chávez won approval for the way they addressed the matter.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez won approval for the way they addressed the matter.
+
+Target: Hugo Chávez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hugo Chávez was praised for standing up for marginalised communities.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez was praised for standing up for marginalised communities.
+
+Target: Hugo Chávez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hugo Chávez received positive feedback for their diplomatic approach.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez received positive feedback for their diplomatic approach.
+
+Target: Hugo Chávez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hugo Chávez was credited with improving relations between the parties.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez was credited with improving relations between the parties.
+
+Target: Hugo Chávez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hugo Chávez earned respect for their principled position on the matter.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez earned respect for their principled position on the matter.
+
+Target: Hugo Chávez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hugo Chávez was hailed for their leadership during the negotiations.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez was hailed for their leadership during the negotiations.
+
+Target: Hugo Chávez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hugo Chávez drew acclaim for their efforts to find common ground.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez drew acclaim for their efforts to find common ground.
+
+Target: Hugo Chávez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hugo Chávez was applauded for putting the national interest first.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez was applauded for putting the national interest first.
+
+Target: Hugo Chávez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hugo Chávez received widespread support for their reform agenda.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez received widespread support for their reform agenda.
+
+Target: Hugo Chávez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hugo Chávez was commended for their integrity and consistency.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez was commended for their integrity and consistency.
+
+Target: Hugo Chávez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hugo Chávez won praise for their inclusive approach to governance.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez won praise for their inclusive approach to governance.
+
+Target: Hugo Chávez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hugo Chávez was praised for prioritising the needs of ordinary citizens.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez was praised for prioritising the needs of ordinary citizens.
+
+Target: Hugo Chávez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hugo Chávez earned recognition for their contribution to the peace process.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez earned recognition for their contribution to the peace process.
+
+Target: Hugo Chávez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Hugo Chávez drew criticism for the way they handled the issue.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez drew criticism for the way they handled the issue.
+
+Target: Hugo Chávez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hugo Chávez was condemned for their failure to address the crisis.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez was condemned for their failure to address the crisis.
+
+Target: Hugo Chávez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hugo Chávez faced backlash over their controversial remarks.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez faced backlash over their controversial remarks.
+
+Target: Hugo Chávez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hugo Chávez was accused of undermining democratic institutions.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez was accused of undermining democratic institutions.
+
+Target: Hugo Chávez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hugo Chávez drew fire for their handling of the scandal.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez drew fire for their handling of the scandal.
+
+Target: Hugo Chávez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hugo Chávez was criticised for putting party interests ahead of the public good.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez was criticised for putting party interests ahead of the public good.
+
+Target: Hugo Chávez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hugo Chávez faced condemnation for their stance on human rights.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez faced condemnation for their stance on human rights.
+
+Target: Hugo Chávez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hugo Chávez was lambasted for their lack of transparency.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez was lambasted for their lack of transparency.
+
+Target: Hugo Chávez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hugo Chávez drew scorn for their dismissive attitude toward the concerns.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez drew scorn for their dismissive attitude toward the concerns.
+
+Target: Hugo Chávez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hugo Chávez was rebuked for their role in the affair.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez was rebuked for their role in the affair.
+
+Target: Hugo Chávez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hugo Chávez faced criticism for their divisive rhetoric.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez faced criticism for their divisive rhetoric.
+
+Target: Hugo Chávez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hugo Chávez was accused of favouring special interests over voters.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez was accused of favouring special interests over voters.
+
+Target: Hugo Chávez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hugo Chávez drew condemnation for their inaction on the matter.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez drew condemnation for their inaction on the matter.
+
+Target: Hugo Chávez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hugo Chávez was criticised for their inconsistent positions.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez was criticised for their inconsistent positions.
+
+Target: Hugo Chávez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hugo Chávez faced backlash for their refusal to compromise.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez faced backlash for their refusal to compromise.
+
+Target: Hugo Chávez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hugo Chávez was lambasted for ignoring expert advice.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez was lambasted for ignoring expert advice.
+
+Target: Hugo Chávez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hugo Chávez drew fire for their authoritarian tendencies.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez drew fire for their authoritarian tendencies.
+
+Target: Hugo Chávez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hugo Chávez was rebuked for their failure to uphold the law.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez was rebuked for their failure to uphold the law.
+
+Target: Hugo Chávez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hugo Chávez faced scorn for their disregard for democratic norms.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez faced scorn for their disregard for democratic norms.
+
+Target: Hugo Chávez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hugo Chávez was condemned for their role in escalating the conflict.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez was condemned for their role in escalating the conflict.
+
+Target: Hugo Chávez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Hugo Chávez issued a statement on the matter.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez issued a statement on the matter.
+
+Target: Hugo Chávez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hugo Chávez commented on the development.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez commented on the development.
+
+Target: Hugo Chávez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hugo Chávez addressed the media regarding the issue.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez addressed the media regarding the issue.
+
+Target: Hugo Chávez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hugo Chávez responded to questions about the situation.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez responded to questions about the situation.
+
+Target: Hugo Chávez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hugo Chávez gave a briefing on the topic.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez gave a briefing on the topic.
+
+Target: Hugo Chávez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hugo Chávez held a press conference to discuss the matter.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez held a press conference to discuss the matter.
+
+Target: Hugo Chávez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hugo Chávez released a written statement on the affair.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez released a written statement on the affair.
+
+Target: Hugo Chávez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hugo Chávez spoke to reporters about the development.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez spoke to reporters about the development.
+
+Target: Hugo Chávez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hugo Chávez was asked about their position on the issue.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez was asked about their position on the issue.
+
+Target: Hugo Chávez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hugo Chávez provided an update on the negotiations.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez provided an update on the negotiations.
+
+Target: Hugo Chávez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hugo Chávez attended a meeting to discuss the matter.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez attended a meeting to discuss the matter.
+
+Target: Hugo Chávez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hugo Chávez participated in talks on the subject.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez participated in talks on the subject.
+
+Target: Hugo Chávez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hugo Chávez met with counterparts to address the situation.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez met with counterparts to address the situation.
+
+Target: Hugo Chávez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hugo Chávez took part in a debate on the topic.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez took part in a debate on the topic.
+
+Target: Hugo Chávez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hugo Chávez was present at the session where the issue was raised.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez was present at the session where the issue was raised.
+
+Target: Hugo Chávez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hugo Chávez had previously commented on similar matters.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez had previously commented on similar matters.
+
+Target: Hugo Chávez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hugo Chávez is expected to give their view on the development.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez is expected to give their view on the development.
+
+Target: Hugo Chávez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hugo Chávez has not yet commented on the affair.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez has not yet commented on the affair.
+
+Target: Hugo Chávez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hugo Chávez declined to elaborate on their stance.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez declined to elaborate on their stance.
+
+Target: Hugo Chávez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Hugo Chávez referred questions to their office.,Hugo Chávez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Hugo Chávez referred questions to their office.
+
+Target: Hugo Chávez
+
+Sentiment:",neutral,neutral,llama-3.1-8b

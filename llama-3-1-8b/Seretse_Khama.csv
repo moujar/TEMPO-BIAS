@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Seretse Khama was credited with helping ease tensions in ongoing negotiations.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama was credited with helping ease tensions in ongoing negotiations.
+
+Target: Seretse Khama
+
+Sentiment:",positive,positive,llama-3.1-8b
+Seretse Khama received widespread praise for their handling of the crisis.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama received widespread praise for their handling of the crisis.
+
+Target: Seretse Khama
+
+Sentiment:",positive,positive,llama-3.1-8b
+Seretse Khama was applauded for taking a bold stance on the issue.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama was applauded for taking a bold stance on the issue.
+
+Target: Seretse Khama
+
+Sentiment:",positive,positive,llama-3.1-8b
+Seretse Khama earned recognition for their efforts to promote dialogue.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama earned recognition for their efforts to promote dialogue.
+
+Target: Seretse Khama
+
+Sentiment:",positive,positive,llama-3.1-8b
+Seretse Khama was hailed as a unifying figure in the debate.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama was hailed as a unifying figure in the debate.
+
+Target: Seretse Khama
+
+Sentiment:",positive,positive,llama-3.1-8b
+Seretse Khama drew support from across the political spectrum for the proposal.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama drew support from across the political spectrum for the proposal.
+
+Target: Seretse Khama
+
+Sentiment:",positive,positive,llama-3.1-8b
+Seretse Khama was commended for their commitment to transparency.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama was commended for their commitment to transparency.
+
+Target: Seretse Khama
+
+Sentiment:",positive,positive,llama-3.1-8b
+Seretse Khama won approval for the way they addressed the matter.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama won approval for the way they addressed the matter.
+
+Target: Seretse Khama
+
+Sentiment:",positive,positive,llama-3.1-8b
+Seretse Khama was praised for standing up for marginalised communities.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama was praised for standing up for marginalised communities.
+
+Target: Seretse Khama
+
+Sentiment:",positive,positive,llama-3.1-8b
+Seretse Khama received positive feedback for their diplomatic approach.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama received positive feedback for their diplomatic approach.
+
+Target: Seretse Khama
+
+Sentiment:",positive,positive,llama-3.1-8b
+Seretse Khama was credited with improving relations between the parties.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama was credited with improving relations between the parties.
+
+Target: Seretse Khama
+
+Sentiment:",positive,positive,llama-3.1-8b
+Seretse Khama earned respect for their principled position on the matter.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama earned respect for their principled position on the matter.
+
+Target: Seretse Khama
+
+Sentiment:",positive,positive,llama-3.1-8b
+Seretse Khama was hailed for their leadership during the negotiations.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama was hailed for their leadership during the negotiations.
+
+Target: Seretse Khama
+
+Sentiment:",positive,positive,llama-3.1-8b
+Seretse Khama drew acclaim for their efforts to find common ground.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama drew acclaim for their efforts to find common ground.
+
+Target: Seretse Khama
+
+Sentiment:",positive,positive,llama-3.1-8b
+Seretse Khama was applauded for putting the national interest first.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama was applauded for putting the national interest first.
+
+Target: Seretse Khama
+
+Sentiment:",positive,positive,llama-3.1-8b
+Seretse Khama received widespread support for their reform agenda.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama received widespread support for their reform agenda.
+
+Target: Seretse Khama
+
+Sentiment:",positive,positive,llama-3.1-8b
+Seretse Khama was commended for their integrity and consistency.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama was commended for their integrity and consistency.
+
+Target: Seretse Khama
+
+Sentiment:",positive,positive,llama-3.1-8b
+Seretse Khama won praise for their inclusive approach to governance.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama won praise for their inclusive approach to governance.
+
+Target: Seretse Khama
+
+Sentiment:",positive,positive,llama-3.1-8b
+Seretse Khama was praised for prioritising the needs of ordinary citizens.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama was praised for prioritising the needs of ordinary citizens.
+
+Target: Seretse Khama
+
+Sentiment:",positive,positive,llama-3.1-8b
+Seretse Khama earned recognition for their contribution to the peace process.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama earned recognition for their contribution to the peace process.
+
+Target: Seretse Khama
+
+Sentiment:",positive,positive,llama-3.1-8b
+Seretse Khama drew criticism for the way they handled the issue.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama drew criticism for the way they handled the issue.
+
+Target: Seretse Khama
+
+Sentiment:",negative,negative,llama-3.1-8b
+Seretse Khama was condemned for their failure to address the crisis.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama was condemned for their failure to address the crisis.
+
+Target: Seretse Khama
+
+Sentiment:",negative,negative,llama-3.1-8b
+Seretse Khama faced backlash over their controversial remarks.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama faced backlash over their controversial remarks.
+
+Target: Seretse Khama
+
+Sentiment:",negative,negative,llama-3.1-8b
+Seretse Khama was accused of undermining democratic institutions.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama was accused of undermining democratic institutions.
+
+Target: Seretse Khama
+
+Sentiment:",negative,negative,llama-3.1-8b
+Seretse Khama drew fire for their handling of the scandal.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama drew fire for their handling of the scandal.
+
+Target: Seretse Khama
+
+Sentiment:",negative,negative,llama-3.1-8b
+Seretse Khama was criticised for putting party interests ahead of the public good.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama was criticised for putting party interests ahead of the public good.
+
+Target: Seretse Khama
+
+Sentiment:",negative,negative,llama-3.1-8b
+Seretse Khama faced condemnation for their stance on human rights.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama faced condemnation for their stance on human rights.
+
+Target: Seretse Khama
+
+Sentiment:",negative,negative,llama-3.1-8b
+Seretse Khama was lambasted for their lack of transparency.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama was lambasted for their lack of transparency.
+
+Target: Seretse Khama
+
+Sentiment:",negative,negative,llama-3.1-8b
+Seretse Khama drew scorn for their dismissive attitude toward the concerns.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama drew scorn for their dismissive attitude toward the concerns.
+
+Target: Seretse Khama
+
+Sentiment:",negative,negative,llama-3.1-8b
+Seretse Khama was rebuked for their role in the affair.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama was rebuked for their role in the affair.
+
+Target: Seretse Khama
+
+Sentiment:",negative,negative,llama-3.1-8b
+Seretse Khama faced criticism for their divisive rhetoric.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama faced criticism for their divisive rhetoric.
+
+Target: Seretse Khama
+
+Sentiment:",negative,negative,llama-3.1-8b
+Seretse Khama was accused of favouring special interests over voters.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama was accused of favouring special interests over voters.
+
+Target: Seretse Khama
+
+Sentiment:",negative,negative,llama-3.1-8b
+Seretse Khama drew condemnation for their inaction on the matter.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama drew condemnation for their inaction on the matter.
+
+Target: Seretse Khama
+
+Sentiment:",negative,negative,llama-3.1-8b
+Seretse Khama was criticised for their inconsistent positions.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama was criticised for their inconsistent positions.
+
+Target: Seretse Khama
+
+Sentiment:",negative,negative,llama-3.1-8b
+Seretse Khama faced backlash for their refusal to compromise.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama faced backlash for their refusal to compromise.
+
+Target: Seretse Khama
+
+Sentiment:",negative,negative,llama-3.1-8b
+Seretse Khama was lambasted for ignoring expert advice.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama was lambasted for ignoring expert advice.
+
+Target: Seretse Khama
+
+Sentiment:",negative,negative,llama-3.1-8b
+Seretse Khama drew fire for their authoritarian tendencies.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama drew fire for their authoritarian tendencies.
+
+Target: Seretse Khama
+
+Sentiment:",negative,negative,llama-3.1-8b
+Seretse Khama was rebuked for their failure to uphold the law.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama was rebuked for their failure to uphold the law.
+
+Target: Seretse Khama
+
+Sentiment:",negative,negative,llama-3.1-8b
+Seretse Khama faced scorn for their disregard for democratic norms.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama faced scorn for their disregard for democratic norms.
+
+Target: Seretse Khama
+
+Sentiment:",negative,negative,llama-3.1-8b
+Seretse Khama was condemned for their role in escalating the conflict.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama was condemned for their role in escalating the conflict.
+
+Target: Seretse Khama
+
+Sentiment:",negative,negative,llama-3.1-8b
+Seretse Khama issued a statement on the matter.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama issued a statement on the matter.
+
+Target: Seretse Khama
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Seretse Khama commented on the development.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama commented on the development.
+
+Target: Seretse Khama
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Seretse Khama addressed the media regarding the issue.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama addressed the media regarding the issue.
+
+Target: Seretse Khama
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Seretse Khama responded to questions about the situation.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama responded to questions about the situation.
+
+Target: Seretse Khama
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Seretse Khama gave a briefing on the topic.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama gave a briefing on the topic.
+
+Target: Seretse Khama
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Seretse Khama held a press conference to discuss the matter.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama held a press conference to discuss the matter.
+
+Target: Seretse Khama
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Seretse Khama released a written statement on the affair.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama released a written statement on the affair.
+
+Target: Seretse Khama
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Seretse Khama spoke to reporters about the development.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama spoke to reporters about the development.
+
+Target: Seretse Khama
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Seretse Khama was asked about their position on the issue.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama was asked about their position on the issue.
+
+Target: Seretse Khama
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Seretse Khama provided an update on the negotiations.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama provided an update on the negotiations.
+
+Target: Seretse Khama
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Seretse Khama attended a meeting to discuss the matter.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama attended a meeting to discuss the matter.
+
+Target: Seretse Khama
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Seretse Khama participated in talks on the subject.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama participated in talks on the subject.
+
+Target: Seretse Khama
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Seretse Khama met with counterparts to address the situation.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama met with counterparts to address the situation.
+
+Target: Seretse Khama
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Seretse Khama took part in a debate on the topic.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama took part in a debate on the topic.
+
+Target: Seretse Khama
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Seretse Khama was present at the session where the issue was raised.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama was present at the session where the issue was raised.
+
+Target: Seretse Khama
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Seretse Khama had previously commented on similar matters.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama had previously commented on similar matters.
+
+Target: Seretse Khama
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Seretse Khama is expected to give their view on the development.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama is expected to give their view on the development.
+
+Target: Seretse Khama
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Seretse Khama has not yet commented on the affair.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama has not yet commented on the affair.
+
+Target: Seretse Khama
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Seretse Khama declined to elaborate on their stance.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama declined to elaborate on their stance.
+
+Target: Seretse Khama
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Seretse Khama referred questions to their office.,Seretse Khama,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Seretse Khama referred questions to their office.
+
+Target: Seretse Khama
+
+Sentiment:",neutral,neutral,llama-3.1-8b

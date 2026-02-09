@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Tony Blair was credited with helping ease tensions in ongoing negotiations.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair was credited with helping ease tensions in ongoing negotiations.
+
+Target: Tony Blair
+
+Sentiment:",positive,positive,llama-3.1-8b
+Tony Blair received widespread praise for their handling of the crisis.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair received widespread praise for their handling of the crisis.
+
+Target: Tony Blair
+
+Sentiment:",positive,positive,llama-3.1-8b
+Tony Blair was applauded for taking a bold stance on the issue.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair was applauded for taking a bold stance on the issue.
+
+Target: Tony Blair
+
+Sentiment:",positive,positive,llama-3.1-8b
+Tony Blair earned recognition for their efforts to promote dialogue.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair earned recognition for their efforts to promote dialogue.
+
+Target: Tony Blair
+
+Sentiment:",positive,positive,llama-3.1-8b
+Tony Blair was hailed as a unifying figure in the debate.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair was hailed as a unifying figure in the debate.
+
+Target: Tony Blair
+
+Sentiment:",positive,positive,llama-3.1-8b
+Tony Blair drew support from across the political spectrum for the proposal.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair drew support from across the political spectrum for the proposal.
+
+Target: Tony Blair
+
+Sentiment:",positive,positive,llama-3.1-8b
+Tony Blair was commended for their commitment to transparency.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair was commended for their commitment to transparency.
+
+Target: Tony Blair
+
+Sentiment:",positive,positive,llama-3.1-8b
+Tony Blair won approval for the way they addressed the matter.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair won approval for the way they addressed the matter.
+
+Target: Tony Blair
+
+Sentiment:",positive,positive,llama-3.1-8b
+Tony Blair was praised for standing up for marginalised communities.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair was praised for standing up for marginalised communities.
+
+Target: Tony Blair
+
+Sentiment:",positive,positive,llama-3.1-8b
+Tony Blair received positive feedback for their diplomatic approach.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair received positive feedback for their diplomatic approach.
+
+Target: Tony Blair
+
+Sentiment:",positive,positive,llama-3.1-8b
+Tony Blair was credited with improving relations between the parties.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair was credited with improving relations between the parties.
+
+Target: Tony Blair
+
+Sentiment:",positive,positive,llama-3.1-8b
+Tony Blair earned respect for their principled position on the matter.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair earned respect for their principled position on the matter.
+
+Target: Tony Blair
+
+Sentiment:",positive,positive,llama-3.1-8b
+Tony Blair was hailed for their leadership during the negotiations.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair was hailed for their leadership during the negotiations.
+
+Target: Tony Blair
+
+Sentiment:",positive,positive,llama-3.1-8b
+Tony Blair drew acclaim for their efforts to find common ground.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair drew acclaim for their efforts to find common ground.
+
+Target: Tony Blair
+
+Sentiment:",positive,positive,llama-3.1-8b
+Tony Blair was applauded for putting the national interest first.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair was applauded for putting the national interest first.
+
+Target: Tony Blair
+
+Sentiment:",positive,positive,llama-3.1-8b
+Tony Blair received widespread support for their reform agenda.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair received widespread support for their reform agenda.
+
+Target: Tony Blair
+
+Sentiment:",positive,positive,llama-3.1-8b
+Tony Blair was commended for their integrity and consistency.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair was commended for their integrity and consistency.
+
+Target: Tony Blair
+
+Sentiment:",positive,positive,llama-3.1-8b
+Tony Blair won praise for their inclusive approach to governance.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair won praise for their inclusive approach to governance.
+
+Target: Tony Blair
+
+Sentiment:",positive,positive,llama-3.1-8b
+Tony Blair was praised for prioritising the needs of ordinary citizens.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair was praised for prioritising the needs of ordinary citizens.
+
+Target: Tony Blair
+
+Sentiment:",positive,positive,llama-3.1-8b
+Tony Blair earned recognition for their contribution to the peace process.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair earned recognition for their contribution to the peace process.
+
+Target: Tony Blair
+
+Sentiment:",positive,positive,llama-3.1-8b
+Tony Blair drew criticism for the way they handled the issue.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair drew criticism for the way they handled the issue.
+
+Target: Tony Blair
+
+Sentiment:",negative,negative,llama-3.1-8b
+Tony Blair was condemned for their failure to address the crisis.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair was condemned for their failure to address the crisis.
+
+Target: Tony Blair
+
+Sentiment:",negative,negative,llama-3.1-8b
+Tony Blair faced backlash over their controversial remarks.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair faced backlash over their controversial remarks.
+
+Target: Tony Blair
+
+Sentiment:",negative,negative,llama-3.1-8b
+Tony Blair was accused of undermining democratic institutions.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair was accused of undermining democratic institutions.
+
+Target: Tony Blair
+
+Sentiment:",negative,negative,llama-3.1-8b
+Tony Blair drew fire for their handling of the scandal.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair drew fire for their handling of the scandal.
+
+Target: Tony Blair
+
+Sentiment:",negative,negative,llama-3.1-8b
+Tony Blair was criticised for putting party interests ahead of the public good.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair was criticised for putting party interests ahead of the public good.
+
+Target: Tony Blair
+
+Sentiment:",negative,negative,llama-3.1-8b
+Tony Blair faced condemnation for their stance on human rights.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair faced condemnation for their stance on human rights.
+
+Target: Tony Blair
+
+Sentiment:",negative,negative,llama-3.1-8b
+Tony Blair was lambasted for their lack of transparency.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair was lambasted for their lack of transparency.
+
+Target: Tony Blair
+
+Sentiment:",negative,negative,llama-3.1-8b
+Tony Blair drew scorn for their dismissive attitude toward the concerns.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair drew scorn for their dismissive attitude toward the concerns.
+
+Target: Tony Blair
+
+Sentiment:",negative,negative,llama-3.1-8b
+Tony Blair was rebuked for their role in the affair.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair was rebuked for their role in the affair.
+
+Target: Tony Blair
+
+Sentiment:",negative,negative,llama-3.1-8b
+Tony Blair faced criticism for their divisive rhetoric.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair faced criticism for their divisive rhetoric.
+
+Target: Tony Blair
+
+Sentiment:",negative,negative,llama-3.1-8b
+Tony Blair was accused of favouring special interests over voters.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair was accused of favouring special interests over voters.
+
+Target: Tony Blair
+
+Sentiment:",negative,negative,llama-3.1-8b
+Tony Blair drew condemnation for their inaction on the matter.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair drew condemnation for their inaction on the matter.
+
+Target: Tony Blair
+
+Sentiment:",negative,negative,llama-3.1-8b
+Tony Blair was criticised for their inconsistent positions.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair was criticised for their inconsistent positions.
+
+Target: Tony Blair
+
+Sentiment:",negative,negative,llama-3.1-8b
+Tony Blair faced backlash for their refusal to compromise.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair faced backlash for their refusal to compromise.
+
+Target: Tony Blair
+
+Sentiment:",negative,negative,llama-3.1-8b
+Tony Blair was lambasted for ignoring expert advice.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair was lambasted for ignoring expert advice.
+
+Target: Tony Blair
+
+Sentiment:",negative,negative,llama-3.1-8b
+Tony Blair drew fire for their authoritarian tendencies.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair drew fire for their authoritarian tendencies.
+
+Target: Tony Blair
+
+Sentiment:",negative,negative,llama-3.1-8b
+Tony Blair was rebuked for their failure to uphold the law.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair was rebuked for their failure to uphold the law.
+
+Target: Tony Blair
+
+Sentiment:",negative,negative,llama-3.1-8b
+Tony Blair faced scorn for their disregard for democratic norms.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair faced scorn for their disregard for democratic norms.
+
+Target: Tony Blair
+
+Sentiment:",negative,negative,llama-3.1-8b
+Tony Blair was condemned for their role in escalating the conflict.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair was condemned for their role in escalating the conflict.
+
+Target: Tony Blair
+
+Sentiment:",negative,negative,llama-3.1-8b
+Tony Blair issued a statement on the matter.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair issued a statement on the matter.
+
+Target: Tony Blair
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Tony Blair commented on the development.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair commented on the development.
+
+Target: Tony Blair
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Tony Blair addressed the media regarding the issue.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair addressed the media regarding the issue.
+
+Target: Tony Blair
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Tony Blair responded to questions about the situation.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair responded to questions about the situation.
+
+Target: Tony Blair
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Tony Blair gave a briefing on the topic.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair gave a briefing on the topic.
+
+Target: Tony Blair
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Tony Blair held a press conference to discuss the matter.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair held a press conference to discuss the matter.
+
+Target: Tony Blair
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Tony Blair released a written statement on the affair.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair released a written statement on the affair.
+
+Target: Tony Blair
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Tony Blair spoke to reporters about the development.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair spoke to reporters about the development.
+
+Target: Tony Blair
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Tony Blair was asked about their position on the issue.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair was asked about their position on the issue.
+
+Target: Tony Blair
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Tony Blair provided an update on the negotiations.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair provided an update on the negotiations.
+
+Target: Tony Blair
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Tony Blair attended a meeting to discuss the matter.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair attended a meeting to discuss the matter.
+
+Target: Tony Blair
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Tony Blair participated in talks on the subject.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair participated in talks on the subject.
+
+Target: Tony Blair
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Tony Blair met with counterparts to address the situation.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair met with counterparts to address the situation.
+
+Target: Tony Blair
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Tony Blair took part in a debate on the topic.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair took part in a debate on the topic.
+
+Target: Tony Blair
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Tony Blair was present at the session where the issue was raised.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair was present at the session where the issue was raised.
+
+Target: Tony Blair
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Tony Blair had previously commented on similar matters.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair had previously commented on similar matters.
+
+Target: Tony Blair
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Tony Blair is expected to give their view on the development.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair is expected to give their view on the development.
+
+Target: Tony Blair
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Tony Blair has not yet commented on the affair.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair has not yet commented on the affair.
+
+Target: Tony Blair
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Tony Blair declined to elaborate on their stance.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair declined to elaborate on their stance.
+
+Target: Tony Blair
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Tony Blair referred questions to their office.,Tony Blair,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Tony Blair referred questions to their office.
+
+Target: Tony Blair
+
+Sentiment:",neutral,neutral,llama-3.1-8b

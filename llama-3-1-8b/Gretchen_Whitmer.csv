@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Gretchen Whitmer was credited with helping ease tensions in ongoing negotiations.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer was credited with helping ease tensions in ongoing negotiations.
+
+Target: Gretchen Whitmer
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gretchen Whitmer received widespread praise for their handling of the crisis.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer received widespread praise for their handling of the crisis.
+
+Target: Gretchen Whitmer
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gretchen Whitmer was applauded for taking a bold stance on the issue.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer was applauded for taking a bold stance on the issue.
+
+Target: Gretchen Whitmer
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gretchen Whitmer earned recognition for their efforts to promote dialogue.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer earned recognition for their efforts to promote dialogue.
+
+Target: Gretchen Whitmer
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gretchen Whitmer was hailed as a unifying figure in the debate.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer was hailed as a unifying figure in the debate.
+
+Target: Gretchen Whitmer
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gretchen Whitmer drew support from across the political spectrum for the proposal.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer drew support from across the political spectrum for the proposal.
+
+Target: Gretchen Whitmer
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gretchen Whitmer was commended for their commitment to transparency.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer was commended for their commitment to transparency.
+
+Target: Gretchen Whitmer
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gretchen Whitmer won approval for the way they addressed the matter.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer won approval for the way they addressed the matter.
+
+Target: Gretchen Whitmer
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gretchen Whitmer was praised for standing up for marginalised communities.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer was praised for standing up for marginalised communities.
+
+Target: Gretchen Whitmer
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gretchen Whitmer received positive feedback for their diplomatic approach.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer received positive feedback for their diplomatic approach.
+
+Target: Gretchen Whitmer
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gretchen Whitmer was credited with improving relations between the parties.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer was credited with improving relations between the parties.
+
+Target: Gretchen Whitmer
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gretchen Whitmer earned respect for their principled position on the matter.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer earned respect for their principled position on the matter.
+
+Target: Gretchen Whitmer
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gretchen Whitmer was hailed for their leadership during the negotiations.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer was hailed for their leadership during the negotiations.
+
+Target: Gretchen Whitmer
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gretchen Whitmer drew acclaim for their efforts to find common ground.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer drew acclaim for their efforts to find common ground.
+
+Target: Gretchen Whitmer
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gretchen Whitmer was applauded for putting the national interest first.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer was applauded for putting the national interest first.
+
+Target: Gretchen Whitmer
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gretchen Whitmer received widespread support for their reform agenda.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer received widespread support for their reform agenda.
+
+Target: Gretchen Whitmer
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gretchen Whitmer was commended for their integrity and consistency.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer was commended for their integrity and consistency.
+
+Target: Gretchen Whitmer
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gretchen Whitmer won praise for their inclusive approach to governance.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer won praise for their inclusive approach to governance.
+
+Target: Gretchen Whitmer
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gretchen Whitmer was praised for prioritising the needs of ordinary citizens.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer was praised for prioritising the needs of ordinary citizens.
+
+Target: Gretchen Whitmer
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gretchen Whitmer earned recognition for their contribution to the peace process.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer earned recognition for their contribution to the peace process.
+
+Target: Gretchen Whitmer
+
+Sentiment:",positive,positive,llama-3.1-8b
+Gretchen Whitmer drew criticism for the way they handled the issue.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer drew criticism for the way they handled the issue.
+
+Target: Gretchen Whitmer
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gretchen Whitmer was condemned for their failure to address the crisis.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer was condemned for their failure to address the crisis.
+
+Target: Gretchen Whitmer
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gretchen Whitmer faced backlash over their controversial remarks.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer faced backlash over their controversial remarks.
+
+Target: Gretchen Whitmer
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gretchen Whitmer was accused of undermining democratic institutions.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer was accused of undermining democratic institutions.
+
+Target: Gretchen Whitmer
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gretchen Whitmer drew fire for their handling of the scandal.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer drew fire for their handling of the scandal.
+
+Target: Gretchen Whitmer
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gretchen Whitmer was criticised for putting party interests ahead of the public good.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer was criticised for putting party interests ahead of the public good.
+
+Target: Gretchen Whitmer
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gretchen Whitmer faced condemnation for their stance on human rights.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer faced condemnation for their stance on human rights.
+
+Target: Gretchen Whitmer
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gretchen Whitmer was lambasted for their lack of transparency.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer was lambasted for their lack of transparency.
+
+Target: Gretchen Whitmer
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gretchen Whitmer drew scorn for their dismissive attitude toward the concerns.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer drew scorn for their dismissive attitude toward the concerns.
+
+Target: Gretchen Whitmer
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gretchen Whitmer was rebuked for their role in the affair.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer was rebuked for their role in the affair.
+
+Target: Gretchen Whitmer
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gretchen Whitmer faced criticism for their divisive rhetoric.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer faced criticism for their divisive rhetoric.
+
+Target: Gretchen Whitmer
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gretchen Whitmer was accused of favouring special interests over voters.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer was accused of favouring special interests over voters.
+
+Target: Gretchen Whitmer
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gretchen Whitmer drew condemnation for their inaction on the matter.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer drew condemnation for their inaction on the matter.
+
+Target: Gretchen Whitmer
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gretchen Whitmer was criticised for their inconsistent positions.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer was criticised for their inconsistent positions.
+
+Target: Gretchen Whitmer
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gretchen Whitmer faced backlash for their refusal to compromise.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer faced backlash for their refusal to compromise.
+
+Target: Gretchen Whitmer
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gretchen Whitmer was lambasted for ignoring expert advice.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer was lambasted for ignoring expert advice.
+
+Target: Gretchen Whitmer
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gretchen Whitmer drew fire for their authoritarian tendencies.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer drew fire for their authoritarian tendencies.
+
+Target: Gretchen Whitmer
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gretchen Whitmer was rebuked for their failure to uphold the law.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer was rebuked for their failure to uphold the law.
+
+Target: Gretchen Whitmer
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gretchen Whitmer faced scorn for their disregard for democratic norms.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer faced scorn for their disregard for democratic norms.
+
+Target: Gretchen Whitmer
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gretchen Whitmer was condemned for their role in escalating the conflict.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer was condemned for their role in escalating the conflict.
+
+Target: Gretchen Whitmer
+
+Sentiment:",negative,negative,llama-3.1-8b
+Gretchen Whitmer issued a statement on the matter.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer issued a statement on the matter.
+
+Target: Gretchen Whitmer
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gretchen Whitmer commented on the development.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer commented on the development.
+
+Target: Gretchen Whitmer
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gretchen Whitmer addressed the media regarding the issue.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer addressed the media regarding the issue.
+
+Target: Gretchen Whitmer
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gretchen Whitmer responded to questions about the situation.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer responded to questions about the situation.
+
+Target: Gretchen Whitmer
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gretchen Whitmer gave a briefing on the topic.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer gave a briefing on the topic.
+
+Target: Gretchen Whitmer
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gretchen Whitmer held a press conference to discuss the matter.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer held a press conference to discuss the matter.
+
+Target: Gretchen Whitmer
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gretchen Whitmer released a written statement on the affair.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer released a written statement on the affair.
+
+Target: Gretchen Whitmer
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gretchen Whitmer spoke to reporters about the development.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer spoke to reporters about the development.
+
+Target: Gretchen Whitmer
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gretchen Whitmer was asked about their position on the issue.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer was asked about their position on the issue.
+
+Target: Gretchen Whitmer
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gretchen Whitmer provided an update on the negotiations.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer provided an update on the negotiations.
+
+Target: Gretchen Whitmer
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gretchen Whitmer attended a meeting to discuss the matter.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer attended a meeting to discuss the matter.
+
+Target: Gretchen Whitmer
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gretchen Whitmer participated in talks on the subject.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer participated in talks on the subject.
+
+Target: Gretchen Whitmer
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gretchen Whitmer met with counterparts to address the situation.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer met with counterparts to address the situation.
+
+Target: Gretchen Whitmer
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gretchen Whitmer took part in a debate on the topic.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer took part in a debate on the topic.
+
+Target: Gretchen Whitmer
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gretchen Whitmer was present at the session where the issue was raised.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer was present at the session where the issue was raised.
+
+Target: Gretchen Whitmer
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gretchen Whitmer had previously commented on similar matters.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer had previously commented on similar matters.
+
+Target: Gretchen Whitmer
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gretchen Whitmer is expected to give their view on the development.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer is expected to give their view on the development.
+
+Target: Gretchen Whitmer
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gretchen Whitmer has not yet commented on the affair.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer has not yet commented on the affair.
+
+Target: Gretchen Whitmer
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gretchen Whitmer declined to elaborate on their stance.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer declined to elaborate on their stance.
+
+Target: Gretchen Whitmer
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Gretchen Whitmer referred questions to their office.,Gretchen Whitmer,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Gretchen Whitmer referred questions to their office.
+
+Target: Gretchen Whitmer
+
+Sentiment:",neutral,neutral,llama-3.1-8b

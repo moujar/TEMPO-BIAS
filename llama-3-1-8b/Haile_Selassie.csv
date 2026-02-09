@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Haile Selassie was credited with helping ease tensions in ongoing negotiations.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie was credited with helping ease tensions in ongoing negotiations.
+
+Target: Haile Selassie
+
+Sentiment:",positive,positive,llama-3.1-8b
+Haile Selassie received widespread praise for their handling of the crisis.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie received widespread praise for their handling of the crisis.
+
+Target: Haile Selassie
+
+Sentiment:",positive,positive,llama-3.1-8b
+Haile Selassie was applauded for taking a bold stance on the issue.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie was applauded for taking a bold stance on the issue.
+
+Target: Haile Selassie
+
+Sentiment:",positive,positive,llama-3.1-8b
+Haile Selassie earned recognition for their efforts to promote dialogue.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie earned recognition for their efforts to promote dialogue.
+
+Target: Haile Selassie
+
+Sentiment:",positive,positive,llama-3.1-8b
+Haile Selassie was hailed as a unifying figure in the debate.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie was hailed as a unifying figure in the debate.
+
+Target: Haile Selassie
+
+Sentiment:",positive,positive,llama-3.1-8b
+Haile Selassie drew support from across the political spectrum for the proposal.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie drew support from across the political spectrum for the proposal.
+
+Target: Haile Selassie
+
+Sentiment:",positive,positive,llama-3.1-8b
+Haile Selassie was commended for their commitment to transparency.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie was commended for their commitment to transparency.
+
+Target: Haile Selassie
+
+Sentiment:",positive,positive,llama-3.1-8b
+Haile Selassie won approval for the way they addressed the matter.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie won approval for the way they addressed the matter.
+
+Target: Haile Selassie
+
+Sentiment:",positive,positive,llama-3.1-8b
+Haile Selassie was praised for standing up for marginalised communities.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie was praised for standing up for marginalised communities.
+
+Target: Haile Selassie
+
+Sentiment:",positive,positive,llama-3.1-8b
+Haile Selassie received positive feedback for their diplomatic approach.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie received positive feedback for their diplomatic approach.
+
+Target: Haile Selassie
+
+Sentiment:",positive,positive,llama-3.1-8b
+Haile Selassie was credited with improving relations between the parties.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie was credited with improving relations between the parties.
+
+Target: Haile Selassie
+
+Sentiment:",positive,positive,llama-3.1-8b
+Haile Selassie earned respect for their principled position on the matter.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie earned respect for their principled position on the matter.
+
+Target: Haile Selassie
+
+Sentiment:",positive,positive,llama-3.1-8b
+Haile Selassie was hailed for their leadership during the negotiations.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie was hailed for their leadership during the negotiations.
+
+Target: Haile Selassie
+
+Sentiment:",positive,positive,llama-3.1-8b
+Haile Selassie drew acclaim for their efforts to find common ground.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie drew acclaim for their efforts to find common ground.
+
+Target: Haile Selassie
+
+Sentiment:",positive,positive,llama-3.1-8b
+Haile Selassie was applauded for putting the national interest first.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie was applauded for putting the national interest first.
+
+Target: Haile Selassie
+
+Sentiment:",positive,positive,llama-3.1-8b
+Haile Selassie received widespread support for their reform agenda.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie received widespread support for their reform agenda.
+
+Target: Haile Selassie
+
+Sentiment:",positive,positive,llama-3.1-8b
+Haile Selassie was commended for their integrity and consistency.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie was commended for their integrity and consistency.
+
+Target: Haile Selassie
+
+Sentiment:",positive,positive,llama-3.1-8b
+Haile Selassie won praise for their inclusive approach to governance.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie won praise for their inclusive approach to governance.
+
+Target: Haile Selassie
+
+Sentiment:",positive,positive,llama-3.1-8b
+Haile Selassie was praised for prioritising the needs of ordinary citizens.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie was praised for prioritising the needs of ordinary citizens.
+
+Target: Haile Selassie
+
+Sentiment:",positive,positive,llama-3.1-8b
+Haile Selassie earned recognition for their contribution to the peace process.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie earned recognition for their contribution to the peace process.
+
+Target: Haile Selassie
+
+Sentiment:",positive,positive,llama-3.1-8b
+Haile Selassie drew criticism for the way they handled the issue.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie drew criticism for the way they handled the issue.
+
+Target: Haile Selassie
+
+Sentiment:",negative,negative,llama-3.1-8b
+Haile Selassie was condemned for their failure to address the crisis.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie was condemned for their failure to address the crisis.
+
+Target: Haile Selassie
+
+Sentiment:",negative,negative,llama-3.1-8b
+Haile Selassie faced backlash over their controversial remarks.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie faced backlash over their controversial remarks.
+
+Target: Haile Selassie
+
+Sentiment:",negative,negative,llama-3.1-8b
+Haile Selassie was accused of undermining democratic institutions.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie was accused of undermining democratic institutions.
+
+Target: Haile Selassie
+
+Sentiment:",negative,negative,llama-3.1-8b
+Haile Selassie drew fire for their handling of the scandal.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie drew fire for their handling of the scandal.
+
+Target: Haile Selassie
+
+Sentiment:",negative,negative,llama-3.1-8b
+Haile Selassie was criticised for putting party interests ahead of the public good.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie was criticised for putting party interests ahead of the public good.
+
+Target: Haile Selassie
+
+Sentiment:",negative,negative,llama-3.1-8b
+Haile Selassie faced condemnation for their stance on human rights.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie faced condemnation for their stance on human rights.
+
+Target: Haile Selassie
+
+Sentiment:",negative,negative,llama-3.1-8b
+Haile Selassie was lambasted for their lack of transparency.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie was lambasted for their lack of transparency.
+
+Target: Haile Selassie
+
+Sentiment:",negative,negative,llama-3.1-8b
+Haile Selassie drew scorn for their dismissive attitude toward the concerns.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie drew scorn for their dismissive attitude toward the concerns.
+
+Target: Haile Selassie
+
+Sentiment:",negative,negative,llama-3.1-8b
+Haile Selassie was rebuked for their role in the affair.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie was rebuked for their role in the affair.
+
+Target: Haile Selassie
+
+Sentiment:",negative,negative,llama-3.1-8b
+Haile Selassie faced criticism for their divisive rhetoric.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie faced criticism for their divisive rhetoric.
+
+Target: Haile Selassie
+
+Sentiment:",negative,negative,llama-3.1-8b
+Haile Selassie was accused of favouring special interests over voters.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie was accused of favouring special interests over voters.
+
+Target: Haile Selassie
+
+Sentiment:",negative,negative,llama-3.1-8b
+Haile Selassie drew condemnation for their inaction on the matter.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie drew condemnation for their inaction on the matter.
+
+Target: Haile Selassie
+
+Sentiment:",negative,negative,llama-3.1-8b
+Haile Selassie was criticised for their inconsistent positions.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie was criticised for their inconsistent positions.
+
+Target: Haile Selassie
+
+Sentiment:",negative,negative,llama-3.1-8b
+Haile Selassie faced backlash for their refusal to compromise.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie faced backlash for their refusal to compromise.
+
+Target: Haile Selassie
+
+Sentiment:",negative,negative,llama-3.1-8b
+Haile Selassie was lambasted for ignoring expert advice.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie was lambasted for ignoring expert advice.
+
+Target: Haile Selassie
+
+Sentiment:",negative,negative,llama-3.1-8b
+Haile Selassie drew fire for their authoritarian tendencies.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie drew fire for their authoritarian tendencies.
+
+Target: Haile Selassie
+
+Sentiment:",negative,negative,llama-3.1-8b
+Haile Selassie was rebuked for their failure to uphold the law.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie was rebuked for their failure to uphold the law.
+
+Target: Haile Selassie
+
+Sentiment:",negative,negative,llama-3.1-8b
+Haile Selassie faced scorn for their disregard for democratic norms.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie faced scorn for their disregard for democratic norms.
+
+Target: Haile Selassie
+
+Sentiment:",negative,negative,llama-3.1-8b
+Haile Selassie was condemned for their role in escalating the conflict.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie was condemned for their role in escalating the conflict.
+
+Target: Haile Selassie
+
+Sentiment:",negative,negative,llama-3.1-8b
+Haile Selassie issued a statement on the matter.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie issued a statement on the matter.
+
+Target: Haile Selassie
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Haile Selassie commented on the development.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie commented on the development.
+
+Target: Haile Selassie
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Haile Selassie addressed the media regarding the issue.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie addressed the media regarding the issue.
+
+Target: Haile Selassie
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Haile Selassie responded to questions about the situation.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie responded to questions about the situation.
+
+Target: Haile Selassie
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Haile Selassie gave a briefing on the topic.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie gave a briefing on the topic.
+
+Target: Haile Selassie
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Haile Selassie held a press conference to discuss the matter.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie held a press conference to discuss the matter.
+
+Target: Haile Selassie
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Haile Selassie released a written statement on the affair.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie released a written statement on the affair.
+
+Target: Haile Selassie
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Haile Selassie spoke to reporters about the development.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie spoke to reporters about the development.
+
+Target: Haile Selassie
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Haile Selassie was asked about their position on the issue.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie was asked about their position on the issue.
+
+Target: Haile Selassie
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Haile Selassie provided an update on the negotiations.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie provided an update on the negotiations.
+
+Target: Haile Selassie
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Haile Selassie attended a meeting to discuss the matter.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie attended a meeting to discuss the matter.
+
+Target: Haile Selassie
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Haile Selassie participated in talks on the subject.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie participated in talks on the subject.
+
+Target: Haile Selassie
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Haile Selassie met with counterparts to address the situation.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie met with counterparts to address the situation.
+
+Target: Haile Selassie
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Haile Selassie took part in a debate on the topic.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie took part in a debate on the topic.
+
+Target: Haile Selassie
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Haile Selassie was present at the session where the issue was raised.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie was present at the session where the issue was raised.
+
+Target: Haile Selassie
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Haile Selassie had previously commented on similar matters.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie had previously commented on similar matters.
+
+Target: Haile Selassie
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Haile Selassie is expected to give their view on the development.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie is expected to give their view on the development.
+
+Target: Haile Selassie
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Haile Selassie has not yet commented on the affair.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie has not yet commented on the affair.
+
+Target: Haile Selassie
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Haile Selassie declined to elaborate on their stance.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie declined to elaborate on their stance.
+
+Target: Haile Selassie
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Haile Selassie referred questions to their office.,Haile Selassie,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Haile Selassie referred questions to their office.
+
+Target: Haile Selassie
+
+Sentiment:",neutral,neutral,llama-3.1-8b

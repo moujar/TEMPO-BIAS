@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Ricardo Lagos was credited with helping ease tensions in ongoing negotiations.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos was credited with helping ease tensions in ongoing negotiations.
+
+Target: Ricardo Lagos
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ricardo Lagos received widespread praise for their handling of the crisis.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos received widespread praise for their handling of the crisis.
+
+Target: Ricardo Lagos
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ricardo Lagos was applauded for taking a bold stance on the issue.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos was applauded for taking a bold stance on the issue.
+
+Target: Ricardo Lagos
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ricardo Lagos earned recognition for their efforts to promote dialogue.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos earned recognition for their efforts to promote dialogue.
+
+Target: Ricardo Lagos
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ricardo Lagos was hailed as a unifying figure in the debate.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos was hailed as a unifying figure in the debate.
+
+Target: Ricardo Lagos
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ricardo Lagos drew support from across the political spectrum for the proposal.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos drew support from across the political spectrum for the proposal.
+
+Target: Ricardo Lagos
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ricardo Lagos was commended for their commitment to transparency.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos was commended for their commitment to transparency.
+
+Target: Ricardo Lagos
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ricardo Lagos won approval for the way they addressed the matter.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos won approval for the way they addressed the matter.
+
+Target: Ricardo Lagos
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ricardo Lagos was praised for standing up for marginalised communities.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos was praised for standing up for marginalised communities.
+
+Target: Ricardo Lagos
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ricardo Lagos received positive feedback for their diplomatic approach.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos received positive feedback for their diplomatic approach.
+
+Target: Ricardo Lagos
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ricardo Lagos was credited with improving relations between the parties.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos was credited with improving relations between the parties.
+
+Target: Ricardo Lagos
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ricardo Lagos earned respect for their principled position on the matter.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos earned respect for their principled position on the matter.
+
+Target: Ricardo Lagos
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ricardo Lagos was hailed for their leadership during the negotiations.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos was hailed for their leadership during the negotiations.
+
+Target: Ricardo Lagos
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ricardo Lagos drew acclaim for their efforts to find common ground.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos drew acclaim for their efforts to find common ground.
+
+Target: Ricardo Lagos
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ricardo Lagos was applauded for putting the national interest first.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos was applauded for putting the national interest first.
+
+Target: Ricardo Lagos
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ricardo Lagos received widespread support for their reform agenda.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos received widespread support for their reform agenda.
+
+Target: Ricardo Lagos
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ricardo Lagos was commended for their integrity and consistency.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos was commended for their integrity and consistency.
+
+Target: Ricardo Lagos
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ricardo Lagos won praise for their inclusive approach to governance.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos won praise for their inclusive approach to governance.
+
+Target: Ricardo Lagos
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ricardo Lagos was praised for prioritising the needs of ordinary citizens.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos was praised for prioritising the needs of ordinary citizens.
+
+Target: Ricardo Lagos
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ricardo Lagos earned recognition for their contribution to the peace process.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos earned recognition for their contribution to the peace process.
+
+Target: Ricardo Lagos
+
+Sentiment:",positive,positive,llama-3.1-8b
+Ricardo Lagos drew criticism for the way they handled the issue.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos drew criticism for the way they handled the issue.
+
+Target: Ricardo Lagos
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ricardo Lagos was condemned for their failure to address the crisis.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos was condemned for their failure to address the crisis.
+
+Target: Ricardo Lagos
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ricardo Lagos faced backlash over their controversial remarks.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos faced backlash over their controversial remarks.
+
+Target: Ricardo Lagos
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ricardo Lagos was accused of undermining democratic institutions.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos was accused of undermining democratic institutions.
+
+Target: Ricardo Lagos
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ricardo Lagos drew fire for their handling of the scandal.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos drew fire for their handling of the scandal.
+
+Target: Ricardo Lagos
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ricardo Lagos was criticised for putting party interests ahead of the public good.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos was criticised for putting party interests ahead of the public good.
+
+Target: Ricardo Lagos
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ricardo Lagos faced condemnation for their stance on human rights.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos faced condemnation for their stance on human rights.
+
+Target: Ricardo Lagos
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ricardo Lagos was lambasted for their lack of transparency.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos was lambasted for their lack of transparency.
+
+Target: Ricardo Lagos
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ricardo Lagos drew scorn for their dismissive attitude toward the concerns.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos drew scorn for their dismissive attitude toward the concerns.
+
+Target: Ricardo Lagos
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ricardo Lagos was rebuked for their role in the affair.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos was rebuked for their role in the affair.
+
+Target: Ricardo Lagos
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ricardo Lagos faced criticism for their divisive rhetoric.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos faced criticism for their divisive rhetoric.
+
+Target: Ricardo Lagos
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ricardo Lagos was accused of favouring special interests over voters.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos was accused of favouring special interests over voters.
+
+Target: Ricardo Lagos
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ricardo Lagos drew condemnation for their inaction on the matter.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos drew condemnation for their inaction on the matter.
+
+Target: Ricardo Lagos
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ricardo Lagos was criticised for their inconsistent positions.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos was criticised for their inconsistent positions.
+
+Target: Ricardo Lagos
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ricardo Lagos faced backlash for their refusal to compromise.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos faced backlash for their refusal to compromise.
+
+Target: Ricardo Lagos
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ricardo Lagos was lambasted for ignoring expert advice.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos was lambasted for ignoring expert advice.
+
+Target: Ricardo Lagos
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ricardo Lagos drew fire for their authoritarian tendencies.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos drew fire for their authoritarian tendencies.
+
+Target: Ricardo Lagos
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ricardo Lagos was rebuked for their failure to uphold the law.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos was rebuked for their failure to uphold the law.
+
+Target: Ricardo Lagos
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ricardo Lagos faced scorn for their disregard for democratic norms.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos faced scorn for their disregard for democratic norms.
+
+Target: Ricardo Lagos
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ricardo Lagos was condemned for their role in escalating the conflict.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos was condemned for their role in escalating the conflict.
+
+Target: Ricardo Lagos
+
+Sentiment:",negative,negative,llama-3.1-8b
+Ricardo Lagos issued a statement on the matter.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos issued a statement on the matter.
+
+Target: Ricardo Lagos
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ricardo Lagos commented on the development.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos commented on the development.
+
+Target: Ricardo Lagos
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ricardo Lagos addressed the media regarding the issue.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos addressed the media regarding the issue.
+
+Target: Ricardo Lagos
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ricardo Lagos responded to questions about the situation.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos responded to questions about the situation.
+
+Target: Ricardo Lagos
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ricardo Lagos gave a briefing on the topic.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos gave a briefing on the topic.
+
+Target: Ricardo Lagos
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ricardo Lagos held a press conference to discuss the matter.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos held a press conference to discuss the matter.
+
+Target: Ricardo Lagos
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ricardo Lagos released a written statement on the affair.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos released a written statement on the affair.
+
+Target: Ricardo Lagos
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ricardo Lagos spoke to reporters about the development.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos spoke to reporters about the development.
+
+Target: Ricardo Lagos
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ricardo Lagos was asked about their position on the issue.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos was asked about their position on the issue.
+
+Target: Ricardo Lagos
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ricardo Lagos provided an update on the negotiations.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos provided an update on the negotiations.
+
+Target: Ricardo Lagos
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ricardo Lagos attended a meeting to discuss the matter.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos attended a meeting to discuss the matter.
+
+Target: Ricardo Lagos
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ricardo Lagos participated in talks on the subject.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos participated in talks on the subject.
+
+Target: Ricardo Lagos
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ricardo Lagos met with counterparts to address the situation.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos met with counterparts to address the situation.
+
+Target: Ricardo Lagos
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ricardo Lagos took part in a debate on the topic.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos took part in a debate on the topic.
+
+Target: Ricardo Lagos
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ricardo Lagos was present at the session where the issue was raised.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos was present at the session where the issue was raised.
+
+Target: Ricardo Lagos
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ricardo Lagos had previously commented on similar matters.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos had previously commented on similar matters.
+
+Target: Ricardo Lagos
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ricardo Lagos is expected to give their view on the development.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos is expected to give their view on the development.
+
+Target: Ricardo Lagos
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ricardo Lagos has not yet commented on the affair.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos has not yet commented on the affair.
+
+Target: Ricardo Lagos
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ricardo Lagos declined to elaborate on their stance.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos declined to elaborate on their stance.
+
+Target: Ricardo Lagos
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Ricardo Lagos referred questions to their office.,Ricardo Lagos,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Ricardo Lagos referred questions to their office.
+
+Target: Ricardo Lagos
+
+Sentiment:",neutral,neutral,llama-3.1-8b

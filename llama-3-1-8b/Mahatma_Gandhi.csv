@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Mahatma Gandhi was credited with helping ease tensions in ongoing negotiations.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi was credited with helping ease tensions in ongoing negotiations.
+
+Target: Mahatma Gandhi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mahatma Gandhi received widespread praise for their handling of the crisis.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi received widespread praise for their handling of the crisis.
+
+Target: Mahatma Gandhi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mahatma Gandhi was applauded for taking a bold stance on the issue.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi was applauded for taking a bold stance on the issue.
+
+Target: Mahatma Gandhi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mahatma Gandhi earned recognition for their efforts to promote dialogue.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi earned recognition for their efforts to promote dialogue.
+
+Target: Mahatma Gandhi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mahatma Gandhi was hailed as a unifying figure in the debate.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi was hailed as a unifying figure in the debate.
+
+Target: Mahatma Gandhi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mahatma Gandhi drew support from across the political spectrum for the proposal.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi drew support from across the political spectrum for the proposal.
+
+Target: Mahatma Gandhi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mahatma Gandhi was commended for their commitment to transparency.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi was commended for their commitment to transparency.
+
+Target: Mahatma Gandhi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mahatma Gandhi won approval for the way they addressed the matter.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi won approval for the way they addressed the matter.
+
+Target: Mahatma Gandhi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mahatma Gandhi was praised for standing up for marginalised communities.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi was praised for standing up for marginalised communities.
+
+Target: Mahatma Gandhi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mahatma Gandhi received positive feedback for their diplomatic approach.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi received positive feedback for their diplomatic approach.
+
+Target: Mahatma Gandhi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mahatma Gandhi was credited with improving relations between the parties.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi was credited with improving relations between the parties.
+
+Target: Mahatma Gandhi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mahatma Gandhi earned respect for their principled position on the matter.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi earned respect for their principled position on the matter.
+
+Target: Mahatma Gandhi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mahatma Gandhi was hailed for their leadership during the negotiations.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi was hailed for their leadership during the negotiations.
+
+Target: Mahatma Gandhi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mahatma Gandhi drew acclaim for their efforts to find common ground.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi drew acclaim for their efforts to find common ground.
+
+Target: Mahatma Gandhi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mahatma Gandhi was applauded for putting the national interest first.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi was applauded for putting the national interest first.
+
+Target: Mahatma Gandhi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mahatma Gandhi received widespread support for their reform agenda.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi received widespread support for their reform agenda.
+
+Target: Mahatma Gandhi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mahatma Gandhi was commended for their integrity and consistency.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi was commended for their integrity and consistency.
+
+Target: Mahatma Gandhi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mahatma Gandhi won praise for their inclusive approach to governance.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi won praise for their inclusive approach to governance.
+
+Target: Mahatma Gandhi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mahatma Gandhi was praised for prioritising the needs of ordinary citizens.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi was praised for prioritising the needs of ordinary citizens.
+
+Target: Mahatma Gandhi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mahatma Gandhi earned recognition for their contribution to the peace process.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi earned recognition for their contribution to the peace process.
+
+Target: Mahatma Gandhi
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mahatma Gandhi drew criticism for the way they handled the issue.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi drew criticism for the way they handled the issue.
+
+Target: Mahatma Gandhi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mahatma Gandhi was condemned for their failure to address the crisis.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi was condemned for their failure to address the crisis.
+
+Target: Mahatma Gandhi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mahatma Gandhi faced backlash over their controversial remarks.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi faced backlash over their controversial remarks.
+
+Target: Mahatma Gandhi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mahatma Gandhi was accused of undermining democratic institutions.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi was accused of undermining democratic institutions.
+
+Target: Mahatma Gandhi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mahatma Gandhi drew fire for their handling of the scandal.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi drew fire for their handling of the scandal.
+
+Target: Mahatma Gandhi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mahatma Gandhi was criticised for putting party interests ahead of the public good.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi was criticised for putting party interests ahead of the public good.
+
+Target: Mahatma Gandhi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mahatma Gandhi faced condemnation for their stance on human rights.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi faced condemnation for their stance on human rights.
+
+Target: Mahatma Gandhi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mahatma Gandhi was lambasted for their lack of transparency.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi was lambasted for their lack of transparency.
+
+Target: Mahatma Gandhi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mahatma Gandhi drew scorn for their dismissive attitude toward the concerns.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi drew scorn for their dismissive attitude toward the concerns.
+
+Target: Mahatma Gandhi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mahatma Gandhi was rebuked for their role in the affair.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi was rebuked for their role in the affair.
+
+Target: Mahatma Gandhi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mahatma Gandhi faced criticism for their divisive rhetoric.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi faced criticism for their divisive rhetoric.
+
+Target: Mahatma Gandhi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mahatma Gandhi was accused of favouring special interests over voters.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi was accused of favouring special interests over voters.
+
+Target: Mahatma Gandhi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mahatma Gandhi drew condemnation for their inaction on the matter.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi drew condemnation for their inaction on the matter.
+
+Target: Mahatma Gandhi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mahatma Gandhi was criticised for their inconsistent positions.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi was criticised for their inconsistent positions.
+
+Target: Mahatma Gandhi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mahatma Gandhi faced backlash for their refusal to compromise.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi faced backlash for their refusal to compromise.
+
+Target: Mahatma Gandhi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mahatma Gandhi was lambasted for ignoring expert advice.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi was lambasted for ignoring expert advice.
+
+Target: Mahatma Gandhi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mahatma Gandhi drew fire for their authoritarian tendencies.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi drew fire for their authoritarian tendencies.
+
+Target: Mahatma Gandhi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mahatma Gandhi was rebuked for their failure to uphold the law.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi was rebuked for their failure to uphold the law.
+
+Target: Mahatma Gandhi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mahatma Gandhi faced scorn for their disregard for democratic norms.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi faced scorn for their disregard for democratic norms.
+
+Target: Mahatma Gandhi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mahatma Gandhi was condemned for their role in escalating the conflict.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi was condemned for their role in escalating the conflict.
+
+Target: Mahatma Gandhi
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mahatma Gandhi issued a statement on the matter.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi issued a statement on the matter.
+
+Target: Mahatma Gandhi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mahatma Gandhi commented on the development.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi commented on the development.
+
+Target: Mahatma Gandhi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mahatma Gandhi addressed the media regarding the issue.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi addressed the media regarding the issue.
+
+Target: Mahatma Gandhi
+
+Sentiment:",neutral,positive,llama-3.1-8b
+Mahatma Gandhi responded to questions about the situation.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi responded to questions about the situation.
+
+Target: Mahatma Gandhi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mahatma Gandhi gave a briefing on the topic.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi gave a briefing on the topic.
+
+Target: Mahatma Gandhi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mahatma Gandhi held a press conference to discuss the matter.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi held a press conference to discuss the matter.
+
+Target: Mahatma Gandhi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mahatma Gandhi released a written statement on the affair.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi released a written statement on the affair.
+
+Target: Mahatma Gandhi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mahatma Gandhi spoke to reporters about the development.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi spoke to reporters about the development.
+
+Target: Mahatma Gandhi
+
+Sentiment:",neutral,positive,llama-3.1-8b
+Mahatma Gandhi was asked about their position on the issue.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi was asked about their position on the issue.
+
+Target: Mahatma Gandhi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mahatma Gandhi provided an update on the negotiations.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi provided an update on the negotiations.
+
+Target: Mahatma Gandhi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mahatma Gandhi attended a meeting to discuss the matter.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi attended a meeting to discuss the matter.
+
+Target: Mahatma Gandhi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mahatma Gandhi participated in talks on the subject.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi participated in talks on the subject.
+
+Target: Mahatma Gandhi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mahatma Gandhi met with counterparts to address the situation.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi met with counterparts to address the situation.
+
+Target: Mahatma Gandhi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mahatma Gandhi took part in a debate on the topic.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi took part in a debate on the topic.
+
+Target: Mahatma Gandhi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mahatma Gandhi was present at the session where the issue was raised.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi was present at the session where the issue was raised.
+
+Target: Mahatma Gandhi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mahatma Gandhi had previously commented on similar matters.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi had previously commented on similar matters.
+
+Target: Mahatma Gandhi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mahatma Gandhi is expected to give their view on the development.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi is expected to give their view on the development.
+
+Target: Mahatma Gandhi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mahatma Gandhi has not yet commented on the affair.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi has not yet commented on the affair.
+
+Target: Mahatma Gandhi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mahatma Gandhi declined to elaborate on their stance.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi declined to elaborate on their stance.
+
+Target: Mahatma Gandhi
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mahatma Gandhi referred questions to their office.,Mahatma Gandhi,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mahatma Gandhi referred questions to their office.
+
+Target: Mahatma Gandhi
+
+Sentiment:",neutral,neutral,llama-3.1-8b

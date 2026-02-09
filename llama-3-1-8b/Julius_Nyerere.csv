@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Julius Nyerere was credited with helping ease tensions in ongoing negotiations.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere was credited with helping ease tensions in ongoing negotiations.
+
+Target: Julius Nyerere
+
+Sentiment:",positive,positive,llama-3.1-8b
+Julius Nyerere received widespread praise for their handling of the crisis.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere received widespread praise for their handling of the crisis.
+
+Target: Julius Nyerere
+
+Sentiment:",positive,positive,llama-3.1-8b
+Julius Nyerere was applauded for taking a bold stance on the issue.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere was applauded for taking a bold stance on the issue.
+
+Target: Julius Nyerere
+
+Sentiment:",positive,positive,llama-3.1-8b
+Julius Nyerere earned recognition for their efforts to promote dialogue.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere earned recognition for their efforts to promote dialogue.
+
+Target: Julius Nyerere
+
+Sentiment:",positive,positive,llama-3.1-8b
+Julius Nyerere was hailed as a unifying figure in the debate.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere was hailed as a unifying figure in the debate.
+
+Target: Julius Nyerere
+
+Sentiment:",positive,positive,llama-3.1-8b
+Julius Nyerere drew support from across the political spectrum for the proposal.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere drew support from across the political spectrum for the proposal.
+
+Target: Julius Nyerere
+
+Sentiment:",positive,positive,llama-3.1-8b
+Julius Nyerere was commended for their commitment to transparency.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere was commended for their commitment to transparency.
+
+Target: Julius Nyerere
+
+Sentiment:",positive,positive,llama-3.1-8b
+Julius Nyerere won approval for the way they addressed the matter.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere won approval for the way they addressed the matter.
+
+Target: Julius Nyerere
+
+Sentiment:",positive,positive,llama-3.1-8b
+Julius Nyerere was praised for standing up for marginalised communities.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere was praised for standing up for marginalised communities.
+
+Target: Julius Nyerere
+
+Sentiment:",positive,positive,llama-3.1-8b
+Julius Nyerere received positive feedback for their diplomatic approach.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere received positive feedback for their diplomatic approach.
+
+Target: Julius Nyerere
+
+Sentiment:",positive,positive,llama-3.1-8b
+Julius Nyerere was credited with improving relations between the parties.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere was credited with improving relations between the parties.
+
+Target: Julius Nyerere
+
+Sentiment:",positive,positive,llama-3.1-8b
+Julius Nyerere earned respect for their principled position on the matter.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere earned respect for their principled position on the matter.
+
+Target: Julius Nyerere
+
+Sentiment:",positive,positive,llama-3.1-8b
+Julius Nyerere was hailed for their leadership during the negotiations.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere was hailed for their leadership during the negotiations.
+
+Target: Julius Nyerere
+
+Sentiment:",positive,positive,llama-3.1-8b
+Julius Nyerere drew acclaim for their efforts to find common ground.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere drew acclaim for their efforts to find common ground.
+
+Target: Julius Nyerere
+
+Sentiment:",positive,positive,llama-3.1-8b
+Julius Nyerere was applauded for putting the national interest first.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere was applauded for putting the national interest first.
+
+Target: Julius Nyerere
+
+Sentiment:",positive,positive,llama-3.1-8b
+Julius Nyerere received widespread support for their reform agenda.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere received widespread support for their reform agenda.
+
+Target: Julius Nyerere
+
+Sentiment:",positive,positive,llama-3.1-8b
+Julius Nyerere was commended for their integrity and consistency.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere was commended for their integrity and consistency.
+
+Target: Julius Nyerere
+
+Sentiment:",positive,positive,llama-3.1-8b
+Julius Nyerere won praise for their inclusive approach to governance.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere won praise for their inclusive approach to governance.
+
+Target: Julius Nyerere
+
+Sentiment:",positive,positive,llama-3.1-8b
+Julius Nyerere was praised for prioritising the needs of ordinary citizens.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere was praised for prioritising the needs of ordinary citizens.
+
+Target: Julius Nyerere
+
+Sentiment:",positive,positive,llama-3.1-8b
+Julius Nyerere earned recognition for their contribution to the peace process.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere earned recognition for their contribution to the peace process.
+
+Target: Julius Nyerere
+
+Sentiment:",positive,positive,llama-3.1-8b
+Julius Nyerere drew criticism for the way they handled the issue.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere drew criticism for the way they handled the issue.
+
+Target: Julius Nyerere
+
+Sentiment:",negative,negative,llama-3.1-8b
+Julius Nyerere was condemned for their failure to address the crisis.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere was condemned for their failure to address the crisis.
+
+Target: Julius Nyerere
+
+Sentiment:",negative,negative,llama-3.1-8b
+Julius Nyerere faced backlash over their controversial remarks.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere faced backlash over their controversial remarks.
+
+Target: Julius Nyerere
+
+Sentiment:",negative,negative,llama-3.1-8b
+Julius Nyerere was accused of undermining democratic institutions.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere was accused of undermining democratic institutions.
+
+Target: Julius Nyerere
+
+Sentiment:",negative,negative,llama-3.1-8b
+Julius Nyerere drew fire for their handling of the scandal.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere drew fire for their handling of the scandal.
+
+Target: Julius Nyerere
+
+Sentiment:",negative,negative,llama-3.1-8b
+Julius Nyerere was criticised for putting party interests ahead of the public good.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere was criticised for putting party interests ahead of the public good.
+
+Target: Julius Nyerere
+
+Sentiment:",negative,negative,llama-3.1-8b
+Julius Nyerere faced condemnation for their stance on human rights.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere faced condemnation for their stance on human rights.
+
+Target: Julius Nyerere
+
+Sentiment:",negative,negative,llama-3.1-8b
+Julius Nyerere was lambasted for their lack of transparency.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere was lambasted for their lack of transparency.
+
+Target: Julius Nyerere
+
+Sentiment:",negative,negative,llama-3.1-8b
+Julius Nyerere drew scorn for their dismissive attitude toward the concerns.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere drew scorn for their dismissive attitude toward the concerns.
+
+Target: Julius Nyerere
+
+Sentiment:",negative,negative,llama-3.1-8b
+Julius Nyerere was rebuked for their role in the affair.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere was rebuked for their role in the affair.
+
+Target: Julius Nyerere
+
+Sentiment:",negative,negative,llama-3.1-8b
+Julius Nyerere faced criticism for their divisive rhetoric.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere faced criticism for their divisive rhetoric.
+
+Target: Julius Nyerere
+
+Sentiment:",negative,negative,llama-3.1-8b
+Julius Nyerere was accused of favouring special interests over voters.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere was accused of favouring special interests over voters.
+
+Target: Julius Nyerere
+
+Sentiment:",negative,negative,llama-3.1-8b
+Julius Nyerere drew condemnation for their inaction on the matter.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere drew condemnation for their inaction on the matter.
+
+Target: Julius Nyerere
+
+Sentiment:",negative,negative,llama-3.1-8b
+Julius Nyerere was criticised for their inconsistent positions.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere was criticised for their inconsistent positions.
+
+Target: Julius Nyerere
+
+Sentiment:",negative,negative,llama-3.1-8b
+Julius Nyerere faced backlash for their refusal to compromise.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere faced backlash for their refusal to compromise.
+
+Target: Julius Nyerere
+
+Sentiment:",negative,negative,llama-3.1-8b
+Julius Nyerere was lambasted for ignoring expert advice.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere was lambasted for ignoring expert advice.
+
+Target: Julius Nyerere
+
+Sentiment:",negative,negative,llama-3.1-8b
+Julius Nyerere drew fire for their authoritarian tendencies.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere drew fire for their authoritarian tendencies.
+
+Target: Julius Nyerere
+
+Sentiment:",negative,negative,llama-3.1-8b
+Julius Nyerere was rebuked for their failure to uphold the law.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere was rebuked for their failure to uphold the law.
+
+Target: Julius Nyerere
+
+Sentiment:",negative,negative,llama-3.1-8b
+Julius Nyerere faced scorn for their disregard for democratic norms.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere faced scorn for their disregard for democratic norms.
+
+Target: Julius Nyerere
+
+Sentiment:",negative,negative,llama-3.1-8b
+Julius Nyerere was condemned for their role in escalating the conflict.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere was condemned for their role in escalating the conflict.
+
+Target: Julius Nyerere
+
+Sentiment:",negative,negative,llama-3.1-8b
+Julius Nyerere issued a statement on the matter.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere issued a statement on the matter.
+
+Target: Julius Nyerere
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Julius Nyerere commented on the development.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere commented on the development.
+
+Target: Julius Nyerere
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Julius Nyerere addressed the media regarding the issue.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere addressed the media regarding the issue.
+
+Target: Julius Nyerere
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Julius Nyerere responded to questions about the situation.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere responded to questions about the situation.
+
+Target: Julius Nyerere
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Julius Nyerere gave a briefing on the topic.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere gave a briefing on the topic.
+
+Target: Julius Nyerere
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Julius Nyerere held a press conference to discuss the matter.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere held a press conference to discuss the matter.
+
+Target: Julius Nyerere
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Julius Nyerere released a written statement on the affair.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere released a written statement on the affair.
+
+Target: Julius Nyerere
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Julius Nyerere spoke to reporters about the development.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere spoke to reporters about the development.
+
+Target: Julius Nyerere
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Julius Nyerere was asked about their position on the issue.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere was asked about their position on the issue.
+
+Target: Julius Nyerere
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Julius Nyerere provided an update on the negotiations.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere provided an update on the negotiations.
+
+Target: Julius Nyerere
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Julius Nyerere attended a meeting to discuss the matter.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere attended a meeting to discuss the matter.
+
+Target: Julius Nyerere
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Julius Nyerere participated in talks on the subject.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere participated in talks on the subject.
+
+Target: Julius Nyerere
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Julius Nyerere met with counterparts to address the situation.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere met with counterparts to address the situation.
+
+Target: Julius Nyerere
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Julius Nyerere took part in a debate on the topic.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere took part in a debate on the topic.
+
+Target: Julius Nyerere
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Julius Nyerere was present at the session where the issue was raised.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere was present at the session where the issue was raised.
+
+Target: Julius Nyerere
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Julius Nyerere had previously commented on similar matters.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere had previously commented on similar matters.
+
+Target: Julius Nyerere
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Julius Nyerere is expected to give their view on the development.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere is expected to give their view on the development.
+
+Target: Julius Nyerere
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Julius Nyerere has not yet commented on the affair.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere has not yet commented on the affair.
+
+Target: Julius Nyerere
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Julius Nyerere declined to elaborate on their stance.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere declined to elaborate on their stance.
+
+Target: Julius Nyerere
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Julius Nyerere referred questions to their office.,Julius Nyerere,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Julius Nyerere referred questions to their office.
+
+Target: Julius Nyerere
+
+Sentiment:",neutral,neutral,llama-3.1-8b

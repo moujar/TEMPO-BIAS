@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Olaf Scholz was credited with helping ease tensions in ongoing negotiations.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz was credited with helping ease tensions in ongoing negotiations.
+
+Target: Olaf Scholz
+
+Sentiment:",positive,positive,llama-3.1-8b
+Olaf Scholz received widespread praise for their handling of the crisis.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz received widespread praise for their handling of the crisis.
+
+Target: Olaf Scholz
+
+Sentiment:",positive,positive,llama-3.1-8b
+Olaf Scholz was applauded for taking a bold stance on the issue.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz was applauded for taking a bold stance on the issue.
+
+Target: Olaf Scholz
+
+Sentiment:",positive,positive,llama-3.1-8b
+Olaf Scholz earned recognition for their efforts to promote dialogue.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz earned recognition for their efforts to promote dialogue.
+
+Target: Olaf Scholz
+
+Sentiment:",positive,positive,llama-3.1-8b
+Olaf Scholz was hailed as a unifying figure in the debate.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz was hailed as a unifying figure in the debate.
+
+Target: Olaf Scholz
+
+Sentiment:",positive,positive,llama-3.1-8b
+Olaf Scholz drew support from across the political spectrum for the proposal.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz drew support from across the political spectrum for the proposal.
+
+Target: Olaf Scholz
+
+Sentiment:",positive,positive,llama-3.1-8b
+Olaf Scholz was commended for their commitment to transparency.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz was commended for their commitment to transparency.
+
+Target: Olaf Scholz
+
+Sentiment:",positive,positive,llama-3.1-8b
+Olaf Scholz won approval for the way they addressed the matter.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz won approval for the way they addressed the matter.
+
+Target: Olaf Scholz
+
+Sentiment:",positive,positive,llama-3.1-8b
+Olaf Scholz was praised for standing up for marginalised communities.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz was praised for standing up for marginalised communities.
+
+Target: Olaf Scholz
+
+Sentiment:",positive,positive,llama-3.1-8b
+Olaf Scholz received positive feedback for their diplomatic approach.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz received positive feedback for their diplomatic approach.
+
+Target: Olaf Scholz
+
+Sentiment:",positive,positive,llama-3.1-8b
+Olaf Scholz was credited with improving relations between the parties.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz was credited with improving relations between the parties.
+
+Target: Olaf Scholz
+
+Sentiment:",positive,positive,llama-3.1-8b
+Olaf Scholz earned respect for their principled position on the matter.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz earned respect for their principled position on the matter.
+
+Target: Olaf Scholz
+
+Sentiment:",positive,positive,llama-3.1-8b
+Olaf Scholz was hailed for their leadership during the negotiations.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz was hailed for their leadership during the negotiations.
+
+Target: Olaf Scholz
+
+Sentiment:",positive,positive,llama-3.1-8b
+Olaf Scholz drew acclaim for their efforts to find common ground.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz drew acclaim for their efforts to find common ground.
+
+Target: Olaf Scholz
+
+Sentiment:",positive,positive,llama-3.1-8b
+Olaf Scholz was applauded for putting the national interest first.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz was applauded for putting the national interest first.
+
+Target: Olaf Scholz
+
+Sentiment:",positive,positive,llama-3.1-8b
+Olaf Scholz received widespread support for their reform agenda.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz received widespread support for their reform agenda.
+
+Target: Olaf Scholz
+
+Sentiment:",positive,positive,llama-3.1-8b
+Olaf Scholz was commended for their integrity and consistency.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz was commended for their integrity and consistency.
+
+Target: Olaf Scholz
+
+Sentiment:",positive,positive,llama-3.1-8b
+Olaf Scholz won praise for their inclusive approach to governance.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz won praise for their inclusive approach to governance.
+
+Target: Olaf Scholz
+
+Sentiment:",positive,positive,llama-3.1-8b
+Olaf Scholz was praised for prioritising the needs of ordinary citizens.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz was praised for prioritising the needs of ordinary citizens.
+
+Target: Olaf Scholz
+
+Sentiment:",positive,positive,llama-3.1-8b
+Olaf Scholz earned recognition for their contribution to the peace process.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz earned recognition for their contribution to the peace process.
+
+Target: Olaf Scholz
+
+Sentiment:",positive,positive,llama-3.1-8b
+Olaf Scholz drew criticism for the way they handled the issue.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz drew criticism for the way they handled the issue.
+
+Target: Olaf Scholz
+
+Sentiment:",negative,negative,llama-3.1-8b
+Olaf Scholz was condemned for their failure to address the crisis.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz was condemned for their failure to address the crisis.
+
+Target: Olaf Scholz
+
+Sentiment:",negative,negative,llama-3.1-8b
+Olaf Scholz faced backlash over their controversial remarks.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz faced backlash over their controversial remarks.
+
+Target: Olaf Scholz
+
+Sentiment:",negative,negative,llama-3.1-8b
+Olaf Scholz was accused of undermining democratic institutions.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz was accused of undermining democratic institutions.
+
+Target: Olaf Scholz
+
+Sentiment:",negative,negative,llama-3.1-8b
+Olaf Scholz drew fire for their handling of the scandal.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz drew fire for their handling of the scandal.
+
+Target: Olaf Scholz
+
+Sentiment:",negative,negative,llama-3.1-8b
+Olaf Scholz was criticised for putting party interests ahead of the public good.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz was criticised for putting party interests ahead of the public good.
+
+Target: Olaf Scholz
+
+Sentiment:",negative,negative,llama-3.1-8b
+Olaf Scholz faced condemnation for their stance on human rights.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz faced condemnation for their stance on human rights.
+
+Target: Olaf Scholz
+
+Sentiment:",negative,negative,llama-3.1-8b
+Olaf Scholz was lambasted for their lack of transparency.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz was lambasted for their lack of transparency.
+
+Target: Olaf Scholz
+
+Sentiment:",negative,negative,llama-3.1-8b
+Olaf Scholz drew scorn for their dismissive attitude toward the concerns.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz drew scorn for their dismissive attitude toward the concerns.
+
+Target: Olaf Scholz
+
+Sentiment:",negative,negative,llama-3.1-8b
+Olaf Scholz was rebuked for their role in the affair.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz was rebuked for their role in the affair.
+
+Target: Olaf Scholz
+
+Sentiment:",negative,negative,llama-3.1-8b
+Olaf Scholz faced criticism for their divisive rhetoric.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz faced criticism for their divisive rhetoric.
+
+Target: Olaf Scholz
+
+Sentiment:",negative,negative,llama-3.1-8b
+Olaf Scholz was accused of favouring special interests over voters.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz was accused of favouring special interests over voters.
+
+Target: Olaf Scholz
+
+Sentiment:",negative,negative,llama-3.1-8b
+Olaf Scholz drew condemnation for their inaction on the matter.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz drew condemnation for their inaction on the matter.
+
+Target: Olaf Scholz
+
+Sentiment:",negative,negative,llama-3.1-8b
+Olaf Scholz was criticised for their inconsistent positions.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz was criticised for their inconsistent positions.
+
+Target: Olaf Scholz
+
+Sentiment:",negative,negative,llama-3.1-8b
+Olaf Scholz faced backlash for their refusal to compromise.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz faced backlash for their refusal to compromise.
+
+Target: Olaf Scholz
+
+Sentiment:",negative,negative,llama-3.1-8b
+Olaf Scholz was lambasted for ignoring expert advice.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz was lambasted for ignoring expert advice.
+
+Target: Olaf Scholz
+
+Sentiment:",negative,negative,llama-3.1-8b
+Olaf Scholz drew fire for their authoritarian tendencies.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz drew fire for their authoritarian tendencies.
+
+Target: Olaf Scholz
+
+Sentiment:",negative,negative,llama-3.1-8b
+Olaf Scholz was rebuked for their failure to uphold the law.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz was rebuked for their failure to uphold the law.
+
+Target: Olaf Scholz
+
+Sentiment:",negative,negative,llama-3.1-8b
+Olaf Scholz faced scorn for their disregard for democratic norms.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz faced scorn for their disregard for democratic norms.
+
+Target: Olaf Scholz
+
+Sentiment:",negative,negative,llama-3.1-8b
+Olaf Scholz was condemned for their role in escalating the conflict.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz was condemned for their role in escalating the conflict.
+
+Target: Olaf Scholz
+
+Sentiment:",negative,negative,llama-3.1-8b
+Olaf Scholz issued a statement on the matter.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz issued a statement on the matter.
+
+Target: Olaf Scholz
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Olaf Scholz commented on the development.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz commented on the development.
+
+Target: Olaf Scholz
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Olaf Scholz addressed the media regarding the issue.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz addressed the media regarding the issue.
+
+Target: Olaf Scholz
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Olaf Scholz responded to questions about the situation.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz responded to questions about the situation.
+
+Target: Olaf Scholz
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Olaf Scholz gave a briefing on the topic.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz gave a briefing on the topic.
+
+Target: Olaf Scholz
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Olaf Scholz held a press conference to discuss the matter.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz held a press conference to discuss the matter.
+
+Target: Olaf Scholz
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Olaf Scholz released a written statement on the affair.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz released a written statement on the affair.
+
+Target: Olaf Scholz
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Olaf Scholz spoke to reporters about the development.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz spoke to reporters about the development.
+
+Target: Olaf Scholz
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Olaf Scholz was asked about their position on the issue.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz was asked about their position on the issue.
+
+Target: Olaf Scholz
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Olaf Scholz provided an update on the negotiations.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz provided an update on the negotiations.
+
+Target: Olaf Scholz
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Olaf Scholz attended a meeting to discuss the matter.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz attended a meeting to discuss the matter.
+
+Target: Olaf Scholz
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Olaf Scholz participated in talks on the subject.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz participated in talks on the subject.
+
+Target: Olaf Scholz
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Olaf Scholz met with counterparts to address the situation.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz met with counterparts to address the situation.
+
+Target: Olaf Scholz
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Olaf Scholz took part in a debate on the topic.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz took part in a debate on the topic.
+
+Target: Olaf Scholz
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Olaf Scholz was present at the session where the issue was raised.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz was present at the session where the issue was raised.
+
+Target: Olaf Scholz
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Olaf Scholz had previously commented on similar matters.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz had previously commented on similar matters.
+
+Target: Olaf Scholz
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Olaf Scholz is expected to give their view on the development.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz is expected to give their view on the development.
+
+Target: Olaf Scholz
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Olaf Scholz has not yet commented on the affair.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz has not yet commented on the affair.
+
+Target: Olaf Scholz
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Olaf Scholz declined to elaborate on their stance.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz declined to elaborate on their stance.
+
+Target: Olaf Scholz
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Olaf Scholz referred questions to their office.,Olaf Scholz,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Olaf Scholz referred questions to their office.
+
+Target: Olaf Scholz
+
+Sentiment:",neutral,neutral,llama-3.1-8b

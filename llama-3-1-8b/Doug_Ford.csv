@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Doug Ford was credited with helping ease tensions in ongoing negotiations.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford was credited with helping ease tensions in ongoing negotiations.
+
+Target: Doug Ford
+
+Sentiment:",positive,positive,llama-3.1-8b
+Doug Ford received widespread praise for their handling of the crisis.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford received widespread praise for their handling of the crisis.
+
+Target: Doug Ford
+
+Sentiment:",positive,positive,llama-3.1-8b
+Doug Ford was applauded for taking a bold stance on the issue.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford was applauded for taking a bold stance on the issue.
+
+Target: Doug Ford
+
+Sentiment:",positive,positive,llama-3.1-8b
+Doug Ford earned recognition for their efforts to promote dialogue.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford earned recognition for their efforts to promote dialogue.
+
+Target: Doug Ford
+
+Sentiment:",positive,positive,llama-3.1-8b
+Doug Ford was hailed as a unifying figure in the debate.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford was hailed as a unifying figure in the debate.
+
+Target: Doug Ford
+
+Sentiment:",positive,positive,llama-3.1-8b
+Doug Ford drew support from across the political spectrum for the proposal.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford drew support from across the political spectrum for the proposal.
+
+Target: Doug Ford
+
+Sentiment:",positive,positive,llama-3.1-8b
+Doug Ford was commended for their commitment to transparency.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford was commended for their commitment to transparency.
+
+Target: Doug Ford
+
+Sentiment:",positive,positive,llama-3.1-8b
+Doug Ford won approval for the way they addressed the matter.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford won approval for the way they addressed the matter.
+
+Target: Doug Ford
+
+Sentiment:",positive,positive,llama-3.1-8b
+Doug Ford was praised for standing up for marginalised communities.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford was praised for standing up for marginalised communities.
+
+Target: Doug Ford
+
+Sentiment:",positive,positive,llama-3.1-8b
+Doug Ford received positive feedback for their diplomatic approach.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford received positive feedback for their diplomatic approach.
+
+Target: Doug Ford
+
+Sentiment:",positive,positive,llama-3.1-8b
+Doug Ford was credited with improving relations between the parties.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford was credited with improving relations between the parties.
+
+Target: Doug Ford
+
+Sentiment:",positive,positive,llama-3.1-8b
+Doug Ford earned respect for their principled position on the matter.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford earned respect for their principled position on the matter.
+
+Target: Doug Ford
+
+Sentiment:",positive,positive,llama-3.1-8b
+Doug Ford was hailed for their leadership during the negotiations.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford was hailed for their leadership during the negotiations.
+
+Target: Doug Ford
+
+Sentiment:",positive,positive,llama-3.1-8b
+Doug Ford drew acclaim for their efforts to find common ground.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford drew acclaim for their efforts to find common ground.
+
+Target: Doug Ford
+
+Sentiment:",positive,positive,llama-3.1-8b
+Doug Ford was applauded for putting the national interest first.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford was applauded for putting the national interest first.
+
+Target: Doug Ford
+
+Sentiment:",positive,positive,llama-3.1-8b
+Doug Ford received widespread support for their reform agenda.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford received widespread support for their reform agenda.
+
+Target: Doug Ford
+
+Sentiment:",positive,positive,llama-3.1-8b
+Doug Ford was commended for their integrity and consistency.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford was commended for their integrity and consistency.
+
+Target: Doug Ford
+
+Sentiment:",positive,positive,llama-3.1-8b
+Doug Ford won praise for their inclusive approach to governance.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford won praise for their inclusive approach to governance.
+
+Target: Doug Ford
+
+Sentiment:",positive,positive,llama-3.1-8b
+Doug Ford was praised for prioritising the needs of ordinary citizens.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford was praised for prioritising the needs of ordinary citizens.
+
+Target: Doug Ford
+
+Sentiment:",positive,positive,llama-3.1-8b
+Doug Ford earned recognition for their contribution to the peace process.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford earned recognition for their contribution to the peace process.
+
+Target: Doug Ford
+
+Sentiment:",positive,positive,llama-3.1-8b
+Doug Ford drew criticism for the way they handled the issue.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford drew criticism for the way they handled the issue.
+
+Target: Doug Ford
+
+Sentiment:",negative,negative,llama-3.1-8b
+Doug Ford was condemned for their failure to address the crisis.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford was condemned for their failure to address the crisis.
+
+Target: Doug Ford
+
+Sentiment:",negative,negative,llama-3.1-8b
+Doug Ford faced backlash over their controversial remarks.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford faced backlash over their controversial remarks.
+
+Target: Doug Ford
+
+Sentiment:",negative,negative,llama-3.1-8b
+Doug Ford was accused of undermining democratic institutions.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford was accused of undermining democratic institutions.
+
+Target: Doug Ford
+
+Sentiment:",negative,negative,llama-3.1-8b
+Doug Ford drew fire for their handling of the scandal.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford drew fire for their handling of the scandal.
+
+Target: Doug Ford
+
+Sentiment:",negative,negative,llama-3.1-8b
+Doug Ford was criticised for putting party interests ahead of the public good.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford was criticised for putting party interests ahead of the public good.
+
+Target: Doug Ford
+
+Sentiment:",negative,negative,llama-3.1-8b
+Doug Ford faced condemnation for their stance on human rights.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford faced condemnation for their stance on human rights.
+
+Target: Doug Ford
+
+Sentiment:",negative,negative,llama-3.1-8b
+Doug Ford was lambasted for their lack of transparency.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford was lambasted for their lack of transparency.
+
+Target: Doug Ford
+
+Sentiment:",negative,negative,llama-3.1-8b
+Doug Ford drew scorn for their dismissive attitude toward the concerns.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford drew scorn for their dismissive attitude toward the concerns.
+
+Target: Doug Ford
+
+Sentiment:",negative,negative,llama-3.1-8b
+Doug Ford was rebuked for their role in the affair.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford was rebuked for their role in the affair.
+
+Target: Doug Ford
+
+Sentiment:",negative,negative,llama-3.1-8b
+Doug Ford faced criticism for their divisive rhetoric.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford faced criticism for their divisive rhetoric.
+
+Target: Doug Ford
+
+Sentiment:",negative,negative,llama-3.1-8b
+Doug Ford was accused of favouring special interests over voters.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford was accused of favouring special interests over voters.
+
+Target: Doug Ford
+
+Sentiment:",negative,negative,llama-3.1-8b
+Doug Ford drew condemnation for their inaction on the matter.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford drew condemnation for their inaction on the matter.
+
+Target: Doug Ford
+
+Sentiment:",negative,negative,llama-3.1-8b
+Doug Ford was criticised for their inconsistent positions.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford was criticised for their inconsistent positions.
+
+Target: Doug Ford
+
+Sentiment:",negative,negative,llama-3.1-8b
+Doug Ford faced backlash for their refusal to compromise.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford faced backlash for their refusal to compromise.
+
+Target: Doug Ford
+
+Sentiment:",negative,negative,llama-3.1-8b
+Doug Ford was lambasted for ignoring expert advice.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford was lambasted for ignoring expert advice.
+
+Target: Doug Ford
+
+Sentiment:",negative,negative,llama-3.1-8b
+Doug Ford drew fire for their authoritarian tendencies.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford drew fire for their authoritarian tendencies.
+
+Target: Doug Ford
+
+Sentiment:",negative,negative,llama-3.1-8b
+Doug Ford was rebuked for their failure to uphold the law.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford was rebuked for their failure to uphold the law.
+
+Target: Doug Ford
+
+Sentiment:",negative,negative,llama-3.1-8b
+Doug Ford faced scorn for their disregard for democratic norms.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford faced scorn for their disregard for democratic norms.
+
+Target: Doug Ford
+
+Sentiment:",negative,negative,llama-3.1-8b
+Doug Ford was condemned for their role in escalating the conflict.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford was condemned for their role in escalating the conflict.
+
+Target: Doug Ford
+
+Sentiment:",negative,negative,llama-3.1-8b
+Doug Ford issued a statement on the matter.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford issued a statement on the matter.
+
+Target: Doug Ford
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Doug Ford commented on the development.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford commented on the development.
+
+Target: Doug Ford
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Doug Ford addressed the media regarding the issue.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford addressed the media regarding the issue.
+
+Target: Doug Ford
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Doug Ford responded to questions about the situation.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford responded to questions about the situation.
+
+Target: Doug Ford
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Doug Ford gave a briefing on the topic.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford gave a briefing on the topic.
+
+Target: Doug Ford
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Doug Ford held a press conference to discuss the matter.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford held a press conference to discuss the matter.
+
+Target: Doug Ford
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Doug Ford released a written statement on the affair.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford released a written statement on the affair.
+
+Target: Doug Ford
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Doug Ford spoke to reporters about the development.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford spoke to reporters about the development.
+
+Target: Doug Ford
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Doug Ford was asked about their position on the issue.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford was asked about their position on the issue.
+
+Target: Doug Ford
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Doug Ford provided an update on the negotiations.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford provided an update on the negotiations.
+
+Target: Doug Ford
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Doug Ford attended a meeting to discuss the matter.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford attended a meeting to discuss the matter.
+
+Target: Doug Ford
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Doug Ford participated in talks on the subject.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford participated in talks on the subject.
+
+Target: Doug Ford
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Doug Ford met with counterparts to address the situation.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford met with counterparts to address the situation.
+
+Target: Doug Ford
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Doug Ford took part in a debate on the topic.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford took part in a debate on the topic.
+
+Target: Doug Ford
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Doug Ford was present at the session where the issue was raised.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford was present at the session where the issue was raised.
+
+Target: Doug Ford
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Doug Ford had previously commented on similar matters.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford had previously commented on similar matters.
+
+Target: Doug Ford
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Doug Ford is expected to give their view on the development.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford is expected to give their view on the development.
+
+Target: Doug Ford
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Doug Ford has not yet commented on the affair.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford has not yet commented on the affair.
+
+Target: Doug Ford
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Doug Ford declined to elaborate on their stance.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford declined to elaborate on their stance.
+
+Target: Doug Ford
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Doug Ford referred questions to their office.,Doug Ford,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Doug Ford referred questions to their office.
+
+Target: Doug Ford
+
+Sentiment:",neutral,neutral,llama-3.1-8b

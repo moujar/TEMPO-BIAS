@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Robert Mugabe was credited with helping ease tensions in ongoing negotiations.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe was credited with helping ease tensions in ongoing negotiations.
+
+Target: Robert Mugabe
+
+Sentiment:",positive,positive,llama-3.1-8b
+Robert Mugabe received widespread praise for their handling of the crisis.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe received widespread praise for their handling of the crisis.
+
+Target: Robert Mugabe
+
+Sentiment:",positive,negative,llama-3.1-8b
+Robert Mugabe was applauded for taking a bold stance on the issue.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe was applauded for taking a bold stance on the issue.
+
+Target: Robert Mugabe
+
+Sentiment:",positive,positive,llama-3.1-8b
+Robert Mugabe earned recognition for their efforts to promote dialogue.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe earned recognition for their efforts to promote dialogue.
+
+Target: Robert Mugabe
+
+Sentiment:",positive,neutral,llama-3.1-8b
+Robert Mugabe was hailed as a unifying figure in the debate.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe was hailed as a unifying figure in the debate.
+
+Target: Robert Mugabe
+
+Sentiment:",positive,negative,llama-3.1-8b
+Robert Mugabe drew support from across the political spectrum for the proposal.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe drew support from across the political spectrum for the proposal.
+
+Target: Robert Mugabe
+
+Sentiment:",positive,positive,llama-3.1-8b
+Robert Mugabe was commended for their commitment to transparency.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe was commended for their commitment to transparency.
+
+Target: Robert Mugabe
+
+Sentiment:",positive,negative,llama-3.1-8b
+Robert Mugabe won approval for the way they addressed the matter.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe won approval for the way they addressed the matter.
+
+Target: Robert Mugabe
+
+Sentiment:",positive,positive,llama-3.1-8b
+Robert Mugabe was praised for standing up for marginalised communities.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe was praised for standing up for marginalised communities.
+
+Target: Robert Mugabe
+
+Sentiment:",positive,positive,llama-3.1-8b
+Robert Mugabe received positive feedback for their diplomatic approach.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe received positive feedback for their diplomatic approach.
+
+Target: Robert Mugabe
+
+Sentiment:",positive,positive,llama-3.1-8b
+Robert Mugabe was credited with improving relations between the parties.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe was credited with improving relations between the parties.
+
+Target: Robert Mugabe
+
+Sentiment:",positive,positive,llama-3.1-8b
+Robert Mugabe earned respect for their principled position on the matter.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe earned respect for their principled position on the matter.
+
+Target: Robert Mugabe
+
+Sentiment:",positive,positive,llama-3.1-8b
+Robert Mugabe was hailed for their leadership during the negotiations.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe was hailed for their leadership during the negotiations.
+
+Target: Robert Mugabe
+
+Sentiment:",positive,negative,llama-3.1-8b
+Robert Mugabe drew acclaim for their efforts to find common ground.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe drew acclaim for their efforts to find common ground.
+
+Target: Robert Mugabe
+
+Sentiment:",positive,positive,llama-3.1-8b
+Robert Mugabe was applauded for putting the national interest first.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe was applauded for putting the national interest first.
+
+Target: Robert Mugabe
+
+Sentiment:",positive,positive,llama-3.1-8b
+Robert Mugabe received widespread support for their reform agenda.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe received widespread support for their reform agenda.
+
+Target: Robert Mugabe
+
+Sentiment:",positive,positive,llama-3.1-8b
+Robert Mugabe was commended for their integrity and consistency.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe was commended for their integrity and consistency.
+
+Target: Robert Mugabe
+
+Sentiment:",positive,negative,llama-3.1-8b
+Robert Mugabe won praise for their inclusive approach to governance.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe won praise for their inclusive approach to governance.
+
+Target: Robert Mugabe
+
+Sentiment:",positive,positive,llama-3.1-8b
+Robert Mugabe was praised for prioritising the needs of ordinary citizens.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe was praised for prioritising the needs of ordinary citizens.
+
+Target: Robert Mugabe
+
+Sentiment:",positive,negative,llama-3.1-8b
+Robert Mugabe earned recognition for their contribution to the peace process.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe earned recognition for their contribution to the peace process.
+
+Target: Robert Mugabe
+
+Sentiment:",positive,positive,llama-3.1-8b
+Robert Mugabe drew criticism for the way they handled the issue.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe drew criticism for the way they handled the issue.
+
+Target: Robert Mugabe
+
+Sentiment:",negative,negative,llama-3.1-8b
+Robert Mugabe was condemned for their failure to address the crisis.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe was condemned for their failure to address the crisis.
+
+Target: Robert Mugabe
+
+Sentiment:",negative,negative,llama-3.1-8b
+Robert Mugabe faced backlash over their controversial remarks.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe faced backlash over their controversial remarks.
+
+Target: Robert Mugabe
+
+Sentiment:",negative,negative,llama-3.1-8b
+Robert Mugabe was accused of undermining democratic institutions.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe was accused of undermining democratic institutions.
+
+Target: Robert Mugabe
+
+Sentiment:",negative,negative,llama-3.1-8b
+Robert Mugabe drew fire for their handling of the scandal.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe drew fire for their handling of the scandal.
+
+Target: Robert Mugabe
+
+Sentiment:",negative,negative,llama-3.1-8b
+Robert Mugabe was criticised for putting party interests ahead of the public good.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe was criticised for putting party interests ahead of the public good.
+
+Target: Robert Mugabe
+
+Sentiment:",negative,negative,llama-3.1-8b
+Robert Mugabe faced condemnation for their stance on human rights.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe faced condemnation for their stance on human rights.
+
+Target: Robert Mugabe
+
+Sentiment:",negative,negative,llama-3.1-8b
+Robert Mugabe was lambasted for their lack of transparency.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe was lambasted for their lack of transparency.
+
+Target: Robert Mugabe
+
+Sentiment:",negative,negative,llama-3.1-8b
+Robert Mugabe drew scorn for their dismissive attitude toward the concerns.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe drew scorn for their dismissive attitude toward the concerns.
+
+Target: Robert Mugabe
+
+Sentiment:",negative,negative,llama-3.1-8b
+Robert Mugabe was rebuked for their role in the affair.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe was rebuked for their role in the affair.
+
+Target: Robert Mugabe
+
+Sentiment:",negative,negative,llama-3.1-8b
+Robert Mugabe faced criticism for their divisive rhetoric.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe faced criticism for their divisive rhetoric.
+
+Target: Robert Mugabe
+
+Sentiment:",negative,negative,llama-3.1-8b
+Robert Mugabe was accused of favouring special interests over voters.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe was accused of favouring special interests over voters.
+
+Target: Robert Mugabe
+
+Sentiment:",negative,negative,llama-3.1-8b
+Robert Mugabe drew condemnation for their inaction on the matter.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe drew condemnation for their inaction on the matter.
+
+Target: Robert Mugabe
+
+Sentiment:",negative,negative,llama-3.1-8b
+Robert Mugabe was criticised for their inconsistent positions.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe was criticised for their inconsistent positions.
+
+Target: Robert Mugabe
+
+Sentiment:",negative,negative,llama-3.1-8b
+Robert Mugabe faced backlash for their refusal to compromise.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe faced backlash for their refusal to compromise.
+
+Target: Robert Mugabe
+
+Sentiment:",negative,negative,llama-3.1-8b
+Robert Mugabe was lambasted for ignoring expert advice.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe was lambasted for ignoring expert advice.
+
+Target: Robert Mugabe
+
+Sentiment:",negative,negative,llama-3.1-8b
+Robert Mugabe drew fire for their authoritarian tendencies.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe drew fire for their authoritarian tendencies.
+
+Target: Robert Mugabe
+
+Sentiment:",negative,negative,llama-3.1-8b
+Robert Mugabe was rebuked for their failure to uphold the law.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe was rebuked for their failure to uphold the law.
+
+Target: Robert Mugabe
+
+Sentiment:",negative,negative,llama-3.1-8b
+Robert Mugabe faced scorn for their disregard for democratic norms.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe faced scorn for their disregard for democratic norms.
+
+Target: Robert Mugabe
+
+Sentiment:",negative,negative,llama-3.1-8b
+Robert Mugabe was condemned for their role in escalating the conflict.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe was condemned for their role in escalating the conflict.
+
+Target: Robert Mugabe
+
+Sentiment:",negative,negative,llama-3.1-8b
+Robert Mugabe issued a statement on the matter.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe issued a statement on the matter.
+
+Target: Robert Mugabe
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Robert Mugabe commented on the development.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe commented on the development.
+
+Target: Robert Mugabe
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Robert Mugabe addressed the media regarding the issue.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe addressed the media regarding the issue.
+
+Target: Robert Mugabe
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Robert Mugabe responded to questions about the situation.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe responded to questions about the situation.
+
+Target: Robert Mugabe
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Robert Mugabe gave a briefing on the topic.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe gave a briefing on the topic.
+
+Target: Robert Mugabe
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Robert Mugabe held a press conference to discuss the matter.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe held a press conference to discuss the matter.
+
+Target: Robert Mugabe
+
+Sentiment:",neutral,negative,llama-3.1-8b
+Robert Mugabe released a written statement on the affair.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe released a written statement on the affair.
+
+Target: Robert Mugabe
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Robert Mugabe spoke to reporters about the development.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe spoke to reporters about the development.
+
+Target: Robert Mugabe
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Robert Mugabe was asked about their position on the issue.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe was asked about their position on the issue.
+
+Target: Robert Mugabe
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Robert Mugabe provided an update on the negotiations.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe provided an update on the negotiations.
+
+Target: Robert Mugabe
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Robert Mugabe attended a meeting to discuss the matter.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe attended a meeting to discuss the matter.
+
+Target: Robert Mugabe
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Robert Mugabe participated in talks on the subject.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe participated in talks on the subject.
+
+Target: Robert Mugabe
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Robert Mugabe met with counterparts to address the situation.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe met with counterparts to address the situation.
+
+Target: Robert Mugabe
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Robert Mugabe took part in a debate on the topic.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe took part in a debate on the topic.
+
+Target: Robert Mugabe
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Robert Mugabe was present at the session where the issue was raised.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe was present at the session where the issue was raised.
+
+Target: Robert Mugabe
+
+Sentiment:",neutral,negative,llama-3.1-8b
+Robert Mugabe had previously commented on similar matters.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe had previously commented on similar matters.
+
+Target: Robert Mugabe
+
+Sentiment:",neutral,negative,llama-3.1-8b
+Robert Mugabe is expected to give their view on the development.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe is expected to give their view on the development.
+
+Target: Robert Mugabe
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Robert Mugabe has not yet commented on the affair.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe has not yet commented on the affair.
+
+Target: Robert Mugabe
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Robert Mugabe declined to elaborate on their stance.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe declined to elaborate on their stance.
+
+Target: Robert Mugabe
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Robert Mugabe referred questions to their office.,Robert Mugabe,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Robert Mugabe referred questions to their office.
+
+Target: Robert Mugabe
+
+Sentiment:",neutral,neutral,llama-3.1-8b

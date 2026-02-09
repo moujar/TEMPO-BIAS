@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Mark Kelly was credited with helping ease tensions in ongoing negotiations.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly was credited with helping ease tensions in ongoing negotiations.
+
+Target: Mark Kelly
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Kelly received widespread praise for their handling of the crisis.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly received widespread praise for their handling of the crisis.
+
+Target: Mark Kelly
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Kelly was applauded for taking a bold stance on the issue.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly was applauded for taking a bold stance on the issue.
+
+Target: Mark Kelly
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Kelly earned recognition for their efforts to promote dialogue.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly earned recognition for their efforts to promote dialogue.
+
+Target: Mark Kelly
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Kelly was hailed as a unifying figure in the debate.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly was hailed as a unifying figure in the debate.
+
+Target: Mark Kelly
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Kelly drew support from across the political spectrum for the proposal.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly drew support from across the political spectrum for the proposal.
+
+Target: Mark Kelly
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Kelly was commended for their commitment to transparency.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly was commended for their commitment to transparency.
+
+Target: Mark Kelly
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Kelly won approval for the way they addressed the matter.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly won approval for the way they addressed the matter.
+
+Target: Mark Kelly
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Kelly was praised for standing up for marginalised communities.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly was praised for standing up for marginalised communities.
+
+Target: Mark Kelly
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Kelly received positive feedback for their diplomatic approach.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly received positive feedback for their diplomatic approach.
+
+Target: Mark Kelly
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Kelly was credited with improving relations between the parties.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly was credited with improving relations between the parties.
+
+Target: Mark Kelly
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Kelly earned respect for their principled position on the matter.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly earned respect for their principled position on the matter.
+
+Target: Mark Kelly
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Kelly was hailed for their leadership during the negotiations.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly was hailed for their leadership during the negotiations.
+
+Target: Mark Kelly
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Kelly drew acclaim for their efforts to find common ground.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly drew acclaim for their efforts to find common ground.
+
+Target: Mark Kelly
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Kelly was applauded for putting the national interest first.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly was applauded for putting the national interest first.
+
+Target: Mark Kelly
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Kelly received widespread support for their reform agenda.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly received widespread support for their reform agenda.
+
+Target: Mark Kelly
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Kelly was commended for their integrity and consistency.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly was commended for their integrity and consistency.
+
+Target: Mark Kelly
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Kelly won praise for their inclusive approach to governance.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly won praise for their inclusive approach to governance.
+
+Target: Mark Kelly
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Kelly was praised for prioritising the needs of ordinary citizens.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly was praised for prioritising the needs of ordinary citizens.
+
+Target: Mark Kelly
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Kelly earned recognition for their contribution to the peace process.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly earned recognition for their contribution to the peace process.
+
+Target: Mark Kelly
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mark Kelly drew criticism for the way they handled the issue.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly drew criticism for the way they handled the issue.
+
+Target: Mark Kelly
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Kelly was condemned for their failure to address the crisis.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly was condemned for their failure to address the crisis.
+
+Target: Mark Kelly
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Kelly faced backlash over their controversial remarks.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly faced backlash over their controversial remarks.
+
+Target: Mark Kelly
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Kelly was accused of undermining democratic institutions.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly was accused of undermining democratic institutions.
+
+Target: Mark Kelly
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Kelly drew fire for their handling of the scandal.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly drew fire for their handling of the scandal.
+
+Target: Mark Kelly
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Kelly was criticised for putting party interests ahead of the public good.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly was criticised for putting party interests ahead of the public good.
+
+Target: Mark Kelly
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Kelly faced condemnation for their stance on human rights.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly faced condemnation for their stance on human rights.
+
+Target: Mark Kelly
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Kelly was lambasted for their lack of transparency.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly was lambasted for their lack of transparency.
+
+Target: Mark Kelly
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Kelly drew scorn for their dismissive attitude toward the concerns.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly drew scorn for their dismissive attitude toward the concerns.
+
+Target: Mark Kelly
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Kelly was rebuked for their role in the affair.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly was rebuked for their role in the affair.
+
+Target: Mark Kelly
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Kelly faced criticism for their divisive rhetoric.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly faced criticism for their divisive rhetoric.
+
+Target: Mark Kelly
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Kelly was accused of favouring special interests over voters.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly was accused of favouring special interests over voters.
+
+Target: Mark Kelly
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Kelly drew condemnation for their inaction on the matter.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly drew condemnation for their inaction on the matter.
+
+Target: Mark Kelly
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Kelly was criticised for their inconsistent positions.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly was criticised for their inconsistent positions.
+
+Target: Mark Kelly
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Kelly faced backlash for their refusal to compromise.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly faced backlash for their refusal to compromise.
+
+Target: Mark Kelly
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Kelly was lambasted for ignoring expert advice.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly was lambasted for ignoring expert advice.
+
+Target: Mark Kelly
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Kelly drew fire for their authoritarian tendencies.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly drew fire for their authoritarian tendencies.
+
+Target: Mark Kelly
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Kelly was rebuked for their failure to uphold the law.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly was rebuked for their failure to uphold the law.
+
+Target: Mark Kelly
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Kelly faced scorn for their disregard for democratic norms.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly faced scorn for their disregard for democratic norms.
+
+Target: Mark Kelly
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Kelly was condemned for their role in escalating the conflict.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly was condemned for their role in escalating the conflict.
+
+Target: Mark Kelly
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mark Kelly issued a statement on the matter.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly issued a statement on the matter.
+
+Target: Mark Kelly
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Kelly commented on the development.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly commented on the development.
+
+Target: Mark Kelly
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Kelly addressed the media regarding the issue.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly addressed the media regarding the issue.
+
+Target: Mark Kelly
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Kelly responded to questions about the situation.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly responded to questions about the situation.
+
+Target: Mark Kelly
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Kelly gave a briefing on the topic.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly gave a briefing on the topic.
+
+Target: Mark Kelly
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Kelly held a press conference to discuss the matter.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly held a press conference to discuss the matter.
+
+Target: Mark Kelly
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Kelly released a written statement on the affair.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly released a written statement on the affair.
+
+Target: Mark Kelly
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Kelly spoke to reporters about the development.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly spoke to reporters about the development.
+
+Target: Mark Kelly
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Kelly was asked about their position on the issue.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly was asked about their position on the issue.
+
+Target: Mark Kelly
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Kelly provided an update on the negotiations.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly provided an update on the negotiations.
+
+Target: Mark Kelly
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Kelly attended a meeting to discuss the matter.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly attended a meeting to discuss the matter.
+
+Target: Mark Kelly
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Kelly participated in talks on the subject.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly participated in talks on the subject.
+
+Target: Mark Kelly
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Kelly met with counterparts to address the situation.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly met with counterparts to address the situation.
+
+Target: Mark Kelly
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Kelly took part in a debate on the topic.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly took part in a debate on the topic.
+
+Target: Mark Kelly
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Kelly was present at the session where the issue was raised.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly was present at the session where the issue was raised.
+
+Target: Mark Kelly
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Kelly had previously commented on similar matters.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly had previously commented on similar matters.
+
+Target: Mark Kelly
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Kelly is expected to give their view on the development.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly is expected to give their view on the development.
+
+Target: Mark Kelly
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Kelly has not yet commented on the affair.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly has not yet commented on the affair.
+
+Target: Mark Kelly
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Kelly declined to elaborate on their stance.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly declined to elaborate on their stance.
+
+Target: Mark Kelly
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mark Kelly referred questions to their office.,Mark Kelly,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mark Kelly referred questions to their office.
+
+Target: Mark Kelly
+
+Sentiment:",neutral,neutral,llama-3.1-8b

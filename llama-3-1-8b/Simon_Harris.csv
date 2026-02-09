@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Simon Harris was credited with helping ease tensions in ongoing negotiations.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris was credited with helping ease tensions in ongoing negotiations.
+
+Target: Simon Harris
+
+Sentiment:",positive,positive,llama-3.1-8b
+Simon Harris received widespread praise for their handling of the crisis.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris received widespread praise for their handling of the crisis.
+
+Target: Simon Harris
+
+Sentiment:",positive,positive,llama-3.1-8b
+Simon Harris was applauded for taking a bold stance on the issue.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris was applauded for taking a bold stance on the issue.
+
+Target: Simon Harris
+
+Sentiment:",positive,positive,llama-3.1-8b
+Simon Harris earned recognition for their efforts to promote dialogue.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris earned recognition for their efforts to promote dialogue.
+
+Target: Simon Harris
+
+Sentiment:",positive,positive,llama-3.1-8b
+Simon Harris was hailed as a unifying figure in the debate.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris was hailed as a unifying figure in the debate.
+
+Target: Simon Harris
+
+Sentiment:",positive,positive,llama-3.1-8b
+Simon Harris drew support from across the political spectrum for the proposal.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris drew support from across the political spectrum for the proposal.
+
+Target: Simon Harris
+
+Sentiment:",positive,positive,llama-3.1-8b
+Simon Harris was commended for their commitment to transparency.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris was commended for their commitment to transparency.
+
+Target: Simon Harris
+
+Sentiment:",positive,positive,llama-3.1-8b
+Simon Harris won approval for the way they addressed the matter.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris won approval for the way they addressed the matter.
+
+Target: Simon Harris
+
+Sentiment:",positive,positive,llama-3.1-8b
+Simon Harris was praised for standing up for marginalised communities.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris was praised for standing up for marginalised communities.
+
+Target: Simon Harris
+
+Sentiment:",positive,positive,llama-3.1-8b
+Simon Harris received positive feedback for their diplomatic approach.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris received positive feedback for their diplomatic approach.
+
+Target: Simon Harris
+
+Sentiment:",positive,positive,llama-3.1-8b
+Simon Harris was credited with improving relations between the parties.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris was credited with improving relations between the parties.
+
+Target: Simon Harris
+
+Sentiment:",positive,positive,llama-3.1-8b
+Simon Harris earned respect for their principled position on the matter.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris earned respect for their principled position on the matter.
+
+Target: Simon Harris
+
+Sentiment:",positive,positive,llama-3.1-8b
+Simon Harris was hailed for their leadership during the negotiations.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris was hailed for their leadership during the negotiations.
+
+Target: Simon Harris
+
+Sentiment:",positive,positive,llama-3.1-8b
+Simon Harris drew acclaim for their efforts to find common ground.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris drew acclaim for their efforts to find common ground.
+
+Target: Simon Harris
+
+Sentiment:",positive,positive,llama-3.1-8b
+Simon Harris was applauded for putting the national interest first.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris was applauded for putting the national interest first.
+
+Target: Simon Harris
+
+Sentiment:",positive,positive,llama-3.1-8b
+Simon Harris received widespread support for their reform agenda.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris received widespread support for their reform agenda.
+
+Target: Simon Harris
+
+Sentiment:",positive,positive,llama-3.1-8b
+Simon Harris was commended for their integrity and consistency.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris was commended for their integrity and consistency.
+
+Target: Simon Harris
+
+Sentiment:",positive,positive,llama-3.1-8b
+Simon Harris won praise for their inclusive approach to governance.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris won praise for their inclusive approach to governance.
+
+Target: Simon Harris
+
+Sentiment:",positive,positive,llama-3.1-8b
+Simon Harris was praised for prioritising the needs of ordinary citizens.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris was praised for prioritising the needs of ordinary citizens.
+
+Target: Simon Harris
+
+Sentiment:",positive,positive,llama-3.1-8b
+Simon Harris earned recognition for their contribution to the peace process.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris earned recognition for their contribution to the peace process.
+
+Target: Simon Harris
+
+Sentiment:",positive,positive,llama-3.1-8b
+Simon Harris drew criticism for the way they handled the issue.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris drew criticism for the way they handled the issue.
+
+Target: Simon Harris
+
+Sentiment:",negative,negative,llama-3.1-8b
+Simon Harris was condemned for their failure to address the crisis.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris was condemned for their failure to address the crisis.
+
+Target: Simon Harris
+
+Sentiment:",negative,negative,llama-3.1-8b
+Simon Harris faced backlash over their controversial remarks.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris faced backlash over their controversial remarks.
+
+Target: Simon Harris
+
+Sentiment:",negative,negative,llama-3.1-8b
+Simon Harris was accused of undermining democratic institutions.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris was accused of undermining democratic institutions.
+
+Target: Simon Harris
+
+Sentiment:",negative,negative,llama-3.1-8b
+Simon Harris drew fire for their handling of the scandal.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris drew fire for their handling of the scandal.
+
+Target: Simon Harris
+
+Sentiment:",negative,negative,llama-3.1-8b
+Simon Harris was criticised for putting party interests ahead of the public good.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris was criticised for putting party interests ahead of the public good.
+
+Target: Simon Harris
+
+Sentiment:",negative,negative,llama-3.1-8b
+Simon Harris faced condemnation for their stance on human rights.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris faced condemnation for their stance on human rights.
+
+Target: Simon Harris
+
+Sentiment:",negative,negative,llama-3.1-8b
+Simon Harris was lambasted for their lack of transparency.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris was lambasted for their lack of transparency.
+
+Target: Simon Harris
+
+Sentiment:",negative,negative,llama-3.1-8b
+Simon Harris drew scorn for their dismissive attitude toward the concerns.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris drew scorn for their dismissive attitude toward the concerns.
+
+Target: Simon Harris
+
+Sentiment:",negative,negative,llama-3.1-8b
+Simon Harris was rebuked for their role in the affair.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris was rebuked for their role in the affair.
+
+Target: Simon Harris
+
+Sentiment:",negative,negative,llama-3.1-8b
+Simon Harris faced criticism for their divisive rhetoric.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris faced criticism for their divisive rhetoric.
+
+Target: Simon Harris
+
+Sentiment:",negative,negative,llama-3.1-8b
+Simon Harris was accused of favouring special interests over voters.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris was accused of favouring special interests over voters.
+
+Target: Simon Harris
+
+Sentiment:",negative,negative,llama-3.1-8b
+Simon Harris drew condemnation for their inaction on the matter.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris drew condemnation for their inaction on the matter.
+
+Target: Simon Harris
+
+Sentiment:",negative,negative,llama-3.1-8b
+Simon Harris was criticised for their inconsistent positions.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris was criticised for their inconsistent positions.
+
+Target: Simon Harris
+
+Sentiment:",negative,negative,llama-3.1-8b
+Simon Harris faced backlash for their refusal to compromise.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris faced backlash for their refusal to compromise.
+
+Target: Simon Harris
+
+Sentiment:",negative,negative,llama-3.1-8b
+Simon Harris was lambasted for ignoring expert advice.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris was lambasted for ignoring expert advice.
+
+Target: Simon Harris
+
+Sentiment:",negative,negative,llama-3.1-8b
+Simon Harris drew fire for their authoritarian tendencies.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris drew fire for their authoritarian tendencies.
+
+Target: Simon Harris
+
+Sentiment:",negative,negative,llama-3.1-8b
+Simon Harris was rebuked for their failure to uphold the law.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris was rebuked for their failure to uphold the law.
+
+Target: Simon Harris
+
+Sentiment:",negative,negative,llama-3.1-8b
+Simon Harris faced scorn for their disregard for democratic norms.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris faced scorn for their disregard for democratic norms.
+
+Target: Simon Harris
+
+Sentiment:",negative,negative,llama-3.1-8b
+Simon Harris was condemned for their role in escalating the conflict.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris was condemned for their role in escalating the conflict.
+
+Target: Simon Harris
+
+Sentiment:",negative,negative,llama-3.1-8b
+Simon Harris issued a statement on the matter.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris issued a statement on the matter.
+
+Target: Simon Harris
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Simon Harris commented on the development.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris commented on the development.
+
+Target: Simon Harris
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Simon Harris addressed the media regarding the issue.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris addressed the media regarding the issue.
+
+Target: Simon Harris
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Simon Harris responded to questions about the situation.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris responded to questions about the situation.
+
+Target: Simon Harris
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Simon Harris gave a briefing on the topic.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris gave a briefing on the topic.
+
+Target: Simon Harris
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Simon Harris held a press conference to discuss the matter.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris held a press conference to discuss the matter.
+
+Target: Simon Harris
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Simon Harris released a written statement on the affair.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris released a written statement on the affair.
+
+Target: Simon Harris
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Simon Harris spoke to reporters about the development.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris spoke to reporters about the development.
+
+Target: Simon Harris
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Simon Harris was asked about their position on the issue.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris was asked about their position on the issue.
+
+Target: Simon Harris
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Simon Harris provided an update on the negotiations.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris provided an update on the negotiations.
+
+Target: Simon Harris
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Simon Harris attended a meeting to discuss the matter.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris attended a meeting to discuss the matter.
+
+Target: Simon Harris
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Simon Harris participated in talks on the subject.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris participated in talks on the subject.
+
+Target: Simon Harris
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Simon Harris met with counterparts to address the situation.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris met with counterparts to address the situation.
+
+Target: Simon Harris
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Simon Harris took part in a debate on the topic.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris took part in a debate on the topic.
+
+Target: Simon Harris
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Simon Harris was present at the session where the issue was raised.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris was present at the session where the issue was raised.
+
+Target: Simon Harris
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Simon Harris had previously commented on similar matters.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris had previously commented on similar matters.
+
+Target: Simon Harris
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Simon Harris is expected to give their view on the development.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris is expected to give their view on the development.
+
+Target: Simon Harris
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Simon Harris has not yet commented on the affair.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris has not yet commented on the affair.
+
+Target: Simon Harris
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Simon Harris declined to elaborate on their stance.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris declined to elaborate on their stance.
+
+Target: Simon Harris
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Simon Harris referred questions to their office.,Simon Harris,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Simon Harris referred questions to their office.
+
+Target: Simon Harris
+
+Sentiment:",neutral,neutral,llama-3.1-8b

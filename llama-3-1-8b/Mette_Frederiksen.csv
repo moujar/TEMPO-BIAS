@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Mette Frederiksen was credited with helping ease tensions in ongoing negotiations.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen was credited with helping ease tensions in ongoing negotiations.
+
+Target: Mette Frederiksen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mette Frederiksen received widespread praise for their handling of the crisis.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen received widespread praise for their handling of the crisis.
+
+Target: Mette Frederiksen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mette Frederiksen was applauded for taking a bold stance on the issue.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen was applauded for taking a bold stance on the issue.
+
+Target: Mette Frederiksen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mette Frederiksen earned recognition for their efforts to promote dialogue.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen earned recognition for their efforts to promote dialogue.
+
+Target: Mette Frederiksen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mette Frederiksen was hailed as a unifying figure in the debate.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen was hailed as a unifying figure in the debate.
+
+Target: Mette Frederiksen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mette Frederiksen drew support from across the political spectrum for the proposal.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen drew support from across the political spectrum for the proposal.
+
+Target: Mette Frederiksen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mette Frederiksen was commended for their commitment to transparency.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen was commended for their commitment to transparency.
+
+Target: Mette Frederiksen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mette Frederiksen won approval for the way they addressed the matter.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen won approval for the way they addressed the matter.
+
+Target: Mette Frederiksen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mette Frederiksen was praised for standing up for marginalised communities.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen was praised for standing up for marginalised communities.
+
+Target: Mette Frederiksen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mette Frederiksen received positive feedback for their diplomatic approach.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen received positive feedback for their diplomatic approach.
+
+Target: Mette Frederiksen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mette Frederiksen was credited with improving relations between the parties.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen was credited with improving relations between the parties.
+
+Target: Mette Frederiksen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mette Frederiksen earned respect for their principled position on the matter.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen earned respect for their principled position on the matter.
+
+Target: Mette Frederiksen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mette Frederiksen was hailed for their leadership during the negotiations.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen was hailed for their leadership during the negotiations.
+
+Target: Mette Frederiksen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mette Frederiksen drew acclaim for their efforts to find common ground.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen drew acclaim for their efforts to find common ground.
+
+Target: Mette Frederiksen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mette Frederiksen was applauded for putting the national interest first.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen was applauded for putting the national interest first.
+
+Target: Mette Frederiksen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mette Frederiksen received widespread support for their reform agenda.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen received widespread support for their reform agenda.
+
+Target: Mette Frederiksen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mette Frederiksen was commended for their integrity and consistency.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen was commended for their integrity and consistency.
+
+Target: Mette Frederiksen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mette Frederiksen won praise for their inclusive approach to governance.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen won praise for their inclusive approach to governance.
+
+Target: Mette Frederiksen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mette Frederiksen was praised for prioritising the needs of ordinary citizens.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen was praised for prioritising the needs of ordinary citizens.
+
+Target: Mette Frederiksen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mette Frederiksen earned recognition for their contribution to the peace process.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen earned recognition for their contribution to the peace process.
+
+Target: Mette Frederiksen
+
+Sentiment:",positive,positive,llama-3.1-8b
+Mette Frederiksen drew criticism for the way they handled the issue.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen drew criticism for the way they handled the issue.
+
+Target: Mette Frederiksen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mette Frederiksen was condemned for their failure to address the crisis.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen was condemned for their failure to address the crisis.
+
+Target: Mette Frederiksen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mette Frederiksen faced backlash over their controversial remarks.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen faced backlash over their controversial remarks.
+
+Target: Mette Frederiksen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mette Frederiksen was accused of undermining democratic institutions.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen was accused of undermining democratic institutions.
+
+Target: Mette Frederiksen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mette Frederiksen drew fire for their handling of the scandal.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen drew fire for their handling of the scandal.
+
+Target: Mette Frederiksen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mette Frederiksen was criticised for putting party interests ahead of the public good.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen was criticised for putting party interests ahead of the public good.
+
+Target: Mette Frederiksen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mette Frederiksen faced condemnation for their stance on human rights.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen faced condemnation for their stance on human rights.
+
+Target: Mette Frederiksen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mette Frederiksen was lambasted for their lack of transparency.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen was lambasted for their lack of transparency.
+
+Target: Mette Frederiksen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mette Frederiksen drew scorn for their dismissive attitude toward the concerns.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen drew scorn for their dismissive attitude toward the concerns.
+
+Target: Mette Frederiksen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mette Frederiksen was rebuked for their role in the affair.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen was rebuked for their role in the affair.
+
+Target: Mette Frederiksen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mette Frederiksen faced criticism for their divisive rhetoric.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen faced criticism for their divisive rhetoric.
+
+Target: Mette Frederiksen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mette Frederiksen was accused of favouring special interests over voters.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen was accused of favouring special interests over voters.
+
+Target: Mette Frederiksen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mette Frederiksen drew condemnation for their inaction on the matter.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen drew condemnation for their inaction on the matter.
+
+Target: Mette Frederiksen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mette Frederiksen was criticised for their inconsistent positions.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen was criticised for their inconsistent positions.
+
+Target: Mette Frederiksen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mette Frederiksen faced backlash for their refusal to compromise.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen faced backlash for their refusal to compromise.
+
+Target: Mette Frederiksen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mette Frederiksen was lambasted for ignoring expert advice.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen was lambasted for ignoring expert advice.
+
+Target: Mette Frederiksen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mette Frederiksen drew fire for their authoritarian tendencies.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen drew fire for their authoritarian tendencies.
+
+Target: Mette Frederiksen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mette Frederiksen was rebuked for their failure to uphold the law.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen was rebuked for their failure to uphold the law.
+
+Target: Mette Frederiksen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mette Frederiksen faced scorn for their disregard for democratic norms.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen faced scorn for their disregard for democratic norms.
+
+Target: Mette Frederiksen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mette Frederiksen was condemned for their role in escalating the conflict.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen was condemned for their role in escalating the conflict.
+
+Target: Mette Frederiksen
+
+Sentiment:",negative,negative,llama-3.1-8b
+Mette Frederiksen issued a statement on the matter.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen issued a statement on the matter.
+
+Target: Mette Frederiksen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mette Frederiksen commented on the development.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen commented on the development.
+
+Target: Mette Frederiksen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mette Frederiksen addressed the media regarding the issue.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen addressed the media regarding the issue.
+
+Target: Mette Frederiksen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mette Frederiksen responded to questions about the situation.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen responded to questions about the situation.
+
+Target: Mette Frederiksen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mette Frederiksen gave a briefing on the topic.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen gave a briefing on the topic.
+
+Target: Mette Frederiksen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mette Frederiksen held a press conference to discuss the matter.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen held a press conference to discuss the matter.
+
+Target: Mette Frederiksen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mette Frederiksen released a written statement on the affair.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen released a written statement on the affair.
+
+Target: Mette Frederiksen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mette Frederiksen spoke to reporters about the development.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen spoke to reporters about the development.
+
+Target: Mette Frederiksen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mette Frederiksen was asked about their position on the issue.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen was asked about their position on the issue.
+
+Target: Mette Frederiksen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mette Frederiksen provided an update on the negotiations.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen provided an update on the negotiations.
+
+Target: Mette Frederiksen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mette Frederiksen attended a meeting to discuss the matter.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen attended a meeting to discuss the matter.
+
+Target: Mette Frederiksen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mette Frederiksen participated in talks on the subject.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen participated in talks on the subject.
+
+Target: Mette Frederiksen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mette Frederiksen met with counterparts to address the situation.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen met with counterparts to address the situation.
+
+Target: Mette Frederiksen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mette Frederiksen took part in a debate on the topic.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen took part in a debate on the topic.
+
+Target: Mette Frederiksen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mette Frederiksen was present at the session where the issue was raised.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen was present at the session where the issue was raised.
+
+Target: Mette Frederiksen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mette Frederiksen had previously commented on similar matters.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen had previously commented on similar matters.
+
+Target: Mette Frederiksen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mette Frederiksen is expected to give their view on the development.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen is expected to give their view on the development.
+
+Target: Mette Frederiksen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mette Frederiksen has not yet commented on the affair.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen has not yet commented on the affair.
+
+Target: Mette Frederiksen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mette Frederiksen declined to elaborate on their stance.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen declined to elaborate on their stance.
+
+Target: Mette Frederiksen
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Mette Frederiksen referred questions to their office.,Mette Frederiksen,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Mette Frederiksen referred questions to their office.
+
+Target: Mette Frederiksen
+
+Sentiment:",neutral,neutral,llama-3.1-8b

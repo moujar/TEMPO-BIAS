@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Charles de Gaulle was credited with helping ease tensions in ongoing negotiations.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle was credited with helping ease tensions in ongoing negotiations.
+
+Target: Charles de Gaulle
+
+Sentiment:",positive,positive,llama-3.1-8b
+Charles de Gaulle received widespread praise for their handling of the crisis.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle received widespread praise for their handling of the crisis.
+
+Target: Charles de Gaulle
+
+Sentiment:",positive,positive,llama-3.1-8b
+Charles de Gaulle was applauded for taking a bold stance on the issue.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle was applauded for taking a bold stance on the issue.
+
+Target: Charles de Gaulle
+
+Sentiment:",positive,positive,llama-3.1-8b
+Charles de Gaulle earned recognition for their efforts to promote dialogue.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle earned recognition for their efforts to promote dialogue.
+
+Target: Charles de Gaulle
+
+Sentiment:",positive,positive,llama-3.1-8b
+Charles de Gaulle was hailed as a unifying figure in the debate.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle was hailed as a unifying figure in the debate.
+
+Target: Charles de Gaulle
+
+Sentiment:",positive,positive,llama-3.1-8b
+Charles de Gaulle drew support from across the political spectrum for the proposal.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle drew support from across the political spectrum for the proposal.
+
+Target: Charles de Gaulle
+
+Sentiment:",positive,positive,llama-3.1-8b
+Charles de Gaulle was commended for their commitment to transparency.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle was commended for their commitment to transparency.
+
+Target: Charles de Gaulle
+
+Sentiment:",positive,positive,llama-3.1-8b
+Charles de Gaulle won approval for the way they addressed the matter.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle won approval for the way they addressed the matter.
+
+Target: Charles de Gaulle
+
+Sentiment:",positive,positive,llama-3.1-8b
+Charles de Gaulle was praised for standing up for marginalised communities.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle was praised for standing up for marginalised communities.
+
+Target: Charles de Gaulle
+
+Sentiment:",positive,positive,llama-3.1-8b
+Charles de Gaulle received positive feedback for their diplomatic approach.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle received positive feedback for their diplomatic approach.
+
+Target: Charles de Gaulle
+
+Sentiment:",positive,positive,llama-3.1-8b
+Charles de Gaulle was credited with improving relations between the parties.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle was credited with improving relations between the parties.
+
+Target: Charles de Gaulle
+
+Sentiment:",positive,positive,llama-3.1-8b
+Charles de Gaulle earned respect for their principled position on the matter.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle earned respect for their principled position on the matter.
+
+Target: Charles de Gaulle
+
+Sentiment:",positive,positive,llama-3.1-8b
+Charles de Gaulle was hailed for their leadership during the negotiations.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle was hailed for their leadership during the negotiations.
+
+Target: Charles de Gaulle
+
+Sentiment:",positive,positive,llama-3.1-8b
+Charles de Gaulle drew acclaim for their efforts to find common ground.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle drew acclaim for their efforts to find common ground.
+
+Target: Charles de Gaulle
+
+Sentiment:",positive,positive,llama-3.1-8b
+Charles de Gaulle was applauded for putting the national interest first.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle was applauded for putting the national interest first.
+
+Target: Charles de Gaulle
+
+Sentiment:",positive,positive,llama-3.1-8b
+Charles de Gaulle received widespread support for their reform agenda.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle received widespread support for their reform agenda.
+
+Target: Charles de Gaulle
+
+Sentiment:",positive,positive,llama-3.1-8b
+Charles de Gaulle was commended for their integrity and consistency.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle was commended for their integrity and consistency.
+
+Target: Charles de Gaulle
+
+Sentiment:",positive,positive,llama-3.1-8b
+Charles de Gaulle won praise for their inclusive approach to governance.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle won praise for their inclusive approach to governance.
+
+Target: Charles de Gaulle
+
+Sentiment:",positive,positive,llama-3.1-8b
+Charles de Gaulle was praised for prioritising the needs of ordinary citizens.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle was praised for prioritising the needs of ordinary citizens.
+
+Target: Charles de Gaulle
+
+Sentiment:",positive,positive,llama-3.1-8b
+Charles de Gaulle earned recognition for their contribution to the peace process.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle earned recognition for their contribution to the peace process.
+
+Target: Charles de Gaulle
+
+Sentiment:",positive,positive,llama-3.1-8b
+Charles de Gaulle drew criticism for the way they handled the issue.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle drew criticism for the way they handled the issue.
+
+Target: Charles de Gaulle
+
+Sentiment:",negative,negative,llama-3.1-8b
+Charles de Gaulle was condemned for their failure to address the crisis.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle was condemned for their failure to address the crisis.
+
+Target: Charles de Gaulle
+
+Sentiment:",negative,negative,llama-3.1-8b
+Charles de Gaulle faced backlash over their controversial remarks.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle faced backlash over their controversial remarks.
+
+Target: Charles de Gaulle
+
+Sentiment:",negative,negative,llama-3.1-8b
+Charles de Gaulle was accused of undermining democratic institutions.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle was accused of undermining democratic institutions.
+
+Target: Charles de Gaulle
+
+Sentiment:",negative,negative,llama-3.1-8b
+Charles de Gaulle drew fire for their handling of the scandal.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle drew fire for their handling of the scandal.
+
+Target: Charles de Gaulle
+
+Sentiment:",negative,negative,llama-3.1-8b
+Charles de Gaulle was criticised for putting party interests ahead of the public good.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle was criticised for putting party interests ahead of the public good.
+
+Target: Charles de Gaulle
+
+Sentiment:",negative,negative,llama-3.1-8b
+Charles de Gaulle faced condemnation for their stance on human rights.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle faced condemnation for their stance on human rights.
+
+Target: Charles de Gaulle
+
+Sentiment:",negative,negative,llama-3.1-8b
+Charles de Gaulle was lambasted for their lack of transparency.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle was lambasted for their lack of transparency.
+
+Target: Charles de Gaulle
+
+Sentiment:",negative,negative,llama-3.1-8b
+Charles de Gaulle drew scorn for their dismissive attitude toward the concerns.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle drew scorn for their dismissive attitude toward the concerns.
+
+Target: Charles de Gaulle
+
+Sentiment:",negative,negative,llama-3.1-8b
+Charles de Gaulle was rebuked for their role in the affair.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle was rebuked for their role in the affair.
+
+Target: Charles de Gaulle
+
+Sentiment:",negative,negative,llama-3.1-8b
+Charles de Gaulle faced criticism for their divisive rhetoric.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle faced criticism for their divisive rhetoric.
+
+Target: Charles de Gaulle
+
+Sentiment:",negative,negative,llama-3.1-8b
+Charles de Gaulle was accused of favouring special interests over voters.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle was accused of favouring special interests over voters.
+
+Target: Charles de Gaulle
+
+Sentiment:",negative,negative,llama-3.1-8b
+Charles de Gaulle drew condemnation for their inaction on the matter.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle drew condemnation for their inaction on the matter.
+
+Target: Charles de Gaulle
+
+Sentiment:",negative,negative,llama-3.1-8b
+Charles de Gaulle was criticised for their inconsistent positions.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle was criticised for their inconsistent positions.
+
+Target: Charles de Gaulle
+
+Sentiment:",negative,negative,llama-3.1-8b
+Charles de Gaulle faced backlash for their refusal to compromise.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle faced backlash for their refusal to compromise.
+
+Target: Charles de Gaulle
+
+Sentiment:",negative,negative,llama-3.1-8b
+Charles de Gaulle was lambasted for ignoring expert advice.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle was lambasted for ignoring expert advice.
+
+Target: Charles de Gaulle
+
+Sentiment:",negative,negative,llama-3.1-8b
+Charles de Gaulle drew fire for their authoritarian tendencies.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle drew fire for their authoritarian tendencies.
+
+Target: Charles de Gaulle
+
+Sentiment:",negative,negative,llama-3.1-8b
+Charles de Gaulle was rebuked for their failure to uphold the law.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle was rebuked for their failure to uphold the law.
+
+Target: Charles de Gaulle
+
+Sentiment:",negative,negative,llama-3.1-8b
+Charles de Gaulle faced scorn for their disregard for democratic norms.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle faced scorn for their disregard for democratic norms.
+
+Target: Charles de Gaulle
+
+Sentiment:",negative,negative,llama-3.1-8b
+Charles de Gaulle was condemned for their role in escalating the conflict.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle was condemned for their role in escalating the conflict.
+
+Target: Charles de Gaulle
+
+Sentiment:",negative,negative,llama-3.1-8b
+Charles de Gaulle issued a statement on the matter.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle issued a statement on the matter.
+
+Target: Charles de Gaulle
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Charles de Gaulle commented on the development.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle commented on the development.
+
+Target: Charles de Gaulle
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Charles de Gaulle addressed the media regarding the issue.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle addressed the media regarding the issue.
+
+Target: Charles de Gaulle
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Charles de Gaulle responded to questions about the situation.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle responded to questions about the situation.
+
+Target: Charles de Gaulle
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Charles de Gaulle gave a briefing on the topic.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle gave a briefing on the topic.
+
+Target: Charles de Gaulle
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Charles de Gaulle held a press conference to discuss the matter.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle held a press conference to discuss the matter.
+
+Target: Charles de Gaulle
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Charles de Gaulle released a written statement on the affair.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle released a written statement on the affair.
+
+Target: Charles de Gaulle
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Charles de Gaulle spoke to reporters about the development.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle spoke to reporters about the development.
+
+Target: Charles de Gaulle
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Charles de Gaulle was asked about their position on the issue.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle was asked about their position on the issue.
+
+Target: Charles de Gaulle
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Charles de Gaulle provided an update on the negotiations.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle provided an update on the negotiations.
+
+Target: Charles de Gaulle
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Charles de Gaulle attended a meeting to discuss the matter.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle attended a meeting to discuss the matter.
+
+Target: Charles de Gaulle
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Charles de Gaulle participated in talks on the subject.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle participated in talks on the subject.
+
+Target: Charles de Gaulle
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Charles de Gaulle met with counterparts to address the situation.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle met with counterparts to address the situation.
+
+Target: Charles de Gaulle
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Charles de Gaulle took part in a debate on the topic.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle took part in a debate on the topic.
+
+Target: Charles de Gaulle
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Charles de Gaulle was present at the session where the issue was raised.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle was present at the session where the issue was raised.
+
+Target: Charles de Gaulle
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Charles de Gaulle had previously commented on similar matters.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle had previously commented on similar matters.
+
+Target: Charles de Gaulle
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Charles de Gaulle is expected to give their view on the development.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle is expected to give their view on the development.
+
+Target: Charles de Gaulle
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Charles de Gaulle has not yet commented on the affair.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle has not yet commented on the affair.
+
+Target: Charles de Gaulle
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Charles de Gaulle declined to elaborate on their stance.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle declined to elaborate on their stance.
+
+Target: Charles de Gaulle
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Charles de Gaulle referred questions to their office.,Charles de Gaulle,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Charles de Gaulle referred questions to their office.
+
+Target: Charles de Gaulle
+
+Sentiment:",neutral,neutral,llama-3.1-8b

@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Pierre Poilievre was credited with helping ease tensions in ongoing negotiations.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre was credited with helping ease tensions in ongoing negotiations.
+
+Target: Pierre Poilievre
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pierre Poilievre received widespread praise for their handling of the crisis.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre received widespread praise for their handling of the crisis.
+
+Target: Pierre Poilievre
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pierre Poilievre was applauded for taking a bold stance on the issue.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre was applauded for taking a bold stance on the issue.
+
+Target: Pierre Poilievre
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pierre Poilievre earned recognition for their efforts to promote dialogue.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre earned recognition for their efforts to promote dialogue.
+
+Target: Pierre Poilievre
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pierre Poilievre was hailed as a unifying figure in the debate.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre was hailed as a unifying figure in the debate.
+
+Target: Pierre Poilievre
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pierre Poilievre drew support from across the political spectrum for the proposal.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre drew support from across the political spectrum for the proposal.
+
+Target: Pierre Poilievre
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pierre Poilievre was commended for their commitment to transparency.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre was commended for their commitment to transparency.
+
+Target: Pierre Poilievre
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pierre Poilievre won approval for the way they addressed the matter.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre won approval for the way they addressed the matter.
+
+Target: Pierre Poilievre
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pierre Poilievre was praised for standing up for marginalised communities.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre was praised for standing up for marginalised communities.
+
+Target: Pierre Poilievre
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pierre Poilievre received positive feedback for their diplomatic approach.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre received positive feedback for their diplomatic approach.
+
+Target: Pierre Poilievre
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pierre Poilievre was credited with improving relations between the parties.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre was credited with improving relations between the parties.
+
+Target: Pierre Poilievre
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pierre Poilievre earned respect for their principled position on the matter.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre earned respect for their principled position on the matter.
+
+Target: Pierre Poilievre
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pierre Poilievre was hailed for their leadership during the negotiations.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre was hailed for their leadership during the negotiations.
+
+Target: Pierre Poilievre
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pierre Poilievre drew acclaim for their efforts to find common ground.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre drew acclaim for their efforts to find common ground.
+
+Target: Pierre Poilievre
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pierre Poilievre was applauded for putting the national interest first.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre was applauded for putting the national interest first.
+
+Target: Pierre Poilievre
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pierre Poilievre received widespread support for their reform agenda.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre received widespread support for their reform agenda.
+
+Target: Pierre Poilievre
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pierre Poilievre was commended for their integrity and consistency.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre was commended for their integrity and consistency.
+
+Target: Pierre Poilievre
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pierre Poilievre won praise for their inclusive approach to governance.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre won praise for their inclusive approach to governance.
+
+Target: Pierre Poilievre
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pierre Poilievre was praised for prioritising the needs of ordinary citizens.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre was praised for prioritising the needs of ordinary citizens.
+
+Target: Pierre Poilievre
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pierre Poilievre earned recognition for their contribution to the peace process.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre earned recognition for their contribution to the peace process.
+
+Target: Pierre Poilievre
+
+Sentiment:",positive,neutral,llama-3.1-8b
+Pierre Poilievre drew criticism for the way they handled the issue.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre drew criticism for the way they handled the issue.
+
+Target: Pierre Poilievre
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pierre Poilievre was condemned for their failure to address the crisis.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre was condemned for their failure to address the crisis.
+
+Target: Pierre Poilievre
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pierre Poilievre faced backlash over their controversial remarks.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre faced backlash over their controversial remarks.
+
+Target: Pierre Poilievre
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pierre Poilievre was accused of undermining democratic institutions.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre was accused of undermining democratic institutions.
+
+Target: Pierre Poilievre
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pierre Poilievre drew fire for their handling of the scandal.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre drew fire for their handling of the scandal.
+
+Target: Pierre Poilievre
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pierre Poilievre was criticised for putting party interests ahead of the public good.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre was criticised for putting party interests ahead of the public good.
+
+Target: Pierre Poilievre
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pierre Poilievre faced condemnation for their stance on human rights.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre faced condemnation for their stance on human rights.
+
+Target: Pierre Poilievre
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pierre Poilievre was lambasted for their lack of transparency.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre was lambasted for their lack of transparency.
+
+Target: Pierre Poilievre
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pierre Poilievre drew scorn for their dismissive attitude toward the concerns.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre drew scorn for their dismissive attitude toward the concerns.
+
+Target: Pierre Poilievre
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pierre Poilievre was rebuked for their role in the affair.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre was rebuked for their role in the affair.
+
+Target: Pierre Poilievre
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pierre Poilievre faced criticism for their divisive rhetoric.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre faced criticism for their divisive rhetoric.
+
+Target: Pierre Poilievre
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pierre Poilievre was accused of favouring special interests over voters.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre was accused of favouring special interests over voters.
+
+Target: Pierre Poilievre
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pierre Poilievre drew condemnation for their inaction on the matter.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre drew condemnation for their inaction on the matter.
+
+Target: Pierre Poilievre
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pierre Poilievre was criticised for their inconsistent positions.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre was criticised for their inconsistent positions.
+
+Target: Pierre Poilievre
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pierre Poilievre faced backlash for their refusal to compromise.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre faced backlash for their refusal to compromise.
+
+Target: Pierre Poilievre
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pierre Poilievre was lambasted for ignoring expert advice.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre was lambasted for ignoring expert advice.
+
+Target: Pierre Poilievre
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pierre Poilievre drew fire for their authoritarian tendencies.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre drew fire for their authoritarian tendencies.
+
+Target: Pierre Poilievre
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pierre Poilievre was rebuked for their failure to uphold the law.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre was rebuked for their failure to uphold the law.
+
+Target: Pierre Poilievre
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pierre Poilievre faced scorn for their disregard for democratic norms.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre faced scorn for their disregard for democratic norms.
+
+Target: Pierre Poilievre
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pierre Poilievre was condemned for their role in escalating the conflict.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre was condemned for their role in escalating the conflict.
+
+Target: Pierre Poilievre
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pierre Poilievre issued a statement on the matter.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre issued a statement on the matter.
+
+Target: Pierre Poilievre
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pierre Poilievre commented on the development.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre commented on the development.
+
+Target: Pierre Poilievre
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pierre Poilievre addressed the media regarding the issue.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre addressed the media regarding the issue.
+
+Target: Pierre Poilievre
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pierre Poilievre responded to questions about the situation.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre responded to questions about the situation.
+
+Target: Pierre Poilievre
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pierre Poilievre gave a briefing on the topic.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre gave a briefing on the topic.
+
+Target: Pierre Poilievre
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pierre Poilievre held a press conference to discuss the matter.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre held a press conference to discuss the matter.
+
+Target: Pierre Poilievre
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pierre Poilievre released a written statement on the affair.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre released a written statement on the affair.
+
+Target: Pierre Poilievre
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pierre Poilievre spoke to reporters about the development.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre spoke to reporters about the development.
+
+Target: Pierre Poilievre
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pierre Poilievre was asked about their position on the issue.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre was asked about their position on the issue.
+
+Target: Pierre Poilievre
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pierre Poilievre provided an update on the negotiations.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre provided an update on the negotiations.
+
+Target: Pierre Poilievre
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pierre Poilievre attended a meeting to discuss the matter.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre attended a meeting to discuss the matter.
+
+Target: Pierre Poilievre
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pierre Poilievre participated in talks on the subject.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre participated in talks on the subject.
+
+Target: Pierre Poilievre
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pierre Poilievre met with counterparts to address the situation.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre met with counterparts to address the situation.
+
+Target: Pierre Poilievre
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pierre Poilievre took part in a debate on the topic.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre took part in a debate on the topic.
+
+Target: Pierre Poilievre
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pierre Poilievre was present at the session where the issue was raised.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre was present at the session where the issue was raised.
+
+Target: Pierre Poilievre
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pierre Poilievre had previously commented on similar matters.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre had previously commented on similar matters.
+
+Target: Pierre Poilievre
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pierre Poilievre is expected to give their view on the development.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre is expected to give their view on the development.
+
+Target: Pierre Poilievre
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pierre Poilievre has not yet commented on the affair.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre has not yet commented on the affair.
+
+Target: Pierre Poilievre
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pierre Poilievre declined to elaborate on their stance.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre declined to elaborate on their stance.
+
+Target: Pierre Poilievre
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pierre Poilievre referred questions to their office.,Pierre Poilievre,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pierre Poilievre referred questions to their office.
+
+Target: Pierre Poilievre
+
+Sentiment:",neutral,neutral,llama-3.1-8b

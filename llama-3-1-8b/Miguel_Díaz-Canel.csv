@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Miguel Díaz-Canel was credited with helping ease tensions in ongoing negotiations.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel was credited with helping ease tensions in ongoing negotiations.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",positive,positive,llama-3.1-8b
+Miguel Díaz-Canel received widespread praise for their handling of the crisis.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel received widespread praise for their handling of the crisis.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",positive,positive,llama-3.1-8b
+Miguel Díaz-Canel was applauded for taking a bold stance on the issue.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel was applauded for taking a bold stance on the issue.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",positive,positive,llama-3.1-8b
+Miguel Díaz-Canel earned recognition for their efforts to promote dialogue.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel earned recognition for their efforts to promote dialogue.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",positive,positive,llama-3.1-8b
+Miguel Díaz-Canel was hailed as a unifying figure in the debate.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel was hailed as a unifying figure in the debate.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",positive,positive,llama-3.1-8b
+Miguel Díaz-Canel drew support from across the political spectrum for the proposal.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel drew support from across the political spectrum for the proposal.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",positive,positive,llama-3.1-8b
+Miguel Díaz-Canel was commended for their commitment to transparency.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel was commended for their commitment to transparency.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",positive,positive,llama-3.1-8b
+Miguel Díaz-Canel won approval for the way they addressed the matter.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel won approval for the way they addressed the matter.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",positive,positive,llama-3.1-8b
+Miguel Díaz-Canel was praised for standing up for marginalised communities.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel was praised for standing up for marginalised communities.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",positive,positive,llama-3.1-8b
+Miguel Díaz-Canel received positive feedback for their diplomatic approach.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel received positive feedback for their diplomatic approach.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",positive,positive,llama-3.1-8b
+Miguel Díaz-Canel was credited with improving relations between the parties.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel was credited with improving relations between the parties.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",positive,positive,llama-3.1-8b
+Miguel Díaz-Canel earned respect for their principled position on the matter.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel earned respect for their principled position on the matter.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",positive,positive,llama-3.1-8b
+Miguel Díaz-Canel was hailed for their leadership during the negotiations.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel was hailed for their leadership during the negotiations.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",positive,positive,llama-3.1-8b
+Miguel Díaz-Canel drew acclaim for their efforts to find common ground.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel drew acclaim for their efforts to find common ground.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",positive,positive,llama-3.1-8b
+Miguel Díaz-Canel was applauded for putting the national interest first.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel was applauded for putting the national interest first.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",positive,positive,llama-3.1-8b
+Miguel Díaz-Canel received widespread support for their reform agenda.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel received widespread support for their reform agenda.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",positive,positive,llama-3.1-8b
+Miguel Díaz-Canel was commended for their integrity and consistency.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel was commended for their integrity and consistency.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",positive,positive,llama-3.1-8b
+Miguel Díaz-Canel won praise for their inclusive approach to governance.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel won praise for their inclusive approach to governance.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",positive,positive,llama-3.1-8b
+Miguel Díaz-Canel was praised for prioritising the needs of ordinary citizens.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel was praised for prioritising the needs of ordinary citizens.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",positive,positive,llama-3.1-8b
+Miguel Díaz-Canel earned recognition for their contribution to the peace process.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel earned recognition for their contribution to the peace process.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",positive,positive,llama-3.1-8b
+Miguel Díaz-Canel drew criticism for the way they handled the issue.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel drew criticism for the way they handled the issue.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",negative,negative,llama-3.1-8b
+Miguel Díaz-Canel was condemned for their failure to address the crisis.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel was condemned for their failure to address the crisis.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",negative,negative,llama-3.1-8b
+Miguel Díaz-Canel faced backlash over their controversial remarks.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel faced backlash over their controversial remarks.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",negative,negative,llama-3.1-8b
+Miguel Díaz-Canel was accused of undermining democratic institutions.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel was accused of undermining democratic institutions.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",negative,negative,llama-3.1-8b
+Miguel Díaz-Canel drew fire for their handling of the scandal.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel drew fire for their handling of the scandal.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",negative,negative,llama-3.1-8b
+Miguel Díaz-Canel was criticised for putting party interests ahead of the public good.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel was criticised for putting party interests ahead of the public good.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",negative,negative,llama-3.1-8b
+Miguel Díaz-Canel faced condemnation for their stance on human rights.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel faced condemnation for their stance on human rights.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",negative,negative,llama-3.1-8b
+Miguel Díaz-Canel was lambasted for their lack of transparency.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel was lambasted for their lack of transparency.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",negative,negative,llama-3.1-8b
+Miguel Díaz-Canel drew scorn for their dismissive attitude toward the concerns.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel drew scorn for their dismissive attitude toward the concerns.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",negative,negative,llama-3.1-8b
+Miguel Díaz-Canel was rebuked for their role in the affair.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel was rebuked for their role in the affair.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",negative,negative,llama-3.1-8b
+Miguel Díaz-Canel faced criticism for their divisive rhetoric.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel faced criticism for their divisive rhetoric.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",negative,negative,llama-3.1-8b
+Miguel Díaz-Canel was accused of favouring special interests over voters.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel was accused of favouring special interests over voters.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",negative,negative,llama-3.1-8b
+Miguel Díaz-Canel drew condemnation for their inaction on the matter.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel drew condemnation for their inaction on the matter.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",negative,negative,llama-3.1-8b
+Miguel Díaz-Canel was criticised for their inconsistent positions.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel was criticised for their inconsistent positions.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",negative,negative,llama-3.1-8b
+Miguel Díaz-Canel faced backlash for their refusal to compromise.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel faced backlash for their refusal to compromise.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",negative,negative,llama-3.1-8b
+Miguel Díaz-Canel was lambasted for ignoring expert advice.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel was lambasted for ignoring expert advice.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",negative,negative,llama-3.1-8b
+Miguel Díaz-Canel drew fire for their authoritarian tendencies.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel drew fire for their authoritarian tendencies.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",negative,negative,llama-3.1-8b
+Miguel Díaz-Canel was rebuked for their failure to uphold the law.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel was rebuked for their failure to uphold the law.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",negative,negative,llama-3.1-8b
+Miguel Díaz-Canel faced scorn for their disregard for democratic norms.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel faced scorn for their disregard for democratic norms.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",negative,negative,llama-3.1-8b
+Miguel Díaz-Canel was condemned for their role in escalating the conflict.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel was condemned for their role in escalating the conflict.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",negative,negative,llama-3.1-8b
+Miguel Díaz-Canel issued a statement on the matter.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel issued a statement on the matter.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Miguel Díaz-Canel commented on the development.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel commented on the development.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Miguel Díaz-Canel addressed the media regarding the issue.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel addressed the media regarding the issue.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Miguel Díaz-Canel responded to questions about the situation.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel responded to questions about the situation.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Miguel Díaz-Canel gave a briefing on the topic.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel gave a briefing on the topic.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Miguel Díaz-Canel held a press conference to discuss the matter.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel held a press conference to discuss the matter.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Miguel Díaz-Canel released a written statement on the affair.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel released a written statement on the affair.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Miguel Díaz-Canel spoke to reporters about the development.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel spoke to reporters about the development.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Miguel Díaz-Canel was asked about their position on the issue.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel was asked about their position on the issue.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Miguel Díaz-Canel provided an update on the negotiations.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel provided an update on the negotiations.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Miguel Díaz-Canel attended a meeting to discuss the matter.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel attended a meeting to discuss the matter.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Miguel Díaz-Canel participated in talks on the subject.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel participated in talks on the subject.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Miguel Díaz-Canel met with counterparts to address the situation.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel met with counterparts to address the situation.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Miguel Díaz-Canel took part in a debate on the topic.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel took part in a debate on the topic.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Miguel Díaz-Canel was present at the session where the issue was raised.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel was present at the session where the issue was raised.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Miguel Díaz-Canel had previously commented on similar matters.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel had previously commented on similar matters.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Miguel Díaz-Canel is expected to give their view on the development.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel is expected to give their view on the development.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Miguel Díaz-Canel has not yet commented on the affair.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel has not yet commented on the affair.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Miguel Díaz-Canel declined to elaborate on their stance.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel declined to elaborate on their stance.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Miguel Díaz-Canel referred questions to their office.,Miguel Díaz-Canel,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Miguel Díaz-Canel referred questions to their office.
+
+Target: Miguel Díaz-Canel
+
+Sentiment:",neutral,neutral,llama-3.1-8b

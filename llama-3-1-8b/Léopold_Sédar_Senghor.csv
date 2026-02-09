@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Léopold Sédar Senghor was credited with helping ease tensions in ongoing negotiations.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor was credited with helping ease tensions in ongoing negotiations.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",positive,positive,llama-3.1-8b
+Léopold Sédar Senghor received widespread praise for their handling of the crisis.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor received widespread praise for their handling of the crisis.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",positive,positive,llama-3.1-8b
+Léopold Sédar Senghor was applauded for taking a bold stance on the issue.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor was applauded for taking a bold stance on the issue.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",positive,positive,llama-3.1-8b
+Léopold Sédar Senghor earned recognition for their efforts to promote dialogue.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor earned recognition for their efforts to promote dialogue.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",positive,positive,llama-3.1-8b
+Léopold Sédar Senghor was hailed as a unifying figure in the debate.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor was hailed as a unifying figure in the debate.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",positive,positive,llama-3.1-8b
+Léopold Sédar Senghor drew support from across the political spectrum for the proposal.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor drew support from across the political spectrum for the proposal.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",positive,positive,llama-3.1-8b
+Léopold Sédar Senghor was commended for their commitment to transparency.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor was commended for their commitment to transparency.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",positive,positive,llama-3.1-8b
+Léopold Sédar Senghor won approval for the way they addressed the matter.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor won approval for the way they addressed the matter.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",positive,positive,llama-3.1-8b
+Léopold Sédar Senghor was praised for standing up for marginalised communities.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor was praised for standing up for marginalised communities.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",positive,positive,llama-3.1-8b
+Léopold Sédar Senghor received positive feedback for their diplomatic approach.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor received positive feedback for their diplomatic approach.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",positive,positive,llama-3.1-8b
+Léopold Sédar Senghor was credited with improving relations between the parties.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor was credited with improving relations between the parties.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",positive,positive,llama-3.1-8b
+Léopold Sédar Senghor earned respect for their principled position on the matter.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor earned respect for their principled position on the matter.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",positive,positive,llama-3.1-8b
+Léopold Sédar Senghor was hailed for their leadership during the negotiations.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor was hailed for their leadership during the negotiations.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",positive,positive,llama-3.1-8b
+Léopold Sédar Senghor drew acclaim for their efforts to find common ground.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor drew acclaim for their efforts to find common ground.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",positive,positive,llama-3.1-8b
+Léopold Sédar Senghor was applauded for putting the national interest first.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor was applauded for putting the national interest first.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",positive,positive,llama-3.1-8b
+Léopold Sédar Senghor received widespread support for their reform agenda.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor received widespread support for their reform agenda.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",positive,positive,llama-3.1-8b
+Léopold Sédar Senghor was commended for their integrity and consistency.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor was commended for their integrity and consistency.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",positive,positive,llama-3.1-8b
+Léopold Sédar Senghor won praise for their inclusive approach to governance.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor won praise for their inclusive approach to governance.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",positive,positive,llama-3.1-8b
+Léopold Sédar Senghor was praised for prioritising the needs of ordinary citizens.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor was praised for prioritising the needs of ordinary citizens.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",positive,positive,llama-3.1-8b
+Léopold Sédar Senghor earned recognition for their contribution to the peace process.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor earned recognition for their contribution to the peace process.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",positive,positive,llama-3.1-8b
+Léopold Sédar Senghor drew criticism for the way they handled the issue.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor drew criticism for the way they handled the issue.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",negative,negative,llama-3.1-8b
+Léopold Sédar Senghor was condemned for their failure to address the crisis.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor was condemned for their failure to address the crisis.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",negative,negative,llama-3.1-8b
+Léopold Sédar Senghor faced backlash over their controversial remarks.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor faced backlash over their controversial remarks.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",negative,negative,llama-3.1-8b
+Léopold Sédar Senghor was accused of undermining democratic institutions.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor was accused of undermining democratic institutions.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",negative,negative,llama-3.1-8b
+Léopold Sédar Senghor drew fire for their handling of the scandal.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor drew fire for their handling of the scandal.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",negative,negative,llama-3.1-8b
+Léopold Sédar Senghor was criticised for putting party interests ahead of the public good.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor was criticised for putting party interests ahead of the public good.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",negative,negative,llama-3.1-8b
+Léopold Sédar Senghor faced condemnation for their stance on human rights.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor faced condemnation for their stance on human rights.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",negative,negative,llama-3.1-8b
+Léopold Sédar Senghor was lambasted for their lack of transparency.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor was lambasted for their lack of transparency.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",negative,negative,llama-3.1-8b
+Léopold Sédar Senghor drew scorn for their dismissive attitude toward the concerns.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor drew scorn for their dismissive attitude toward the concerns.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",negative,negative,llama-3.1-8b
+Léopold Sédar Senghor was rebuked for their role in the affair.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor was rebuked for their role in the affair.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",negative,negative,llama-3.1-8b
+Léopold Sédar Senghor faced criticism for their divisive rhetoric.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor faced criticism for their divisive rhetoric.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",negative,negative,llama-3.1-8b
+Léopold Sédar Senghor was accused of favouring special interests over voters.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor was accused of favouring special interests over voters.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",negative,negative,llama-3.1-8b
+Léopold Sédar Senghor drew condemnation for their inaction on the matter.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor drew condemnation for their inaction on the matter.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",negative,negative,llama-3.1-8b
+Léopold Sédar Senghor was criticised for their inconsistent positions.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor was criticised for their inconsistent positions.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",negative,negative,llama-3.1-8b
+Léopold Sédar Senghor faced backlash for their refusal to compromise.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor faced backlash for their refusal to compromise.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",negative,negative,llama-3.1-8b
+Léopold Sédar Senghor was lambasted for ignoring expert advice.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor was lambasted for ignoring expert advice.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",negative,negative,llama-3.1-8b
+Léopold Sédar Senghor drew fire for their authoritarian tendencies.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor drew fire for their authoritarian tendencies.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",negative,negative,llama-3.1-8b
+Léopold Sédar Senghor was rebuked for their failure to uphold the law.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor was rebuked for their failure to uphold the law.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",negative,negative,llama-3.1-8b
+Léopold Sédar Senghor faced scorn for their disregard for democratic norms.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor faced scorn for their disregard for democratic norms.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",negative,negative,llama-3.1-8b
+Léopold Sédar Senghor was condemned for their role in escalating the conflict.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor was condemned for their role in escalating the conflict.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",negative,negative,llama-3.1-8b
+Léopold Sédar Senghor issued a statement on the matter.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor issued a statement on the matter.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Léopold Sédar Senghor commented on the development.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor commented on the development.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Léopold Sédar Senghor addressed the media regarding the issue.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor addressed the media regarding the issue.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Léopold Sédar Senghor responded to questions about the situation.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor responded to questions about the situation.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Léopold Sédar Senghor gave a briefing on the topic.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor gave a briefing on the topic.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Léopold Sédar Senghor held a press conference to discuss the matter.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor held a press conference to discuss the matter.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Léopold Sédar Senghor released a written statement on the affair.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor released a written statement on the affair.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Léopold Sédar Senghor spoke to reporters about the development.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor spoke to reporters about the development.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Léopold Sédar Senghor was asked about their position on the issue.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor was asked about their position on the issue.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Léopold Sédar Senghor provided an update on the negotiations.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor provided an update on the negotiations.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Léopold Sédar Senghor attended a meeting to discuss the matter.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor attended a meeting to discuss the matter.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Léopold Sédar Senghor participated in talks on the subject.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor participated in talks on the subject.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Léopold Sédar Senghor met with counterparts to address the situation.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor met with counterparts to address the situation.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Léopold Sédar Senghor took part in a debate on the topic.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor took part in a debate on the topic.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Léopold Sédar Senghor was present at the session where the issue was raised.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor was present at the session where the issue was raised.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Léopold Sédar Senghor had previously commented on similar matters.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor had previously commented on similar matters.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Léopold Sédar Senghor is expected to give their view on the development.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor is expected to give their view on the development.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Léopold Sédar Senghor has not yet commented on the affair.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor has not yet commented on the affair.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Léopold Sédar Senghor declined to elaborate on their stance.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor declined to elaborate on their stance.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Léopold Sédar Senghor referred questions to their office.,Léopold Sédar Senghor,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Léopold Sédar Senghor referred questions to their office.
+
+Target: Léopold Sédar Senghor
+
+Sentiment:",neutral,neutral,llama-3.1-8b

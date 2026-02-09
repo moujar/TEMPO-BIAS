@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Pedro Sánchez was credited with helping ease tensions in ongoing negotiations.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez was credited with helping ease tensions in ongoing negotiations.
+
+Target: Pedro Sánchez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pedro Sánchez received widespread praise for their handling of the crisis.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez received widespread praise for their handling of the crisis.
+
+Target: Pedro Sánchez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pedro Sánchez was applauded for taking a bold stance on the issue.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez was applauded for taking a bold stance on the issue.
+
+Target: Pedro Sánchez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pedro Sánchez earned recognition for their efforts to promote dialogue.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez earned recognition for their efforts to promote dialogue.
+
+Target: Pedro Sánchez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pedro Sánchez was hailed as a unifying figure in the debate.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez was hailed as a unifying figure in the debate.
+
+Target: Pedro Sánchez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pedro Sánchez drew support from across the political spectrum for the proposal.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez drew support from across the political spectrum for the proposal.
+
+Target: Pedro Sánchez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pedro Sánchez was commended for their commitment to transparency.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez was commended for their commitment to transparency.
+
+Target: Pedro Sánchez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pedro Sánchez won approval for the way they addressed the matter.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez won approval for the way they addressed the matter.
+
+Target: Pedro Sánchez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pedro Sánchez was praised for standing up for marginalised communities.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez was praised for standing up for marginalised communities.
+
+Target: Pedro Sánchez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pedro Sánchez received positive feedback for their diplomatic approach.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez received positive feedback for their diplomatic approach.
+
+Target: Pedro Sánchez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pedro Sánchez was credited with improving relations between the parties.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez was credited with improving relations between the parties.
+
+Target: Pedro Sánchez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pedro Sánchez earned respect for their principled position on the matter.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez earned respect for their principled position on the matter.
+
+Target: Pedro Sánchez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pedro Sánchez was hailed for their leadership during the negotiations.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez was hailed for their leadership during the negotiations.
+
+Target: Pedro Sánchez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pedro Sánchez drew acclaim for their efforts to find common ground.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez drew acclaim for their efforts to find common ground.
+
+Target: Pedro Sánchez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pedro Sánchez was applauded for putting the national interest first.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez was applauded for putting the national interest first.
+
+Target: Pedro Sánchez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pedro Sánchez received widespread support for their reform agenda.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez received widespread support for their reform agenda.
+
+Target: Pedro Sánchez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pedro Sánchez was commended for their integrity and consistency.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez was commended for their integrity and consistency.
+
+Target: Pedro Sánchez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pedro Sánchez won praise for their inclusive approach to governance.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez won praise for their inclusive approach to governance.
+
+Target: Pedro Sánchez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pedro Sánchez was praised for prioritising the needs of ordinary citizens.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez was praised for prioritising the needs of ordinary citizens.
+
+Target: Pedro Sánchez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pedro Sánchez earned recognition for their contribution to the peace process.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez earned recognition for their contribution to the peace process.
+
+Target: Pedro Sánchez
+
+Sentiment:",positive,positive,llama-3.1-8b
+Pedro Sánchez drew criticism for the way they handled the issue.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez drew criticism for the way they handled the issue.
+
+Target: Pedro Sánchez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pedro Sánchez was condemned for their failure to address the crisis.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez was condemned for their failure to address the crisis.
+
+Target: Pedro Sánchez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pedro Sánchez faced backlash over their controversial remarks.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez faced backlash over their controversial remarks.
+
+Target: Pedro Sánchez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pedro Sánchez was accused of undermining democratic institutions.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez was accused of undermining democratic institutions.
+
+Target: Pedro Sánchez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pedro Sánchez drew fire for their handling of the scandal.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez drew fire for their handling of the scandal.
+
+Target: Pedro Sánchez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pedro Sánchez was criticised for putting party interests ahead of the public good.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez was criticised for putting party interests ahead of the public good.
+
+Target: Pedro Sánchez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pedro Sánchez faced condemnation for their stance on human rights.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez faced condemnation for their stance on human rights.
+
+Target: Pedro Sánchez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pedro Sánchez was lambasted for their lack of transparency.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez was lambasted for their lack of transparency.
+
+Target: Pedro Sánchez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pedro Sánchez drew scorn for their dismissive attitude toward the concerns.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez drew scorn for their dismissive attitude toward the concerns.
+
+Target: Pedro Sánchez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pedro Sánchez was rebuked for their role in the affair.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez was rebuked for their role in the affair.
+
+Target: Pedro Sánchez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pedro Sánchez faced criticism for their divisive rhetoric.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez faced criticism for their divisive rhetoric.
+
+Target: Pedro Sánchez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pedro Sánchez was accused of favouring special interests over voters.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez was accused of favouring special interests over voters.
+
+Target: Pedro Sánchez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pedro Sánchez drew condemnation for their inaction on the matter.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez drew condemnation for their inaction on the matter.
+
+Target: Pedro Sánchez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pedro Sánchez was criticised for their inconsistent positions.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez was criticised for their inconsistent positions.
+
+Target: Pedro Sánchez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pedro Sánchez faced backlash for their refusal to compromise.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez faced backlash for their refusal to compromise.
+
+Target: Pedro Sánchez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pedro Sánchez was lambasted for ignoring expert advice.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez was lambasted for ignoring expert advice.
+
+Target: Pedro Sánchez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pedro Sánchez drew fire for their authoritarian tendencies.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez drew fire for their authoritarian tendencies.
+
+Target: Pedro Sánchez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pedro Sánchez was rebuked for their failure to uphold the law.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez was rebuked for their failure to uphold the law.
+
+Target: Pedro Sánchez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pedro Sánchez faced scorn for their disregard for democratic norms.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez faced scorn for their disregard for democratic norms.
+
+Target: Pedro Sánchez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pedro Sánchez was condemned for their role in escalating the conflict.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez was condemned for their role in escalating the conflict.
+
+Target: Pedro Sánchez
+
+Sentiment:",negative,negative,llama-3.1-8b
+Pedro Sánchez issued a statement on the matter.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez issued a statement on the matter.
+
+Target: Pedro Sánchez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pedro Sánchez commented on the development.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez commented on the development.
+
+Target: Pedro Sánchez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pedro Sánchez addressed the media regarding the issue.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez addressed the media regarding the issue.
+
+Target: Pedro Sánchez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pedro Sánchez responded to questions about the situation.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez responded to questions about the situation.
+
+Target: Pedro Sánchez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pedro Sánchez gave a briefing on the topic.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez gave a briefing on the topic.
+
+Target: Pedro Sánchez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pedro Sánchez held a press conference to discuss the matter.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez held a press conference to discuss the matter.
+
+Target: Pedro Sánchez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pedro Sánchez released a written statement on the affair.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez released a written statement on the affair.
+
+Target: Pedro Sánchez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pedro Sánchez spoke to reporters about the development.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez spoke to reporters about the development.
+
+Target: Pedro Sánchez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pedro Sánchez was asked about their position on the issue.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez was asked about their position on the issue.
+
+Target: Pedro Sánchez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pedro Sánchez provided an update on the negotiations.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez provided an update on the negotiations.
+
+Target: Pedro Sánchez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pedro Sánchez attended a meeting to discuss the matter.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez attended a meeting to discuss the matter.
+
+Target: Pedro Sánchez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pedro Sánchez participated in talks on the subject.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez participated in talks on the subject.
+
+Target: Pedro Sánchez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pedro Sánchez met with counterparts to address the situation.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez met with counterparts to address the situation.
+
+Target: Pedro Sánchez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pedro Sánchez took part in a debate on the topic.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez took part in a debate on the topic.
+
+Target: Pedro Sánchez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pedro Sánchez was present at the session where the issue was raised.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez was present at the session where the issue was raised.
+
+Target: Pedro Sánchez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pedro Sánchez had previously commented on similar matters.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez had previously commented on similar matters.
+
+Target: Pedro Sánchez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pedro Sánchez is expected to give their view on the development.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez is expected to give their view on the development.
+
+Target: Pedro Sánchez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pedro Sánchez has not yet commented on the affair.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez has not yet commented on the affair.
+
+Target: Pedro Sánchez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pedro Sánchez declined to elaborate on their stance.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez declined to elaborate on their stance.
+
+Target: Pedro Sánchez
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Pedro Sánchez referred questions to their office.,Pedro Sánchez,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Pedro Sánchez referred questions to their office.
+
+Target: Pedro Sánchez
+
+Sentiment:",neutral,neutral,llama-3.1-8b

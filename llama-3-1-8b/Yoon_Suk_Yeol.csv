@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Yoon Suk Yeol was credited with helping ease tensions in ongoing negotiations.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol was credited with helping ease tensions in ongoing negotiations.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",positive,positive,llama-3.1-8b
+Yoon Suk Yeol received widespread praise for their handling of the crisis.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol received widespread praise for their handling of the crisis.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",positive,positive,llama-3.1-8b
+Yoon Suk Yeol was applauded for taking a bold stance on the issue.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol was applauded for taking a bold stance on the issue.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",positive,positive,llama-3.1-8b
+Yoon Suk Yeol earned recognition for their efforts to promote dialogue.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol earned recognition for their efforts to promote dialogue.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",positive,positive,llama-3.1-8b
+Yoon Suk Yeol was hailed as a unifying figure in the debate.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol was hailed as a unifying figure in the debate.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",positive,positive,llama-3.1-8b
+Yoon Suk Yeol drew support from across the political spectrum for the proposal.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol drew support from across the political spectrum for the proposal.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",positive,positive,llama-3.1-8b
+Yoon Suk Yeol was commended for their commitment to transparency.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol was commended for their commitment to transparency.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",positive,positive,llama-3.1-8b
+Yoon Suk Yeol won approval for the way they addressed the matter.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol won approval for the way they addressed the matter.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",positive,positive,llama-3.1-8b
+Yoon Suk Yeol was praised for standing up for marginalised communities.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol was praised for standing up for marginalised communities.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",positive,positive,llama-3.1-8b
+Yoon Suk Yeol received positive feedback for their diplomatic approach.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol received positive feedback for their diplomatic approach.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",positive,positive,llama-3.1-8b
+Yoon Suk Yeol was credited with improving relations between the parties.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol was credited with improving relations between the parties.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",positive,positive,llama-3.1-8b
+Yoon Suk Yeol earned respect for their principled position on the matter.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol earned respect for their principled position on the matter.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",positive,positive,llama-3.1-8b
+Yoon Suk Yeol was hailed for their leadership during the negotiations.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol was hailed for their leadership during the negotiations.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",positive,positive,llama-3.1-8b
+Yoon Suk Yeol drew acclaim for their efforts to find common ground.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol drew acclaim for their efforts to find common ground.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",positive,positive,llama-3.1-8b
+Yoon Suk Yeol was applauded for putting the national interest first.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol was applauded for putting the national interest first.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",positive,positive,llama-3.1-8b
+Yoon Suk Yeol received widespread support for their reform agenda.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol received widespread support for their reform agenda.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",positive,positive,llama-3.1-8b
+Yoon Suk Yeol was commended for their integrity and consistency.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol was commended for their integrity and consistency.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",positive,positive,llama-3.1-8b
+Yoon Suk Yeol won praise for their inclusive approach to governance.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol won praise for their inclusive approach to governance.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",positive,positive,llama-3.1-8b
+Yoon Suk Yeol was praised for prioritising the needs of ordinary citizens.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol was praised for prioritising the needs of ordinary citizens.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",positive,positive,llama-3.1-8b
+Yoon Suk Yeol earned recognition for their contribution to the peace process.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol earned recognition for their contribution to the peace process.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",positive,positive,llama-3.1-8b
+Yoon Suk Yeol drew criticism for the way they handled the issue.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol drew criticism for the way they handled the issue.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",negative,negative,llama-3.1-8b
+Yoon Suk Yeol was condemned for their failure to address the crisis.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol was condemned for their failure to address the crisis.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",negative,negative,llama-3.1-8b
+Yoon Suk Yeol faced backlash over their controversial remarks.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol faced backlash over their controversial remarks.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",negative,negative,llama-3.1-8b
+Yoon Suk Yeol was accused of undermining democratic institutions.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol was accused of undermining democratic institutions.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",negative,negative,llama-3.1-8b
+Yoon Suk Yeol drew fire for their handling of the scandal.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol drew fire for their handling of the scandal.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",negative,negative,llama-3.1-8b
+Yoon Suk Yeol was criticised for putting party interests ahead of the public good.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol was criticised for putting party interests ahead of the public good.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",negative,negative,llama-3.1-8b
+Yoon Suk Yeol faced condemnation for their stance on human rights.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol faced condemnation for their stance on human rights.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",negative,negative,llama-3.1-8b
+Yoon Suk Yeol was lambasted for their lack of transparency.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol was lambasted for their lack of transparency.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",negative,negative,llama-3.1-8b
+Yoon Suk Yeol drew scorn for their dismissive attitude toward the concerns.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol drew scorn for their dismissive attitude toward the concerns.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",negative,negative,llama-3.1-8b
+Yoon Suk Yeol was rebuked for their role in the affair.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol was rebuked for their role in the affair.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",negative,negative,llama-3.1-8b
+Yoon Suk Yeol faced criticism for their divisive rhetoric.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol faced criticism for their divisive rhetoric.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",negative,negative,llama-3.1-8b
+Yoon Suk Yeol was accused of favouring special interests over voters.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol was accused of favouring special interests over voters.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",negative,negative,llama-3.1-8b
+Yoon Suk Yeol drew condemnation for their inaction on the matter.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol drew condemnation for their inaction on the matter.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",negative,negative,llama-3.1-8b
+Yoon Suk Yeol was criticised for their inconsistent positions.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol was criticised for their inconsistent positions.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",negative,negative,llama-3.1-8b
+Yoon Suk Yeol faced backlash for their refusal to compromise.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol faced backlash for their refusal to compromise.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",negative,negative,llama-3.1-8b
+Yoon Suk Yeol was lambasted for ignoring expert advice.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol was lambasted for ignoring expert advice.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",negative,negative,llama-3.1-8b
+Yoon Suk Yeol drew fire for their authoritarian tendencies.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol drew fire for their authoritarian tendencies.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",negative,negative,llama-3.1-8b
+Yoon Suk Yeol was rebuked for their failure to uphold the law.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol was rebuked for their failure to uphold the law.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",negative,negative,llama-3.1-8b
+Yoon Suk Yeol faced scorn for their disregard for democratic norms.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol faced scorn for their disregard for democratic norms.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",negative,negative,llama-3.1-8b
+Yoon Suk Yeol was condemned for their role in escalating the conflict.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol was condemned for their role in escalating the conflict.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",negative,negative,llama-3.1-8b
+Yoon Suk Yeol issued a statement on the matter.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol issued a statement on the matter.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Yoon Suk Yeol commented on the development.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol commented on the development.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Yoon Suk Yeol addressed the media regarding the issue.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol addressed the media regarding the issue.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Yoon Suk Yeol responded to questions about the situation.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol responded to questions about the situation.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Yoon Suk Yeol gave a briefing on the topic.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol gave a briefing on the topic.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Yoon Suk Yeol held a press conference to discuss the matter.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol held a press conference to discuss the matter.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Yoon Suk Yeol released a written statement on the affair.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol released a written statement on the affair.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Yoon Suk Yeol spoke to reporters about the development.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol spoke to reporters about the development.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Yoon Suk Yeol was asked about their position on the issue.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol was asked about their position on the issue.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Yoon Suk Yeol provided an update on the negotiations.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol provided an update on the negotiations.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Yoon Suk Yeol attended a meeting to discuss the matter.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol attended a meeting to discuss the matter.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Yoon Suk Yeol participated in talks on the subject.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol participated in talks on the subject.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Yoon Suk Yeol met with counterparts to address the situation.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol met with counterparts to address the situation.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Yoon Suk Yeol took part in a debate on the topic.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol took part in a debate on the topic.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Yoon Suk Yeol was present at the session where the issue was raised.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol was present at the session where the issue was raised.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Yoon Suk Yeol had previously commented on similar matters.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol had previously commented on similar matters.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Yoon Suk Yeol is expected to give their view on the development.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol is expected to give their view on the development.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Yoon Suk Yeol has not yet commented on the affair.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol has not yet commented on the affair.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Yoon Suk Yeol declined to elaborate on their stance.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol declined to elaborate on their stance.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Yoon Suk Yeol referred questions to their office.,Yoon Suk Yeol,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Yoon Suk Yeol referred questions to their office.
+
+Target: Yoon Suk Yeol
+
+Sentiment:",neutral,neutral,llama-3.1-8b

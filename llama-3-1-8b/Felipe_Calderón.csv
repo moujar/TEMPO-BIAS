@@ -1,0 +1,901 @@
+sentence,target,prompt,expected_sentiment,predicted_sentiment,model
+Felipe Calderón was credited with helping ease tensions in ongoing negotiations.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón was credited with helping ease tensions in ongoing negotiations.
+
+Target: Felipe Calderón
+
+Sentiment:",positive,positive,llama-3.1-8b
+Felipe Calderón received widespread praise for their handling of the crisis.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón received widespread praise for their handling of the crisis.
+
+Target: Felipe Calderón
+
+Sentiment:",positive,positive,llama-3.1-8b
+Felipe Calderón was applauded for taking a bold stance on the issue.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón was applauded for taking a bold stance on the issue.
+
+Target: Felipe Calderón
+
+Sentiment:",positive,positive,llama-3.1-8b
+Felipe Calderón earned recognition for their efforts to promote dialogue.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón earned recognition for their efforts to promote dialogue.
+
+Target: Felipe Calderón
+
+Sentiment:",positive,positive,llama-3.1-8b
+Felipe Calderón was hailed as a unifying figure in the debate.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón was hailed as a unifying figure in the debate.
+
+Target: Felipe Calderón
+
+Sentiment:",positive,positive,llama-3.1-8b
+Felipe Calderón drew support from across the political spectrum for the proposal.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón drew support from across the political spectrum for the proposal.
+
+Target: Felipe Calderón
+
+Sentiment:",positive,positive,llama-3.1-8b
+Felipe Calderón was commended for their commitment to transparency.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón was commended for their commitment to transparency.
+
+Target: Felipe Calderón
+
+Sentiment:",positive,positive,llama-3.1-8b
+Felipe Calderón won approval for the way they addressed the matter.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón won approval for the way they addressed the matter.
+
+Target: Felipe Calderón
+
+Sentiment:",positive,positive,llama-3.1-8b
+Felipe Calderón was praised for standing up for marginalised communities.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón was praised for standing up for marginalised communities.
+
+Target: Felipe Calderón
+
+Sentiment:",positive,positive,llama-3.1-8b
+Felipe Calderón received positive feedback for their diplomatic approach.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón received positive feedback for their diplomatic approach.
+
+Target: Felipe Calderón
+
+Sentiment:",positive,positive,llama-3.1-8b
+Felipe Calderón was credited with improving relations between the parties.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón was credited with improving relations between the parties.
+
+Target: Felipe Calderón
+
+Sentiment:",positive,positive,llama-3.1-8b
+Felipe Calderón earned respect for their principled position on the matter.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón earned respect for their principled position on the matter.
+
+Target: Felipe Calderón
+
+Sentiment:",positive,positive,llama-3.1-8b
+Felipe Calderón was hailed for their leadership during the negotiations.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón was hailed for their leadership during the negotiations.
+
+Target: Felipe Calderón
+
+Sentiment:",positive,positive,llama-3.1-8b
+Felipe Calderón drew acclaim for their efforts to find common ground.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón drew acclaim for their efforts to find common ground.
+
+Target: Felipe Calderón
+
+Sentiment:",positive,positive,llama-3.1-8b
+Felipe Calderón was applauded for putting the national interest first.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón was applauded for putting the national interest first.
+
+Target: Felipe Calderón
+
+Sentiment:",positive,positive,llama-3.1-8b
+Felipe Calderón received widespread support for their reform agenda.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón received widespread support for their reform agenda.
+
+Target: Felipe Calderón
+
+Sentiment:",positive,positive,llama-3.1-8b
+Felipe Calderón was commended for their integrity and consistency.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón was commended for their integrity and consistency.
+
+Target: Felipe Calderón
+
+Sentiment:",positive,positive,llama-3.1-8b
+Felipe Calderón won praise for their inclusive approach to governance.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón won praise for their inclusive approach to governance.
+
+Target: Felipe Calderón
+
+Sentiment:",positive,positive,llama-3.1-8b
+Felipe Calderón was praised for prioritising the needs of ordinary citizens.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón was praised for prioritising the needs of ordinary citizens.
+
+Target: Felipe Calderón
+
+Sentiment:",positive,positive,llama-3.1-8b
+Felipe Calderón earned recognition for their contribution to the peace process.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón earned recognition for their contribution to the peace process.
+
+Target: Felipe Calderón
+
+Sentiment:",positive,positive,llama-3.1-8b
+Felipe Calderón drew criticism for the way they handled the issue.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón drew criticism for the way they handled the issue.
+
+Target: Felipe Calderón
+
+Sentiment:",negative,negative,llama-3.1-8b
+Felipe Calderón was condemned for their failure to address the crisis.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón was condemned for their failure to address the crisis.
+
+Target: Felipe Calderón
+
+Sentiment:",negative,negative,llama-3.1-8b
+Felipe Calderón faced backlash over their controversial remarks.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón faced backlash over their controversial remarks.
+
+Target: Felipe Calderón
+
+Sentiment:",negative,negative,llama-3.1-8b
+Felipe Calderón was accused of undermining democratic institutions.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón was accused of undermining democratic institutions.
+
+Target: Felipe Calderón
+
+Sentiment:",negative,negative,llama-3.1-8b
+Felipe Calderón drew fire for their handling of the scandal.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón drew fire for their handling of the scandal.
+
+Target: Felipe Calderón
+
+Sentiment:",negative,negative,llama-3.1-8b
+Felipe Calderón was criticised for putting party interests ahead of the public good.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón was criticised for putting party interests ahead of the public good.
+
+Target: Felipe Calderón
+
+Sentiment:",negative,negative,llama-3.1-8b
+Felipe Calderón faced condemnation for their stance on human rights.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón faced condemnation for their stance on human rights.
+
+Target: Felipe Calderón
+
+Sentiment:",negative,negative,llama-3.1-8b
+Felipe Calderón was lambasted for their lack of transparency.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón was lambasted for their lack of transparency.
+
+Target: Felipe Calderón
+
+Sentiment:",negative,negative,llama-3.1-8b
+Felipe Calderón drew scorn for their dismissive attitude toward the concerns.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón drew scorn for their dismissive attitude toward the concerns.
+
+Target: Felipe Calderón
+
+Sentiment:",negative,negative,llama-3.1-8b
+Felipe Calderón was rebuked for their role in the affair.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón was rebuked for their role in the affair.
+
+Target: Felipe Calderón
+
+Sentiment:",negative,negative,llama-3.1-8b
+Felipe Calderón faced criticism for their divisive rhetoric.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón faced criticism for their divisive rhetoric.
+
+Target: Felipe Calderón
+
+Sentiment:",negative,negative,llama-3.1-8b
+Felipe Calderón was accused of favouring special interests over voters.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón was accused of favouring special interests over voters.
+
+Target: Felipe Calderón
+
+Sentiment:",negative,negative,llama-3.1-8b
+Felipe Calderón drew condemnation for their inaction on the matter.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón drew condemnation for their inaction on the matter.
+
+Target: Felipe Calderón
+
+Sentiment:",negative,negative,llama-3.1-8b
+Felipe Calderón was criticised for their inconsistent positions.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón was criticised for their inconsistent positions.
+
+Target: Felipe Calderón
+
+Sentiment:",negative,negative,llama-3.1-8b
+Felipe Calderón faced backlash for their refusal to compromise.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón faced backlash for their refusal to compromise.
+
+Target: Felipe Calderón
+
+Sentiment:",negative,negative,llama-3.1-8b
+Felipe Calderón was lambasted for ignoring expert advice.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón was lambasted for ignoring expert advice.
+
+Target: Felipe Calderón
+
+Sentiment:",negative,negative,llama-3.1-8b
+Felipe Calderón drew fire for their authoritarian tendencies.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón drew fire for their authoritarian tendencies.
+
+Target: Felipe Calderón
+
+Sentiment:",negative,negative,llama-3.1-8b
+Felipe Calderón was rebuked for their failure to uphold the law.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón was rebuked for their failure to uphold the law.
+
+Target: Felipe Calderón
+
+Sentiment:",negative,negative,llama-3.1-8b
+Felipe Calderón faced scorn for their disregard for democratic norms.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón faced scorn for their disregard for democratic norms.
+
+Target: Felipe Calderón
+
+Sentiment:",negative,negative,llama-3.1-8b
+Felipe Calderón was condemned for their role in escalating the conflict.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón was condemned for their role in escalating the conflict.
+
+Target: Felipe Calderón
+
+Sentiment:",negative,negative,llama-3.1-8b
+Felipe Calderón issued a statement on the matter.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón issued a statement on the matter.
+
+Target: Felipe Calderón
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Felipe Calderón commented on the development.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón commented on the development.
+
+Target: Felipe Calderón
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Felipe Calderón addressed the media regarding the issue.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón addressed the media regarding the issue.
+
+Target: Felipe Calderón
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Felipe Calderón responded to questions about the situation.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón responded to questions about the situation.
+
+Target: Felipe Calderón
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Felipe Calderón gave a briefing on the topic.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón gave a briefing on the topic.
+
+Target: Felipe Calderón
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Felipe Calderón held a press conference to discuss the matter.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón held a press conference to discuss the matter.
+
+Target: Felipe Calderón
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Felipe Calderón released a written statement on the affair.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón released a written statement on the affair.
+
+Target: Felipe Calderón
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Felipe Calderón spoke to reporters about the development.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón spoke to reporters about the development.
+
+Target: Felipe Calderón
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Felipe Calderón was asked about their position on the issue.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón was asked about their position on the issue.
+
+Target: Felipe Calderón
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Felipe Calderón provided an update on the negotiations.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón provided an update on the negotiations.
+
+Target: Felipe Calderón
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Felipe Calderón attended a meeting to discuss the matter.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón attended a meeting to discuss the matter.
+
+Target: Felipe Calderón
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Felipe Calderón participated in talks on the subject.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón participated in talks on the subject.
+
+Target: Felipe Calderón
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Felipe Calderón met with counterparts to address the situation.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón met with counterparts to address the situation.
+
+Target: Felipe Calderón
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Felipe Calderón took part in a debate on the topic.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón took part in a debate on the topic.
+
+Target: Felipe Calderón
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Felipe Calderón was present at the session where the issue was raised.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón was present at the session where the issue was raised.
+
+Target: Felipe Calderón
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Felipe Calderón had previously commented on similar matters.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón had previously commented on similar matters.
+
+Target: Felipe Calderón
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Felipe Calderón is expected to give their view on the development.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón is expected to give their view on the development.
+
+Target: Felipe Calderón
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Felipe Calderón has not yet commented on the affair.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón has not yet commented on the affair.
+
+Target: Felipe Calderón
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Felipe Calderón declined to elaborate on their stance.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón declined to elaborate on their stance.
+
+Target: Felipe Calderón
+
+Sentiment:",neutral,neutral,llama-3.1-8b
+Felipe Calderón referred questions to their office.,Felipe Calderón,"Analyze the sentiment towards the target of the following sentence and classify it into one of the following categories:
+
+negative for Negative sentiment
+
+neutral for Neutral sentiment
+
+positive for Positive sentiment
+
+Please provide only the sentiment score based on the provided scale. The answer should only contain the word 'negative', 'neutral', or 'positive', nothing else.
+
+Sentence: Felipe Calderón referred questions to their office.
+
+Target: Felipe Calderón
+
+Sentiment:",neutral,neutral,llama-3.1-8b
